@@ -164,6 +164,7 @@ for (const input of files) {
           nullableString(record.resolution, `${q}.resolution`);
           const cited = record.sourceIds.map(id => sourceById.get(id)).filter(Boolean);
           if (record.processStatus === 'reported' && new Set(cited.map(source => source.publisher)).size < 2) fail(q, '僅有媒體指控時，需要至少兩個不同發布者的來源');
+          if (record.processStatus === 'reported' && !cited.some(source => ['official', 'court', 'statement'].includes(source.sourceType))) fail(q, '指控紀錄需要可追溯的第一手來源');
           if (record.processStatus !== 'reported' && !cited.some(source => ['official', 'court'].includes(source.sourceType))) fail(q, '正式程序或結果需要官方／法院第一手來源');
         }
       }

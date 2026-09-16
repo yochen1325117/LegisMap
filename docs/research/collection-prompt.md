@@ -36,7 +36,7 @@
 
 模式為 `建立名單`：輸出單一有效的 UTF-8 JSON，結構依名單模板，`documentType` 為 `roster`。列出官方現任與離職名單的每位姓名、官方個人頁 URL 與從 URL 取得的穩定 ID；核對兩組的實際人數、重複、遞補、辭職或罷免造成的變動。後續每批取名單中 5–10 人。不要把 2024 年最初的 113 位當選名單當作今日在職名單。
 
-模式為 `蒐集人物批次`：只研究指定人員，逐人查證。輸出**單一、有效的 UTF-8 JSON**，結構完全依附上的批次模板；不含 Markdown code fence、註解、額外說明。`documentType` 為 `batch`，`schemaVersion` 為 `1.0.0`，`reviewStatus` 一律 `pending`。先完成可靠的基本資料，再收錄有充分來源的行為與爭議；沒有可查證事件時保留空陣列。每個來源只建一次，使用 `sourceIds` 引用。最後自行檢查 JSON 格式、來源 ID、日期、身分與重複事件，並填 `researchNotes` 說明無法確認的事項。
+模式為 `蒐集人物批次`：只研究指定人員，逐人查證。輸出**單一、有效的 UTF-8 JSON**，結構完全依附上的批次模板；不含 Markdown code fence、註解、額外說明。`documentType` 為 `batch`，`schemaVersion` 為 `1.0.0`，`reviewStatus` 一律 `pending`。先完成可靠的基本資料，再收錄有充分來源的行為與爭議；沒有可查證事件時，刪除模板中的示範事件並將陣列設為 `[]`。每個來源只建一次，使用 `sourceIds` 引用；刪除未使用的模板來源。最後自行檢查 JSON 格式、來源 ID、日期、身分與重複事件，並填 `researchNotes` 說明無法確認的事項。
 
 ---
 
