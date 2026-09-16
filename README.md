@@ -21,6 +21,10 @@ Taiwan-Atlas 目前透過固定的 [v0.2.0 GitHub Release tarball](https://githu
 
 路由以網址為選取狀態：`/`、`/region/:id`、`/district/:id`、`/legislator/:id`。在 GitHub Pages 中，前面加上 `/LegisMap`。重新整理、瀏覽器上一頁／下一頁與分享連結可還原選取狀態。Pages 的 `404.html` 複製了入口頁，故深層網址可載入 SPA；首次請求的 HTTP 狀態仍可能是 404。
 
+## 蒐集真實資料
+
+準備使用 ChatGPT 研究委員資料時，請依照 [資料蒐集 Prompt](docs/research/collection-prompt.md)，先用[名單模板](data/templates/roster.template.json)核對全體名單，再用[人物批次模板](data/templates/research-batch.template.json)分批查找，並參照 [資料格式與審核規則](docs/research/data-format.md)。將結果放進 `data/research/`，執行 `npm run data:validate -- data/research/檔名.json` 檢查結構。檢查不會驗證事實真偽；真人資料仍需人工核對後另行接入網站。
+
 ## 專案結構
 
 - `apps/web`：React、TypeScript、Vite 畫面與靜態 mock 資料。

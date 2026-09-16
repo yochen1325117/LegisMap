@@ -1,0 +1,105 @@
+{
+  "documentType": "batch",
+  "schemaVersion": "1.0.0",
+  "term": 11,
+  "asOfDate": "YYYY-MM-DD",
+  "batchId": "ly11-001",
+  "rosterSourceId": "source-roster",
+  "reviewStatus": "pending",
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "researchNotes": [],
+  "sources": [
+    {
+      "id": "source-roster",
+      "title": "第11屆 立法委員名單",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "YYYY-MM-DD",
+      "evidenceLocator": "本屆立委／離職立法委員名單"
+    },
+    {
+      "id": "source-profile-REPLACE",
+      "title": "請填委員個人頁標題",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=REPLACE",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "YYYY-MM-DD",
+      "evidenceLocator": "個人頁基本資料"
+    },
+    {
+      "id": "source-action-REPLACE",
+      "title": "請填原始提案、議事或公報標題",
+      "publisher": "立法院",
+      "url": "https://REPLACE_WITH_DIRECT_RECORD_URL",
+      "sourceType": "official",
+      "publishedAt": "YYYY-MM-DD",
+      "accessedAt": "YYYY-MM-DD",
+      "evidenceLocator": "請填案號、頁碼、會議或段落"
+    },
+    {
+      "id": "source-concern-REPLACE",
+      "title": "請填原始紀錄或正式文書標題",
+      "publisher": "請填發布機關",
+      "url": "https://REPLACE_WITH_DIRECT_RECORD_URL",
+      "sourceType": "official",
+      "publishedAt": "YYYY-MM-DD",
+      "accessedAt": "YYYY-MM-DD",
+      "evidenceLocator": "請填案號、頁碼或段落"
+    }
+  ],
+  "members": [
+    {
+      "id": "ly11-REPLACE_WITH_OFFICIAL_PROFILE_NODEID",
+      "name": "請填官方姓名",
+      "officialProfileUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=REPLACE",
+      "mandateStatus": "active",
+      "seatType": "district",
+      "districtLabel": "請填官方選區名稱",
+      "electoralDistrictId": null,
+      "regionNodeIds": [],
+      "party": null,
+      "serviceStart": null,
+      "serviceEnd": null,
+      "education": [],
+      "experience": [],
+      "committees": [],
+      "fieldSourceIds": {
+        "name": ["source-roster"],
+        "mandateStatus": ["source-roster"],
+        "seatType": ["source-profile-REPLACE"],
+        "districtLabel": ["source-profile-REPLACE"]
+      },
+      "actions": [
+        {
+          "id": "action-REPLACE",
+          "kind": "proposal",
+          "occurredAt": "YYYY-MM-DD",
+          "title": "請填可直接查證的行為",
+          "summary": "請填中性、具體的事實描述",
+          "role": "請填主提案、連署、發言或其他角色",
+          "outcome": null,
+          "sourceIds": ["source-action-REPLACE"],
+          "evidenceLocator": "請填案號、頁碼或段落"
+        }
+      ],
+      "concerns": [
+        {
+          "id": "concern-REPLACE",
+          "occurredAt": "YYYY-MM-DD",
+          "title": "請填中性、歸屬清楚的事件標題",
+          "summary": "請區分指控、調查、起訴、判決與確定結果",
+          "processStatus": "investigation",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": ["source-concern-REPLACE"],
+          "evidenceLocator": "請填案號、頁碼或段落"
+        }
+      ],
+      "researchNotes": []
+    }
+  ]
+}

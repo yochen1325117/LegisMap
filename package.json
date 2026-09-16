@@ -11,6 +11,7 @@
     "preview": "npm run preview -w @legismap/web",
     "typecheck": "npm run typecheck -w @legismap/web",
     "test": "npm run test -w @legismap/web",
-    "test:browser": "npm run test:browser -w @legismap/web"
+    "test:browser": "npm run test:browser -w @legismap/web",
+    "data:validate": "node scripts/validate-research.mjs"
   }
 }

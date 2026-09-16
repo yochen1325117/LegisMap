@@ -1,0 +1,21 @@
+{
+  "documentType": "roster",
+  "schemaVersion": "1.0.0",
+  "term": 11,
+  "asOfDate": "YYYY-MM-DD",
+  "source": {
+    "title": "第11屆 立法委員名單",
+    "publisher": "立法院",
+    "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
+    "accessedAt": "YYYY-MM-DD"
+  },
+  "active": [
+    {
+      "id": "ly11-REPLACE_WITH_OFFICIAL_PROFILE_NODEID",
+      "name": "請填官方姓名",
+      "officialProfileUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=REPLACE"
+    }
+  ],
+  "former": [],
+  "researchNotes": []
+}
