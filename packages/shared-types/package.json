@@ -1,0 +1,8 @@
+{
+  "name": "@legismap/shared-types",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": { ".": "./src/index.ts" },
+  "dependencies": { "@types/geojson": "7946.0.16" }
+}

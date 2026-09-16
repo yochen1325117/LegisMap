@@ -1,0 +1,8 @@
+{
+  "name": "@legismap/electoral-map",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": { ".": "./src/index.ts" },
+  "dependencies": { "@legismap/shared-types": "0.1.0" }
+}

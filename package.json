@@ -1,0 +1,16 @@
+{
+  "name": "legismap",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "npm run dev -w @legismap/web",
+    "build": "npm run build -w @legismap/web",
+    "preview": "npm run preview -w @legismap/web",
+    "typecheck": "npm run typecheck -w @legismap/web",
+    "test": "npm run test -w @legismap/web",
+    "test:browser": "npm run test:browser -w @legismap/web"
+  }
+}
