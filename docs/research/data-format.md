@@ -1,21 +1,11 @@
-# LegisMap 研究資料格式 1.0.0
+# 第 11 屆立委 2026 年快照
 
-先依 `roster.template.json` 建立官方名單，再以 `research-batch.template.json` 分批蒐集人物，每批建議 5–10 位。JSON 使用 UTF-8、ISO `YYYY-MM-DD` 日期與直接來源 URL。批次保留 `reviewStatus: "pending"`，直到人工逐筆核對後才改為 `approved`，並填 `reviewedBy` 和 `reviewedAt`。執行 `npm run data:validate -- data/research` 可檢查資料夾內所有 JSON 的格式、ID、來源引用、現任委員覆蓋率及跨批重複。此檢查**不能證明內容真實**。
+`data/research/ly11-2026.json` 是網站使用的靜態快照，基準日為 2026-09-17。範圍是 2026-01-01 至基準日曾在職的委員。當日立法院名單有 113 位現任、10 位離職；其中 7 位離職日期落在 2026 年，因此公開人物共 120 位。2026 年前離職的 3 位保留在 `roster.former` 與原始擷取，但不在 `members`。
 
-## 名單與地理
+`profile-capture.json` 是逐頁打開立法院官方個人頁後取得的姓名、個人頁 URL、選區、到職日及離職生效日。民國年在建立快照時轉為 ISO 日期。`build-2026-data.mjs` 會從擷取檔產生快照；更新官方資料時，必須重新核對每個頁面、修改擷取檔、調整基準日，再執行產生程式。不可只更改日期沿用舊名單。
 
-`members[].id` 由「屆別 + 官方個人頁 nodeid」組成，例如 `ly11-46752`；不得由姓名推測。`mandateStatus` 為 `active` 或 `former`，以 `asOfDate` 的立法院名單判定。`seatType` 為 `district`、`plains_indigenous`、`mountain_indigenous`、`party_list`。`districtLabel` 是官方文字，`electoralDistrictId` 是 LegisMap 選區圖層的 ID，缺少可靠對照時填 `null`。`regionNodeIds` 只放已核對的 Taiwan-Atlas 行政區 ID。原住民及不分區席次不得虛構縣市 polygon。
+快照使用官方個人頁 `nodeid` 作為人物 ID（例如 `ly11-46752`）。`roster` 保留名單頁的現任與離職完整分組。`members` 僅保留本次 2026 年範圍，包含官方選區文字、席次類型、縣市分類、任職狀態及到離職日期。縣市分類只由區域選區文字推得，不能當作選區邊界。不分區與原住民席次的 `regionName` 必須是 `null`。
 
-`fieldSourceIds` 對應基本欄位的來源 ID，例如 `party`、`education`、`committees`。若欄位缺少可靠來源，欄位填 `null` 或空陣列，並在 `researchNotes` 說明。
+每位人物的 `fieldSourceIds` 指向同檔 `sources`。姓名同時引用立法院名單及個人頁；選區、到職與離職日期引用個人頁；任職狀態引用名單及個人頁。來源保存標題、發布者、直接 URL、查閱日期及頁面位置。網站在對應欄位旁顯示來源連結。
 
-## 可核對的行為與爭議
-
-`actions` 表示提案、連署、發言、表決等**具體行為**。`kind` 使用 `proposal`、`co_sign`、`speech`、`vote`、`public_service`、`other`。`role` 必須寫明本人角色；`outcome` 只在另有正式紀錄時填入。不得由參與推論成效。
-
-`concerns` 表示需要交代程序和歸屬的公開爭議或法律紀錄。`processStatus` 使用 `reported`、`investigation`、`indictment`、`trial`、`judgment_nonfinal`、`judgment_final`、`dismissed`、`acquitted`、`corrected`、`resolved`。`summary` 用中性文字敘述「哪個機關／媒體於何時說了什麼」，不可將指控寫成已證明的事實。`personResponse` 記當事人公開回應，`resolution` 記後續結果；查無可靠紀錄時填 `null`，不要自行解讀。
-
-每筆事件的 `sourceIds` 需引用同檔 `sources`。`evidenceLocator` 提供案號、頁碼、會議或段落。`sources[].sourceType` 為 `official`、`court`、`news`、`statement`、`other`。來源 URL 應指向具體紀錄，不是網站首頁。`accessedAt` 是實際查閱日期；無法確認發布日期時 `publishedAt` 填 `null`。同一事件有後續更正時，應更新原事件、附新來源並保留修訂紀錄。
-
-## 與目前網站的關係
-
-目前 `apps/web/src/data/mock.ts` 是虛構展示，`packages/shared-types` 的 mock 型別也明示 `mock: true`。研究 JSON 存在 `data/research/`，**不會自動顯示於 Pages**。正式接入前，需建立經審核的匯入程序、來源卡和法律程序狀態顯示，並移除 mock 專用標示；不要直接複製 JSON 到 mock 檔。
+執行 `npm run data:validate` 檢查名單覆蓋、日期、ID、重複、欄位內容與來源引用。檢查不能證明官網內容正確，也不能取代更新時的逐頁人工查核。舊版研究批次模板及驗證器保留供未來擴充事件資料使用，可透過 `npm run data:validate:legacy -- <file>` 執行。

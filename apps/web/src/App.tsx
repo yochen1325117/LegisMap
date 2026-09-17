@@ -1,191 +1,102 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useMatch, useNavigate } from 'react-router-dom';
 import { TaiwanDrilldownMap } from 'taiwan-atlas/react';
 import type { RegionMeta, TaiwanMapInstance, TaiwanMapError } from 'taiwan-atlas';
-import type { ElectoralDistrict, Legislator, LegislatorEvent } from '@legismap/shared-types';
-import { districtsForRegion, legislatorsForDistricts } from '@legismap/electoral-map';
-import { mockDistricts, mockEvents, mockLegislators } from './data/mock.ts';
+import { dataAsOfDate, fieldSources, members, membersForRegion, rosterSource, type MemberRecord, type SourceRecord } from './data/legislators.ts';
 
-const overlays = mockDistricts.map(district => ({ id: district.id, geometry: district.geometry, fillColor: '#1c857a', lineColor: '#126d64' }));
-const categoryLabels: Record<LegislatorEvent['category'], string> = {
-  legislation: '提案', speech: '質詢', vote: '表決', policy: '政策', controversy: '事件', legal: '司法紀錄', other: '其他',
-};
+const specialSeats = [
+  ['party_list', '全國不分區及僑居國外國民'],
+  ['plains_indigenous', '平地原住民選舉區'],
+  ['mountain_indigenous', '山地原住民選舉區'],
+] as const;
+
+function SourceLinks({ items, label }: { items: SourceRecord[]; label: string }) {
+  return <span className="field-sources">{items.map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.title}｜${source.evidenceLocator}｜查閱 ${source.accessedAt}`} aria-label={`${label}來源：${source.publisher} ${source.title}`}>來源 ↗</a>)}</span>;
+}
 
 function RegionNavigator({ map, selectedId, onSelect, onClose }: {
-  map: TaiwanMapInstance | null;
-  selectedId: string;
-  onSelect: (id: string) => void;
-  onClose: () => void;
+  map: TaiwanMapInstance | null; selectedId: string; onSelect: (id: string) => void; onClose: () => void;
 }) {
   const [counties, setCounties] = useState<readonly RegionMeta[]>([]);
-  const [towns, setTowns] = useState<Record<string, readonly RegionMeta[]>>({});
-  const [expanded, setExpanded] = useState<string | null>(null);
   const [error, setError] = useState('');
-
   useEffect(() => {
     if (!map) return;
     let cancelled = false;
-    void map.listRegions('TW').then(items => { if (!cancelled) setCounties(items); }).catch(() => { if (!cancelled) setError('地區清單無法載入'); });
+    void map.listRegions('TW').then(items => { if (!cancelled) setCounties(items); }).catch(() => { if (!cancelled) setError('縣市清單無法載入'); });
     return () => { cancelled = true; };
   }, [map]);
-
-  useEffect(() => {
-    if (!map || selectedId === 'TW') return;
-    const countyId = selectedId.slice(0, 5);
-    setExpanded(countyId);
-    if (towns[countyId]) return;
-    let cancelled = false;
-    void map.listRegions(countyId).then(items => { if (!cancelled) setTowns(current => ({ ...current, [countyId]: items })); }).catch(() => { if (!cancelled) setError('鄉鎮市區清單無法載入'); });
-    return () => { cancelled = true; };
-  }, [map, selectedId, towns]);
-
-  const toggle = (countyId: string) => {
-    if (expanded === countyId) { setExpanded(null); return; }
-    setExpanded(countyId);
-    if (!map || towns[countyId]) return;
-    void map.listRegions(countyId).then(items => setTowns(current => ({ ...current, [countyId]: items }))).catch(() => setError('鄉鎮市區清單無法載入'));
-  };
   const choose = (id: string) => { onSelect(id); onClose(); };
-
   return <nav aria-label="地區導覽" className="region-nav">
-    <div className="rail-heading"><span className="eyebrow">REGION NAVIGATOR</span><h2>探索地區</h2><p>由行政區出發，查看示範選區與代表。</p></div>
-    <button className={`country-link ${selectedId === 'TW' ? 'is-current' : ''}`} onClick={() => choose('TW')} aria-current={selectedId === 'TW' ? 'page' : undefined}>
-      <span className="country-icon" aria-hidden="true">◎</span><span>全台灣</span><span className="region-count">22</span>
-    </button>
+    <div className="rail-heading"><span className="eyebrow">REGION NAVIGATOR</span><h2>探索地區</h2><p>選擇縣市，查看 2026 年曾在職的區域立委。</p></div>
+    <button className={`country-link ${selectedId === 'TW' ? 'is-current' : ''}`} onClick={() => choose('TW')} aria-current={selectedId === 'TW' ? 'page' : undefined}><span className="country-icon" aria-hidden="true">◎</span><span>全台灣</span><span className="region-count">{members.length}</span></button>
     {error && <p role="alert" className="nav-error">{error}</p>}
     {!counties.length && !error && <p className="nav-loading">正在載入縣市…</p>}
-    <div className="county-list">
-      {counties.map(county => <div className="county-group" key={county.id}>
-        <div className={`county-row ${selectedId === county.id ? 'is-current' : ''}`}>
-          <button className="county-select" onClick={() => choose(county.id)} aria-current={selectedId === county.id ? 'page' : undefined}>{county.name}</button>
-          <button className="expand-button" aria-label={`${expanded === county.id ? '收合' : '展開'}${county.name}`} aria-expanded={expanded === county.id} onClick={() => toggle(county.id)}>{expanded === county.id ? '−' : '+'}</button>
-        </div>
-        {expanded === county.id && <div className="town-list">
-          {!towns[county.id] && <span className="nav-loading">載入中…</span>}
-          {towns[county.id]?.map(town => <button key={town.id} className={`town-link ${selectedId === town.id ? 'is-current' : ''}`} onClick={() => choose(town.id)} aria-current={selectedId === town.id ? 'page' : undefined}>{town.name}</button>)}
-        </div>}
-      </div>)}
-    </div>
-    <div className="rail-footer"><span className="footer-mark">LM</span><span>以地理位置為入口<br />探索公共資訊</span></div>
+    <div className="county-list">{counties.map(county => <div className={`county-row ${selectedId === county.id ? 'is-current' : ''}`} key={county.id}><button className="county-select" onClick={() => choose(county.id)} aria-current={selectedId === county.id ? 'page' : undefined}>{county.name}</button><span className="region-count">{membersForRegion(county.name).length}</span></div>)}</div>
+    <div className="rail-footer"><span className="footer-mark">LM</span><span>資料基準日 {dataAsOfDate}<br />名單來源：立法院</span></div>
   </nav>;
 }
 
-function LegislatorCard({ legislator, district, onOpen }: { legislator: Legislator; district: ElectoralDistrict; onOpen: () => void }) {
-  return <button className="legislator-card" onClick={onOpen}>
-    <span className="avatar" aria-hidden="true">{legislator.name.slice(-1)}</span>
-    <span className="legislator-card-text"><strong>{legislator.name}</strong><small>{legislator.party} · {district.name}</small></span>
-    <span className="card-arrow" aria-hidden="true">↗</span>
-  </button>;
+function MemberCard({ member, onOpen }: { member: MemberRecord; onOpen: () => void }) {
+  return <div className="member-card"><button className="member-card-main" onClick={onOpen}><span className="avatar" aria-hidden="true">{member.name.slice(0, 1)}</span><span className="legislator-card-text"><strong>{member.name}</strong><small>{member.districtLabel} · {member.mandateStatus === 'active' ? '現任' : '2026 年離職'}</small></span><span className="card-arrow" aria-hidden="true">↗</span></button><div className="member-card-sources"><span>姓名 <SourceLinks items={fieldSources(member, 'name')} label="姓名" /></span><span>選區 <SourceLinks items={fieldSources(member, 'districtLabel')} label="選區" /></span></div></div>;
 }
 
-function Timeline({ events }: { events: LegislatorEvent[] }) {
-  return <ol className="timeline">
-    {events.map(event => <li key={event.id} className="timeline-item">
-      <div className="timeline-date">{event.occurredAt}</div>
-      <div className="timeline-body"><span className="event-category">{categoryLabels[event.category]}</span><h4>{event.title}</h4><p>{event.summary}</p>
-        <div className="source-row">{event.sources.map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer">↗ {source.title}</a>)}</div>
-      </div>
-    </li>)}
-  </ol>;
+function MemberList({ items, onOpen }: { items: MemberRecord[]; onOpen: (id: string) => void }) {
+  return <div className="member-list">{items.map(member => <MemberCard key={member.id} member={member} onOpen={() => onOpen(member.id)} />)}</div>;
 }
 
-function DetailPanel({ regionId, regionName, district, legislator, onDistrict, onLegislator, onBack }: {
-  regionId: string;
-  regionName: string;
-  district?: ElectoralDistrict;
-  legislator?: Legislator;
-  onDistrict: (id: string) => void;
-  onLegislator: (id: string) => void;
-  onBack: () => void;
+function DetailPanel({ regionName, member, onMember, onBack }: {
+  regionName: string; member?: MemberRecord; onMember: (id: string) => void; onBack: () => void;
 }) {
-  if (legislator) {
-    const events = mockEvents.filter(event => event.legislatorId === legislator.id).sort((a, b) => b.occurredAt.localeCompare(a.occurredAt));
-    return <div className="panel-content">
-      <button className="text-back" onClick={onBack}>← 返回選區</button>
-      <div className="profile-hero"><span className="profile-avatar" aria-hidden="true">{legislator.name.slice(-1)}</span><span className="eyebrow">LEGISLATOR PROFILE · DEMO</span><h2>{legislator.name}</h2><p>{legislator.party} · 第 {legislator.term} 屆示範資料</p></div>
-      <div className="profile-facts"><div><span>示範選區</span><button onClick={() => onDistrict(legislator.electoralDistrictId)}>{legislator.areaName} ↗</button></div><div><span>就任日期</span><strong>{legislator.tookOfficeAt}</strong></div><div><span>委員會</span><strong>{legislator.committees?.join('、')}</strong></div></div>
-      <section className="panel-section"><div className="section-heading"><span className="eyebrow">BACKGROUND</span><h3>基本資料</h3></div><p className="detail-copy">學歷：{legislator.education?.join('、')}</p><p className="detail-copy">經歷：{legislator.experience?.join('、')}</p></section>
-      <section className="panel-section"><div className="section-heading"><span className="eyebrow">PUBLIC RECORD</span><h3>事件時間軸 <span className="section-count">{events.length}</span></h3></div><Timeline events={events} /></section>
-    </div>;
-  }
+  if (member) return <div className="panel-content">
+    <button className="text-back" onClick={onBack}>← 返回名單</button>
+    <div className="profile-hero"><span className="profile-avatar" aria-hidden="true">{member.name.slice(0, 1)}</span><span className="eyebrow">LEGISLATOR PROFILE</span><h2>{member.name}</h2><p>第 11 屆 · {member.mandateStatus === 'active' ? '現任' : '2026 年離職'}</p></div>
+    <div className="profile-facts"><div><span>姓名</span><div className="fact-value"><strong>{member.name}</strong><SourceLinks items={fieldSources(member, 'name')} label="姓名" /></div></div><div><span>選區</span><div className="fact-value"><strong>{member.districtLabel}</strong><SourceLinks items={fieldSources(member, 'districtLabel')} label="選區" /></div></div><div><span>任職狀態</span><div className="fact-value"><strong>{member.mandateStatus === 'active' ? '現任' : '已離職'}</strong><SourceLinks items={fieldSources(member, 'mandateStatus')} label="任職狀態" /></div></div><div><span>到職日期</span><div className="fact-value"><strong>{member.serviceStart}</strong><SourceLinks items={fieldSources(member, 'serviceStart')} label="到職日期" /></div></div>{member.serviceEnd && <div><span>離職生效日期</span><div className="fact-value"><strong>{member.serviceEnd}</strong><SourceLinks items={fieldSources(member, 'serviceEnd')} label="離職日期" /></div></div>}</div>
+    <p className="source-note">資料基準日：{dataAsOfDate}。選區文字照錄立法院個人頁；人物頁資料由委員研究室提供，請以來源頁面為準。</p>
+  </div>;
 
-  const visibleDistricts = district ? [district] : districtsForRegion(regionId, mockDistricts);
-  const visibleLegislators = legislatorsForDistricts(visibleDistricts, mockLegislators);
-  const title = district?.name ?? regionName;
-  return <div className="panel-content">
-    {district && <button className="text-back" onClick={onBack}>← 返回地區</button>}
-    <div className="panel-intro"><span className="eyebrow">{district ? 'ELECTORAL DISTRICT' : 'CURRENT REGION'}</span><h2>{title}</h2><p>{district ? '這個獨立的示範選區 polygon 疊在行政地圖上。' : regionId === 'TW' ? '目前可瀏覽的示範人物與選區。' : '查看此行政區對應的示範選區與人物。'}</p></div>
-    <div className="summary-strip"><div><strong>{visibleDistricts.length}</strong><span>示範選區</span></div><div><strong>{visibleLegislators.length}</strong><span>示範代表</span></div></div>
-    <section className="panel-section"><div className="section-heading"><span className="eyebrow">REPRESENTATIVES</span><h3>代表名單</h3></div>
-      {!visibleDistricts.length && <div className="empty-state"><span aria-hidden="true">○</span><h4>此區尚無示範人物</h4><p>目前只在台北與高雄的部分區域放入虛構資料。你仍可探索完整行政地圖。</p></div>}
-      {visibleDistricts.map(item => <div className="district-group" key={item.id}><button className="district-label" onClick={() => onDistrict(item.id)}><span>{item.name}</span><span aria-hidden="true">↗</span></button>{mockLegislators.filter(person => item.legislatorIds.includes(person.id)).map(person => <LegislatorCard key={person.id} legislator={person} district={item} onOpen={() => onLegislator(person.id)} />)}</div>)}
-    </section>
+  const visible = regionName === '全台灣' ? members : membersForRegion(regionName);
+  const districtMembers = visible.filter(item => item.seatType === 'district');
+  return <div className="panel-content"><div className="panel-intro"><span className="eyebrow">2026 LEGISLATORS</span><h2>{regionName}</h2><p>2026-01-01 至 {dataAsOfDate} 曾在職的第 11 屆立法委員。縣市清單依官方選區文字分類。</p><p className="roster-source">名單來源：<a href={rosterSource.url} target="_blank" rel="noopener noreferrer">{rosterSource.publisher}第 11 屆名單 ↗</a></p></div>
+    <div className="summary-strip"><div><strong>{visible.length}</strong><span>曾在職委員</span></div><div><strong>{visible.filter(item => item.mandateStatus === 'active').length}</strong><span>目前在職</span></div></div>
+    <section className="panel-section"><div className="section-heading"><span className="eyebrow">DISTRICT SEATS</span><h3>{regionName === '全台灣' ? '區域委員' : '此縣市委員'} <span className="section-count">{districtMembers.length}</span></h3></div>{districtMembers.length ? <MemberList items={districtMembers} onOpen={onMember} /> : <div className="empty-state"><h4>此縣市沒有區域席次資料</h4><p>不分區與原住民席次請從全台灣名單查看。</p></div>}</section>
+    {regionName === '全台灣' && specialSeats.map(([type, label]) => <section className="panel-section" key={type}><div className="section-heading"><h3>{label} <span className="section-count">{members.filter(item => item.seatType === type).length}</span></h3></div><MemberList items={members.filter(item => item.seatType === type)} onOpen={onMember} /></section>)}
   </div>;
 }
 
 export function App() {
   const navigate = useNavigate();
   const regionMatch = useMatch('/region/:regionId');
-  const districtMatch = useMatch('/district/:districtId');
-  const legislatorMatch = useMatch('/legislator/:legislatorId');
-  const selectedLegislator = mockLegislators.find(item => item.id === legislatorMatch?.params.legislatorId);
-  const selectedDistrict = mockDistricts.find(item => item.id === (districtMatch?.params.districtId ?? selectedLegislator?.electoralDistrictId));
-  const regionId = regionMatch?.params.regionId ?? selectedDistrict?.regionNodeIds[0] ?? 'TW';
+  const memberMatch = useMatch('/legislator/:legislatorId');
+  const selectedMember = members.find(item => item.id === memberMatch?.params.legislatorId);
   const [map, setMap] = useState<TaiwanMapInstance | null>(null);
   const [regionNames, setRegionNames] = useState<Record<string, string>>({ TW: '全台灣' });
   const [mapError, setMapError] = useState('');
   const [navOpen, setNavOpen] = useState(false);
   const [panelOpen, setPanelOpen] = useState(true);
   const [copied, setCopied] = useState(false);
-  const regionName = regionNames[regionId] ?? (regionId === 'TW' ? '全台灣' : `地區 ${regionId}`);
-
+  const regionId = regionMatch?.params.regionId ?? 'TW';
+  const regionName = regionNames[regionId] ?? '全台灣';
   useEffect(() => {
     if (!map) return;
     let cancelled = false;
-    void map.listRegions('TW').then(items => {
-      if (!cancelled) setRegionNames(current => ({ ...current, ...Object.fromEntries(items.map(item => [item.id, item.name])) }));
-    });
-    if (regionId.length === 8) void map.listRegions(regionId.slice(0, 5)).then(items => {
-      if (!cancelled) setRegionNames(current => ({ ...current, ...Object.fromEntries(items.map(item => [item.id, item.name])) }));
-    });
+    void map.listRegions('TW').then(items => { if (!cancelled) setRegionNames(current => ({ ...current, ...Object.fromEntries(items.map(item => [item.id, item.name])) })); });
     return () => { cancelled = true; };
-  }, [map, regionId]);
-
-  useEffect(() => {
-    if (!map || !selectedDistrict) return;
-    let cancelled = false;
-    void map.ready.then(() => { if (!cancelled) return map.fitGeometry(selectedDistrict.geometry); }).catch(() => {});
-    return () => { cancelled = true; };
-  }, [map, selectedDistrict]);
-
-  useEffect(() => {
-    if (!map) return;
-    let cancelled = false;
-    void map.ready.then(() => { if (!cancelled) map.setOverlays(overlays, selectedDistrict?.id ?? null); }).catch(() => {});
-    return () => { cancelled = true; };
-  }, [map, selectedDistrict]);
-
-  const chooseRegion = (id: string) => navigate(id === 'TW' ? '/' : `/region/${id}`);
-  const chooseDistrict = (id: string) => { navigate(`/district/${id}`); setPanelOpen(true); };
-  const chooseLegislator = (id: string) => { navigate(`/legislator/${id}`); setPanelOpen(true); };
-  const goBack = () => selectedLegislator ? chooseDistrict(selectedLegislator.electoralDistrictId) : chooseRegion(regionId);
+  }, [map]);
+  const chooseRegion = (id: string) => { navigate(id === 'TW' ? '/' : `/region/${id.slice(0, 5)}`); setPanelOpen(true); };
+  const chooseMember = (id: string) => { navigate(`/legislator/${id}`); setPanelOpen(true); };
   const onRegionChange = (region: RegionMeta) => setRegionNames(current => current[region.id] === region.name ? current : { ...current, [region.id]: region.name });
   const onMapError = (error: TaiwanMapError) => setMapError(error.message);
   const share = async () => { try { await navigator.clipboard.writeText(location.href); setCopied(true); window.setTimeout(() => setCopied(false), 2000); } catch { setCopied(false); } };
-  const currentBreadcrumb = useMemo(() => selectedLegislator ? `${selectedDistrict?.name ?? ''} / ${selectedLegislator.name}` : selectedDistrict?.name ?? regionName, [selectedLegislator, selectedDistrict, regionName]);
+  const breadcrumb = selectedMember ? `${selectedMember.districtLabel} / ${selectedMember.name}` : regionName;
 
   return <div className="app-shell">
-    <header className="app-header"><div className="brand"><span className="brand-symbol" aria-hidden="true">◎</span><div><span className="brand-name">委員地圖</span><span className="brand-english">LEGISMAP</span></div></div><div className="header-context"><span className="context-prefix">正在探索</span><span className="context-path">{currentBreadcrumb}</span></div><div className="header-actions"><span className="demo-pill">虛構資料展示</span><button className="header-button share-button" onClick={share}>{copied ? '已複製連結' : '分享頁面 ↗'}</button><button className="header-button mobile-nav-button" onClick={() => setNavOpen(true)}>地區選單</button></div></header>
-    <div className="disclaimer" role="note"><span className="disclaimer-dot" />本網站目前為互動原型。所有代表、選區 polygon、事件與來源均為虛構示範，不是實際立法院或選舉資料。</div>
+    <header className="app-header"><div className="brand"><span className="brand-symbol" aria-hidden="true">◎</span><div><span className="brand-name">委員地圖</span><span className="brand-english">LEGISMAP</span></div></div><div className="header-context"><span className="context-prefix">正在探索</span><span className="context-path">{breadcrumb}</span></div><div className="header-actions"><span className="demo-pill">資料截至 {dataAsOfDate}</span><button className="header-button share-button" onClick={share}>{copied ? '已複製連結' : '分享頁面 ↗'}</button><button className="header-button mobile-nav-button" onClick={() => setNavOpen(true)}>地區選單</button></div></header>
+    <div className="disclaimer" role="note"><span className="disclaimer-dot" />名單與選區文字據立法院官方頁面整理；地圖顯示行政區，並非立委選區邊界。資料基準日 {dataAsOfDate}。</div>
     <div className="workspace">
       {navOpen && <button className="mobile-backdrop" aria-label="關閉地區選單" onClick={() => setNavOpen(false)} />}
       <aside className={`left-rail ${navOpen ? 'is-open' : ''}`}><button className="mobile-close" onClick={() => setNavOpen(false)}>關閉 ×</button><RegionNavigator map={map} selectedId={regionId} onSelect={chooseRegion} onClose={() => setNavOpen(false)} /></aside>
-      <main className="map-area"><div className="map-heading"><div><span className="eyebrow">INTERACTIVE ATLAS</span><h1>從地圖，看見你的國會代表。</h1></div><button onClick={() => chooseRegion('TW')}>返回全台 ↗</button></div><div className="map-stage">
-        <TaiwanDrilldownMap regionId={regionId} onRegionIdChange={chooseRegion} onRegionChange={onRegionChange} onError={onMapError} mapRef={setMap} onOverlayClick={chooseDistrict} style={{ height: '100%' }} />
-        {mapError && <div className="map-error" role="alert">地圖無法載入：{mapError}</div>}
-        <div className="map-legend"><span><i className="legend-admin" />行政區</span><span><i className="legend-electoral" />示範選區</span></div>
-      </div><div className="map-caption"><span>底圖：內政部國土測繪中心 · Taiwan-Atlas</span><span>選區形狀：虛構示範</span></div></main>
-      <aside className={`right-panel ${panelOpen ? 'is-open' : ''}`} aria-label="地區與人物資料"><div className="panel-mobile-handle"><button onClick={() => setPanelOpen(open => !open)}>{panelOpen ? '收合資料' : '查看資料'} {panelOpen ? '⌄' : '⌃'}</button></div><DetailPanel regionId={regionId} regionName={regionName} district={selectedDistrict} legislator={selectedLegislator} onDistrict={chooseDistrict} onLegislator={chooseLegislator} onBack={goBack} /></aside>
+      <main className="map-area"><div className="map-heading"><div><span className="eyebrow">INTERACTIVE ATLAS</span><h1>從地圖，看見你的國會代表。</h1></div><button onClick={() => chooseRegion('TW')}>返回全台 ↗</button></div><div className="map-stage"><TaiwanDrilldownMap regionId={regionId} onRegionIdChange={chooseRegion} onRegionChange={onRegionChange} onError={onMapError} mapRef={setMap} style={{ height: '100%' }} />{mapError && <div className="map-error" role="alert">地圖無法載入：{mapError}</div>}<div className="map-legend"><span><i className="legend-admin" />行政區</span></div></div><div className="map-caption"><span>底圖：Taiwan-Atlas</span><span>選區分類依立法院個人頁文字</span></div></main>
+      <aside className={`right-panel ${panelOpen ? 'is-open' : ''}`} aria-label="地區與人物資料"><div className="panel-mobile-handle"><button onClick={() => setPanelOpen(open => !open)}>{panelOpen ? '收合資料' : '查看資料'} {panelOpen ? '⌄' : '⌃'}</button></div><DetailPanel regionName={regionName} member={selectedMember} onMember={chooseMember} onBack={() => chooseRegion('TW')} /></aside>
     </div>
   </div>;
 }

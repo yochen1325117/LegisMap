@@ -1,0 +1,4254 @@
+{
+  "documentType": "legislatorSnapshot",
+  "schemaVersion": "2.0.0",
+  "term": 11,
+  "periodStart": "2026-01-01",
+  "asOfDate": "2026-09-17",
+  "rosterSourceId": "ly11-roster",
+  "roster": {
+    "active": [
+      "ly11-46752",
+      "ly11-46757",
+      "ly11-46758",
+      "ly11-46759",
+      "ly11-46760",
+      "ly11-46761",
+      "ly11-46762",
+      "ly11-46763",
+      "ly11-46764",
+      "ly11-46765",
+      "ly11-46766",
+      "ly11-46767",
+      "ly11-46768",
+      "ly11-46769",
+      "ly11-46771",
+      "ly11-46862",
+      "ly11-46863",
+      "ly11-46772",
+      "ly11-46773",
+      "ly11-46774",
+      "ly11-46775",
+      "ly11-46776",
+      "ly11-46777",
+      "ly11-46778",
+      "ly11-46779",
+      "ly11-46780",
+      "ly11-46781",
+      "ly11-46782",
+      "ly11-46783",
+      "ly11-46785",
+      "ly11-46786",
+      "ly11-46787",
+      "ly11-46788",
+      "ly11-46789",
+      "ly11-46790",
+      "ly11-46791",
+      "ly11-46792",
+      "ly11-46793",
+      "ly11-46794",
+      "ly11-46795",
+      "ly11-46796",
+      "ly11-46797",
+      "ly11-46798",
+      "ly11-46799",
+      "ly11-46754",
+      "ly11-46800",
+      "ly11-46801",
+      "ly11-46802",
+      "ly11-46804",
+      "ly11-46805",
+      "ly11-46806",
+      "ly11-46807",
+      "ly11-46808",
+      "ly11-46809",
+      "ly11-46810",
+      "ly11-46811",
+      "ly11-46812",
+      "ly11-46813",
+      "ly11-46814",
+      "ly11-46815",
+      "ly11-46816",
+      "ly11-46817",
+      "ly11-46755",
+      "ly11-46818",
+      "ly11-46819",
+      "ly11-46820",
+      "ly11-46821",
+      "ly11-46822",
+      "ly11-46823",
+      "ly11-46824",
+      "ly11-46826",
+      "ly11-46827",
+      "ly11-46828",
+      "ly11-46829",
+      "ly11-46831",
+      "ly11-46833",
+      "ly11-46834",
+      "ly11-46835",
+      "ly11-46836",
+      "ly11-46837",
+      "ly11-46838",
+      "ly11-46839",
+      "ly11-46840",
+      "ly11-46841",
+      "ly11-46842",
+      "ly11-46843",
+      "ly11-46844",
+      "ly11-46845",
+      "ly11-46846",
+      "ly11-46847",
+      "ly11-46848",
+      "ly11-46849",
+      "ly11-46850",
+      "ly11-46851",
+      "ly11-46852",
+      "ly11-46853",
+      "ly11-46854",
+      "ly11-46855",
+      "ly11-46856",
+      "ly11-46857",
+      "ly11-46858",
+      "ly11-46859",
+      "ly11-46860",
+      "ly11-46861",
+      "ly11-55030",
+      "ly11-55855",
+      "ly11-77699",
+      "ly11-56378",
+      "ly11-56398",
+      "ly11-56418",
+      "ly11-56438",
+      "ly11-56458",
+      "ly11-56585"
+    ],
+    "former": [
+      "ly11-46825",
+      "ly11-46865",
+      "ly11-46770",
+      "ly11-46784",
+      "ly11-46864",
+      "ly11-46803",
+      "ly11-46756",
+      "ly11-46830",
+      "ly11-46832",
+      "ly11-56478"
+    ]
+  },
+  "sources": [
+    {
+      "id": "ly11-roster",
+      "title": "第11屆立法委員名單與離職立法委員名單",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "第11屆立法委員名單／離職立法委員名單"
+    },
+    {
+      "id": "ly11-profile-46752",
+      "title": "丁學忠委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46752",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46757",
+      "title": "牛煦庭委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46757",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46758",
+      "title": "王世堅委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46759",
+      "title": "王育敏委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46759",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46760",
+      "title": "王定宇委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46760",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46761",
+      "title": "王美惠委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46761",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46762",
+      "title": "王鴻薇委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46762",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46763",
+      "title": "伍麗華Saidhai‧Tahovecahe委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46763",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46764",
+      "title": "江啟臣委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46764",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46765",
+      "title": "何欣純委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46765",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46766",
+      "title": "吳沛憶委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46766",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46767",
+      "title": "吳宗憲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46767",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46768",
+      "title": "吳秉叡委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46768",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46769",
+      "title": "吳思瑤委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46769",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46771",
+      "title": "吳琪銘委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46771",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46862",
+      "title": "呂玉玲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46862",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46863",
+      "title": "李坤城委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46863",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46772",
+      "title": "李昆澤委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46772",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46773",
+      "title": "李彥秀委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46773",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46774",
+      "title": "李柏毅委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46774",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46775",
+      "title": "沈伯洋委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46775",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46776",
+      "title": "沈發惠委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46776",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46777",
+      "title": "林月琴委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46777",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46778",
+      "title": "林沛祥委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46778",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46779",
+      "title": "林宜瑾委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46779",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46780",
+      "title": "林岱樺委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46780",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46781",
+      "title": "林俊憲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46781",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46782",
+      "title": "林思銘委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46782",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46783",
+      "title": "林倩綺委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46783",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46785",
+      "title": "林淑芬委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46785",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46786",
+      "title": "林楚茵委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46786",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46787",
+      "title": "林德福委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46787",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46788",
+      "title": "邱志偉委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46788",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46789",
+      "title": "邱若華委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46789",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46790",
+      "title": "邱鎮軍委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46790",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46791",
+      "title": "邱議瑩委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46791",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46792",
+      "title": "柯志恩委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46792",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46793",
+      "title": "柯建銘委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46793",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46794",
+      "title": "洪孟楷委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46794",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46795",
+      "title": "范雲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46795",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46796",
+      "title": "徐巧芯委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46796",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46797",
+      "title": "徐欣瑩委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46797",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46798",
+      "title": "徐富癸委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46798",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46799",
+      "title": "涂權吉委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46799",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46754",
+      "title": "翁曉玲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46754",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46800",
+      "title": "馬文君委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46800",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46801",
+      "title": "高金素梅委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46801",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46802",
+      "title": "張宏陸委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46802",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46804",
+      "title": "張智倫委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46804",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46805",
+      "title": "張雅琳委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46805",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46806",
+      "title": "張嘉郡委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46806",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46807",
+      "title": "莊瑞雄委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46807",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46808",
+      "title": "許宇甄委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46808",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46809",
+      "title": "許智傑委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46809",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46810",
+      "title": "郭昱晴委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46810",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46811",
+      "title": "郭國文委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46811",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46812",
+      "title": "陳永康委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46812",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46813",
+      "title": "陳玉珍委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46813",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46814",
+      "title": "陳秀寳委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46814",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46815",
+      "title": "陳亭妃委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46815",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46816",
+      "title": "陳俊宇委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46816",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46817",
+      "title": "陳冠廷委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46817",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46755",
+      "title": "陳昭姿委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46755",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46818",
+      "title": "陳素月委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46818",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46819",
+      "title": "陳培瑜委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46819",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46820",
+      "title": "陳雪生委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46820",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46821",
+      "title": "陳菁徽委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46821",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46822",
+      "title": "陳超明委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46822",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46823",
+      "title": "陳瑩委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46823",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46824",
+      "title": "傅崐萁委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46824",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46826",
+      "title": "游顥委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46826",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46827",
+      "title": "黃仁委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46827",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46828",
+      "title": "黃秀芳委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46828",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46829",
+      "title": "黃建賓委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46829",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46831",
+      "title": "黃健豪委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46831",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46833",
+      "title": "黃捷委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46833",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46834",
+      "title": "楊曜委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46834",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46835",
+      "title": "楊瓊瓔委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46835",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46836",
+      "title": "萬美玲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46836",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46837",
+      "title": "葉元之委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46837",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46838",
+      "title": "葛如鈞委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46838",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46839",
+      "title": "廖先翔委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46839",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46840",
+      "title": "廖偉翔委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46840",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46841",
+      "title": "劉建國委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46841",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46842",
+      "title": "蔡其昌委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46842",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46843",
+      "title": "蔡易餘委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46843",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46844",
+      "title": "鄭天財Sra Kacaw委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46844",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46845",
+      "title": "鄭正鈐委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46845",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46846",
+      "title": "魯明哲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46846",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46847",
+      "title": "盧縣一委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46847",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46848",
+      "title": "賴士葆委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46848",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46849",
+      "title": "賴惠員委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46849",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46850",
+      "title": "賴瑞隆委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46850",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46851",
+      "title": "謝衣鳯委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46851",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46852",
+      "title": "謝龍介委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46852",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46853",
+      "title": "鍾佳濱委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46853",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46854",
+      "title": "韓國瑜委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46854",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46855",
+      "title": "顏寬恒委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46855",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46856",
+      "title": "羅廷瑋委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46856",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46857",
+      "title": "羅明才委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46857",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46858",
+      "title": "羅美玲委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46858",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46859",
+      "title": "羅智強委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46859",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46860",
+      "title": "蘇巧慧委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46860",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46861",
+      "title": "蘇清泉委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46861",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-55030",
+      "title": "王正旭委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=55030",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-55855",
+      "title": "王義川委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=55855",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-77699",
+      "title": "劉書彬委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=77699",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56378",
+      "title": "洪毓祥委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56378",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56398",
+      "title": "蔡春綢委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56398",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56418",
+      "title": "王安祥委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56418",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56438",
+      "title": "邱慧洳委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56438",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56458",
+      "title": "陳清龍委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56458",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56585",
+      "title": "許忠信委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56585",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46784",
+      "title": "林國成委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46784",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46864",
+      "title": "林憶君委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46864",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46803",
+      "title": "張啓楷委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46803",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46756",
+      "title": "麥玉珍委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46756",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46830",
+      "title": "黃珊珊委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46830",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-46832",
+      "title": "黃國昌委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46832",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    },
+    {
+      "id": "ly11-profile-56478",
+      "title": "李貞秀委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=56478",
+      "accessedAt": "2026-09-17",
+      "evidenceLocator": "委員個人頁：姓名、選區、到職日期及備註"
+    }
+  ],
+  "members": [
+    {
+      "id": "ly11-46752",
+      "name": "丁學忠",
+      "districtLabel": "雲林縣第1選舉區",
+      "seatType": "district",
+      "regionName": "雲林縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46752"
+        ],
+        "districtLabel": [
+          "ly11-profile-46752"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46752"
+        ],
+        "serviceStart": [
+          "ly11-profile-46752"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46757",
+      "name": "牛煦庭",
+      "districtLabel": "桃園市第1選舉區",
+      "seatType": "district",
+      "regionName": "桃園市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46757"
+        ],
+        "districtLabel": [
+          "ly11-profile-46757"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46757"
+        ],
+        "serviceStart": [
+          "ly11-profile-46757"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46758",
+      "name": "王世堅",
+      "districtLabel": "臺北市第2選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46758"
+        ],
+        "districtLabel": [
+          "ly11-profile-46758"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46758"
+        ],
+        "serviceStart": [
+          "ly11-profile-46758"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46759",
+      "name": "王育敏",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46759"
+        ],
+        "districtLabel": [
+          "ly11-profile-46759"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46759"
+        ],
+        "serviceStart": [
+          "ly11-profile-46759"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46760",
+      "name": "王定宇",
+      "districtLabel": "臺南市第6選舉區",
+      "seatType": "district",
+      "regionName": "臺南市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46760"
+        ],
+        "districtLabel": [
+          "ly11-profile-46760"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46760"
+        ],
+        "serviceStart": [
+          "ly11-profile-46760"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46761",
+      "name": "王美惠",
+      "districtLabel": "嘉義市選舉區",
+      "seatType": "district",
+      "regionName": "嘉義市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46761"
+        ],
+        "districtLabel": [
+          "ly11-profile-46761"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46761"
+        ],
+        "serviceStart": [
+          "ly11-profile-46761"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46762",
+      "name": "王鴻薇",
+      "districtLabel": "臺北市第3選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46762"
+        ],
+        "districtLabel": [
+          "ly11-profile-46762"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46762"
+        ],
+        "serviceStart": [
+          "ly11-profile-46762"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46763",
+      "name": "伍麗華Saidhai‧Tahovecahe",
+      "districtLabel": "山地原住民選舉區",
+      "seatType": "mountain_indigenous",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46763"
+        ],
+        "districtLabel": [
+          "ly11-profile-46763"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46763"
+        ],
+        "serviceStart": [
+          "ly11-profile-46763"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46764",
+      "name": "江啟臣",
+      "districtLabel": "臺中市第8選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46764"
+        ],
+        "districtLabel": [
+          "ly11-profile-46764"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46764"
+        ],
+        "serviceStart": [
+          "ly11-profile-46764"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46765",
+      "name": "何欣純",
+      "districtLabel": "臺中市第7選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46765"
+        ],
+        "districtLabel": [
+          "ly11-profile-46765"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46765"
+        ],
+        "serviceStart": [
+          "ly11-profile-46765"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46766",
+      "name": "吳沛憶",
+      "districtLabel": "臺北市第5選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46766"
+        ],
+        "districtLabel": [
+          "ly11-profile-46766"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46766"
+        ],
+        "serviceStart": [
+          "ly11-profile-46766"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46767",
+      "name": "吳宗憲",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46767"
+        ],
+        "districtLabel": [
+          "ly11-profile-46767"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46767"
+        ],
+        "serviceStart": [
+          "ly11-profile-46767"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46768",
+      "name": "吳秉叡",
+      "districtLabel": "新北市第4選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46768"
+        ],
+        "districtLabel": [
+          "ly11-profile-46768"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46768"
+        ],
+        "serviceStart": [
+          "ly11-profile-46768"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46769",
+      "name": "吳思瑤",
+      "districtLabel": "臺北市第1選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46769"
+        ],
+        "districtLabel": [
+          "ly11-profile-46769"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46769"
+        ],
+        "serviceStart": [
+          "ly11-profile-46769"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46771",
+      "name": "吳琪銘",
+      "districtLabel": "新北市第10選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46771"
+        ],
+        "districtLabel": [
+          "ly11-profile-46771"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46771"
+        ],
+        "serviceStart": [
+          "ly11-profile-46771"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46862",
+      "name": "呂玉玲",
+      "districtLabel": "桃園市第5選舉區",
+      "seatType": "district",
+      "regionName": "桃園市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46862"
+        ],
+        "districtLabel": [
+          "ly11-profile-46862"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46862"
+        ],
+        "serviceStart": [
+          "ly11-profile-46862"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46863",
+      "name": "李坤城",
+      "districtLabel": "新北市第3選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46863"
+        ],
+        "districtLabel": [
+          "ly11-profile-46863"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46863"
+        ],
+        "serviceStart": [
+          "ly11-profile-46863"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46772",
+      "name": "李昆澤",
+      "districtLabel": "高雄市第5選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46772"
+        ],
+        "districtLabel": [
+          "ly11-profile-46772"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46772"
+        ],
+        "serviceStart": [
+          "ly11-profile-46772"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46773",
+      "name": "李彥秀",
+      "districtLabel": "臺北市第4選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46773"
+        ],
+        "districtLabel": [
+          "ly11-profile-46773"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46773"
+        ],
+        "serviceStart": [
+          "ly11-profile-46773"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46774",
+      "name": "李柏毅",
+      "districtLabel": "高雄市第3選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46774"
+        ],
+        "districtLabel": [
+          "ly11-profile-46774"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46774"
+        ],
+        "serviceStart": [
+          "ly11-profile-46774"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46775",
+      "name": "沈伯洋",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46775"
+        ],
+        "districtLabel": [
+          "ly11-profile-46775"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46775"
+        ],
+        "serviceStart": [
+          "ly11-profile-46775"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46776",
+      "name": "沈發惠",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46776"
+        ],
+        "districtLabel": [
+          "ly11-profile-46776"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46776"
+        ],
+        "serviceStart": [
+          "ly11-profile-46776"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46777",
+      "name": "林月琴",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46777"
+        ],
+        "districtLabel": [
+          "ly11-profile-46777"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46777"
+        ],
+        "serviceStart": [
+          "ly11-profile-46777"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46778",
+      "name": "林沛祥",
+      "districtLabel": "基隆市選舉區",
+      "seatType": "district",
+      "regionName": "基隆市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46778"
+        ],
+        "districtLabel": [
+          "ly11-profile-46778"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46778"
+        ],
+        "serviceStart": [
+          "ly11-profile-46778"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46779",
+      "name": "林宜瑾",
+      "districtLabel": "臺南市第4選舉區",
+      "seatType": "district",
+      "regionName": "臺南市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46779"
+        ],
+        "districtLabel": [
+          "ly11-profile-46779"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46779"
+        ],
+        "serviceStart": [
+          "ly11-profile-46779"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46780",
+      "name": "林岱樺",
+      "districtLabel": "高雄市第4選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46780"
+        ],
+        "districtLabel": [
+          "ly11-profile-46780"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46780"
+        ],
+        "serviceStart": [
+          "ly11-profile-46780"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46781",
+      "name": "林俊憲",
+      "districtLabel": "臺南市第5選舉區",
+      "seatType": "district",
+      "regionName": "臺南市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46781"
+        ],
+        "districtLabel": [
+          "ly11-profile-46781"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46781"
+        ],
+        "serviceStart": [
+          "ly11-profile-46781"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46782",
+      "name": "林思銘",
+      "districtLabel": "新竹縣第2選舉區",
+      "seatType": "district",
+      "regionName": "新竹縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46782"
+        ],
+        "districtLabel": [
+          "ly11-profile-46782"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46782"
+        ],
+        "serviceStart": [
+          "ly11-profile-46782"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46783",
+      "name": "林倩綺",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46783"
+        ],
+        "districtLabel": [
+          "ly11-profile-46783"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46783"
+        ],
+        "serviceStart": [
+          "ly11-profile-46783"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46785",
+      "name": "林淑芬",
+      "districtLabel": "新北市第2選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46785"
+        ],
+        "districtLabel": [
+          "ly11-profile-46785"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46785"
+        ],
+        "serviceStart": [
+          "ly11-profile-46785"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46786",
+      "name": "林楚茵",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46786"
+        ],
+        "districtLabel": [
+          "ly11-profile-46786"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46786"
+        ],
+        "serviceStart": [
+          "ly11-profile-46786"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46787",
+      "name": "林德福",
+      "districtLabel": "新北市第9選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46787"
+        ],
+        "districtLabel": [
+          "ly11-profile-46787"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46787"
+        ],
+        "serviceStart": [
+          "ly11-profile-46787"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46788",
+      "name": "邱志偉",
+      "districtLabel": "高雄市第2選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46788"
+        ],
+        "districtLabel": [
+          "ly11-profile-46788"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46788"
+        ],
+        "serviceStart": [
+          "ly11-profile-46788"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46789",
+      "name": "邱若華",
+      "districtLabel": "桃園市第6選舉區",
+      "seatType": "district",
+      "regionName": "桃園市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46789"
+        ],
+        "districtLabel": [
+          "ly11-profile-46789"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46789"
+        ],
+        "serviceStart": [
+          "ly11-profile-46789"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46790",
+      "name": "邱鎮軍",
+      "districtLabel": "苗栗縣第2選舉區",
+      "seatType": "district",
+      "regionName": "苗栗縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46790"
+        ],
+        "districtLabel": [
+          "ly11-profile-46790"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46790"
+        ],
+        "serviceStart": [
+          "ly11-profile-46790"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46791",
+      "name": "邱議瑩",
+      "districtLabel": "高雄市第1選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46791"
+        ],
+        "districtLabel": [
+          "ly11-profile-46791"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46791"
+        ],
+        "serviceStart": [
+          "ly11-profile-46791"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46792",
+      "name": "柯志恩",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46792"
+        ],
+        "districtLabel": [
+          "ly11-profile-46792"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46792"
+        ],
+        "serviceStart": [
+          "ly11-profile-46792"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46793",
+      "name": "柯建銘",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46793"
+        ],
+        "districtLabel": [
+          "ly11-profile-46793"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46793"
+        ],
+        "serviceStart": [
+          "ly11-profile-46793"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46794",
+      "name": "洪孟楷",
+      "districtLabel": "新北市第1選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46794"
+        ],
+        "districtLabel": [
+          "ly11-profile-46794"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46794"
+        ],
+        "serviceStart": [
+          "ly11-profile-46794"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46795",
+      "name": "范雲",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46795"
+        ],
+        "districtLabel": [
+          "ly11-profile-46795"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46795"
+        ],
+        "serviceStart": [
+          "ly11-profile-46795"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46796",
+      "name": "徐巧芯",
+      "districtLabel": "臺北市第7選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46796"
+        ],
+        "districtLabel": [
+          "ly11-profile-46796"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46796"
+        ],
+        "serviceStart": [
+          "ly11-profile-46796"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46797",
+      "name": "徐欣瑩",
+      "districtLabel": "新竹縣第1選舉區",
+      "seatType": "district",
+      "regionName": "新竹縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46797"
+        ],
+        "districtLabel": [
+          "ly11-profile-46797"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46797"
+        ],
+        "serviceStart": [
+          "ly11-profile-46797"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46798",
+      "name": "徐富癸",
+      "districtLabel": "屏東縣第2選舉區",
+      "seatType": "district",
+      "regionName": "屏東縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46798"
+        ],
+        "districtLabel": [
+          "ly11-profile-46798"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46798"
+        ],
+        "serviceStart": [
+          "ly11-profile-46798"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46799",
+      "name": "涂權吉",
+      "districtLabel": "桃園市第2選舉區",
+      "seatType": "district",
+      "regionName": "桃園市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46799"
+        ],
+        "districtLabel": [
+          "ly11-profile-46799"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46799"
+        ],
+        "serviceStart": [
+          "ly11-profile-46799"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46754",
+      "name": "翁曉玲",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46754"
+        ],
+        "districtLabel": [
+          "ly11-profile-46754"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46754"
+        ],
+        "serviceStart": [
+          "ly11-profile-46754"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46800",
+      "name": "馬文君",
+      "districtLabel": "南投縣第1選舉區",
+      "seatType": "district",
+      "regionName": "南投縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46800"
+        ],
+        "districtLabel": [
+          "ly11-profile-46800"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46800"
+        ],
+        "serviceStart": [
+          "ly11-profile-46800"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46801",
+      "name": "高金素梅",
+      "districtLabel": "山地原住民選舉區",
+      "seatType": "mountain_indigenous",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46801"
+        ],
+        "districtLabel": [
+          "ly11-profile-46801"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46801"
+        ],
+        "serviceStart": [
+          "ly11-profile-46801"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46802",
+      "name": "張宏陸",
+      "districtLabel": "新北市第6選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46802"
+        ],
+        "districtLabel": [
+          "ly11-profile-46802"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46802"
+        ],
+        "serviceStart": [
+          "ly11-profile-46802"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46804",
+      "name": "張智倫",
+      "districtLabel": "新北市第8選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46804"
+        ],
+        "districtLabel": [
+          "ly11-profile-46804"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46804"
+        ],
+        "serviceStart": [
+          "ly11-profile-46804"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46805",
+      "name": "張雅琳",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46805"
+        ],
+        "districtLabel": [
+          "ly11-profile-46805"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46805"
+        ],
+        "serviceStart": [
+          "ly11-profile-46805"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46806",
+      "name": "張嘉郡",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46806"
+        ],
+        "districtLabel": [
+          "ly11-profile-46806"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46806"
+        ],
+        "serviceStart": [
+          "ly11-profile-46806"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46807",
+      "name": "莊瑞雄",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46807"
+        ],
+        "districtLabel": [
+          "ly11-profile-46807"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46807"
+        ],
+        "serviceStart": [
+          "ly11-profile-46807"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46808",
+      "name": "許宇甄",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46808"
+        ],
+        "districtLabel": [
+          "ly11-profile-46808"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46808"
+        ],
+        "serviceStart": [
+          "ly11-profile-46808"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46809",
+      "name": "許智傑",
+      "districtLabel": "高雄市第7選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46809"
+        ],
+        "districtLabel": [
+          "ly11-profile-46809"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46809"
+        ],
+        "serviceStart": [
+          "ly11-profile-46809"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46810",
+      "name": "郭昱晴",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46810"
+        ],
+        "districtLabel": [
+          "ly11-profile-46810"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46810"
+        ],
+        "serviceStart": [
+          "ly11-profile-46810"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46811",
+      "name": "郭國文",
+      "districtLabel": "臺南市第2選舉區",
+      "seatType": "district",
+      "regionName": "臺南市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46811"
+        ],
+        "districtLabel": [
+          "ly11-profile-46811"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46811"
+        ],
+        "serviceStart": [
+          "ly11-profile-46811"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46812",
+      "name": "陳永康",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46812"
+        ],
+        "districtLabel": [
+          "ly11-profile-46812"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46812"
+        ],
+        "serviceStart": [
+          "ly11-profile-46812"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46813",
+      "name": "陳玉珍",
+      "districtLabel": "金門縣選舉區",
+      "seatType": "district",
+      "regionName": "金門縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46813"
+        ],
+        "districtLabel": [
+          "ly11-profile-46813"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46813"
+        ],
+        "serviceStart": [
+          "ly11-profile-46813"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46814",
+      "name": "陳秀寳",
+      "districtLabel": "彰化縣第1選舉區",
+      "seatType": "district",
+      "regionName": "彰化縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46814"
+        ],
+        "districtLabel": [
+          "ly11-profile-46814"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46814"
+        ],
+        "serviceStart": [
+          "ly11-profile-46814"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46815",
+      "name": "陳亭妃",
+      "districtLabel": "臺南市第3選舉區",
+      "seatType": "district",
+      "regionName": "臺南市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46815"
+        ],
+        "districtLabel": [
+          "ly11-profile-46815"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46815"
+        ],
+        "serviceStart": [
+          "ly11-profile-46815"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46816",
+      "name": "陳俊宇",
+      "districtLabel": "宜蘭縣選舉區",
+      "seatType": "district",
+      "regionName": "宜蘭縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46816"
+        ],
+        "districtLabel": [
+          "ly11-profile-46816"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46816"
+        ],
+        "serviceStart": [
+          "ly11-profile-46816"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46817",
+      "name": "陳冠廷",
+      "districtLabel": "嘉義縣第2選舉區",
+      "seatType": "district",
+      "regionName": "嘉義縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46817"
+        ],
+        "districtLabel": [
+          "ly11-profile-46817"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46817"
+        ],
+        "serviceStart": [
+          "ly11-profile-46817"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46755",
+      "name": "陳昭姿",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46755"
+        ],
+        "districtLabel": [
+          "ly11-profile-46755"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46755"
+        ],
+        "serviceStart": [
+          "ly11-profile-46755"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46818",
+      "name": "陳素月",
+      "districtLabel": "彰化縣第4選舉區",
+      "seatType": "district",
+      "regionName": "彰化縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46818"
+        ],
+        "districtLabel": [
+          "ly11-profile-46818"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46818"
+        ],
+        "serviceStart": [
+          "ly11-profile-46818"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46819",
+      "name": "陳培瑜",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46819"
+        ],
+        "districtLabel": [
+          "ly11-profile-46819"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46819"
+        ],
+        "serviceStart": [
+          "ly11-profile-46819"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46820",
+      "name": "陳雪生",
+      "districtLabel": "連江縣選舉區",
+      "seatType": "district",
+      "regionName": "連江縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46820"
+        ],
+        "districtLabel": [
+          "ly11-profile-46820"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46820"
+        ],
+        "serviceStart": [
+          "ly11-profile-46820"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46821",
+      "name": "陳菁徽",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46821"
+        ],
+        "districtLabel": [
+          "ly11-profile-46821"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46821"
+        ],
+        "serviceStart": [
+          "ly11-profile-46821"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46822",
+      "name": "陳超明",
+      "districtLabel": "苗栗縣第1選舉區",
+      "seatType": "district",
+      "regionName": "苗栗縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46822"
+        ],
+        "districtLabel": [
+          "ly11-profile-46822"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46822"
+        ],
+        "serviceStart": [
+          "ly11-profile-46822"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46823",
+      "name": "陳瑩",
+      "districtLabel": "平地原住民選舉區",
+      "seatType": "plains_indigenous",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46823"
+        ],
+        "districtLabel": [
+          "ly11-profile-46823"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46823"
+        ],
+        "serviceStart": [
+          "ly11-profile-46823"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46824",
+      "name": "傅崐萁",
+      "districtLabel": "花蓮縣選舉區",
+      "seatType": "district",
+      "regionName": "花蓮縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46824"
+        ],
+        "districtLabel": [
+          "ly11-profile-46824"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46824"
+        ],
+        "serviceStart": [
+          "ly11-profile-46824"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46826",
+      "name": "游顥",
+      "districtLabel": "南投縣第2選舉區",
+      "seatType": "district",
+      "regionName": "南投縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46826"
+        ],
+        "districtLabel": [
+          "ly11-profile-46826"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46826"
+        ],
+        "serviceStart": [
+          "ly11-profile-46826"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46827",
+      "name": "黃仁",
+      "districtLabel": "平地原住民選舉區",
+      "seatType": "plains_indigenous",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46827"
+        ],
+        "districtLabel": [
+          "ly11-profile-46827"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46827"
+        ],
+        "serviceStart": [
+          "ly11-profile-46827"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46828",
+      "name": "黃秀芳",
+      "districtLabel": "彰化縣第2選舉區",
+      "seatType": "district",
+      "regionName": "彰化縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46828"
+        ],
+        "districtLabel": [
+          "ly11-profile-46828"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46828"
+        ],
+        "serviceStart": [
+          "ly11-profile-46828"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46829",
+      "name": "黃建賓",
+      "districtLabel": "臺東縣選舉區",
+      "seatType": "district",
+      "regionName": "臺東縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46829"
+        ],
+        "districtLabel": [
+          "ly11-profile-46829"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46829"
+        ],
+        "serviceStart": [
+          "ly11-profile-46829"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46831",
+      "name": "黃健豪",
+      "districtLabel": "臺中市第5選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46831"
+        ],
+        "districtLabel": [
+          "ly11-profile-46831"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46831"
+        ],
+        "serviceStart": [
+          "ly11-profile-46831"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46833",
+      "name": "黃捷",
+      "districtLabel": "高雄市第6選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46833"
+        ],
+        "districtLabel": [
+          "ly11-profile-46833"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46833"
+        ],
+        "serviceStart": [
+          "ly11-profile-46833"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46834",
+      "name": "楊曜",
+      "districtLabel": "澎湖縣選舉區",
+      "seatType": "district",
+      "regionName": "澎湖縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46834"
+        ],
+        "districtLabel": [
+          "ly11-profile-46834"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46834"
+        ],
+        "serviceStart": [
+          "ly11-profile-46834"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46835",
+      "name": "楊瓊瓔",
+      "districtLabel": "臺中市第3選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46835"
+        ],
+        "districtLabel": [
+          "ly11-profile-46835"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46835"
+        ],
+        "serviceStart": [
+          "ly11-profile-46835"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46836",
+      "name": "萬美玲",
+      "districtLabel": "桃園市第4選舉區",
+      "seatType": "district",
+      "regionName": "桃園市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46836"
+        ],
+        "districtLabel": [
+          "ly11-profile-46836"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46836"
+        ],
+        "serviceStart": [
+          "ly11-profile-46836"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46837",
+      "name": "葉元之",
+      "districtLabel": "新北市第7選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46837"
+        ],
+        "districtLabel": [
+          "ly11-profile-46837"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46837"
+        ],
+        "serviceStart": [
+          "ly11-profile-46837"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46838",
+      "name": "葛如鈞",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46838"
+        ],
+        "districtLabel": [
+          "ly11-profile-46838"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46838"
+        ],
+        "serviceStart": [
+          "ly11-profile-46838"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46839",
+      "name": "廖先翔",
+      "districtLabel": "新北市第12選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46839"
+        ],
+        "districtLabel": [
+          "ly11-profile-46839"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46839"
+        ],
+        "serviceStart": [
+          "ly11-profile-46839"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46840",
+      "name": "廖偉翔",
+      "districtLabel": "臺中市第4選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46840"
+        ],
+        "districtLabel": [
+          "ly11-profile-46840"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46840"
+        ],
+        "serviceStart": [
+          "ly11-profile-46840"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46841",
+      "name": "劉建國",
+      "districtLabel": "雲林縣第2選舉區",
+      "seatType": "district",
+      "regionName": "雲林縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46841"
+        ],
+        "districtLabel": [
+          "ly11-profile-46841"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46841"
+        ],
+        "serviceStart": [
+          "ly11-profile-46841"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46842",
+      "name": "蔡其昌",
+      "districtLabel": "臺中市第1選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46842"
+        ],
+        "districtLabel": [
+          "ly11-profile-46842"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46842"
+        ],
+        "serviceStart": [
+          "ly11-profile-46842"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46843",
+      "name": "蔡易餘",
+      "districtLabel": "嘉義縣第1選舉區",
+      "seatType": "district",
+      "regionName": "嘉義縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46843"
+        ],
+        "districtLabel": [
+          "ly11-profile-46843"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46843"
+        ],
+        "serviceStart": [
+          "ly11-profile-46843"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46844",
+      "name": "鄭天財Sra Kacaw",
+      "districtLabel": "平地原住民選舉區",
+      "seatType": "plains_indigenous",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46844"
+        ],
+        "districtLabel": [
+          "ly11-profile-46844"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46844"
+        ],
+        "serviceStart": [
+          "ly11-profile-46844"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46845",
+      "name": "鄭正鈐",
+      "districtLabel": "新竹市選舉區",
+      "seatType": "district",
+      "regionName": "新竹市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46845"
+        ],
+        "districtLabel": [
+          "ly11-profile-46845"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46845"
+        ],
+        "serviceStart": [
+          "ly11-profile-46845"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46846",
+      "name": "魯明哲",
+      "districtLabel": "桃園市第3選舉區",
+      "seatType": "district",
+      "regionName": "桃園市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46846"
+        ],
+        "districtLabel": [
+          "ly11-profile-46846"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46846"
+        ],
+        "serviceStart": [
+          "ly11-profile-46846"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46847",
+      "name": "盧縣一",
+      "districtLabel": "山地原住民選舉區",
+      "seatType": "mountain_indigenous",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46847"
+        ],
+        "districtLabel": [
+          "ly11-profile-46847"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46847"
+        ],
+        "serviceStart": [
+          "ly11-profile-46847"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46848",
+      "name": "賴士葆",
+      "districtLabel": "臺北市第8選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46848"
+        ],
+        "districtLabel": [
+          "ly11-profile-46848"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46848"
+        ],
+        "serviceStart": [
+          "ly11-profile-46848"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46849",
+      "name": "賴惠員",
+      "districtLabel": "臺南市第1選舉區",
+      "seatType": "district",
+      "regionName": "臺南市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46849"
+        ],
+        "districtLabel": [
+          "ly11-profile-46849"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46849"
+        ],
+        "serviceStart": [
+          "ly11-profile-46849"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46850",
+      "name": "賴瑞隆",
+      "districtLabel": "高雄市第8選舉區",
+      "seatType": "district",
+      "regionName": "高雄市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46850"
+        ],
+        "districtLabel": [
+          "ly11-profile-46850"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46850"
+        ],
+        "serviceStart": [
+          "ly11-profile-46850"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46851",
+      "name": "謝衣鳯",
+      "districtLabel": "彰化縣第3選舉區",
+      "seatType": "district",
+      "regionName": "彰化縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46851"
+        ],
+        "districtLabel": [
+          "ly11-profile-46851"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46851"
+        ],
+        "serviceStart": [
+          "ly11-profile-46851"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46852",
+      "name": "謝龍介",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46852"
+        ],
+        "districtLabel": [
+          "ly11-profile-46852"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46852"
+        ],
+        "serviceStart": [
+          "ly11-profile-46852"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46853",
+      "name": "鍾佳濱",
+      "districtLabel": "屏東縣第1選舉區",
+      "seatType": "district",
+      "regionName": "屏東縣",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46853"
+        ],
+        "districtLabel": [
+          "ly11-profile-46853"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46853"
+        ],
+        "serviceStart": [
+          "ly11-profile-46853"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46854",
+      "name": "韓國瑜",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46854"
+        ],
+        "districtLabel": [
+          "ly11-profile-46854"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46854"
+        ],
+        "serviceStart": [
+          "ly11-profile-46854"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46855",
+      "name": "顏寬恒",
+      "districtLabel": "臺中市第2選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46855"
+        ],
+        "districtLabel": [
+          "ly11-profile-46855"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46855"
+        ],
+        "serviceStart": [
+          "ly11-profile-46855"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46856",
+      "name": "羅廷瑋",
+      "districtLabel": "臺中市第6選舉區",
+      "seatType": "district",
+      "regionName": "臺中市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46856"
+        ],
+        "districtLabel": [
+          "ly11-profile-46856"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46856"
+        ],
+        "serviceStart": [
+          "ly11-profile-46856"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46857",
+      "name": "羅明才",
+      "districtLabel": "新北市第11選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46857"
+        ],
+        "districtLabel": [
+          "ly11-profile-46857"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46857"
+        ],
+        "serviceStart": [
+          "ly11-profile-46857"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46858",
+      "name": "羅美玲",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46858"
+        ],
+        "districtLabel": [
+          "ly11-profile-46858"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46858"
+        ],
+        "serviceStart": [
+          "ly11-profile-46858"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46859",
+      "name": "羅智強",
+      "districtLabel": "臺北市第6選舉區",
+      "seatType": "district",
+      "regionName": "臺北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46859"
+        ],
+        "districtLabel": [
+          "ly11-profile-46859"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46859"
+        ],
+        "serviceStart": [
+          "ly11-profile-46859"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46860",
+      "name": "蘇巧慧",
+      "districtLabel": "新北市第5選舉區",
+      "seatType": "district",
+      "regionName": "新北市",
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46860"
+        ],
+        "districtLabel": [
+          "ly11-profile-46860"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46860"
+        ],
+        "serviceStart": [
+          "ly11-profile-46860"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46861",
+      "name": "蘇清泉",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46861"
+        ],
+        "districtLabel": [
+          "ly11-profile-46861"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46861"
+        ],
+        "serviceStart": [
+          "ly11-profile-46861"
+        ]
+      }
+    },
+    {
+      "id": "ly11-55030",
+      "name": "王正旭",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-02-19",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-55030"
+        ],
+        "districtLabel": [
+          "ly11-profile-55030"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-55030"
+        ],
+        "serviceStart": [
+          "ly11-profile-55030"
+        ]
+      }
+    },
+    {
+      "id": "ly11-55855",
+      "name": "王義川",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2024-12-02",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-55855"
+        ],
+        "districtLabel": [
+          "ly11-profile-55855"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-55855"
+        ],
+        "serviceStart": [
+          "ly11-profile-55855"
+        ]
+      }
+    },
+    {
+      "id": "ly11-77699",
+      "name": "劉書彬",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2025-03-14",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-77699"
+        ],
+        "districtLabel": [
+          "ly11-profile-77699"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-77699"
+        ],
+        "serviceStart": [
+          "ly11-profile-77699"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56378",
+      "name": "洪毓祥",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2026-02-03",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56378"
+        ],
+        "districtLabel": [
+          "ly11-profile-56378"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56378"
+        ],
+        "serviceStart": [
+          "ly11-profile-56378"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56398",
+      "name": "蔡春綢",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2026-02-03",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56398"
+        ],
+        "districtLabel": [
+          "ly11-profile-56398"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56398"
+        ],
+        "serviceStart": [
+          "ly11-profile-56398"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56418",
+      "name": "王安祥",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2026-02-03",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56418"
+        ],
+        "districtLabel": [
+          "ly11-profile-56418"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56418"
+        ],
+        "serviceStart": [
+          "ly11-profile-56418"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56438",
+      "name": "邱慧洳",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2026-02-03",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56438"
+        ],
+        "districtLabel": [
+          "ly11-profile-56438"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56438"
+        ],
+        "serviceStart": [
+          "ly11-profile-56438"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56458",
+      "name": "陳清龍",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2026-02-03",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56458"
+        ],
+        "districtLabel": [
+          "ly11-profile-56458"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56458"
+        ],
+        "serviceStart": [
+          "ly11-profile-56458"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56585",
+      "name": "許忠信",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "active",
+      "serviceStart": "2026-04-22",
+      "serviceEnd": null,
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56585"
+        ],
+        "districtLabel": [
+          "ly11-profile-56585"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56585"
+        ],
+        "serviceStart": [
+          "ly11-profile-56585"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46784",
+      "name": "林國成",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": "2026-02-01",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46784"
+        ],
+        "districtLabel": [
+          "ly11-profile-46784"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46784"
+        ],
+        "serviceStart": [
+          "ly11-profile-46784"
+        ],
+        "serviceEnd": [
+          "ly11-profile-46784"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46864",
+      "name": "林憶君",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": "2026-02-01",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46864"
+        ],
+        "districtLabel": [
+          "ly11-profile-46864"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46864"
+        ],
+        "serviceStart": [
+          "ly11-profile-46864"
+        ],
+        "serviceEnd": [
+          "ly11-profile-46864"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46803",
+      "name": "張啓楷",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": "2026-02-01",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46803"
+        ],
+        "districtLabel": [
+          "ly11-profile-46803"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46803"
+        ],
+        "serviceStart": [
+          "ly11-profile-46803"
+        ],
+        "serviceEnd": [
+          "ly11-profile-46803"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46756",
+      "name": "麥玉珍",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": "2026-02-01",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46756"
+        ],
+        "districtLabel": [
+          "ly11-profile-46756"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46756"
+        ],
+        "serviceStart": [
+          "ly11-profile-46756"
+        ],
+        "serviceEnd": [
+          "ly11-profile-46756"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46830",
+      "name": "黃珊珊",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": "2026-02-01",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46830"
+        ],
+        "districtLabel": [
+          "ly11-profile-46830"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46830"
+        ],
+        "serviceStart": [
+          "ly11-profile-46830"
+        ],
+        "serviceEnd": [
+          "ly11-profile-46830"
+        ]
+      }
+    },
+    {
+      "id": "ly11-46832",
+      "name": "黃國昌",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2024-02-01",
+      "serviceEnd": "2026-02-01",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-46832"
+        ],
+        "districtLabel": [
+          "ly11-profile-46832"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-46832"
+        ],
+        "serviceStart": [
+          "ly11-profile-46832"
+        ],
+        "serviceEnd": [
+          "ly11-profile-46832"
+        ]
+      }
+    },
+    {
+      "id": "ly11-56478",
+      "name": "李貞秀",
+      "districtLabel": "全國不分區及僑居國外國民",
+      "seatType": "party_list",
+      "regionName": null,
+      "mandateStatus": "former",
+      "serviceStart": "2026-02-03",
+      "serviceEnd": "2026-04-13",
+      "fieldSourceIds": {
+        "name": [
+          "ly11-roster",
+          "ly11-profile-56478"
+        ],
+        "districtLabel": [
+          "ly11-profile-56478"
+        ],
+        "mandateStatus": [
+          "ly11-roster",
+          "ly11-profile-56478"
+        ],
+        "serviceStart": [
+          "ly11-profile-56478"
+        ],
+        "serviceEnd": [
+          "ly11-profile-56478"
+        ]
+      }
+    }
+  ],
+  "researchNotes": [
+    "官方頁面同時列出現任及所有離職委員；公開人物限 2026-01-01 至基準日曾在職者。",
+    "選區文字照錄立法院個人頁；縣市只作清單分類，不代表真實選區邊界。"
+  ]
+}

@@ -12,6 +12,7 @@
     "typecheck": "npm run typecheck -w @legismap/web",
     "test": "npm run test -w @legismap/web",
     "test:browser": "npm run test:browser -w @legismap/web",
-    "data:validate": "node scripts/validate-research.mjs"
+    "data:validate": "node scripts/validate-2026.mjs",
+    "data:validate:legacy": "node scripts/validate-research.mjs"
   }
 }
