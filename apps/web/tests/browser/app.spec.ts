@@ -5,6 +5,8 @@ test('real roster, county navigation, profile field sources, and browser history
   await expect(page.getByRole('heading', { name: '從地圖，看見你的國會代表。' })).toBeVisible();
   await expect(page.getByText('資料截至 2026-09-17')).toBeVisible();
   await expect(page.getByRole('link', { name: /立法院第 11 屆名單/ })).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=109');
+  await expect(page.getByRole('heading', { name: '區域委員' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '此縣市沒有區域席次資料' })).toHaveCount(0);
   await page.getByRole('button', { name: '臺北市', exact: true }).click();
   await expect(page).toHaveURL(/\/region\/63000$/);
   await expect(page.getByRole('heading', { name: '臺北市' })).toBeVisible();
@@ -15,8 +17,12 @@ test('real roster, county navigation, profile field sources, and browser history
   await expect(page.getByRole('link', { name: /選區來源：立法院 王世堅委員/ })).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758');
   await page.reload();
   await expect(page.getByRole('heading', { name: '王世堅' })).toBeVisible();
-  await page.goBack();
-  await expect(page).toHaveURL(/\/region\/63000$/);
+  const mapReturn = page.getByRole('button', { name: '返回全台', exact: true });
+  await expect(mapReturn).toBeEnabled();
+  await mapReturn.click();
+  await expect(page).toHaveURL(/\/$/);
+  await expect(page.getByRole('heading', { name: '全台灣' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '區域委員' })).toBeVisible();
 });
 
 test('special seats and former member are accessible on mobile', async ({ page }) => {

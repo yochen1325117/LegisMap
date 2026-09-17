@@ -10,6 +10,12 @@ const specialSeats = [
   ['mountain_indigenous', '山地原住民選舉區'],
 ] as const;
 
+// Fit the main island rather than the full national extent, which includes distant islands.
+const mainlandView = {
+  type: 'Polygon' as const,
+  coordinates: [[[119.65, 21.35], [122.55, 21.35], [122.55, 25.9], [119.65, 25.9], [119.65, 21.35]]],
+};
+
 function SourceLinks({ items, label }: { items: SourceRecord[]; label: string }) {
   return <span className="field-sources">{items.map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.title}｜${source.evidenceLocator}｜查閱 ${source.accessedAt}`} aria-label={`${label}來源：${source.publisher} ${source.title}`}>來源 ↗</a>)}</span>;
 }
@@ -44,8 +50,8 @@ function MemberList({ items, onOpen }: { items: MemberRecord[]; onOpen: (id: str
   return <div className="member-list">{items.map(member => <MemberCard key={member.id} member={member} onOpen={() => onOpen(member.id)} />)}</div>;
 }
 
-function DetailPanel({ regionName, member, onMember, onBack }: {
-  regionName: string; member?: MemberRecord; onMember: (id: string) => void; onBack: () => void;
+function DetailPanel({ regionName, isCountry, member, onMember, onBack }: {
+  regionName: string; isCountry: boolean; member?: MemberRecord; onMember: (id: string) => void; onBack: () => void;
 }) {
   if (member) return <div className="panel-content">
     <button className="text-back" onClick={onBack}>← 返回名單</button>
@@ -54,12 +60,12 @@ function DetailPanel({ regionName, member, onMember, onBack }: {
     <p className="source-note">資料基準日：{dataAsOfDate}。選區文字照錄立法院個人頁；人物頁資料由委員研究室提供，請以來源頁面為準。</p>
   </div>;
 
-  const visible = regionName === '全台灣' ? members : membersForRegion(regionName);
+  const visible = isCountry ? members : membersForRegion(regionName);
   const districtMembers = visible.filter(item => item.seatType === 'district');
   return <div className="panel-content"><div className="panel-intro"><span className="eyebrow">2026 LEGISLATORS</span><h2>{regionName}</h2><p>2026-01-01 至 {dataAsOfDate} 曾在職的第 11 屆立法委員。縣市清單依官方選區文字分類。</p><p className="roster-source">名單來源：<a href={rosterSource.url} target="_blank" rel="noopener noreferrer">{rosterSource.publisher}第 11 屆名單 ↗</a></p></div>
     <div className="summary-strip"><div><strong>{visible.length}</strong><span>曾在職委員</span></div><div><strong>{visible.filter(item => item.mandateStatus === 'active').length}</strong><span>目前在職</span></div></div>
-    <section className="panel-section"><div className="section-heading"><span className="eyebrow">DISTRICT SEATS</span><h3>{regionName === '全台灣' ? '區域委員' : '此縣市委員'} <span className="section-count">{districtMembers.length}</span></h3></div>{districtMembers.length ? <MemberList items={districtMembers} onOpen={onMember} /> : <div className="empty-state"><h4>此縣市沒有區域席次資料</h4><p>不分區與原住民席次請從全台灣名單查看。</p></div>}</section>
-    {regionName === '全台灣' && specialSeats.map(([type, label]) => <section className="panel-section" key={type}><div className="section-heading"><h3>{label} <span className="section-count">{members.filter(item => item.seatType === type).length}</span></h3></div><MemberList items={members.filter(item => item.seatType === type)} onOpen={onMember} /></section>)}
+    <section className="panel-section"><div className="section-heading"><span className="eyebrow">DISTRICT SEATS</span><h3>{isCountry ? '區域委員' : '此縣市委員'} <span className="section-count">{districtMembers.length}</span></h3></div>{districtMembers.length ? <MemberList items={districtMembers} onOpen={onMember} /> : <div className="empty-state"><h4>此縣市沒有區域席次資料</h4><p>不分區與原住民席次請從全台灣名單查看。</p></div>}</section>
+    {isCountry && specialSeats.map(([type, label]) => <section className="panel-section" key={type}><div className="section-heading"><h3>{label} <span className="section-count">{members.filter(item => item.seatType === type).length}</span></h3></div><MemberList items={members.filter(item => item.seatType === type)} onOpen={onMember} /></section>)}
   </div>;
 }
 
@@ -74,14 +80,40 @@ export function App() {
   const [navOpen, setNavOpen] = useState(false);
   const [panelOpen, setPanelOpen] = useState(true);
   const [copied, setCopied] = useState(false);
-  const regionId = regionMatch?.params.regionId ?? 'TW';
-  const regionName = regionNames[regionId] ?? '全台灣';
+  const memberRegionId = selectedMember?.regionName
+    ? Object.entries(regionNames).find(([, name]) => name === selectedMember.regionName)?.[0]
+    : undefined;
+  const regionId = regionMatch?.params.regionId ?? memberRegionId ?? 'TW';
+  const regionName = regionId === 'TW' ? '全台灣' : regionNames[regionId] ?? '全台灣';
   useEffect(() => {
     if (!map) return;
     let cancelled = false;
     void map.listRegions('TW').then(items => { if (!cancelled) setRegionNames(current => ({ ...current, ...Object.fromEntries(items.map(item => [item.id, item.name])) })); });
     return () => { cancelled = true; };
   }, [map]);
+  useEffect(() => {
+    if (!map || regionId !== 'TW') return;
+    let cancelled = false;
+    let frame = 0;
+    let observer: ResizeObserver | null = null;
+    const fitMainland = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(() => {
+        if (!cancelled) void map.fitGeometry(mainlandView).catch(error => { if (!cancelled) onMapError(error); });
+      });
+    };
+    void map.ready.then(async () => {
+      if (cancelled) return;
+      const viewport = document.querySelector('.taiwan-atlas__viewport');
+      if (viewport) {
+        observer = new ResizeObserver(fitMainland);
+        observer.observe(viewport);
+      }
+      await map.selectRegion('TW');
+      if (!cancelled) fitMainland();
+    }).catch(error => { if (!cancelled) onMapError(error); });
+    return () => { cancelled = true; cancelAnimationFrame(frame); observer?.disconnect(); };
+  }, [map, regionId]);
   const chooseRegion = (id: string) => { navigate(id === 'TW' ? '/' : `/region/${id.slice(0, 5)}`); setPanelOpen(true); };
   const chooseMember = (id: string) => { navigate(`/legislator/${id}`); setPanelOpen(true); };
   const onRegionChange = (region: RegionMeta) => setRegionNames(current => current[region.id] === region.name ? current : { ...current, [region.id]: region.name });
@@ -96,7 +128,7 @@ export function App() {
       {navOpen && <button className="mobile-backdrop" aria-label="關閉地區選單" onClick={() => setNavOpen(false)} />}
       <aside className={`left-rail ${navOpen ? 'is-open' : ''}`}><button className="mobile-close" onClick={() => setNavOpen(false)}>關閉 ×</button><RegionNavigator map={map} selectedId={regionId} onSelect={chooseRegion} onClose={() => setNavOpen(false)} /></aside>
       <main className="map-area"><div className="map-heading"><div><span className="eyebrow">INTERACTIVE ATLAS</span><h1>從地圖，看見你的國會代表。</h1></div><button onClick={() => chooseRegion('TW')}>返回全台 ↗</button></div><div className="map-stage"><TaiwanDrilldownMap regionId={regionId} onRegionIdChange={chooseRegion} onRegionChange={onRegionChange} onError={onMapError} mapRef={setMap} style={{ height: '100%' }} />{mapError && <div className="map-error" role="alert">地圖無法載入：{mapError}</div>}<div className="map-legend"><span><i className="legend-admin" />行政區</span></div></div><div className="map-caption"><span>底圖：Taiwan-Atlas</span><span>選區分類依立法院個人頁文字</span></div></main>
-      <aside className={`right-panel ${panelOpen ? 'is-open' : ''}`} aria-label="地區與人物資料"><div className="panel-mobile-handle"><button onClick={() => setPanelOpen(open => !open)}>{panelOpen ? '收合資料' : '查看資料'} {panelOpen ? '⌄' : '⌃'}</button></div><DetailPanel regionName={regionName} member={selectedMember} onMember={chooseMember} onBack={() => chooseRegion('TW')} /></aside>
+      <aside className={`right-panel ${panelOpen ? 'is-open' : ''}`} aria-label="地區與人物資料"><div className="panel-mobile-handle"><button onClick={() => setPanelOpen(open => !open)}>{panelOpen ? '收合資料' : '查看資料'} {panelOpen ? '⌄' : '⌃'}</button></div><DetailPanel regionName={regionName} isCountry={regionId === 'TW'} member={selectedMember} onMember={chooseMember} onBack={() => chooseRegion(memberRegionId ?? 'TW')} /></aside>
     </div>
   </div>;
 }
