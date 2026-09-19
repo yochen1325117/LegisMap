@@ -172,4 +172,17 @@ describe('2026 legislator snapshot', () => {
     expect(research?.events.filter(event => event.category === 'concern')).toHaveLength(2);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
+
+  it('covers both Yunlin members with sourced proposals and qualified outcomes', () => {
+    const yunlin = membersForRegion('雲林縣');
+    expect(yunlin).toHaveLength(2);
+    for (const member of yunlin) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+    const ding = yunlin.find(member => member.name === '丁學忠');
+    expect(eventMembers.get(ding!.id)?.events.some(event => event.category === 'concern' && event.processStatus === 'resolved')).toBe(true);
+  });
 });

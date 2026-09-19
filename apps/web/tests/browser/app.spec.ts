@@ -180,3 +180,15 @@ test('Hualien profile distinguishes constitutional review from personal liabilit
   await page.reload();
   await expect(page.getByRole('heading', { name: '罷免理由與答辯中的花東交通及問政爭議' })).toBeVisible();
 });
+
+test('Yunlin profiles retain sourced events after direct load and reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46752');
+  await expect(page.getByRole('heading', { name: '丁學忠' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政爭議' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央選舉委員會/ }).first()).toHaveAttribute('href', /web\.cec\.gov\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出土石採取法第36條修正草案' })).toBeVisible();
+  await page.goto('/legislator/ly11-46841');
+  await expect(page.getByRole('heading', { name: '劉建國' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '協助為花蓮洪災募物並響應捐款' })).toBeVisible();
+});
