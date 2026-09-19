@@ -1,0 +1,36 @@
+{
+  "documentType":"legislatorEventBatch",
+  "schemaVersion":"1.0.0",
+  "batchId":"chiayi-county-2026-09-19",
+  "regionName":"嘉義縣",
+  "researchedAt":"2026-09-19",
+  "periodStart":"2021-09-19",
+  "reviewStatus":"verified",
+  "memberIds":["ly11-46817","ly11-46843"],
+  "sources":[
+    {"id":"cyx-chen-sports","title":"運動部組織法草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110081960000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列陳冠廷等20人運動部組織法草案；114年1月7日三讀"},
+    {"id":"cyx-chen-euthanasia","title":"安樂死法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110155060000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人陳冠廷等18人；進度為交付審查"},
+    {"id":"cyx-chen-euthanasia-report","title":"立委陳冠廷：已提安樂死法草案 盼國會盡速排審立法","publisher":"中央通訊社（華視轉載）","url":"https://news.cts.com.tw/cna/politics/202607/202607143055198.html","sourceType":"news","publishedAt":"2026-07-14","accessedAt":"2026-09-19","evidenceLocator":"陳冠廷稱2025年8月已提案，至2026年7月尚未排審"},
+    {"id":"cyx-chen-france","title":"立委陳冠廷獲選未來人物計畫訪法 聚焦台海穩定","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202502180027.aspx","sourceType":"news","publishedAt":"2025-02-18","accessedAt":"2026-09-19","evidenceLocator":"內文：2025年2月12日至19日參與法國外交部未來人物計畫，拜會外交部與國會等"},
+    {"id":"cyx-tsai-rebuild","title":"丹娜絲颱風及七二八豪雨災後復原重建特別條例草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110155340000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人蔡易餘等32人；114年8月15日多版本併案三讀"},
+    {"id":"cyx-tsai-tech","title":"科技偵查及保障法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110055780000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人蔡易餘等17人；113年6月14日交付協商，後重付審查"},
+    {"id":"cyx-tsai-clothes","title":"蔡易餘攜基金會助百名院童購衣 提前歡度兒童節","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202503300096.aspx","sourceType":"news","publishedAt":"2025-03-30","accessedAt":"2026-09-19","evidenceLocator":"活動報導：蔡易餘媒合清景麟教育基金會，100名孩童參與購衣；購衣金由基金會提供"},
+    {"id":"cyx-tsai-clash","title":"財劃法衝突陳永康受傷 蔡易餘：狀況混亂無攻擊意圖","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202411080292.aspx","sourceType":"news","publishedAt":"2024-11-08","accessedAt":"2026-09-19","evidenceLocator":"國民黨團指陳永康在財劃法審查衝突中受傷；蔡易餘表示無攻擊意圖"},
+    {"id":"cyx-tsai-clash-meeting","title":"第11屆第2會期財政委員會第6次全體委員會議","publisher":"立法院議事轉播","url":"https://ivod.ly.gov.tw/Play/Full/1M/16231","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"會議時間2024年11月6日09:00，審查財政收支劃分法；僅證實會議時地"},
+    {"id":"cyx-tsai-radio","title":"蔡易餘談從政前求學路、嚴母監督讀書送他去禪寺","publisher":"放言","url":"https://www.fountmedia.io/article/357990","sourceType":"news","publishedAt":"2026-03-06","accessedAt":"2026-09-19","evidenceLocator":"廣播節目受訪自述高三時母親送他至禪寺準備聯考；日期為受訪報導日"}
+  ],
+  "members":[
+    {"memberId":"ly11-46817","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"cyx-chen-sports-2025","category":"contribution","occurredAt":"2025-01-07","title":"提出運動部組織法草案","summary":"立法院併案紀錄列陳冠廷等20人提出《運動部組織法》草案；日期為多版本併案三讀日。","role":"提案委員","outcome":"併案三讀，不能將最後條文全歸於陳冠廷版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-chen-sports"]},
+      {"id":"cyx-chen-euthanasia-2026","category":"contribution","occurredAt":"2026-07-14","title":"提出安樂死法草案並促請排審","summary":"立法院議案列陳冠廷等18人提出《安樂死法》草案；2026年7月14日他表示草案已交付委員會，但尚未排審。日期為發言報導日。","role":"提案委員","outcome":"交付審查，尚未以來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-chen-euthanasia","cyx-chen-euthanasia-report"]},
+      {"id":"cyx-chen-france-2025","category":"anecdote","occurredAt":"2025-02-18","title":"獲法國未來人物計畫邀請參訪","summary":"中央社報導陳冠廷獲選法國外交部2025年未來人物計畫，2月12日至19日訪法並會晤政府與國會人士；日期為報導日。","role":"受邀參訪立委","outcome":"已進行一週參訪，不推定具體外交成果","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-chen-france"]}
+    ]},
+    {"memberId":"ly11-46843","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"cyx-tsai-rebuild-2025","category":"contribution","occurredAt":"2025-08-15","title":"提出丹娜絲颱風災後重建特別條例草案","summary":"立法院議案列蔡易餘等32人提出丹娜絲颱風及七二八豪雨災後重建特別條例草案；日期為院會排入議程日。","role":"提案委員","outcome":"與行政院及其他委員版本併案，不能把最後內容全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-tsai-rebuild"]},
+      {"id":"cyx-tsai-tech-2024","category":"contribution","occurredAt":"2024-06-14","title":"提出科技偵查及保障法草案","summary":"立法院議案紀錄列蔡易餘等17人提出《科技偵查及保障法》草案；日期為交付協商日。","role":"提案委員","outcome":"經交付協商後重付審查，不據此推定法案通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-tsai-tech"]},
+      {"id":"cyx-tsai-clothes-2025","category":"good_deed","occurredAt":"2025-03-30","title":"媒合基金會協助百名兒童購衣","summary":"中央社報導蔡易餘媒合清景麟教育基金會，邀請約100名院童及弱勢家庭兒童購衣；每人2000元購衣金由基金會提供，不能記為蔡易餘個人捐款。","role":"公益活動媒合者、參與者","outcome":"購衣活動已舉行，孩童當日選購衣物","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-tsai-clothes"]},
+      {"id":"cyx-tsai-clash-2024","category":"concern","occurredAt":"2024-11-06","title":"財劃法審查推擠與陳永康受傷爭議","summary":"2024年11月6日立法院財政委員會審查財劃法時發生推擠，國民黨團指陳永康受傷與民進黨立委衝突有關，蔡易餘被點名；蔡易餘表示現場混亂、沒有攻擊任何人的意圖。來源無法確認傷勢由何人造成。","role":"被點名的衝突參與者","outcome":"陳永康受傷及雙方說法見報；未以來源確認司法責任","processStatus":"documented","personResponse":"蔡易餘表示沒有攻擊任何人的意圖，並曾向陳永康致意","resolution":"因果與個人責任尚無可核實的確定結論","sourceIds":["cyx-tsai-clash","cyx-tsai-clash-meeting"]},
+      {"id":"cyx-tsai-radio-2026","category":"anecdote","occurredAt":"2026-03-06","title":"回憶母親送他到禪寺準備聯考","summary":"蔡易餘於2026年廣播訪談自述，高三時母親為督促讀書曾送他到禪寺；日期為訪談報導日，內容屬本人回憶。","role":"訪談受訪者","outcome":"媒體記錄其求學回憶","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyx-tsai-radio"]}
+    ]}
+  ]
+}

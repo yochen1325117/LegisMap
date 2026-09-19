@@ -202,3 +202,15 @@ test('Chiayi City profile shows sourced donation and qualified dispute after rel
   await expect(page.getByRole('heading', { name: '議場推擠中遭指對駐衛警動粗' })).toBeVisible();
   await expect(page.getByText(/不足以認定刑事責任/)).toBeVisible();
 });
+
+test('Chiayi County profiles show directly sourced events after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46817');
+  await expect(page.getByRole('heading', { name: '陳冠廷' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '提出安樂死法草案並促請排審' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /立法院/ }).first()).toHaveAttribute('href', /ly\.gov\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '獲法國未來人物計畫邀請參訪' })).toBeVisible();
+  await page.goto('/legislator/ly11-46843');
+  await expect(page.getByRole('heading', { name: '蔡易餘' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '財劃法審查推擠與陳永康受傷爭議' })).toBeVisible();
+});

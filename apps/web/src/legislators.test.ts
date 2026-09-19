@@ -194,4 +194,17 @@ describe('2026 legislator snapshot', () => {
     expect(new Set(research?.events.map(event => event.category))).toEqual(new Set(['contribution', 'good_deed', 'concern', 'anecdote']));
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
+
+  it('covers both Chiayi County members with sourced proposals and qualified claims', () => {
+    const county = membersForRegion('嘉義縣');
+    expect(county).toHaveLength(2);
+    for (const member of county) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+    const tsai = county.find(member => member.name === '蔡易餘');
+    expect(eventMembers.get(tsai!.id)?.events.some(event => event.category === 'concern')).toBe(true);
+  });
 });
