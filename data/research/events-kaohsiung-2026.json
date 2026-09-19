@@ -1,0 +1,56 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "kaohsiung-2026-09-19",
+  "regionName": "高雄市",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46772", "ly11-46774", "ly11-46780", "ly11-46788", "ly11-46791", "ly11-46809", "ly11-46833", "ly11-46850"],
+  "sources": [
+    {"id":"kh-kunze-bill","title":"技師法第十一條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110177990000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列李昆澤等19人；114年12月16日三讀"},
+    {"id":"kh-boyi-bill","title":"律師法增訂第三十五條之一及第三十五條之二條文草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110203030000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列李柏毅等；115年4月10日交付審查，6月委員會審查"},
+    {"id":"kh-daihua-bill","title":"土地法第十四條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110053750000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列林岱樺等17人；113年7月15日三讀"},
+    {"id":"kh-zhiwei-bill","title":"公務人員考績法第三條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110158530000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列邱志偉等21人；114年10月28日三讀"},
+    {"id":"kh-yiying-bill","title":"電業法第六條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110105560000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列邱議瑩等16人；114年5月9日三讀"},
+    {"id":"kh-zhijie-bill","title":"政府採購法部分條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110204700000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列許智傑；115年4月10日排入院會"},
+    {"id":"kh-jie-bill","title":"總統副總統選舉罷免法第十一條及第二十三條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110209510000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列黃捷等20人；115年4月24日院會進度"},
+    {"id":"kh-ruilong-bill","title":"詐欺犯罪危害防制條例部分條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110181950000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列賴瑞隆等17人；114年12月30日三讀"},
+    {"id":"kh-daihua-prosecution","title":"涉詐助理費案遭雄檢起訴 林岱樺：問心無愧捍衛名譽","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202506230174.aspx","sourceType":"news","publishedAt":"2025-06-23","accessedAt":"2026-09-19","evidenceLocator":"高雄地檢署起訴林岱樺等10人及林岱樺回應段落"},
+    {"id":"kh-daihua-additional","title":"檢追加起訴侵占政治獻金1379萬 林岱樺：與事實不符","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202609090153.aspx","sourceType":"news","publishedAt":"2026-09-09","accessedAt":"2026-09-19","evidenceLocator":"政治獻金部分追加起訴、先前助理費案審理中及林岱樺回應段落"},
+    {"id":"kh-daihua-pts","title":"涉詐領近1500萬助理費起訴 林岱樺100萬元交保","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/757585","sourceType":"news","publishedAt":"2025-06-24","accessedAt":"2026-09-19","evidenceLocator":"高雄地檢署起訴及法院交保程序段落；非有罪判決"},
+    {"id":"kh-ruilong-scholarship","title":"賴瑞隆捐選舉補助款 頒發優秀學生獎學金","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202506290090.aspx","sourceType":"news","publishedAt":"2025-06-29","accessedAt":"2026-09-19","evidenceLocator":"2024年選舉補助款360萬元捐作獎助學金；2025年418名學生獲獎"},
+    {"id":"kh-jie-charity","title":"一日店長！立委黃捷捐二手衣物義賣 所得全數捐給公益","publisher":"民視新聞網","url":"https://www.ftvnews.com.tw/news/detail/2025905U09M1","sourceType":"news","publishedAt":"2025-09-05","accessedAt":"2026-09-19","evidenceLocator":"黃捷提供二手衣物參與義賣及所得擬捐公益段落"},
+    {"id":"kh-boyi-name","title":"同名不同人遭誤認挨罵 綠委李柏毅：認清品牌再開罵","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202609080089.aspx","sourceType":"news","publishedAt":"2026-09-08","accessedAt":"2026-09-19","evidenceLocator":"高雄立委李柏毅與臺北市議員同名遭網友誤認；本人社群回應段落"}
+  ],
+  "members": [
+    {"memberId":"ly11-46772","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-kunze-engineer-2025","category":"contribution","occurredAt":"2025-12-16","title":"提出技師法第11條修正草案","summary":"立法院併案紀錄列李昆澤等19人提出《技師法》第11條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-kunze-bill"]}
+    ]},
+    {"memberId":"ly11-46774","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-boyi-lawyer-2026","category":"contribution","occurredAt":"2026-04-10","title":"提出律師法增訂條文草案","summary":"立法院紀錄列李柏毅等19人提出《律師法》增訂第35條之1及第35條之2草案；日期為院會交付審查日。","role":"共同提案委員","outcome":"已交司法及法制委員會審查；截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-boyi-bill"]},
+      {"id":"kh-boyi-name-2026","category":"anecdote","occurredAt":"2026-09-08","title":"與臺北市議員同名而遭網友誤認","summary":"臺北市議員李柏毅的事件引發網路批評，高雄立委李柏毅因同名而被誤認，在社群發文提醒兩人並非同一人；日期為報導日。","role":"遭誤認的立法委員","outcome":"中央社報導記錄其澄清；此事件不是高雄立委涉入臺北市議員爭議","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-boyi-name"]}
+    ]},
+    {"memberId":"ly11-46780","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-daihua-land-2024","category":"contribution","occurredAt":"2024-07-15","title":"提出土地法第14條修正草案","summary":"立法院併案紀錄列林岱樺等17人提出《土地法》第14條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-daihua-bill"]},
+      {"id":"kh-daihua-case-2026","category":"concern","occurredAt":"2026-09-09","title":"助理費案審理中，政治獻金部分遭追加起訴","summary":"高雄地檢署於2025年6月依涉嫌詐領助理費等罪名起訴林岱樺等人；2026年9月又就政治獻金流向追加起訴。兩者均為檢方指控，助理費案截至查閱日仍由法院審理，未見確定有罪判決。日期為追加起訴消息發布日。","role":"被起訴的立法委員","outcome":"助理費案由高雄地方法院審理；政治獻金部分追加起訴，尚待法院審理結果","processStatus":"indicted","personResponse":"林岱樺否認檢方指控，稱追加起訴與事實不符，將與律師研究後答辯","resolution":"截至2026年9月19日未查得確定判決","sourceIds":["kh-daihua-prosecution","kh-daihua-additional","kh-daihua-pts"]}
+    ]},
+    {"memberId":"ly11-46788","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-zhiwei-assessment-2025","category":"contribution","occurredAt":"2025-10-28","title":"提出公務人員考績法第3條修正草案","summary":"立法院併案紀錄列邱志偉等21人提出《公務人員考績法》第3條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與考試院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-zhiwei-bill"]}
+    ]},
+    {"memberId":"ly11-46791","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-yiying-electricity-2025","category":"contribution","occurredAt":"2025-05-09","title":"提出電業法第6條修正草案","summary":"立法院併案紀錄列邱議瑩等16人提出《電業法》第6條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-yiying-bill"]}
+    ]},
+    {"memberId":"ly11-46809","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-zhijie-procurement-2026","category":"contribution","occurredAt":"2026-04-10","title":"提出政府採購法修正草案","summary":"立法院紀錄列許智傑等21人提出《政府採購法》部分條文修正草案；日期為院會進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-zhijie-bill"]}
+    ]},
+    {"memberId":"ly11-46833","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-jie-election-2026","category":"contribution","occurredAt":"2026-04-24","title":"提出總統副總統選舉罷免法修正草案","summary":"立法院紀錄列黃捷等20人提出《總統副總統選舉罷免法》第11條及第23條修正草案；日期為院會審議進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-jie-bill"]},
+      {"id":"kh-jie-charity-2025","category":"good_deed","occurredAt":"2025-09-05","title":"提供二手衣物參與公益義賣","summary":"黃捷整理自己的二手衣物，在二手市集擔任一日店長並參與義賣；報導稱所得預定捐作公益。日期為報導日。","role":"捐出衣物並參與義賣的立法委員","outcome":"已報導義賣活動；未以此來源確認最終捐款金額","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["kh-jie-charity"]}
+    ]},
+    {"memberId":"ly11-46850","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"kh-ruilong-fraud-2025","category":"contribution","occurredAt":"2025-12-30","title":"提出詐欺犯罪危害防制條例修正草案","summary":"立法院併案紀錄列賴瑞隆等17人提出《詐欺犯罪危害防制條例》部分條文修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["kh-ruilong-bill"]},
+      {"id":"kh-ruilong-scholarship-2025","category":"good_deed","occurredAt":"2025-06-29","title":"捐選舉補助款設獎助學金","summary":"中央社報導賴瑞隆將2024年立委選舉補助款360萬元捐作學生獎助學金等用途；2025年6月29日頒獎活動有418名學生獲獎。","role":"捐款及頒獎的立法委員","outcome":"2025年頒獎活動已舉行，418名學生獲獎","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["kh-ruilong-scholarship"]}
+    ]}
+  ]
+}

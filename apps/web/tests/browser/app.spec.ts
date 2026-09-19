@@ -239,3 +239,18 @@ test('Taitung profile shows sourced proposals and recall outcome after reload', 
   await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政及預算爭議' })).toBeVisible();
   await expect(page.getByText(/投票結果不判定理由書中個別指控真偽/)).toBeVisible();
 });
+
+test('Kaohsiung profiles show sourced events and qualified court stage', async ({ page }) => {
+  await page.goto('/legislator/ly11-46780');
+  await expect(page.getByRole('heading', { name: '林岱樺' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '助理費案審理中，政治獻金部分遭追加起訴' })).toBeVisible();
+  await expect(page.getByText('已起訴，法院審理中')).toBeVisible();
+  await expect(page.getByRole('link', { name: /公視新聞網/ })).toHaveAttribute('href', /news\.pts\.org\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出土地法第14條修正草案' })).toBeVisible();
+  for (const [id, name] of [['ly11-46772', '李昆澤'], ['ly11-46774', '李柏毅'], ['ly11-46788', '邱志偉'], ['ly11-46791', '邱議瑩'], ['ly11-46809', '許智傑'], ['ly11-46833', '黃捷'], ['ly11-46850', '賴瑞隆']]) {
+    await page.goto(`/legislator/${id}`);
+    await expect(page.getByRole('heading', { name })).toBeVisible();
+    await expect(page.locator('a[href*="ppg.ly.gov.tw"]').first()).toBeVisible();
+  }
+});

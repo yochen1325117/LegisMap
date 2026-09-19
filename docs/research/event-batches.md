@@ -9,3 +9,5 @@
 執行 `npm run data:validate`、`npm run typecheck`、`npm run test`、`npm run build` 與 `npm run test:browser`。驗證器檢查結構與來源引用；內容仍須逐則人工核對。新增批次後，確認人物頁的來源連結及重新整理載入正常。
 
 第十七批 `data/research/events-taitung-2026.json` 涵蓋臺東縣黃建賓與 3 則事件；四類均已查核，正面事蹟與逸聞因欠缺足夠可靠資料而留空。
+
+第十八批 `data/research/events-kaohsiung-2026.json` 涵蓋高雄市 8 位委員與 12 則事件；各人四類均已查核，未收錄的類別表示截至查閱日尚無足夠證據。林岱樺案件標記為已起訴、法院審理中，不當作確定有罪。

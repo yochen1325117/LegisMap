@@ -25,7 +25,7 @@ const eventCategoryLabels: Record<EventCategory, string> = {
 };
 const eventStatusLabels: Record<string, string> = {
   documented: '紀錄已核對', reported: '報導已核對', disputed: '主張有爭議',
-  investigation: '查核中', judgment_appealable: '一審判決，可上訴', resolved: '事件已有後續結果',
+  investigation: '查核中', indicted: '已起訴，法院審理中', judgment_appealable: '一審判決，可上訴', resolved: '事件已有後續結果',
 };
 
 function MemberEvents({ memberId }: { memberId: string }) {
