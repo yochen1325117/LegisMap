@@ -1,0 +1,37 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "nantou-2026-09-19",
+  "regionName": "南投縣",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46800", "ly11-46826"],
+  "sources": [
+    {"id":"nt-ma-waste","title":"廢棄物清理法部分條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110219500000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列馬文君等17人《廢棄物清理法》第5條修正草案；115年6月23日三讀"},
+    {"id":"nt-ma-education","title":"教育經費編列與管理法第三條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110104820000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列馬文君；115年7月13日審議進度"},
+    {"id":"nt-you-sports","title":"國民體育法第二條及第三條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110219750000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列游顥等16人；115年6月23日三讀"},
+    {"id":"nt-you-gender","title":"性別平等工作法第二十條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110176750000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列游顥；114年12月5日審議進度"},
+    {"id":"nt-you-books","title":"南投縣救國團之友聯誼會推動書香傳千里 攜手各界送愛到偏鄉","publisher":"救國團南投縣團委會（中央社訊息平台刊載）","url":"https://www.cna.com.tw/postwrite/chi/413989","sourceType":"statement","publishedAt":"2025-10-01","accessedAt":"2026-09-19","evidenceLocator":"2025年9月30日活動；游顥親手捐書予信義、久美與東埔國小，三校約150人受益段落"},
+    {"id":"nt-recall-result","title":"中央選舉委員會114年8月29日立法委員罷免投票結果公告","publisher":"中央選舉委員會","url":"https://web.cec.gov.tw/api/file/90c5af62-e67e-4691-ba2e-d4afb4090747.pdf","sourceType":"official","publishedAt":"2025-08-29","accessedAt":"2026-09-19","evidenceLocator":"PDF第2至3頁第六、七案：南投縣第1選舉區馬文君與第2選舉區游顥投票結果"},
+    {"id":"nt-ma-recall","title":"立委馬文君罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507175003.aspx","sourceType":"news","publishedAt":"2025-07-17","accessedAt":"2026-09-19","evidenceLocator":"中選會公告罷免理由與馬文君答辯書全文；潛艦及國防預算段落"},
+    {"id":"nt-you-recall","title":"立委游顥罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507175004.aspx","sourceType":"news","publishedAt":"2025-07-17","accessedAt":"2026-09-19","evidenceLocator":"中選會公告罷免理由與游顥答辯書全文；法案程序與陸配年限段落"},
+    {"id":"nt-ma-complaint","title":"潛艦國造案 郭璽提2事證告發馬文君涉洩密","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202401180096.aspx","sourceType":"news","publishedAt":"2024-01-18","accessedAt":"2026-09-19","evidenceLocator":"郭璽赴高檢署告發及提出事證的程序段落；指控屬告發人主張"},
+    {"id":"nt-ma-investigation","title":"潛艦洩密／今首度遭高檢署傳喚 郭璽：會提供完整音檔","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/667095","sourceType":"news","publishedAt":"2023-11-17","accessedAt":"2026-09-19","evidenceLocator":"高檢署分他字案及馬文君證實接受傳喚、否認洩密段落"},
+    {"id":"nt-ma-response","title":"馬文君游顥罷免案8/23投票 中選會公告理由與答辯書","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507170316.aspx","sourceType":"news","publishedAt":"2025-07-17","accessedAt":"2026-09-19","evidenceLocator":"馬文君答辯稱沒有洩密、資料已交國防部查核及高檢署仍偵辦段落"}
+  ],
+  "members": [
+    {"memberId":"ly11-46800","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"nt-ma-waste-2026","category":"contribution","occurredAt":"2026-06-23","title":"提出廢棄物清理法修正草案","summary":"立法院併案紀錄列馬文君等17人提出《廢棄物清理法》第5條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-ma-waste"]},
+      {"id":"nt-ma-education-2026","category":"contribution","occurredAt":"2026-07-13","title":"提出教育經費編列與管理法修正草案","summary":"立法院議案紀錄列馬文君等20人提出《教育經費編列與管理法》第3條修正草案；日期為議案審議進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-ma-education"]},
+      {"id":"nt-ma-recall-2025","category":"concern","occurredAt":"2025-08-23","title":"罷免理由與答辯中的國防預算爭議","summary":"罷免理由書對馬文君國防預算監督提出批評，馬文君在答辯書否認相關指控，稱自己監督預算並未洩密；罷免理由是提議人主張，並非選務機關認定。","role":"被罷免人、答辯人","outcome":"2025年8月23日投票，罷免案遭否決；投票不判定個別指控真偽","processStatus":"resolved","personResponse":"答辯稱沒有洩密，國防資料已交主管機關查核，預算監督為立委職責","resolution":"中央選舉委員會公告罷免投票結果為否決","sourceIds":["nt-ma-recall","nt-recall-result"]},
+      {"id":"nt-ma-submarine-2024","category":"concern","occurredAt":"2024-01-18","title":"潛艦資料涉洩密指控遭告發","summary":"前海軍顧問郭璽於2024年1月18日赴高檢署告發馬文君涉嫌洩漏國防秘密；公視此前報導高檢署已分他字案並傳喚。告發內容是指控，不能視作犯罪事實。","role":"遭告發的立法委員","outcome":"截至可核對的2025年7月答辯仍稱高檢署偵辦中；本批查閱未找到可確認的終局處分","processStatus":"under_investigation","personResponse":"馬文君否認洩密，稱資料已交國防部查核","resolution":"尚無可核實的結案結果","sourceIds":["nt-ma-complaint","nt-ma-investigation","nt-ma-response"]}
+    ]},
+    {"memberId":"ly11-46826","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"nt-you-sports-2026","category":"contribution","occurredAt":"2026-06-23","title":"提出國民體育法修正草案","summary":"立法院併案紀錄列游顥等16人提出《國民體育法》第2條及第3條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-you-sports"]},
+      {"id":"nt-you-gender-2025","category":"contribution","occurredAt":"2025-12-05","title":"提出性別平等工作法修正草案","summary":"立法院議案紀錄列游顥等16人提出《性別平等工作法》第20條修正草案；日期為議案審議進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-you-gender"]},
+      {"id":"nt-you-books-2025","category":"good_deed","occurredAt":"2025-09-30","title":"捐書予南投偏鄉三所國小","summary":"救國團活動稿記錄游顥參與書香傳千里活動，親手將書籍交給信義、久美及東埔國小校長；物資由另一位參與者捐贈，不歸為游顥個人捐助。","role":"參與捐書的立法委員、南投縣團友會會長","outcome":"三所國小受贈書籍，活動稿稱約150名學生受益","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-you-books"]},
+      {"id":"nt-you-recall-2025","category":"concern","occurredAt":"2025-08-23","title":"罷免理由與答辯中的法案程序爭議","summary":"罷免理由書批評游顥參與多項法案審議程序及陸配身分年限提案；游顥答辯稱依程序提案，並表示因社會缺乏共識而撤回陸配年限案。罷免理由是提出人主張。","role":"被罷免人、答辯人","outcome":"2025年8月23日投票，罷免案遭否決；投票不判定個別批評真偽","processStatus":"resolved","personResponse":"答辯稱依法行使提案與表決職權，陸配年限案已主動撤回","resolution":"中央選舉委員會公告罷免投票結果為否決","sourceIds":["nt-you-recall","nt-recall-result"]}
+    ]}
+  ]
+}

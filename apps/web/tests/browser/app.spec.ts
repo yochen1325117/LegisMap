@@ -147,3 +147,15 @@ test('Changhua profiles show sourced deeds and preserve direct URLs after reload
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出老年農民福利津貼修正草案' })).toBeVisible();
 });
+
+test('Nantou profiles distinguish accusations and recall outcomes after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46800');
+  await expect(page.getByRole('heading', { name: '馬文君' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '潛艦資料涉洩密指控遭告發' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /公視新聞網/ })).toHaveAttribute('href', /news\.pts\.org\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '罷免理由與答辯中的國防預算爭議' })).toBeVisible();
+  await page.goto('/legislator/ly11-46826');
+  await expect(page.getByRole('heading', { name: '捐書予南投偏鄉三所國小' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /救國團南投縣團委會/ })).toHaveAttribute('href', /cna\.com\.tw\/postwrite/);
+});
