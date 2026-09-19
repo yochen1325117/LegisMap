@@ -66,4 +66,16 @@ describe('2026 legislator snapshot', () => {
     const wan = taoyuan.find(member => member.name === '萬美玲');
     expect(eventMembers.get(wan!.id)?.events.filter(event => event.category === 'good_deed')).toHaveLength(2);
   });
+
+  it('covers both Hsinchu County members with sourced legislative and community events', () => {
+    const county = membersForRegion('新竹縣');
+    expect(county).toHaveLength(2);
+    for (const member of county) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.some(event => event.category === 'good_deed')).toBe(true);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+  });
 });

@@ -84,3 +84,15 @@ test('Taoyuan profiles show multiple events in a category and preserve links aft
   await page.reload();
   await expect(page.getByRole('heading', { name: '受訪談領養貓UNO' })).toBeVisible();
 });
+
+test('Hsinchu County profiles show sources and reload correctly', async ({ page }) => {
+  await page.goto('/legislator/ly11-46782');
+  await expect(page.getByRole('heading', { name: '林思銘' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '號召募集花蓮災區物資' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政爭議' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央選舉委員會・第11屆立法委員新竹縣第2選舉區林思銘罷免案公告內容/ })).toHaveAttribute('href', /web\.cec\.gov\.tw/);
+  await page.goto('/legislator/ly11-46797');
+  await expect(page.getByRole('heading', { name: '媒合二手電腦供弱勢學生使用' })).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '徐欣瑩' })).toBeVisible();
+});
