@@ -1,6 +1,6 @@
 # 立委事蹟研究批次
 
-網站逐縣市發布已查證的事件資料。第一批是 `data/research/events-keelung-2026.json`，涵蓋基隆市名單中的林沛祥；第二批是 `data/research/events-taipei-2026.json`，涵蓋臺北市 8 位委員；第三批是 `data/research/events-new-taipei-2026.json`，涵蓋新北市 12 位委員與 13 則事件。名單快照的基準日仍是 2026-09-17，事件批次的查閱日另記為 2026-09-19。
+網站逐縣市發布已查證的事件資料。第一批是 `data/research/events-keelung-2026.json`，涵蓋基隆市名單中的林沛祥；第二批是 `data/research/events-taipei-2026.json`，涵蓋臺北市 8 位委員；第三批是 `data/research/events-new-taipei-2026.json`，涵蓋新北市 12 位委員與 13 則事件；第四批是 `data/research/events-taoyuan-2026.json`，涵蓋桃園市 6 位委員與 16 則事件。名單快照的基準日仍是 2026-09-17，事件批次的查閱日另記為 2026-09-19。
 
 後續每批新增 `data/research/events-<region>-<date>.json`。先由北往南處理本島縣市，東部縣市按緯度併入；最後處理澎湖、金門、連江與不分區、平地原住民、山地原住民席次。每批必須涵蓋該地區名單中的所有委員，完成貢獻、正面事蹟、爭議及逸聞四類查核。找不到可靠資料的類別可留空。
 

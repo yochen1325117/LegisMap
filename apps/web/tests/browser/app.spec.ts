@@ -72,3 +72,15 @@ test('New Taipei county and profile retain sourced events after reload', async (
   await expect(page.getByRole('heading', { name: '蘇巧慧' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '分送春聯並決定加印' })).toBeVisible();
 });
+
+test('Taoyuan profiles show multiple events in a category and preserve links after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46836');
+  await expect(page.getByRole('heading', { name: '萬美玲' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '持續舉辦捐髮活動協助癌症病友' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '舉辦技專校院升學講座' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社・捐髮活動助癌症病友/ })).toHaveAttribute('href', /cna\.com\.tw/);
+  await page.goto('/legislator/ly11-46757');
+  await expect(page.getByRole('heading', { name: '試用期八成薪條文引起爭議後刪除' })).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '受訪談領養貓UNO' })).toBeVisible();
+});

@@ -1,0 +1,59 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "taoyuan-2026-09-19",
+  "regionName": "桃園市",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46757", "ly11-46862", "ly11-46789", "ly11-46799", "ly11-46836", "ly11-46846"],
+  "sources": [
+    {"id":"ty-niu-boundary","title":"行政區劃法草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110156690000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案：牛煦庭等17人；114年11月4日咨請公布"},
+    {"id":"ty-niu-domestic","title":"家庭暴力防治法第三十條之一條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110175130000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"牛煦庭等19人提案及114年11月28日議案進度"},
+    {"id":"ty-niu-trial-cna","title":"提勞基法修法惹議 牛煦庭：已刪除試用期8成薪條文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202405130169.aspx","sourceType":"news","publishedAt":"2024-05-13","accessedAt":"2026-09-19","evidenceLocator":"試用期薪資八成條文引起批評、牛煦庭於委員會稱已刪除段落"},
+    {"id":"ty-niu-trial-tvbs","title":"牛煦庭提試用期8成薪 綠委酸比22K低","publisher":"TVBS新聞網","url":"https://news.tvbs.com.tw/politics/2472224","sourceType":"news","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"修正草案試用期薪資內容、批評與牛煦庭回應段落"},
+    {"id":"ty-niu-cat","title":"愛貓UNO力挺度過罷免 牛煦庭盼增補貼擴大領養誘因","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202601100136.aspx","sourceType":"news","publishedAt":"2026-01-10","accessedAt":"2026-09-19","evidenceLocator":"牛煦庭受訪談家中貓UNO與領養經歷段落"},
+    {"id":"ty-lu-tech","title":"技術及職業教育法第十七條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110132100000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"呂玉玲等16人提案及114年6月13日進度"},
+    {"id":"ty-lu-land","title":"國土計畫法第四十五條條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110080840000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案：呂玉玲等17人；114年1月10日咨請公布"},
+    {"id":"ty-chiu-metro","title":"大眾捷運法第十一條條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110178910000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案：邱若華等20人；114年12月院會三讀進度"},
+    {"id":"ty-chiu-gender","title":"性別平等工作法第二十條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110102620000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"邱若華等16人提案及114年4月25日院會進度"},
+    {"id":"ty-tu-insurance","title":"就業保險法第十一條及第十九條之二條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110174290000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"涂權吉等30人提案及114年11月21日院會進度"},
+    {"id":"ty-tu-land","title":"國土計畫法第四十五條條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110080840000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案：涂權吉等17人；114年1月10日咨請公布"},
+    {"id":"ty-wan-ai","title":"人工智慧基本法草案聯席審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025073103/details?meetingDate=114%2F08%2F04","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114年8月4日議程列萬美玲等18人提案"},
+    {"id":"ty-wan-holiday","title":"第11屆第3會期第4次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/meetingLink/?id=11-03-04%3B114%2F03%2F07%3B%E9%99%A2%E6%9C%83","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114年3月7日報告事項第7案：萬美玲等19人紀念日及節日實施條例草案"},
+    {"id":"ty-wan-hair","title":"捐髮活動助癌症病友 萬美玲一做逾18年","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202602180027.aspx","sourceType":"news","publishedAt":"2026-02-18","accessedAt":"2026-09-19","evidenceLocator":"桃園義捐秀髮活動、假髮捐贈癌症病患段落"},
+    {"id":"ty-wan-school","title":"技專校院升學管道多元 萬美玲辦講座邀教育部說明","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202601100166.aspx","sourceType":"news","publishedAt":"2026-01-10","accessedAt":"2026-09-19","evidenceLocator":"1月10日辦升學講座、教育部說明多元入學管道段落"},
+    {"id":"ty-lum-tax","title":"所得稅法第十七條條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110155780000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案：魯明哲等23人；114年12月18日咨請公布"},
+    {"id":"ty-lum-land","title":"國土計畫法第四十五條條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110080840000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案：魯明哲等16人；114年1月10日咨請公布"}
+  ],
+  "members": [
+    {"memberId":"ly11-46757","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ty-niu-boundary-2025","category":"contribution","occurredAt":"2025-11-04","title":"提出行政區劃法草案","summary":"立法院併案審查頁列牛煦庭等17人提出《行政區劃法》草案；日期為該併案案咨請公布日，不代表最終條文全出自此版本。","role":"提案委員","outcome":"與另一版本併案審議","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-niu-boundary"]},
+      {"id":"ty-niu-domestic-2025","category":"contribution","occurredAt":"2025-11-28","title":"提出家庭暴力防治法修正草案","summary":"立法院議案頁列牛煦庭等19人擬具《家庭暴力防治法》第30條之1修正草案；日期為議案頁所列院會進度日。","role":"提案委員","outcome":"列入院會報告事項，未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-niu-domestic"]},
+      {"id":"ty-niu-trial-2024","category":"concern","occurredAt":"2024-05-13","title":"試用期八成薪條文引起爭議後刪除","summary":"牛煦庭提出的勞基法修正構想曾包含試用期薪資不得低於應聘薪資八成，引起可能壓低試用期薪資的批評。他於立法院委員會表示已刪除該條文。","role":"提案委員、回應者","outcome":"本人表示已刪除八成薪條文","processStatus":"resolved","personResponse":"牛煦庭承認八成薪可能產生定錨效應，稱已拿掉該條文。","resolution":"兩家媒體記錄提案爭議及修正回應；不將原構想寫作已通過法律。","sourceIds":["ty-niu-trial-cna","ty-niu-trial-tvbs"]},
+      {"id":"ty-niu-cat-2026","category":"anecdote","occurredAt":"2026-01-10","title":"受訪談領養貓UNO","summary":"中央社於2026年1月10日刊出牛煦庭與家中貓UNO的訪談；日期是報導發表日，領養並非發生於當日。","role":"受訪者、飼主","outcome":"公開分享養貓與領養經驗","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["ty-niu-cat"]}
+    ]},
+    {"memberId":"ly11-46862","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ty-lu-tech-2025","category":"contribution","occurredAt":"2025-06-13","title":"提出技術及職業教育法修正草案","summary":"立法院議案頁列呂玉玲等16人擬具《技術及職業教育法》第17條修正草案；日期為院會進度日。","role":"提案委員","outcome":"列入院會議程，未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-lu-tech"]},
+      {"id":"ty-lu-land-2025","category":"contribution","occurredAt":"2025-01-10","title":"提出國土計畫法修正草案","summary":"立法院併案審查頁列呂玉玲等17人提出《國土計畫法》第45條修正草案；日期為併案案咨請公布日。","role":"提案委員","outcome":"與其他版本併案審議；不將最終條文全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-lu-land"]}
+    ]},
+    {"memberId":"ly11-46789","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ty-chiu-metro-2025","category":"contribution","occurredAt":"2025-12-23","title":"提出大眾捷運法修正草案","summary":"立法院併案審查頁列邱若華等20人提出《大眾捷運法》第11條修正草案；日期為併案案院會三讀日。","role":"提案委員","outcome":"與其他版本併案審議，不將最終條文全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-chiu-metro"]},
+      {"id":"ty-chiu-gender-2025","category":"contribution","occurredAt":"2025-04-25","title":"提出性別平等工作法修正草案","summary":"立法院議案頁列邱若華等16人提出《性別平等工作法》第20條修正草案；日期為院會進度日。","role":"提案委員","outcome":"列入院會議程，未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-chiu-gender"]}
+    ]},
+    {"memberId":"ly11-46799","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ty-tu-insurance-2025","category":"contribution","occurredAt":"2025-11-21","title":"提出就業保險法修正草案","summary":"立法院議案頁列涂權吉等30人提出《就業保險法》第11條及第19條之2修正草案；日期為院會進度日。","role":"提案委員","outcome":"列入院會報告事項，未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-tu-insurance"]},
+      {"id":"ty-tu-land-2025","category":"contribution","occurredAt":"2025-01-10","title":"提出國土計畫法修正草案","summary":"立法院併案審查頁列涂權吉等17人提出《國土計畫法》第45條修正草案；日期為併案案咨請公布日。","role":"提案委員","outcome":"與其他版本併案審議；不將最終條文全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-tu-land"]}
+    ]},
+    {"memberId":"ly11-46836","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ty-wan-ai-2025","category":"contribution","occurredAt":"2025-08-04","title":"人工智慧基本法草案列入聯席審查","summary":"立法院教育及文化、交通委員會聯席會議議程列萬美玲等18人擬具的《人工智慧基本法》草案。","role":"提案委員","outcome":"與其他版本併案審議，不推定其提案單獨通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-wan-ai"]},
+      {"id":"ty-wan-holiday-2025","category":"contribution","occurredAt":"2025-03-07","title":"提出紀念日及節日實施條例草案","summary":"立法院院會報告事項列萬美玲等19人擬具《紀念日及節日實施條例》草案。","role":"提案委員","outcome":"列入院會議程，未將提案視為已施行法律","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-wan-holiday"]},
+      {"id":"ty-wan-hair-2026","category":"good_deed","occurredAt":"2026-02-18","title":"持續舉辦捐髮活動協助癌症病友","summary":"中央社於2026年2月18日報導萬美玲在桃園長年舉辦義捐秀髮活動，募集秀髮製作假髮供癌症病友使用；日期為報導發表日。","role":"活動主辦者","outcome":"募集秀髮製成假髮捐給癌症病患","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["ty-wan-hair"]},
+      {"id":"ty-wan-school-2026","category":"good_deed","occurredAt":"2026-01-10","title":"舉辦技專校院升學講座","summary":"中央社記錄萬美玲舉辦升學講座，邀教育部向學生與家長說明技專校院的多元入學管道。","role":"活動主辦者","outcome":"講座於1月10日舉行","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["ty-wan-school"]}
+    ]},
+    {"memberId":"ly11-46846","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ty-lum-tax-2025","category":"contribution","occurredAt":"2025-12-18","title":"提出所得稅法修正草案","summary":"立法院併案審查頁列魯明哲等23人提出《所得稅法》第17條修正草案；日期為併案案咨請公布日。","role":"提案委員","outcome":"與其他版本併案審議；不將最終條文全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-lum-tax"]},
+      {"id":"ty-lum-land-2025","category":"contribution","occurredAt":"2025-01-10","title":"提出國土計畫法修正草案","summary":"立法院併案審查頁列魯明哲等16人提出《國土計畫法》第45條修正草案；日期為併案案咨請公布日。","role":"提案委員","outcome":"與其他版本併案審議；不將最終條文全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ty-lum-land"]}
+    ]}
+  ]
+}

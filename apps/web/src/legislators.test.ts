@@ -53,4 +53,17 @@ describe('2026 legislator snapshot', () => {
       }
     }
   });
+
+  it('shows multiple sourced Taoyuan events in the same category', () => {
+    const taoyuan = membersForRegion('桃園市');
+    expect(taoyuan).toHaveLength(6);
+    for (const member of taoyuan) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+    const wan = taoyuan.find(member => member.name === '萬美玲');
+    expect(eventMembers.get(wan!.id)?.events.filter(event => event.category === 'good_deed')).toHaveLength(2);
+  });
 });
