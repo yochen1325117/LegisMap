@@ -1,0 +1,28 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "hualien-2026-09-19",
+  "regionName": "花蓮縣",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46824"],
+  "sources": [
+    {"id":"hl-fu-election","title":"公職人員選舉罷免法部分條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110061540000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列傅崐萁；113年12月20日三讀"},
+    {"id":"hl-fu-powers","title":"立法院職權行使法部分條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/603110035420000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列傅崐萁等52人多項草案；113年5月28日三讀"},
+    {"id":"hl-fu-elder","title":"老人福利法第二十七條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110223920000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"委員傅崐萁等18人；115年7月10日審議進度"},
+    {"id":"hl-court-ruling","title":"憲法法庭113年憲判字第9號判決摘要","publisher":"憲法法庭","url":"https://cons.judicial.gov.tw/docdata.aspx?fid=77&id=354002","sourceType":"court","publishedAt":"2024-10-25","accessedAt":"2026-09-19","evidenceLocator":"判決主文與摘要：國會職權修法部分條文違憲失效，部分合憲；非個人刑事判決"},
+    {"id":"hl-fu-court-response","title":"傅崐萁：絕不配合大法官修法 不歡迎賴總統國情報告","publisher":"立法院（刊載中央社報導）","url":"https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=244822","sourceType":"news","publishedAt":"2024-10-28","accessedAt":"2026-09-19","evidenceLocator":"傅崐萁於憲法法庭判決後公開回應段落"},
+    {"id":"hl-fu-recall","title":"立委傅崐萁罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507035024.aspx","sourceType":"news","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"中選會公告罷免理由與傅崐萁答辯書全文；花東交通與國會法案段落"},
+    {"id":"hl-recall-result","title":"中央選舉委員會114年8月1日立法委員罷免投票結果公告","publisher":"中央選舉委員會","url":"https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf","sourceType":"official","publishedAt":"2025-08-01","accessedAt":"2026-09-19","evidenceLocator":"PDF花蓮縣選舉區傅崐萁罷免案投票結果與否決狀態"}
+  ],
+  "members": [
+    {"memberId":"ly11-46824","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"hl-fu-election-2024","category":"contribution","occurredAt":"2024-12-20","title":"提出公職人員選舉罷免法修正草案","summary":"立法院議案紀錄列傅崐萁等16人提出《公職人員選舉罷免法》部分條文修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與其他委員及黨團版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hl-fu-election"]},
+      {"id":"hl-fu-powers-2024","category":"contribution","occurredAt":"2024-05-28","title":"領銜提出立法院職權行使法修正草案","summary":"立法院併案紀錄列傅崐萁等52人提出多項《立法院職權行使法》修正草案；日期為併案三讀日。","role":"提案委員、國民黨黨團總召","outcome":"併案三讀；部分修正條文後經憲法法庭宣告違憲失效，另於爭議事件說明","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hl-fu-powers","hl-court-ruling"]},
+      {"id":"hl-fu-elder-2026","category":"contribution","occurredAt":"2026-07-10","title":"提出老人福利法修正草案","summary":"立法院議案紀錄列傅崐萁等18人提出《老人福利法》第27條修正草案；日期為議案審議進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hl-fu-elder"]},
+      {"id":"hl-fu-court-2024","category":"concern","occurredAt":"2024-10-25","title":"領銜國會職權修法部分條文遭判違憲","summary":"傅崐萁為立法院職權修法多項併案草案提案人。憲法法庭113年憲判字第9號認定部分修正條文違憲失效，也認定部分合憲；這是法規範審查，不是對傅崐萁個人的刑事裁判。","role":"相關修法提案委員","outcome":"部分條文自判決宣示日起失效；應以判決逐條結果為準","processStatus":"resolved","personResponse":"傅崐萁於判決後公開反對裁判結果，表示國民黨團不會依其意見修法","resolution":"憲法法庭2024年10月25日判決已作成","sourceIds":["hl-fu-powers","hl-court-ruling","hl-fu-court-response"]},
+      {"id":"hl-fu-recall-2025","category":"concern","occurredAt":"2025-07-26","title":"罷免理由與答辯中的花東交通及問政爭議","summary":"罷免理由書批評傅崐萁提出花東交通特別條例的程序與可行性；傅崐萁在答辯書回應。理由書內容屬提議人主張，不等於主管機關認定。","role":"被罷免人、答辯人","outcome":"2025年7月26日罷免投票遭否決；投票結果不判定個別批評真偽","processStatus":"resolved","personResponse":"傅崐萁於答辯書主張其提案為改善花東交通、維護花蓮發展","resolution":"中央選舉委員會公告罷免投票結果為否決","sourceIds":["hl-fu-recall","hl-recall-result"]}
+    ]}
+  ]
+}

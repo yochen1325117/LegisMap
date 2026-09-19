@@ -162,4 +162,14 @@ describe('2026 legislator snapshot', () => {
       expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
     }
   });
+
+  it('covers Hualien with official bills and sourced constitutional and recall outcomes', () => {
+    const hualien = membersForRegion('花蓮縣');
+    expect(hualien).toHaveLength(1);
+    const research = eventMembers.get(hualien[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(3);
+    expect(research?.events.filter(event => event.category === 'concern')).toHaveLength(2);
+    for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+  });
 });

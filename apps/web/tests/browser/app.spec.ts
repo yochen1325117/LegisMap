@@ -170,3 +170,13 @@ test('Yilan profile shows four sourced categories and the prior-term caveat', as
   await page.reload();
   await expect(page.getByRole('heading', { name: '服務處掛小學老師所贈' })).toBeVisible();
 });
+
+test('Hualien profile distinguishes constitutional review from personal liability', async ({ page }) => {
+  await page.goto('/legislator/ly11-46824');
+  await expect(page.getByRole('heading', { name: '傅崐萁' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '領銜國會職權修法部分條文遭判違憲' })).toBeVisible();
+  await expect(page.getByText(/不是對傅崐萁個人的刑事裁判/)).toBeVisible();
+  await expect(page.getByRole('link', { name: /憲法法庭/ }).first()).toHaveAttribute('href', /cons\.judicial\.gov\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '罷免理由與答辯中的花東交通及問政爭議' })).toBeVisible();
+});
