@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useMatch, useNavigate } from 'react-router-dom';
 import { TaiwanDrilldownMap } from 'taiwan-atlas/react';
 import type { RegionMeta, TaiwanMapInstance, TaiwanMapError } from 'taiwan-atlas';
-import { dataAsOfDate, fieldSources, members, membersForRegion, rosterSource, type MemberRecord, type SourceRecord } from './data/legislators.ts';
+import { dataAsOfDate, eventMembers, fieldSources, members, membersForRegion, rosterSource, sourcesForEvent, type EventCategory, type MemberRecord, type SourceRecord } from './data/legislators.ts';
 
 const specialSeats = [
   ['party_list', '全國不分區及僑居國外國民'],
@@ -18,6 +18,28 @@ const mainlandView = {
 
 function SourceLinks({ items, label }: { items: SourceRecord[]; label: string }) {
   return <span className="field-sources">{items.map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.title}｜${source.evidenceLocator}｜查閱 ${source.accessedAt}`} aria-label={`${label}來源：${source.publisher} ${source.title}`}>來源 ↗</a>)}</span>;
+}
+
+const eventCategoryLabels: Record<EventCategory, string> = {
+  contribution: '立委貢獻', good_deed: '正面事蹟', concern: '爭議事件', anecdote: '逸聞',
+};
+
+function MemberEvents({ memberId }: { memberId: string }) {
+  const research = eventMembers.get(memberId);
+  if (!research) return <p className="research-pending">此地區尚未完成事蹟資料查證。</p>;
+  return <div className="profile-events"><p className="source-note">事蹟資料查閱日：{research.reviewedAt}。事件描述以所附來源可查證的內容為準。</p>
+    {(Object.keys(eventCategoryLabels) as EventCategory[]).map(category => <section className="research-section" key={category}>
+      <h3>{eventCategoryLabels[category]}</h3>
+      {research.events.filter(event => event.category === category).map(event => <article className="event-card" key={event.id}>
+        <h4>{event.title}</h4><time dateTime={event.occurredAt}>{event.occurredAt}</time>
+        <p>{event.summary}</p><p><strong>角色：</strong>{event.role}</p><p><strong>結果／進度：</strong>{event.outcome}</p>
+        {event.personResponse && <p><strong>當事人回應：</strong>{event.personResponse}</p>}
+        {event.resolution && <p><strong>查證界線：</strong>{event.resolution}</p>}
+        <p className="event-source-list"><strong>來源：</strong>{sourcesForEvent(event).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.evidenceLocator}｜查閱 ${source.accessedAt}`}>{source.publisher}・{source.title} ↗</a>)}</p>
+      </article>)}
+      {!research.events.some(event => event.category === category) && <p className="empty-research">截至 {research.reviewedAt} 尚無已核實資料。</p>}
+    </section>)}
+  </div>;
 }
 
 function RegionNavigator({ map, selectedId, onSelect, onClose }: {
@@ -58,6 +80,7 @@ function DetailPanel({ regionName, isCountry, member, onMember, onBack }: {
     <div className="profile-hero"><span className="profile-avatar" aria-hidden="true">{member.name.slice(0, 1)}</span><span className="eyebrow">LEGISLATOR PROFILE</span><h2>{member.name}</h2><p>第 11 屆 · {member.mandateStatus === 'active' ? '現任' : '2026 年離職'}</p></div>
     <div className="profile-facts"><div><span>姓名</span><div className="fact-value"><strong>{member.name}</strong><SourceLinks items={fieldSources(member, 'name')} label="姓名" /></div></div><div><span>選區</span><div className="fact-value"><strong>{member.districtLabel}</strong><SourceLinks items={fieldSources(member, 'districtLabel')} label="選區" /></div></div><div><span>任職狀態</span><div className="fact-value"><strong>{member.mandateStatus === 'active' ? '現任' : '已離職'}</strong><SourceLinks items={fieldSources(member, 'mandateStatus')} label="任職狀態" /></div></div><div><span>到職日期</span><div className="fact-value"><strong>{member.serviceStart}</strong><SourceLinks items={fieldSources(member, 'serviceStart')} label="到職日期" /></div></div>{member.serviceEnd && <div><span>離職生效日期</span><div className="fact-value"><strong>{member.serviceEnd}</strong><SourceLinks items={fieldSources(member, 'serviceEnd')} label="離職日期" /></div></div>}</div>
     <p className="source-note">資料基準日：{dataAsOfDate}。選區文字照錄立法院個人頁；人物頁資料由委員研究室提供，請以來源頁面為準。</p>
+    <MemberEvents memberId={member.id} />
   </div>;
 
   const visible = isCountry ? members : membersForRegion(regionName);

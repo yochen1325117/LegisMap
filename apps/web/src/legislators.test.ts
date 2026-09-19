@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { fieldSources, members, membersForRegion } from './data/legislators.ts';
+import { eventMembers, fieldSources, members, membersForRegion, sourcesForEvent } from './data/legislators.ts';
 
 describe('2026 legislator snapshot', () => {
   it('covers every published member with direct field sources', () => {
@@ -16,5 +16,16 @@ describe('2026 legislator snapshot', () => {
     expect(membersForRegion('臺北市').every(member => member.seatType === 'district')).toBe(true);
     expect(membersForRegion('臺北市').some(member => member.name === '王世堅')).toBe(true);
     expect(membersForRegion('臺北市').some(member => member.name === '韓國瑜')).toBe(false);
+  });
+
+  it('publishes a complete sourced Keelung research batch', () => {
+    const keelung = membersForRegion('基隆市');
+    expect(keelung).toHaveLength(1);
+    const research = eventMembers.get(keelung[0].id);
+    expect(research?.reviewedCategories).toHaveLength(4);
+    for (const event of research?.events ?? []) {
+      expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+      expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
+    }
   });
 });

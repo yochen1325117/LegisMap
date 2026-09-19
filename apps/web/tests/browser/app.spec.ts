@@ -35,3 +35,14 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await page.getByRole('button', { name: '收合資料' }).click();
   await expect(page.getByRole('button', { name: '查看資料' })).toBeVisible();
 });
+
+test('Keelung profile shows four sourced research categories after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46778');
+  await expect(page.getByRole('heading', { name: '林沛祥' })).toBeVisible();
+  for (const heading of ['立委貢獻', '正面事蹟', '爭議事件', '逸聞']) {
+    await expect(page.getByRole('heading', { name: heading })).toBeVisible();
+  }
+  await expect(page.getByRole('link', { name: /立法院・立法院交通委員會考察基隆地區交通及重大公共建設紀錄/ }).first()).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政爭議' })).toBeVisible();
+});
