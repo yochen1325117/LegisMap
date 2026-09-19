@@ -1,0 +1,415 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "tainan-2026-09-19",
+  "regionName": "臺南市",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": [
+    "ly11-46760",
+    "ly11-46779",
+    "ly11-46781",
+    "ly11-46811",
+    "ly11-46815",
+    "ly11-46849"
+  ],
+  "sources": [
+    {
+      "id": "tn-wang-bill",
+      "title": "反滲透法第三條、第四條及第五條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110174170000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人王定宇等16人；114年11月28日交付審查"
+    },
+    {
+      "id": "tn-wang-ttv",
+      "title": "釋出殺傷力消息反擊花蓮縣府？王定宇：說真相讓災民知道原由",
+      "publisher": "台視新聞",
+      "url": "https://news.ttv.com.tw/news/11409250010500A",
+      "sourceType": "news",
+      "publishedAt": "2025-09-25",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文：流出黨團群組截圖及王定宇2025年9月25日回應"
+    },
+    {
+      "id": "tn-wang-tvbs",
+      "title": "怒嗆一群叛徒憤退綠黨團群組？王定宇出面澄清",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/politics/2998945?from=life_content_pack",
+      "sourceType": "news",
+      "publishedAt": "2025-09-25",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文：王定宇對『殺傷力』用語和群組截圖的回應"
+    },
+    {
+      "id": "tn-liny-bill",
+      "title": "平埔原住民族群身分法草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110155530000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列林宜瑾等22人；114年10月17日併案三讀"
+    },
+    {
+      "id": "tn-liny-cna",
+      "title": "立委林宜瑾涉詐助理費一審判7年 地院：非偶發行為",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202607020244.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2026年7月2日台南地院一審判刑7年、褫奪公權4年；尚可上訴"
+    },
+    {
+      "id": "tn-liny-pts",
+      "title": "綠委林宜瑾詐助理費1412萬 一審遭判刑7年、褫奪公權4年",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/815860",
+      "sourceType": "news",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文第1至8段：一審判決、過去職務期間、林宜瑾文字聲明擬上訴"
+    },
+    {
+      "id": "tn-linj-bill",
+      "title": "第11屆第3會期第6次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025031951/details?meetingDate=114%2F03%2F25",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114年3月25日議程列林俊憲等19人青年基本法草案"
+    },
+    {
+      "id": "tn-linj-gift",
+      "title": "林俊憲媒合企業捐百萬獎學金 台南4校獲挹注",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/ahel/202410150311.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-10-15",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文：林俊憲媒合企業捐100萬元，4校回贈感謝狀；款項由企業提供"
+    },
+    {
+      "id": "tn-guo-bill",
+      "title": "臺灣未來帳戶特別條例與臺灣兒童及少年投資儲蓄帳戶條例草案併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110217830000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列郭國文等18人兒少投資儲蓄帳戶草案；115年7月24日併案三讀"
+    },
+    {
+      "id": "tn-guo-gift",
+      "title": "民代跨縣市媒合 台中宮廟捐款助台南風災重建",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202508240147.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-24",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文：郭國文與江肇國媒合台中宮廟捐57.2萬元予台灣心義工團"
+    },
+    {
+      "id": "tn-chen-bill",
+      "title": "兒童及少年福利與權益保障法第四十六條及第四十六條之一條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110204640000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人陳亭妃等16人；115年4月10日議案進度"
+    },
+    {
+      "id": "tn-chen-gift",
+      "title": "陳亭妃宣布選舉補助款公益信託全轉做丹娜絲風災善款",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/7326/8893183",
+      "sourceType": "news",
+      "publishedAt": "2025-07-24",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2025年7月24日報導：公益信託變更用途獲准，265萬元可供災害救助個案申請"
+    },
+    {
+      "id": "tn-lai-bill",
+      "title": "平埔原住民族群身分法草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110155530000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列賴惠員等21人；114年10月17日併案三讀"
+    },
+    {
+      "id": "tn-lai-gift",
+      "title": "立委賴惠員媒合企業捐贈電腦 助力偏鄉學童迎接數位時代",
+      "publisher": "Newtalk新聞",
+      "url": "https://newtalk.tw/news/view/2025-01-23/954321",
+      "sourceType": "news",
+      "publishedAt": "2025-01-23",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2025年1月23日於新營服務處舉行記者會，媒合企業向溪北14校捐電腦"
+    }
+  ],
+  "members": [
+    {
+      "memberId": "ly11-46760",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tn-wang-infiltration-2025",
+          "category": "contribution",
+          "occurredAt": "2025-11-28",
+          "title": "提出反滲透法修正草案",
+          "summary": "立法院紀錄列王定宇等16人提出《反滲透法》第3、4、5條修正草案；日期為交付審查日。",
+          "role": "提案委員",
+          "outcome": "交付審查，未以此來源確認三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-wang-bill"
+          ]
+        },
+        {
+          "id": "tn-wang-flood-2025",
+          "category": "concern",
+          "occurredAt": "2025-09-25",
+          "title": "花蓮災後黨團群組用語引發爭議",
+          "summary": "媒體報導民進黨團群組截圖流出，顯示王定宇建議釋出具「殺傷力」的澄清資訊，引發外界批評將救災政治化；截圖內容與解讀屬報導所呈現。",
+          "role": "群組訊息發言人",
+          "outcome": "王定宇公開說明用語，未見正式調查認定",
+          "processStatus": "documented",
+          "personResponse": "王定宇表示所謂殺傷力是指真相對造謠與卸責者的衝擊，並稱救災應說明事實",
+          "resolution": "截至查閱日只確認發言與本人回應，未查得正式程序結果",
+          "sourceIds": [
+            "tn-wang-ttv",
+            "tn-wang-tvbs"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46779",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tn-liny-pingpu-2025",
+          "category": "contribution",
+          "occurredAt": "2025-10-17",
+          "title": "提出平埔原住民族群身分法草案",
+          "summary": "立法院併案紀錄列林宜瑾等22人提出《平埔原住民族群身分法》草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "多版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-liny-bill"
+          ]
+        },
+        {
+          "id": "tn-liny-aide-2026",
+          "category": "concern",
+          "occurredAt": "2026-07-02",
+          "title": "助理費案一審判刑7年",
+          "summary": "台南地方法院就公費助理費案一審判林宜瑾7年、褫奪公權4年；案件涵蓋其議員及立委任期，判決仍可上訴，並非確定判決。",
+          "role": "一審被告",
+          "outcome": "2026年7月2日一審宣判，後續上訴結果未以來源確認",
+          "processStatus": "judgment_appealable",
+          "personResponse": "林宜瑾文字表示將上訴爭取合理裁判，待收到判決書後與律師討論",
+          "resolution": "一審有罪判決，尚未確定",
+          "sourceIds": [
+            "tn-liny-cna",
+            "tn-liny-pts"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46781",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tn-linj-youth-2025",
+          "category": "contribution",
+          "occurredAt": "2025-03-25",
+          "title": "提出青年基本法草案",
+          "summary": "立法院院會議程列林俊憲等19人提出《青年基本法》草案；日期為列入議程日。",
+          "role": "提案委員",
+          "outcome": "列入院會議程，不將其版本等同於後續併案通過內容",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-linj-bill"
+          ]
+        },
+        {
+          "id": "tn-linj-scholarship-2024",
+          "category": "good_deed",
+          "occurredAt": "2024-10-15",
+          "title": "媒合企業捐百萬元獎學金予臺南四校",
+          "summary": "中央社報導林俊憲媒合公園伯爵建設捐贈100萬元，臺南四所學校回贈感謝狀；金額是企業捐款，不記為委員個人出資。",
+          "role": "捐贈媒合者",
+          "outcome": "企業完成捐贈儀式，四校受益",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-linj-gift"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46811",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tn-guo-childaccount-2026",
+          "category": "contribution",
+          "occurredAt": "2026-07-24",
+          "title": "提出兒少投資儲蓄帳戶條例草案",
+          "summary": "立法院併案紀錄列郭國文等18人提出《臺灣兒童及少年投資儲蓄帳戶條例》草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "與黨團版本併案三讀，最終條文不能全歸於郭國文版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-guo-bill"
+          ]
+        },
+        {
+          "id": "tn-guo-relief-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-08-24",
+          "title": "媒合宮廟捐款協助風災屋舍修繕",
+          "summary": "郭國文與台中市議員江肇國媒合台中宮廟捐助57.2萬元給台灣心義工團，供台南弱勢災民屋舍修繕；善款來自宮廟。",
+          "role": "公益捐款媒合者",
+          "outcome": "捐贈當日交予台灣心義工團，後續修繕進度未以來源確認",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-guo-gift"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46815",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tn-chen-childlaw-2026",
+          "category": "contribution",
+          "occurredAt": "2026-04-10",
+          "title": "提出兒少福利與權益保障法修正草案",
+          "summary": "立法院紀錄列陳亭妃等16人提出《兒童及少年福利與權益保障法》第46條及第46條之1修正草案；日期為議案進度日期。",
+          "role": "提案委員",
+          "outcome": "截至查閱日未以此來源確認三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-chen-bill"
+          ]
+        },
+        {
+          "id": "tn-chen-relief-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-07-24",
+          "title": "調整公益信託用途支援丹娜絲風災救助",
+          "summary": "陳亭妃表示已取得台灣銀行信託部同意，將原用於弱勢團體的選舉補助款公益信託變更用途，265萬元可供丹娜絲風災救助個案申請。",
+          "role": "公益信託設立與用途變更者",
+          "outcome": "用途變更獲准；不推定265萬元已全部撥付",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-chen-gift"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46849",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tn-lai-pingpu-2025",
+          "category": "contribution",
+          "occurredAt": "2025-10-17",
+          "title": "提出平埔原住民族群身分法草案",
+          "summary": "立法院併案紀錄列賴惠員等21人提出《平埔原住民族群身分法》草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "多版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-lai-bill"
+          ]
+        },
+        {
+          "id": "tn-lai-computers-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-01-23",
+          "title": "媒合企業捐電腦予臺南溪北學校",
+          "summary": "新聞報導賴惠員於新營服務處舉行捐贈記者會，媒合企業捐電腦予溪北地區14所學校；捐贈者是企業。",
+          "role": "捐贈媒合者",
+          "outcome": "記者會與受贈學校名單見報，未逐台核對後續使用",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tn-lai-gift"
+          ]
+        }
+      ]
+    }
+  ]
+}

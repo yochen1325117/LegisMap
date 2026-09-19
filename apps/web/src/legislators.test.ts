@@ -207,4 +207,17 @@ describe('2026 legislator snapshot', () => {
     const tsai = county.find(member => member.name === '蔡易餘');
     expect(eventMembers.get(tsai!.id)?.events.some(event => event.category === 'concern')).toBe(true);
   });
+
+  it('covers all six Tainan members and preserves first-instance status', () => {
+    const tainan = membersForRegion('臺南市');
+    expect(tainan).toHaveLength(6);
+    for (const member of tainan) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.some(event => event.category === 'contribution')).toBe(true);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+    const lin = tainan.find(member => member.name === '林宜瑾');
+    expect(eventMembers.get(lin!.id)?.events.some(event => event.processStatus === 'judgment_appealable')).toBe(true);
+  });
 });

@@ -214,3 +214,18 @@ test('Chiayi County profiles show directly sourced events after reload', async (
   await expect(page.getByRole('heading', { name: '蔡易餘' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '財劃法審查推擠與陳永康受傷爭議' })).toBeVisible();
 });
+
+test('Tainan profiles show verified events and non-final court status', async ({ page }) => {
+  await page.goto('/legislator/ly11-46779');
+  await expect(page.getByRole('heading', { name: '林宜瑾' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '助理費案一審判刑7年' })).toBeVisible();
+  await expect(page.getByText(/並非確定判決/)).toBeVisible();
+  await expect(page.getByRole('link', { name: /公視新聞網/ })).toHaveAttribute('href', /news\.pts\.org\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出平埔原住民族群身分法草案' })).toBeVisible();
+  for (const [id, name] of [['ly11-46760', '王定宇'], ['ly11-46781', '林俊憲'], ['ly11-46811', '郭國文'], ['ly11-46815', '陳亭妃'], ['ly11-46849', '賴惠員']]) {
+    await page.goto(`/legislator/${id}`);
+    await expect(page.getByRole('heading', { name })).toBeVisible();
+    await expect(page.getByText(/來源/).first()).toBeVisible();
+  }
+});
