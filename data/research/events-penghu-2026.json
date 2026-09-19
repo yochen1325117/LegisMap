@@ -1,0 +1,22 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "penghu-2026-09-20",
+  "regionName": "澎湖縣",
+  "researchedAt": "2026-09-20",
+  "periodStart": "2021-09-20",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46834"],
+  "sources": [
+    {"id":"ph-yang-labor","title":"勞工保險條例第六十六條及第六十九條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110181620000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-20","evidenceLocator":"關聯議案列楊曜等25人；114年12月30日三讀"},
+    {"id":"ph-yang-child","title":"兒童及少年福利與權益保障法第四十六條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110171580000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-20","evidenceLocator":"提案人列楊曜等17人；114年11月14日交付審查"},
+    {"id":"ph-yang-retire","title":"飽受睡眠障礙之苦 楊曜宣布本屆任期屆滿不再參選","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202509020138.aspx","sourceType":"news","publishedAt":"2025-09-02","accessedAt":"2026-09-20","evidenceLocator":"楊曜自行公開宣告本屆任滿後不再參選公職段落"}
+  ],
+  "members": [
+    {"memberId":"ly11-46834","reviewedAt":"2026-09-20","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ph-yang-labor-2025","category":"contribution","occurredAt":"2025-12-30","title":"提出勞工保險條例修正草案","summary":"立法院併案紀錄列楊曜等25人提出《勞工保險條例》第66條及第69條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ph-yang-labor"]},
+      {"id":"ph-yang-child-2025","category":"contribution","occurredAt":"2025-11-14","title":"提出兒少福利與權益保障法修正草案","summary":"立法院議案紀錄列楊曜等17人提出《兒童及少年福利與權益保障法》第46條修正草案；日期為交付審查日。","role":"提案委員","outcome":"已交委員會審查；截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ph-yang-child"]},
+      {"id":"ph-yang-retire-2025","category":"anecdote","occurredAt":"2025-09-02","title":"公開宣布本屆任滿後不再參選公職","summary":"楊曜於2025年9月2日透過社群平台公開表示，本屆立委任期屆滿後不再參選公職；這是對未來參選計畫的宣告，不代表已於2025年離職。","role":"作出公開宣告的現任立法委員","outcome":"截至名單基準日仍為現任委員；未來是否改變計畫以後續正式紀錄為準","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["ph-yang-retire"]}
+    ]}
+  ]
+}

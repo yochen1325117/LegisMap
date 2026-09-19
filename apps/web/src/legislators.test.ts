@@ -257,4 +257,14 @@ describe('2026 legislator snapshot', () => {
     expect(eventMembers.get(chung!.id)?.events.filter(event => event.category === 'concern')).toHaveLength(2);
     expect(eventMembers.get(chung!.id)?.events.some(event => event.processStatus === 'indicted')).toBe(true);
   });
+
+  it('covers Penghu with sourced proposals and an accurate retirement announcement', () => {
+    const penghu = membersForRegion('澎湖縣');
+    expect(penghu).toHaveLength(1);
+    const research = eventMembers.get(penghu[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(research?.events.some(event => event.category === 'anecdote')).toBe(true);
+    for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+  });
 });

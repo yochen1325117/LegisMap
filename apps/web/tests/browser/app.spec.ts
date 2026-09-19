@@ -267,3 +267,14 @@ test('Pingtung profiles show sourced events and two separate disputes', async ({
   await expect(page.getByRole('heading', { name: '護欄鋼索案遭北檢依毀損公物罪嫌起訴' })).toBeVisible();
   await expect(page.getByRole('link', { name: /聯合新聞網/ })).toHaveAttribute('href', /udn\.com/);
 });
+
+test('Penghu profile keeps current status alongside retirement announcement', async ({ page }) => {
+  await page.goto('/legislator/ly11-46834');
+  await expect(page.getByRole('heading', { name: '楊曜' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '提出勞工保險條例修正草案' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '公開宣布本屆任滿後不再參選公職' })).toBeVisible();
+  await expect(page.getByText(/現任/).first()).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出兒少福利與權益保障法修正草案' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社/ })).toHaveAttribute('href', /cna\.com\.tw/);
+});
