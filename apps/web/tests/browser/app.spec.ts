@@ -289,3 +289,12 @@ test('Kinmen profile shows qualified allegation and current status after reload'
   await expect(page.getByRole('heading', { name: '提出離島建設條例第10條等條文修正草案' })).toBeVisible();
   await expect(page.getByRole('link', { name: /中央通訊社/ }).first()).toHaveAttribute('href', /cna\.com\.tw/);
 });
+
+test('Lienchiang profile shows sourced investigation stage after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46820');
+  await expect(page.getByRole('heading', { name: '陳雪生' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '助理費及廠商利益案遭搜索，200萬元交保' })).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出離島建設條例第7條之1草案' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社/ }).first()).toHaveAttribute('href', /cna\.com\.tw/);
+});

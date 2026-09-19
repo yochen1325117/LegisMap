@@ -278,4 +278,13 @@ describe('2026 legislator snapshot', () => {
     expect(research?.events.some(event => event.category === 'anecdote')).toBe(true);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
+
+  it('covers Lienchiang with a proposal and accurately staged investigation', () => {
+    const lienchiang = membersForRegion('連江縣');
+    expect(lienchiang).toHaveLength(1);
+    const research = eventMembers.get(lienchiang[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.some(event => event.category === 'concern' && event.processStatus === 'under_investigation')).toBe(true);
+    for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+  });
 });
