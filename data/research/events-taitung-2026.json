@@ -1,0 +1,24 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "taitung-2026-09-19",
+  "regionName": "臺東縣",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46829"],
+  "sources": [
+    {"id":"tt-huang-child","title":"兒童及少年性剝削防制條例第三十九條及第五十一條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110037550000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列黃建賓等18人提案；提案關係文書說明兒少性影像持有罰則"},
+    {"id":"tt-huang-employment","title":"就業服務法第四十六條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110049110000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列黃建賓等20人提案；院會113年3月22日交付審查，後續併案審查"},
+    {"id":"tt-huang-recall-bulletin","title":"第11屆立法委員臺東縣選舉區黃建賓罷免案公告內容","publisher":"臺東縣選舉委員會","url":"https://web.cec.gov.tw/api/file/37b1b89e-4dcc-4989-a693-1397c11de2f1.pdf","sourceType":"official","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"罷免理由書及黃建賓答辯書全文；批評屬領銜人主張"},
+    {"id":"tt-huang-recall-result","title":"中央選舉委員會114年8月1日立法委員罷免投票結果公告","publisher":"中央選舉委員會","url":"https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf","sourceType":"official","publishedAt":"2025-08-01","accessedAt":"2026-09-19","evidenceLocator":"PDF臺東縣選舉區黃建賓罷免案投票結果列否決"},
+    {"id":"tt-huang-recall-cna","title":"立委黃建賓罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507035025.aspx","sourceType":"news","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"罷免理由書與黃建賓答辯書段落"}
+  ],
+  "members": [
+    {"memberId":"ly11-46829","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"tt-huang-child-2024","category":"contribution","occurredAt":"2024-04-26","title":"提出兒少性剝削防制條例修正草案","summary":"立法院議案紀錄列黃建賓等18人提出《兒童及少年性剝削防制條例》第39條及第51條修正草案，針對兒少性影像持有者的處遇及罰則提出修正。日期為院會交付審查日，非條文生效日。","role":"提案委員","outcome":"與多份修正草案併案審查；不能將後續修法全歸於此一版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tt-huang-child"]},
+      {"id":"tt-huang-employment-2024","category":"contribution","occurredAt":"2024-03-22","title":"提出就業服務法第46條修正草案","summary":"立法院關聯議案列黃建賓等20人提出《就業服務法》第46條修正草案；該案於2024年3月22日院會交付審查，後與其他委員版本併案。","role":"提案委員","outcome":"交付委員會併案審查；未以此來源認定其個人版本單獨通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tt-huang-employment"]},
+      {"id":"tt-huang-recall-2025","category":"concern","occurredAt":"2025-07-26","title":"罷免理由與答辯中的問政及預算爭議","summary":"罷免理由書批評黃建賓在立法院的法案連署與中央預算表決；黃建賓於答辯書反駁，列舉其問政主張。罷免理由是提議人主張，不等於選舉機關認定個別指控屬實。","role":"被罷免人、答辯人","outcome":"2025年7月26日罷免投票遭否決；投票結果不判定理由書中個別指控真偽","processStatus":"resolved","personResponse":"黃建賓在答辯書否認罷免理由對其問政的批評，主張推動民生修法及臺東建設","resolution":"中央選舉委員會公告罷免案投票結果為否決","sourceIds":["tt-huang-recall-bulletin","tt-huang-recall-result","tt-huang-recall-cna"]}
+    ]}
+  ]
+}

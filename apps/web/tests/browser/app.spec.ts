@@ -229,3 +229,13 @@ test('Tainan profiles show verified events and non-final court status', async ({
     await expect(page.getByText(/來源/).first()).toBeVisible();
   }
 });
+
+test('Taitung profile shows sourced proposals and recall outcome after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46829');
+  await expect(page.getByRole('heading', { name: '黃建賓' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '提出兒少性剝削防制條例修正草案' })).toBeVisible();
+  await expect(page.locator('a[href*="ppg.ly.gov.tw"]').first()).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政及預算爭議' })).toBeVisible();
+  await expect(page.getByText(/投票結果不判定理由書中個別指控真偽/)).toBeVisible();
+});

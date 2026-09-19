@@ -220,4 +220,14 @@ describe('2026 legislator snapshot', () => {
     const lin = tainan.find(member => member.name === '林宜瑾');
     expect(eventMembers.get(lin!.id)?.events.some(event => event.processStatus === 'judgment_appealable')).toBe(true);
   });
+
+  it('covers Taitung with sourced proposals and a qualified recall dispute', () => {
+    const taitung = membersForRegion('臺東縣');
+    expect(taitung).toHaveLength(1);
+    const research = eventMembers.get(taitung[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(research?.events.some(event => event.category === 'concern' && event.processStatus === 'resolved')).toBe(true);
+    for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+  });
 });
