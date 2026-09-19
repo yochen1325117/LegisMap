@@ -278,3 +278,14 @@ test('Penghu profile keeps current status alongside retirement announcement', as
   await expect(page.getByRole('heading', { name: '提出兒少福利與權益保障法修正草案' })).toBeVisible();
   await expect(page.getByRole('link', { name: /中央通訊社/ })).toHaveAttribute('href', /cna\.com\.tw/);
 });
+
+test('Kinmen profile shows qualified allegation and current status after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46813');
+  await expect(page.getByRole('heading', { name: '陳玉珍' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '中華電信人事介入指控遭告發' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '在立委任內登記參選金門縣長' })).toBeVisible();
+  await expect(page.getByText(/現任/).first()).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出離島建設條例第10條等條文修正草案' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社/ }).first()).toHaveAttribute('href', /cna\.com\.tw/);
+});

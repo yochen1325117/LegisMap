@@ -267,4 +267,15 @@ describe('2026 legislator snapshot', () => {
     expect(research?.events.some(event => event.category === 'anecdote')).toBe(true);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
+
+  it('covers Kinmen with sourced proposals, a qualified allegation, and election registration', () => {
+    const kinmen = membersForRegion('金門縣');
+    expect(kinmen).toHaveLength(1);
+    const research = eventMembers.get(kinmen[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(research?.events.some(event => event.category === 'concern' && event.processStatus === 'disputed')).toBe(true);
+    expect(research?.events.some(event => event.category === 'anecdote')).toBe(true);
+    for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+  });
 });
