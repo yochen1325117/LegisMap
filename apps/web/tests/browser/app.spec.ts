@@ -59,3 +59,16 @@ test('Taipei profiles load sourced events and explain empty categories', async (
   await page.reload();
   await expect(page.getByRole('heading', { name: '羅智強' })).toBeVisible();
 });
+
+test('New Taipei county and profile retain sourced events after reload', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('button', { name: '新北市', exact: true }).click();
+  await expect(page.getByRole('heading', { name: '新北市' })).toBeVisible();
+  await page.getByRole('button', { name: /蘇巧慧.*新北市第5選舉區/ }).click();
+  await expect(page).toHaveURL(/\/legislator\/ly11-46860$/);
+  await expect(page.getByRole('heading', { name: '提出兒童托育服務法草案' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /立法院・兒童托育服務法草案/ })).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '蘇巧慧' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '分送春聯並決定加印' })).toBeVisible();
+});
