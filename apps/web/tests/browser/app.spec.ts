@@ -96,3 +96,16 @@ test('Hsinchu County profiles show sources and reload correctly', async ({ page 
   await page.reload();
   await expect(page.getByRole('heading', { name: '徐欣瑩' })).toBeVisible();
 });
+
+test('Hsinchu City profile shows multiple sourced proposals and controversy statuses', async ({ page }) => {
+  await page.goto('/legislator/ly11-46845');
+  await expect(page.getByRole('heading', { name: '鄭正鈐' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '提出核子反應器設施管制法修正草案' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '共同提出產業創新條例修正草案' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '借款民事訴訟二審判返還1357萬餘元' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /立法院・核子反應器設施管制法/ })).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
+  await expect(page.getByRole('link', { name: /中央通訊社・鄭正鈐為選舉借款未還/ })).toHaveAttribute('href', /cna\.com\.tw/);
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(2);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '鄭正鈐' })).toBeVisible();
+});

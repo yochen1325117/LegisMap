@@ -78,4 +78,17 @@ describe('2026 legislator snapshot', () => {
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
   });
+
+  it('covers Hsinchu City with sourced proposals and distinct controversy outcomes', () => {
+    const city = membersForRegion('新竹市');
+    expect(city).toHaveLength(1);
+    const research = eventMembers.get(city[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(3);
+    expect(research?.events.filter(event => event.category === 'concern')).toHaveLength(2);
+    for (const event of research?.events ?? []) {
+      expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+      expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
+    }
+  });
 });
