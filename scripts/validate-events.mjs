@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 const roster = JSON.parse(readFileSync('data/research/ly11-2026.json', 'utf8'));
 const batchFiles = readdirSync('data/research').filter(name => /^events-.*\.json$/.test(name));
 const categories = ['contribution', 'good_deed', 'concern', 'anecdote'];
+const processStatuses = new Set(['documented', 'reported', 'disputed', 'investigation', 'under_investigation', 'indicted', 'judgment_appealable', 'remanded', 'resolved']);
 const allMemberIds = new Set();
 const allSourceIds = new Set();
 const allEventIds = new Set();
@@ -33,11 +34,16 @@ for (const source of batch.sources) {
   assert.ok(new URL(source.url).protocol === 'https:');
   assert.ok(validDate(source.accessedAt) && source.accessedAt <= batch.researchedAt);
   assert.ok(source.publishedAt === null || validDate(source.publishedAt));
+  assert.ok(source.publishedAt === null || source.publishedAt <= source.accessedAt, `${source.id} publication follows access date`);
+  if (source.lastVerifiedAt !== undefined) {
+    assert.ok(validDate(source.lastVerifiedAt) && source.lastVerifiedAt >= source.accessedAt, `${source.id} invalid last verification date`);
+  }
   assert.ok(['official', 'court', 'news', 'statement', 'other'].includes(source.sourceType));
   sources.set(source.id, source);
 }
 
 const eventIds = new Set();
+const citedSourceIds = new Set();
 for (const member of batch.members) {
   assert.ok(!allMemberIds.has(member.memberId), `Member reused across batches: ${member.memberId}`);
   allMemberIds.add(member.memberId);
@@ -47,6 +53,7 @@ for (const member of batch.members) {
     required(event.id, 'event id'); required(event.title, 'event title');
     required(event.summary, 'event summary'); required(event.role, 'event role');
     required(event.outcome, 'event outcome'); required(event.processStatus, 'event status');
+    assert.ok(processStatuses.has(event.processStatus), `${event.id} has unknown process status`);
     assert.ok(!eventIds.has(event.id), `Duplicate event: ${event.id}`);
     assert.ok(!allEventIds.has(event.id), `Event reused across batches: ${event.id}`);
     allEventIds.add(event.id);
@@ -54,7 +61,10 @@ for (const member of batch.members) {
     assert.ok(categories.includes(event.category));
     assert.ok(validDate(event.occurredAt) && event.occurredAt >= batch.periodStart && event.occurredAt <= batch.researchedAt);
     assert.ok(Array.isArray(event.sourceIds) && event.sourceIds.length, `${event.id} needs sources`);
-    for (const id of event.sourceIds) assert.ok(sources.has(id), `${event.id} unknown source ${id}`);
+    for (const id of event.sourceIds) {
+      assert.ok(sources.has(id), `${event.id} unknown source ${id}`);
+      citedSourceIds.add(id);
+    }
     if (event.category === 'concern') {
       required(event.personResponse, `${event.id} person response`);
       required(event.resolution, `${event.id} resolution`);
@@ -63,5 +73,6 @@ for (const member of batch.members) {
     }
   }
 }
+assert.deepEqual([...citedSourceIds].sort(), [...sources.keys()].sort(), `${file} has unused sources`);
 console.log(`Validated ${batch.regionName}: ${batch.members.length} members, ${eventIds.size} events, ${sources.size} sources.`);
 }
