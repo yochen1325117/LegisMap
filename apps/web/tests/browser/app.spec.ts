@@ -159,3 +159,14 @@ test('Nantou profiles distinguish accusations and recall outcomes after reload',
   await expect(page.getByRole('heading', { name: '捐書予南投偏鄉三所國小' })).toBeVisible();
   await expect(page.getByRole('link', { name: /救國團南投縣團委會/ })).toHaveAttribute('href', /cna\.com\.tw\/postwrite/);
 });
+
+test('Yilan profile shows four sourced categories and the prior-term caveat', async ({ page }) => {
+  await page.goto('/legislator/ly11-46816');
+  await expect(page.getByRole('heading', { name: '陳俊宇' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '與縣議員聯合服務處義賣盆景助弱勢' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '楊桃集貨場住宅使用爭議再受質疑' })).toBeVisible();
+  await expect(page.getByText(/第11屆立委任期前/)).toBeVisible();
+  await expect(page.getByRole('link', { name: /菱傳媒/ })).toHaveAttribute('href', /rwnews\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '服務處掛小學老師所贈' })).toBeVisible();
+});

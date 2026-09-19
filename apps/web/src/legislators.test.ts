@@ -149,4 +149,17 @@ describe('2026 legislator snapshot', () => {
     const ma = nantou.find(member => member.name === '馬文君');
     expect(eventMembers.get(ma!.id)?.events.some(event => event.processStatus === 'under_investigation')).toBe(true);
   });
+
+  it('covers Yilan with sourced events in all four reviewed categories', () => {
+    const yilan = membersForRegion('宜蘭縣');
+    expect(yilan).toHaveLength(1);
+    const research = eventMembers.get(yilan[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(new Set(research?.events.map(event => event.category))).toEqual(new Set(['contribution', 'good_deed', 'concern', 'anecdote']));
+    for (const event of research?.events ?? []) {
+      expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+      expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
+    }
+  });
 });
