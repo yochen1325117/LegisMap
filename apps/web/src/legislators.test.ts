@@ -28,4 +28,15 @@ describe('2026 legislator snapshot', () => {
       expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
     }
   });
+
+  it('covers all eight Taipei members with reviewed categories and sourced events', () => {
+    const taipei = membersForRegion('臺北市');
+    expect(taipei).toHaveLength(8);
+    for (const member of taipei) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.some(event => event.category === 'contribution')).toBe(true);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+  });
 });

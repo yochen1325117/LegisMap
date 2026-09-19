@@ -1,0 +1,65 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "taipei-2026-09-19",
+  "regionName": "臺北市",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46758", "ly11-46762", "ly11-46766", "ly11-46769", "ly11-46773", "ly11-46796", "ly11-46848", "ly11-46859"],
+  "sources": [
+    {"id":"taipei-finance-20250605","title":"立法院第11屆第3會期財政委員會第16次全體委員會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025052940/details?meetingDate=114%2F06%2F05","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"議程與委員發言片段：賴士葆 10:33–10:43、李彥秀 10:52–11:02、王世堅 12:11–12:21"},
+    {"id":"taipei-plenary-20250117","title":"第11屆第2會期第18次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025011544/details?meetingDate=114%2F01%2F17","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114 年 1 月 17 日報告事項第 3 案：王鴻薇等 22 人擬具就業服務法第五十五條條文修正草案"},
+    {"id":"taipei-plenary-20240503","title":"第11屆第1會期第12次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2024050179/details?meetingDate=113%2F05%2F03","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"報告事項第 10 案：吳沛憶等 21 人擬具兒童及少年性剝削防制條例部分條文修正草案"},
+    {"id":"taipei-plenary-20250225","title":"第11屆第3會期第2次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025022158/details?meetingDate=114%2F02%2F25","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114 年 2 月 25 日委員發言片段：吳思瑤 14:30–14:46、王鴻薇 15:45–16:16；報告事項羅智強等 16 人提立法委員行為法修正草案"},
+    {"id":"taipei-military-draft","title":"軍人權益事件處理法草案議案關係文書","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024050190/PPGB60500_4100_20642_1130514_0011.pdf","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"第 1 頁案由：徐巧芯等 20 人擬具草案及提案理由"},
+    {"id":"taipei-sports-fund","title":"吳沛憶捐選舉補助款設運動基金 促體育發展向下扎根","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202404180183.aspx","sourceType":"news","publishedAt":"2024-04-18","accessedAt":"2026-09-19","evidenceLocator":"記者會宣布捐出選舉補助款結餘，設中正萬華基層運動發展基金"},
+    {"id":"taipei-sports-followup","title":"捐選舉補助款設運發基金 吳沛憶助小學空手道隊升級訓練裝備","publisher":"民視新聞網","url":"https://www.ftvnews.com.tw/news/detail/2025620W0614","sourceType":"news","publishedAt":"2025-06-20","accessedAt":"2026-09-19","evidenceLocator":"北市大附小空手道隊獲運動基金協助更換練習用具段落"},
+    {"id":"taipei-hung-apology","title":"王鴻薇為爆料致歉 陳時中盼未來謹言慎行","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/firstnews/202411130089.aspx","sourceType":"news","publishedAt":"2024-11-13","accessedAt":"2026-09-19","evidenceLocator":"醫界餐敘與王鴻薇向女醫師致歉段落"},
+    {"id":"taipei-hung-apology-2","title":"爆陳時中餐敘『美女相陪』 王鴻薇發文：向女醫師致歉","publisher":"華視新聞網","url":"https://news.cts.com.tw/cts/politics/202411/202411132401618.html","sourceType":"news","publishedAt":"2024-11-13","accessedAt":"2026-09-19","evidenceLocator":"餐敘性質澄清及王鴻薇道歉段落"},
+    {"id":"taipei-wupeiyi-judgment","title":"遭陳玉珍求償法院判賠5萬 吳沛憶擬討論上訴否","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202508150323.aspx","sourceType":"news","publishedAt":"2025-08-15","accessedAt":"2026-09-19","evidenceLocator":"台北地院一審判決與吳沛憶擬討論上訴段落"},
+    {"id":"taipei-wupeiyi-judgment-2","title":"諷陳玉珍『脫衣求碰瓷』 吳沛憶要賠5萬元法院判決理由曝光","publisher":"聯合新聞網","url":"https://udn.com/news/story/7321/8942207","sourceType":"news","publishedAt":"2025-08-15","accessedAt":"2026-09-19","evidenceLocator":"台北地院判決理由與可上訴說明"},
+    {"id":"taipei-li-declaration","title":"公職人員變動財產申報表","publisher":"監察院","url":"https://www-ws.cy.gov.tw/Download.ashx?icon=..pdf&n=44CQ5buJ5pS%2F5bCI5YiK56ysMjk55pyf44CRLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMS9yZWxmaWxlLzg4NjEvMzY5ODYvOWMwMzA0ZGItNWM1Zi00YzE0LTgzOTQtZmYwZjNmYmMyM2MwLnBkZg%3D%3D","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"申報人李彥秀；美國房地 113 年 5 月 13 日售出之註記"},
+    {"id":"taipei-li-property","title":"監察院立案查美國房產 李彥秀：坦蕩並依法配合","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/737605","sourceType":"news","publishedAt":"2025-02-13","accessedAt":"2026-09-19","evidenceLocator":"監察院立案查核、李彥秀承認早年一筆房產疏未申報及其說明"},
+    {"id":"taipei-hsu-apology","title":"指外交部人員涉共諜 徐巧芯鞠躬致歉：同名誤植","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202504100207.aspx","sourceType":"news","publishedAt":"2025-04-10","accessedAt":"2026-09-19","evidenceLocator":"4 月 10 日立法院質詢前致歉及同名誤植說明"},
+    {"id":"taipei-hsu-apology-2","title":"公部門頻傳涉共諜案 政院擬修《兩岸條例》防範","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/746429","sourceType":"news","publishedAt":"2025-04-10","accessedAt":"2026-09-19","evidenceLocator":"徐巧芯誤植同名文官照片並鞠躬致歉段落"},
+    {"id":"taipei-lai-crash","title":"賴士葆駕車轉彎撞傷2行人 警排除酒駕","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202407100039.aspx","sourceType":"news","publishedAt":"2024-07-10","accessedAt":"2026-09-19","evidenceLocator":"2024 年 7 月 9 日晚間車禍、警方排除酒駕段落"},
+    {"id":"taipei-lai-response","title":"賴士葆駕車撞傷行人 兩度鞠躬致歉","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202407100041.aspx","sourceType":"news","publishedAt":"2024-07-10","accessedAt":"2026-09-19","evidenceLocator":"賴士葆道歉與承諾負責段落"},
+    {"id":"taipei-lai-settlement","title":"賴士葆撞傷2女和解 行人控警方洩密、員警被訴","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202503270068.aspx","sourceType":"news","publishedAt":"2025-03-27","accessedAt":"2026-09-19","evidenceLocator":"首段：兩名受傷行人與賴士葆和解"},
+    {"id":"taipei-lai-crash-pts","title":"立委賴士葆開車未停讓行人 撞倒斑馬線上2女子","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/704193","sourceType":"news","publishedAt":"2024-07-10","accessedAt":"2026-09-19","evidenceLocator":"事故經過與兩度鞠躬致歉段落"},
+    {"id":"taipei-wang-music","title":"被國台辦指『沒出息』 王世堅反擊：睜眼說瞎話","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202512030183.aspx","sourceType":"news","publishedAt":"2025-12-03","accessedAt":"2026-09-19","evidenceLocator":"開頭：王世堅過往質詢金句被改編成歌曲及本人回應"}
+  ],
+  "members": [
+    {"memberId":"ly11-46758","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-wang-finance-2025","category":"contribution","occurredAt":"2025-06-05","title":"就疫情防備措施質詢","summary":"立法院財政委員會就疫情再起與快篩、疫苗、藥品準備舉行專題報告；議事頁列王世堅於會中質詢。紀錄可確認其監督行為，不代表相關措施因質詢而改變。","role":"質詢委員","outcome":"完成專題質詢","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-finance-20250605"]},
+      {"id":"taipei-wang-music-2025","category":"anecdote","occurredAt":"2025-12-03","title":"過往質詢金句被改編成歌曲","summary":"中央社報導，王世堅過往質詢中的『沒出息』片段被改編成歌曲；王世堅受訪談及此事。日期為報導發表日，原質詢並非發生於當日。","role":"被引用的發言者","outcome":"歌曲流傳後本人公開回應","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["taipei-wang-music"]}
+    ]},
+    {"memberId":"ly11-46762","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-hung-employment-2025","category":"contribution","occurredAt":"2025-01-17","title":"提出就業服務法修正草案","summary":"立法院院會議事頁列王鴻薇等 22 人擬具《就業服務法》第 55 條修正草案，進入報告事項；此為提案紀錄，不代表已完成修法。","role":"提案委員","outcome":"院會報告事項，擬交委員會審查","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-plenary-20250117"]},
+      {"id":"taipei-hung-apology-2024","category":"concern","occurredAt":"2024-11-13","title":"餐敘爆料波及女醫師後致歉","summary":"王鴻薇質疑陳時中與王必勝參加的餐敘並影射與會女性身分；餐敘相關人士澄清為醫界聚會後，王鴻薇向受波及的女醫師致歉。","role":"提出質疑並致歉的委員","outcome":"向女醫師公開致歉","processStatus":"resolved","personResponse":"王鴻薇表示向女醫師致歉，但仍主張可以監督陳時中與王必勝。","resolution":"媒體記錄的是質疑、澄清與致歉，不推定其他違法行為。","sourceIds":["taipei-hung-apology","taipei-hung-apology-2"]}
+    ]},
+    {"memberId":"ly11-46766","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-wupeiyi-proposal-2024","category":"contribution","occurredAt":"2024-05-03","title":"提出兒少性剝削防制條例修正草案","summary":"立法院院會報告事項列吳沛憶等 21 人擬具《兒童及少年性剝削防制條例》部分條文修正草案；僅記錄提案，未推定法案已通過。","role":"提案委員","outcome":"列入院會報告事項","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-plenary-20240503"]},
+      {"id":"taipei-wupeiyi-sports-2025","category":"good_deed","occurredAt":"2025-06-19","title":"運動基金協助小學空手道隊","summary":"吳沛憶於 2024 年宣布將選舉補助款結餘設立基層運動基金；2025 年報導記錄基金協助北市大附小空手道隊更換練習用具。","role":"基金設立者、支持者","outcome":"學校空手道隊獲練習用具","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["taipei-sports-fund","taipei-sports-followup"]},
+      {"id":"taipei-wupeiyi-civil-2025","category":"concern","occurredAt":"2025-08-15","title":"與陳玉珍言論爭議的一審民事判決","summary":"臺北地院就吳沛憶指陳玉珍『求碰瓷』的言論，於一審判吳沛憶賠償新臺幣 5 萬元。報導指出判決可上訴，不能寫作確定判決。","role":"民事被告","outcome":"一審判賠 5 萬元，可上訴","processStatus":"judgment_appealable","personResponse":"吳沛憶表示將與律師討論是否上訴。","resolution":"查閱時未取得確定判決或後續上訴結果；以一審狀態呈現。","sourceIds":["taipei-wupeiyi-judgment","taipei-wupeiyi-judgment-2"]}
+    ]},
+    {"memberId":"ly11-46769","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-wusiya-interpellation-2025","category":"contribution","occurredAt":"2025-02-25","title":"院會施政報告質詢","summary":"立法院第 11 屆第 3 會期院會議事頁記錄吳思瑤在行政院施政方針與施政報告質詢時段發言。來源可核對質詢時間，不據此推定政策成果。","role":"質詢委員","outcome":"完成院會質詢","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-plenary-20250225"]}
+    ]},
+    {"memberId":"ly11-46773","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-li-finance-2025","category":"contribution","occurredAt":"2025-06-05","title":"就疫情防備措施質詢","summary":"立法院財政委員會就疫情再起與防疫物資準備舉行專題報告，議事頁列李彥秀於會中質詢。此為監督紀錄，不推定政策因而改變。","role":"質詢委員","outcome":"完成專題質詢","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-finance-20250605"]},
+      {"id":"taipei-li-property-2025","category":"concern","occurredAt":"2025-02-13","title":"早年美國房產申報爭議","summary":"公視報導監察院對李彥秀美國房產申報立案查核；李彥秀表示早年一筆房產疏未申報並致歉。監察院公開申報表另可核對其美國房地售出註記。此處不推定監察院裁罰結果。","role":"受查核申報人","outcome":"監察院立案查核；未查得可核實的最終處分","processStatus":"investigation","personResponse":"李彥秀稱早年對法規不清楚，對疏未申報致歉，表示依法配合查核。","resolution":"公開申報表證明申報內容，不足以單獨證明違規或裁罰。","sourceIds":["taipei-li-declaration","taipei-li-property"]}
+    ]},
+    {"memberId":"ly11-46796","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-hsu-military-2024","category":"contribution","occurredAt":"2024-05-14","title":"提出軍人權益事件處理法草案","summary":"立法院議案關係文書列徐巧芯等 20 人提出《軍人權益事件處理法》草案，理由聚焦軍人申訴救濟程序分散的問題；提案不等於法案已通過。","role":"提案委員","outcome":"草案送交審議","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-military-draft"]},
+      {"id":"taipei-hsu-apology-2025","category":"concern","occurredAt":"2025-04-10","title":"質詢資料誤植同名外交部文官","summary":"徐巧芯在前一日質詢資料中誤用與涉共諜案被調查者同名的外交部文官照片與職稱；她於 4 月 10 日承認誤植並向文官及其家人致歉。不可將無關文官寫作涉案人。","role":"質詢委員、致歉者","outcome":"本人承認誤植並公開致歉","processStatus":"resolved","personResponse":"徐巧芯說因同名同姓造成資料誤植，對當事人與家人表達歉意。","resolution":"兩家媒體均記錄誤植與致歉；不對其他共諜案情作認定。","sourceIds":["taipei-hsu-apology","taipei-hsu-apology-2"]}
+    ]},
+    {"memberId":"ly11-46848","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-lai-convener-2025","category":"contribution","occurredAt":"2025-06-05","title":"召集疫情防備專題報告","summary":"立法院財政委員會議事頁列賴士葆為召集人，邀請審計部及衛生福利部就疫情再起、防疫物資與醫療措施報告並備質詢。","role":"財政委員會召集人","outcome":"委員會舉行專題報告與質詢","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-finance-20250605"]},
+      {"id":"taipei-lai-crash-2024","category":"concern","occurredAt":"2024-07-09","title":"駕車碰撞兩名行人","summary":"賴士葆駕車轉彎時碰撞行人穿越道上的兩名行人；警方排除酒駕。他隔日公開致歉，後續報導指出與兩名傷者和解。","role":"駕駛人","outcome":"兩名行人受傷；後與傷者和解","processStatus":"resolved","personResponse":"賴士葆表示因視線死角未注意行人，向傷者致歉並承諾負責。","resolution":"報導確認和解；不將另案警方洩漏車禍資料的犯罪歸於賴士葆。","sourceIds":["taipei-lai-crash","taipei-lai-response","taipei-lai-settlement","taipei-lai-crash-pts"]}
+    ]},
+    {"memberId":"ly11-46859","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"taipei-luo-conduct-2025","category":"contribution","occurredAt":"2025-02-25","title":"提出立法委員行為法修正草案","summary":"立法院院會議事頁列羅智強等 16 人擬具《立法委員行為法》第 7 條修正草案；此為提案紀錄，未將提案視為已生效法律。","role":"提案委員","outcome":"列入院會議程","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["taipei-plenary-20250225"]}
+    ]}
+  ]
+}

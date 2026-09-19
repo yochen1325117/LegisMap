@@ -23,6 +23,10 @@ function SourceLinks({ items, label }: { items: SourceRecord[]; label: string })
 const eventCategoryLabels: Record<EventCategory, string> = {
   contribution: '立委貢獻', good_deed: '正面事蹟', concern: '爭議事件', anecdote: '逸聞',
 };
+const eventStatusLabels: Record<string, string> = {
+  documented: '紀錄已核對', reported: '報導已核對', disputed: '主張有爭議',
+  investigation: '查核中', judgment_appealable: '一審判決，可上訴', resolved: '事件已有後續結果',
+};
 
 function MemberEvents({ memberId }: { memberId: string }) {
   const research = eventMembers.get(memberId);
@@ -32,7 +36,7 @@ function MemberEvents({ memberId }: { memberId: string }) {
       <h3>{eventCategoryLabels[category]}</h3>
       {research.events.filter(event => event.category === category).map(event => <article className="event-card" key={event.id}>
         <h4>{event.title}</h4><time dateTime={event.occurredAt}>{event.occurredAt}</time>
-        <p>{event.summary}</p><p><strong>角色：</strong>{event.role}</p><p><strong>結果／進度：</strong>{event.outcome}</p>
+        <p>{event.summary}</p><p><strong>角色：</strong>{event.role}</p><p><strong>查證狀態：</strong>{eventStatusLabels[event.processStatus] ?? event.processStatus}</p><p><strong>結果／進度：</strong>{event.outcome}</p>
         {event.personResponse && <p><strong>當事人回應：</strong>{event.personResponse}</p>}
         {event.resolution && <p><strong>查證界線：</strong>{event.resolution}</p>}
         <p className="event-source-list"><strong>來源：</strong>{sourcesForEvent(event).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.evidenceLocator}｜查閱 ${source.accessedAt}`}>{source.publisher}・{source.title} ↗</a>)}</p>

@@ -46,3 +46,16 @@ test('Keelung profile shows four sourced research categories after reload', asyn
   await page.reload();
   await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政爭議' })).toBeVisible();
 });
+
+test('Taipei profiles load sourced events and explain empty categories', async ({ page }) => {
+  await page.goto('/legislator/ly11-46766');
+  await expect(page.getByRole('heading', { name: '吳沛憶' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '運動基金協助小學空手道隊' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社・吳沛憶捐選舉補助款設運動基金/ })).toHaveAttribute('href', /cna\.com\.tw/);
+  await page.goto('/legislator/ly11-46859');
+  await expect(page.getByRole('heading', { name: '羅智強' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '提出立法委員行為法修正草案' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(3);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '羅智強' })).toBeVisible();
+});

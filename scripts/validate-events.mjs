@@ -4,6 +4,9 @@ import assert from 'node:assert/strict';
 const roster = JSON.parse(readFileSync('data/research/ly11-2026.json', 'utf8'));
 const batchFiles = readdirSync('data/research').filter(name => /^events-.*\.json$/.test(name));
 const categories = ['contribution', 'good_deed', 'concern', 'anecdote'];
+const allMemberIds = new Set();
+const allSourceIds = new Set();
+const allEventIds = new Set();
 const validDate = value => /^\d{4}-\d{2}-\d{2}$/.test(value) && new Date(`${value}T00:00:00Z`).toISOString().slice(0, 10) === value;
 const required = (value, label) => assert.ok(typeof value === 'string' && value.trim(), `${label} is required`);
 
@@ -25,6 +28,8 @@ for (const source of batch.sources) {
   required(source.id, 'source id'); required(source.title, 'source title');
   required(source.publisher, 'source publisher'); required(source.evidenceLocator, 'source locator');
   assert.ok(!sources.has(source.id), `Duplicate source: ${source.id}`);
+  assert.ok(!allSourceIds.has(source.id), `Source reused across batches: ${source.id}`);
+  allSourceIds.add(source.id);
   assert.ok(new URL(source.url).protocol === 'https:');
   assert.ok(validDate(source.accessedAt) && source.accessedAt <= batch.researchedAt);
   assert.ok(source.publishedAt === null || validDate(source.publishedAt));
@@ -34,6 +39,8 @@ for (const source of batch.sources) {
 
 const eventIds = new Set();
 for (const member of batch.members) {
+  assert.ok(!allMemberIds.has(member.memberId), `Member reused across batches: ${member.memberId}`);
+  allMemberIds.add(member.memberId);
   assert.equal(member.reviewedAt, batch.researchedAt);
   assert.deepEqual([...member.reviewedCategories].sort(), [...categories].sort());
   for (const event of member.events) {
@@ -41,6 +48,8 @@ for (const member of batch.members) {
     required(event.summary, 'event summary'); required(event.role, 'event role');
     required(event.outcome, 'event outcome'); required(event.processStatus, 'event status');
     assert.ok(!eventIds.has(event.id), `Duplicate event: ${event.id}`);
+    assert.ok(!allEventIds.has(event.id), `Event reused across batches: ${event.id}`);
+    allEventIds.add(event.id);
     eventIds.add(event.id);
     assert.ok(categories.includes(event.category));
     assert.ok(validDate(event.occurredAt) && event.occurredAt >= batch.periodStart && event.occurredAt <= batch.researchedAt);
@@ -49,7 +58,8 @@ for (const member of batch.members) {
     if (event.category === 'concern') {
       required(event.personResponse, `${event.id} person response`);
       required(event.resolution, `${event.id} resolution`);
-      assert.ok(event.sourceIds.some(id => sources.get(id).sourceType === 'official'));
+      const cited = event.sourceIds.map(id => sources.get(id));
+      assert.ok(cited.some(source => ['official', 'court'].includes(source.sourceType)) || new Set(cited.map(source => source.publisher)).size >= 2, `${event.id} needs a formal record or independent corroboration`);
     }
   }
 }
