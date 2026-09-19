@@ -124,3 +124,15 @@ test('Miaoli profiles show sourced events and preserve direct URLs after reload'
   await expect(page.getByRole('heading', { name: '陳超明' })).toBeVisible();
   await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(2);
 });
+
+test('Taichung profiles show sourced events and current case status after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46855');
+  await expect(page.getByRole('heading', { name: '顏寬恒' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '助理費涉貪案最高法院撤銷發回' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社.*顏寬恒/ }).first()).toHaveAttribute('href', /cna\.com\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出性別平等工作法增訂條文草案' })).toBeVisible();
+  await page.goto('/legislator/ly11-46842');
+  await expect(page.getByRole('heading', { name: '號召基層棒球器材補助計畫' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /TAIWOLF/ })).toHaveAttribute('href', /taiwolf\.com/);
+});

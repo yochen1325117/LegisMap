@@ -103,4 +103,20 @@ describe('2026 legislator snapshot', () => {
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
   });
+
+  it('covers all eight Taichung members with sourced events and current case status', () => {
+    const taichung = membersForRegion('臺中市');
+    expect(taichung).toHaveLength(8);
+    for (const member of taichung) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.some(event => event.category === 'contribution')).toBe(true);
+      for (const event of research?.events ?? []) {
+        expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+        expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
+      }
+    }
+    const yen = taichung.find(member => member.name === '顏寬恒');
+    expect(eventMembers.get(yen!.id)?.events.some(event => event.title.includes('最高法院撤銷發回'))).toBe(true);
+  });
 });
