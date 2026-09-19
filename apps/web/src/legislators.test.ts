@@ -91,4 +91,16 @@ describe('2026 legislator snapshot', () => {
       expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
     }
   });
+
+  it('covers both Miaoli members with sourced proposals and documented case stages', () => {
+    const miaoli = membersForRegion('苗栗縣');
+    expect(miaoli).toHaveLength(2);
+    for (const member of miaoli) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.some(event => event.category === 'concern')).toBe(true);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+  });
 });

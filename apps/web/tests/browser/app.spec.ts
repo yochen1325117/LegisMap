@@ -109,3 +109,18 @@ test('Hsinchu City profile shows multiple sourced proposals and controversy stat
   await page.reload();
   await expect(page.getByRole('heading', { name: '鄭正鈐' })).toBeVisible();
 });
+
+test('Miaoli profiles show sourced events and preserve direct URLs after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46790');
+  await expect(page.getByRole('heading', { name: '邱鎮軍' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '參與文山國小弱勢學子捐款' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '立法院議場衝突遭依傷害罪起訴' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /苗栗縣文山國小・【大愛助學 · 點亮希望】感謝函/ })).toHaveAttribute('href', /wenshanes\.mlc\.edu\.tw/);
+  await page.goto('/legislator/ly11-46822');
+  await expect(page.getByRole('heading', { name: '陳超明' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '涉貪案件二審改判無罪' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央通訊社・陳超明、徐永明等涉貪案無罪/ })).toHaveAttribute('href', /cna\.com\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '陳超明' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(2);
+});

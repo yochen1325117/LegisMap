@@ -1,0 +1,36 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "miaoli-2026-09-19",
+  "regionName": "苗栗縣",
+  "researchedAt": "2026-09-19",
+  "periodStart": "2021-09-19",
+  "reviewStatus": "verified",
+  "memberIds": ["ly11-46790", "ly11-46822"],
+  "sources": [
+    {"id":"ml-chiu-climate","title":"氣候變遷因應法部分條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110099900000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"委員邱鎮軍等17人；審議進度列114年3月21日交付審查"},
+    {"id":"ml-chiu-education","title":"第11屆第4會期第14次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025121723/details?meetingDate=114%2F12%2F19","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"報告事項第113案列邱鎮軍等19人《國民教育法》第44條修正草案"},
+    {"id":"ml-chiu-school","title":"【大愛助學 · 點亮希望】感謝函","publisher":"苗栗縣文山國小","url":"https://wenshanes.mlc.edu.tw/News/Detail.php?ID=1130&pageNum_DataList=&search_Cate=&search_Name=&search_office=","sourceType":"official","publishedAt":"2025-12-29","accessedAt":"2026-09-19","evidenceLocator":"學校感謝邱鎮軍及其他109位人士共同捐贈20萬元段落"},
+    {"id":"ml-chiu-indictment","title":"立法院多次肢體衝突 10立委遭訴、4立委不起訴","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202602120058.aspx","sourceType":"news","publishedAt":"2026-02-12","accessedAt":"2026-09-19","evidenceLocator":"北檢依傷害罪起訴邱鎮軍及邱志偉、沈伯洋提告段落"},
+    {"id":"ml-chiu-response","title":"議事攻防爆肢體衝突吃官司…邱鎮軍：民進黨操弄司法 絕不屈服","publisher":"聯合報","url":"https://udn.com/news/story/124680/9327046","sourceType":"news","publishedAt":"2026-02-12","accessedAt":"2026-09-19","evidenceLocator":"邱鎮軍受訪回應起訴與主張屬議事攻防段落"},
+    {"id":"ml-chen-employment","title":"就業服務法第四十六條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110068860000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列陳超明；113年12月31日三讀及114年1月10日咨請公布"},
+    {"id":"ml-chen-climate","title":"氣候變遷因應法增訂第三十三條之一條文草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110222320000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列陳超明、邱鎮軍；審議進度列115年7月3日排入院會"},
+    {"id":"ml-chen-judgment","title":"陳超明、徐永明等涉貪案無罪 高院認無證據證明行收賄","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202608210179.aspx","sourceType":"news","publishedAt":"2026-08-21","accessedAt":"2026-09-19","evidenceLocator":"一審判決、二審改判無罪理由、仍可上訴與高檢署研議上訴段落"},
+    {"id":"ml-chen-response","title":"立委涉貪案改判無罪 陳超明：公平審判還清白","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202608210285.aspx","sourceType":"news","publishedAt":"2026-08-21","accessedAt":"2026-09-19","evidenceLocator":"陳超明在立法院受訪回應二審改判無罪段落"},
+    {"id":"ml-chen-judgment-pts","title":"立委集體收賄案二審宣判 陳超明、徐永明獲改判無罪","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/823474","sourceType":"news","publishedAt":"2026-08-21","accessedAt":"2026-09-19","evidenceLocator":"陳超明二審改判無罪及全案仍可上訴段落"}
+  ],
+  "members": [
+    {"memberId":"ly11-46790","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ml-chiu-climate-2025","category":"contribution","occurredAt":"2025-03-21","title":"提出氣候變遷因應法修正草案","summary":"立法院議案頁列邱鎮軍等17人提出《氣候變遷因應法》部分條文修正草案；日期為交付審查日。","role":"提案委員","outcome":"交委員會審查，未據此推定草案已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ml-chiu-climate"]},
+      {"id":"ml-chiu-education-2025","category":"contribution","occurredAt":"2025-12-19","title":"提出國民教育法第44條修正草案","summary":"立法院第11屆第4會期第14次會議報告事項列邱鎮軍等19人提出《國民教育法》第44條修正草案；日期為列入會議議程日。","role":"提案委員","outcome":"列入院會報告事項，未據此推定草案已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ml-chiu-education"]},
+      {"id":"ml-chiu-school-2025","category":"good_deed","occurredAt":"2025-12-29","title":"參與文山國小弱勢學子捐款","summary":"文山國小公告感謝邱鎮軍及其他109位人士共同捐贈20萬元扶助弱勢學子；日期為學校公告日，公告未載明邱鎮軍個人捐款金額。","role":"共同捐贈者","outcome":"學校公告收到20萬元共同捐款","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ml-chiu-school"]},
+      {"id":"ml-chiu-indictment-2026","category":"concern","occurredAt":"2026-02-12","title":"立法院議場衝突遭依傷害罪起訴","summary":"中央社依北檢偵結消息報導，邱鎮軍因2024年5月17日立法院議場衝突，涉及邱志偉、沈伯洋提出的傷害告訴，於2026年2月12日被起訴。起訴不等於有罪判決。","role":"刑事案件被告","outcome":"檢方起訴；本批未查得法院判決結果","processStatus":"indicted","personResponse":"邱鎮軍受訪稱當日是議事攻防，批評起訴為政治性司法操作，表示不會屈服。","resolution":"仍待法院審理；未據起訴推定犯罪成立。","sourceIds":["ml-chiu-indictment","ml-chiu-response"]}
+    ]},
+    {"memberId":"ly11-46822","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
+      {"id":"ml-chen-employment-2024","category":"contribution","occurredAt":"2024-12-31","title":"提出就業服務法第46條修正草案","summary":"立法院議案頁列陳超明等16人提出《就業服務法》第46條修正草案；日期為併案三讀通過日。","role":"提案委員","outcome":"與其他版本併案三讀；最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ml-chen-employment"]},
+      {"id":"ml-chen-climate-2026","category":"contribution","occurredAt":"2026-07-03","title":"共同提出氣候變遷因應法增訂條文草案","summary":"立法院議案頁列陳超明及邱鎮軍為《氣候變遷因應法》增訂第33條之1草案提案人；日期為排入院會日。","role":"共同提案委員","outcome":"排入院會，未據此推定草案已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ml-chen-climate"]},
+      {"id":"ml-chen-judgment-2026","category":"concern","occurredAt":"2026-08-21","title":"涉貪案件二審改判無罪","summary":"陳超明在SOGO經營權相關收賄案一審被判7年8月；高等法院於2026年8月21日認為證據不足以證明其與他人有收賄合意，撤銷一審有罪判決，改判無罪。案件仍可上訴，不能稱已無罪確定。","role":"刑事案件被告、上訴人","outcome":"二審改判無罪，仍可上訴","processStatus":"judgment_appealable","personResponse":"陳超明受訪表示二審給他清白，感謝高院公平審判，並稱多年訴訟令他身心疲憊。","resolution":"截至本批查閱日，所引報導載明高檢署待收判決後研議是否上訴，未查得確定判決。","sourceIds":["ml-chen-judgment","ml-chen-response","ml-chen-judgment-pts"]}
+    ]}
+  ]
+}
+
