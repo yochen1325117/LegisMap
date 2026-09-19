@@ -192,3 +192,13 @@ test('Yunlin profiles retain sourced events after direct load and reload', async
   await expect(page.getByRole('heading', { name: '劉建國' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '協助為花蓮洪災募物並響應捐款' })).toBeVisible();
 });
+
+test('Chiayi City profile shows sourced donation and qualified dispute after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46761');
+  await expect(page.getByRole('heading', { name: '王美惠' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '捐20萬元選舉保證金予嘉義家扶助學' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /嘉義家扶中心/ }).first()).toHaveAttribute('href', /ccf\.org\.tw/);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '議場推擠中遭指對駐衛警動粗' })).toBeVisible();
+  await expect(page.getByText(/不足以認定刑事責任/)).toBeVisible();
+});

@@ -185,4 +185,13 @@ describe('2026 legislator snapshot', () => {
     const ding = yunlin.find(member => member.name === '丁學忠');
     expect(eventMembers.get(ding!.id)?.events.some(event => event.category === 'concern' && event.processStatus === 'resolved')).toBe(true);
   });
+
+  it('covers Chiayi City with four reviewed categories and sourced events', () => {
+    const city = membersForRegion('嘉義市');
+    expect(city).toHaveLength(1);
+    const research = eventMembers.get(city[0].id);
+    expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+    expect(new Set(research?.events.map(event => event.category))).toEqual(new Set(['contribution', 'good_deed', 'concern', 'anecdote']));
+    for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+  });
 });
