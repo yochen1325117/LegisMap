@@ -243,4 +243,18 @@ describe('2026 legislator snapshot', () => {
     const lin = kaohsiung.find(member => member.name === '林岱樺');
     expect(eventMembers.get(lin!.id)?.events.some(event => event.category === 'concern' && event.processStatus === 'indicted')).toBe(true);
   });
+
+  it('covers both Pingtung members with sourced contributions and qualified disputes', () => {
+    const pingtung = membersForRegion('屏東縣');
+    expect(pingtung).toHaveLength(2);
+    for (const member of pingtung) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.some(event => event.category === 'contribution')).toBe(true);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+    }
+    const chung = pingtung.find(member => member.name === '鍾佳濱');
+    expect(eventMembers.get(chung!.id)?.events.filter(event => event.category === 'concern')).toHaveLength(2);
+    expect(eventMembers.get(chung!.id)?.events.some(event => event.processStatus === 'indicted')).toBe(true);
+  });
 });

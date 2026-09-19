@@ -254,3 +254,16 @@ test('Kaohsiung profiles show sourced events and qualified court stage', async (
     await expect(page.locator('a[href*="ppg.ly.gov.tw"]').first()).toBeVisible();
   }
 });
+
+test('Pingtung profiles show sourced events and two separate disputes', async ({ page }) => {
+  await page.goto('/legislator/ly11-46798');
+  await expect(page.getByRole('heading', { name: '徐富癸' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '提出地方制度法第33條修正草案' })).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出太空發展法第3條修正草案' })).toBeVisible();
+  await page.goto('/legislator/ly11-46853');
+  await expect(page.getByRole('heading', { name: '鍾佳濱' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '議場碰撞陳菁徽後遭提刑事自訴' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '護欄鋼索案遭北檢依毀損公物罪嫌起訴' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /聯合新聞網/ })).toHaveAttribute('href', /udn\.com/);
+});
