@@ -119,4 +119,20 @@ describe('2026 legislator snapshot', () => {
     const yen = taichung.find(member => member.name === '顏寬恒');
     expect(eventMembers.get(yen!.id)?.events.some(event => event.title.includes('最高法院撤銷發回'))).toBe(true);
   });
+
+  it('covers all four Changhua members with sourced proposals and verified community events', () => {
+    const changhua = membersForRegion('彰化縣');
+    expect(changhua).toHaveLength(4);
+    for (const member of changhua) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events.some(event => event.category === 'contribution')).toBe(true);
+      for (const event of research?.events ?? []) {
+        expect(sourcesForEvent(event).length).toBeGreaterThan(0);
+        expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
+      }
+    }
+    const hsieh = changhua.find(member => member.name === '謝衣鳯');
+    expect(eventMembers.get(hsieh!.id)?.events.some(event => event.category === 'anecdote')).toBe(true);
+  });
 });

@@ -136,3 +136,14 @@ test('Taichung profiles show sourced events and current case status after reload
   await expect(page.getByRole('heading', { name: '號召基層棒球器材補助計畫' })).toBeVisible();
   await expect(page.getByRole('link', { name: /TAIWOLF/ })).toHaveAttribute('href', /taiwolf\.com/);
 });
+
+test('Changhua profiles show sourced deeds and preserve direct URLs after reload', async ({ page }) => {
+  await page.goto('/legislator/ly11-46851');
+  await expect(page.getByRole('heading', { name: '謝衣鳯' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '以家族基金會名義捐贈彰化家扶年菜' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /彰化家扶中心/ })).toHaveAttribute('href', /ccf\.org\.tw/);
+  await page.goto('/legislator/ly11-46818');
+  await expect(page.getByRole('heading', { name: '邀集友人為創世基金會彰化分會募款' })).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading', { name: '提出老年農民福利津貼修正草案' })).toBeVisible();
+});
