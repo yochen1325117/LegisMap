@@ -19,3 +19,5 @@
 第二十一批 `data/research/events-kinmen-2026.json` 涵蓋金門縣陳玉珍與 4 則事件，查閱日為 2026-09-20；人事介入爭議明確區分工會與告發人的指控、本人回應及尚未確認的司法結果。正面事蹟類別因來源不足而留空。
 
 第二十二批 `data/research/events-lienchiang-2026.json` 涵蓋連江縣陳雪生與 3 則事件，查閱日為 2026-09-20；助理費及廠商利益案標示為偵查中，記錄交保及第二波搜索，不推定起訴或有罪。正面事蹟類別因來源不足而留空。
+
+第二十三至二十五批分別為 `data/research/events-party-list-2026.json`、`data/research/events-plains-indigenous-2026.json` 與 `data/research/events-mountain-indigenous-2026.json`，涵蓋其餘 47 位不分區、平地原住民及山地原住民委員。查閱日為 2026-09-22；逐人以立法院官方個人頁核對第 11 屆委員會參與紀錄，並完成四類查核。委員會紀錄只證明其席次，不推定個別提案或政策成果；來源不足的正面事蹟、爭議與逸聞維持空白。

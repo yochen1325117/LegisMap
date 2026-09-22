@@ -20,7 +20,8 @@ assert.ok(validDate(batch.researchedAt) && validDate(batch.periodStart));
 const cutoff = new Date(`${batch.researchedAt}T00:00:00Z`);
 cutoff.setUTCFullYear(cutoff.getUTCFullYear() - 5);
 assert.equal(batch.periodStart, cutoff.toISOString().slice(0, 10));
-const expected = roster.members.filter(member => member.regionName === batch.regionName).map(member => member.id).sort();
+assert.ok(Boolean(batch.regionName) !== Boolean(batch.seatType), `${file} must identify exactly one region or seat type`);
+const expected = roster.members.filter(member => batch.seatType ? member.seatType === batch.seatType : member.regionName === batch.regionName).map(member => member.id).sort();
 assert.deepEqual([...batch.memberIds].sort(), expected, 'Batch must cover the complete region');
 assert.deepEqual(batch.members.map(member => member.memberId).sort(), expected);
 
@@ -74,5 +75,7 @@ for (const member of batch.members) {
   }
 }
 assert.deepEqual([...citedSourceIds].sort(), [...sources.keys()].sort(), `${file} has unused sources`);
-console.log(`Validated ${batch.regionName}: ${batch.members.length} members, ${eventIds.size} events, ${sources.size} sources.`);
+console.log(`Validated ${batch.regionName ?? batch.seatLabel}: ${batch.members.length} members, ${eventIds.size} events, ${sources.size} sources.`);
 }
+assert.deepEqual([...allMemberIds].sort(), roster.members.map(member => member.id).sort(), 'Event batches must cover every public roster member');
+console.log(`Validated complete event coverage for ${allMemberIds.size} public members.`);

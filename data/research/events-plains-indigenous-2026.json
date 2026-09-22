@@ -1,0 +1,131 @@
+{
+  "documentType": "legislatorEventBatch",
+  "schemaVersion": "1.0.0",
+  "batchId": "plains-indigenous-2026-09-22",
+  "regionName": null,
+  "seatType": "plains_indigenous",
+  "seatLabel": "平地原住民選舉區",
+  "researchedAt": "2026-09-22",
+  "periodStart": "2021-09-22",
+  "reviewStatus": "verified",
+  "memberIds": [
+    "ly11-46823",
+    "ly11-46827",
+    "ly11-46844"
+  ],
+  "sources": [
+    {
+      "id": "plains-indigenous-46823-profile",
+      "title": "立法院全球資訊網 - 陳瑩委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46823",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-22",
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會"
+    },
+    {
+      "id": "plains-indigenous-46827-profile",
+      "title": "立法院全球資訊網 - 黃仁委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46827",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-22",
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+    },
+    {
+      "id": "plains-indigenous-46844-profile",
+      "title": "立法院全球資訊網 - 鄭天財Sra Kacaw委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46844",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-22",
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：經濟委員會"
+    }
+  ],
+  "members": [
+    {
+      "memberId": "ly11-46823",
+      "reviewedAt": "2026-09-22",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "plains-indigenous-46823-service",
+          "category": "contribution",
+          "occurredAt": "2024-02-01",
+          "title": "參與第11屆第5會期社會福利及衛生環境委員會",
+          "summary": "立法院官方個人頁列明陳瑩於第11屆第5會期：社會福利及衛生環境委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
+          "outcome": "官方個人頁已列入該會期委員會名單",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "plains-indigenous-46823-profile"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46827",
+      "reviewedAt": "2026-09-22",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "plains-indigenous-46827-service",
+          "category": "contribution",
+          "occurredAt": "2024-02-01",
+          "title": "參與第11屆第5會期外交及國防委員會",
+          "summary": "立法院官方個人頁列明黃仁於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
+          "outcome": "官方個人頁已列入該會期委員會名單",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "plains-indigenous-46827-profile"
+          ]
+        }
+      ]
+    },
+    {
+      "memberId": "ly11-46844",
+      "reviewedAt": "2026-09-22",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "plains-indigenous-46844-service",
+          "category": "contribution",
+          "occurredAt": "2024-02-01",
+          "title": "參與第11屆第5會期經濟委員會",
+          "summary": "立法院官方個人頁列明鄭天財Sra Kacaw於第11屆第5會期：經濟委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
+          "outcome": "官方個人頁已列入該會期委員會名單",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "plains-indigenous-46844-profile"
+          ]
+        }
+      ]
+    }
+  ]
+}

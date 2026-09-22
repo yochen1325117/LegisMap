@@ -32,8 +32,16 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await page.getByRole('button', { name: /黃國昌.*2026 年離職/ }).click();
   await expect(page).toHaveURL(/\/legislator\/ly11-46832$/);
   await expect(page.getByText('2026-02-01')).toBeVisible();
+  await expect(page.getByRole('heading', { name: '參與第11屆第4會期司法及法制委員會' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /立法院/ }).last()).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46832');
   await page.getByRole('button', { name: '收合資料' }).click();
   await expect(page.getByRole('button', { name: '查看資料' })).toBeVisible();
+  await page.goto('/legislator/ly11-46823');
+  await expect(page.getByRole('heading', { name: '陳瑩' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '參與第11屆第5會期社會福利及衛生環境委員會' })).toBeVisible();
+  await page.goto('/legislator/ly11-46763');
+  await expect(page.getByRole('heading', { name: '伍麗華Saidhai‧Tahovecahe' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: /參與第11屆第5會期教育及文化委員會/ })).toBeVisible();
 });
 
 test('Keelung profile shows four sourced research categories after reload', async ({ page }) => {

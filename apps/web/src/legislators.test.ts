@@ -287,4 +287,15 @@ describe('2026 legislator snapshot', () => {
     expect(research?.events.some(event => event.category === 'concern' && event.processStatus === 'under_investigation')).toBe(true);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
+
+  it('covers every party-list and indigenous member with reviewed sourced records', () => {
+    const specialMembers = members.filter(member => member.seatType !== 'district');
+    expect(specialMembers).toHaveLength(47);
+    for (const member of specialMembers) {
+      const research = eventMembers.get(member.id);
+      expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
+      expect(research?.events).toHaveLength(1);
+      for (const event of research?.events ?? []) expect(sourcesForEvent(event)).toHaveLength(1);
+    }
+  });
 });
