@@ -1,26 +1,191 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "chiayi-city-2026-09-19",
   "regionName": "嘉義市",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46761"],
+  "memberIds": [
+    "ly11-46761"
+  ],
   "sources": [
-    {"id":"cyc-water-bill","title":"立法院第11屆第4會期第4次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025100890/details?meetingDate=114%2F10%2F14","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114年10月14日議程第19案：王美惠等19人自來水法第97條之1修正草案"},
-    {"id":"cyc-flood","title":"王美惠爭取2.4億治水經費 強化嘉義市防洪韌性","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202605120223.aspx","sourceType":"news","publishedAt":"2026-05-12","accessedAt":"2026-09-19","evidenceLocator":"內文首段與服務處說法：6項工程已核定、中央補助2.4億元；報導依服務處新聞稿"},
-    {"id":"cyc-charity","title":"王美惠贊助家扶助學工程 選舉保證金疼惜在地學子","publisher":"嘉義家扶中心","url":"https://www.ccf.org.tw/23/news/NjE1NQ/detail","sourceType":"statement","publishedAt":"2024-05-11","accessedAt":"2026-09-19","evidenceLocator":"活動報導首段與照片說明：捐贈20萬元；末段：家扶兒贈手作康乃馨"},
-    {"id":"cyc-conflict-cna","title":"黃國昌控打人 郭國文：受不了噴口水推開不是賞巴掌","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202405170076.aspx","sourceType":"news","publishedAt":"2024-05-17","accessedAt":"2026-09-19","evidenceLocator":"內文末兩段：王美惠被質疑對駐衛警動粗、本人否認，羅廷瑋稱目擊"},
-    {"id":"cyc-conflict-tvbs","title":"被藍目擊扯帽K警 綠委王美惠認了：誠心向駐衛警致歉","publisher":"TVBS新聞網","url":"https://news.tvbs.com.tw/politics/2490424","sourceType":"news","publishedAt":"2024-05-18","accessedAt":"2026-09-19","evidenceLocator":"王美惠5月18日聲明：否認針對特定人士攻擊，承認推擠造成員警困擾並致歉"}
+    {
+      "id": "cyc-water-bill",
+      "title": "立法院第11屆第4會期第4次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025100890/details?meetingDate=114%2F10%2F14",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114年10月14日議程第19案：王美惠等19人自來水法第97條之1修正草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "cyc-flood",
+      "title": "王美惠爭取2.4億治水經費 強化嘉義市防洪韌性",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202605120223.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-12",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文首段與服務處說法：6項工程已核定、中央補助2.4億元；報導依服務處新聞稿",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "cyc-charity",
+      "title": "王美惠贊助家扶助學工程 選舉保證金疼惜在地學子",
+      "publisher": "嘉義家扶中心",
+      "url": "https://www.ccf.org.tw/23/news/NjE1NQ/detail",
+      "sourceType": "statement",
+      "publishedAt": "2024-05-11",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "活動報導首段與照片說明：捐贈20萬元；末段：家扶兒贈手作康乃馨",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "cyc-conflict-cna",
+      "title": "黃國昌控打人 郭國文：受不了噴口水推開不是賞巴掌",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202405170076.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-17",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文末兩段：王美惠被質疑對駐衛警動粗、本人否認，羅廷瑋稱目擊",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "cyc-conflict-tvbs",
+      "title": "被藍目擊扯帽K警 綠委王美惠認了：誠心向駐衛警致歉",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/politics/2490424",
+      "sourceType": "news",
+      "publishedAt": "2024-05-18",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "王美惠5月18日聲明：否認針對特定人士攻擊，承認推擠造成員警困擾並致歉",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46761","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"cyc-wang-water-2025","category":"contribution","occurredAt":"2025-10-14","title":"提出自來水法第97條之1修正草案","summary":"立法院會議議程列王美惠等19人提出《自來水法》第97條之1修正草案；日期為列入院會議程日。","role":"提案委員","outcome":"來源證實列入議程，不據此推定單一版本已三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyc-water-bill"]},
-      {"id":"cyc-wang-flood-2026","category":"contribution","occurredAt":"2026-05-12","title":"協調嘉義市治水工程中央補助","summary":"中央社依王美惠服務處新聞稿報導：王美惠曾邀中央官員會勘，嘉義市6項治水工程已核定、中央補助2.4億元；日期為報導日。","role":"地方建設協調者","outcome":"報導確認核定與補助規劃，不代表工程均已完工","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyc-flood"]},
-      {"id":"cyc-wang-charity-2024","category":"good_deed","occurredAt":"2024-05-11","title":"捐20萬元選舉保證金予嘉義家扶助學","summary":"嘉義家扶中心活動報導及照片說明，王美惠在2024年5月11日捐出20萬元立委選舉保證金，作為嘉義地區弱勢學子助學金。","role":"捐贈者","outcome":"家扶中心記錄收受捐贈，用於助學工程","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyc-charity"]},
-      {"id":"cyc-wang-police-2024","category":"concern","occurredAt":"2024-05-17","title":"議場推擠中遭指對駐衛警動粗","summary":"立法院議場門口推擠時，羅廷瑋指稱目擊王美惠打駐衛警；王美惠當日否認打人。次日她表示推擠造成員警困擾並致歉，但否認針對特定人士攻擊。現有來源不足以認定刑事責任。","role":"受指控的衝突參與者","outcome":"王美惠公開致歉；未以這些來源確認司法裁判","processStatus":"documented","personResponse":"王美惠先否認打人，後就推擠造成員警困擾表示歉意，稱無意針對個人攻擊","resolution":"公開回應與致歉已見報；是否有司法程序或確定結果未查得足夠資料","sourceIds":["cyc-conflict-cna","cyc-conflict-tvbs"]},
-      {"id":"cyc-wang-carnation-2024","category":"anecdote","occurredAt":"2024-05-11","title":"家扶孩童送手作康乃馨後落淚","summary":"嘉義家扶中心記錄，王美惠於母親節前夕助學捐款活動中，收到家扶孩童製作的康乃馨，當場感動落淚。","role":"活動參與者","outcome":"家扶中心活動報導記錄當日互動","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["cyc-charity"]}
-    ]}
+    {
+      "memberId": "ly11-46761",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "cyc-wang-water-2025",
+          "category": "contribution",
+          "occurredAt": "2025-10-14",
+          "title": "提出自來水法第97條之1修正草案",
+          "summary": "立法院會議議程列王美惠等19人提出《自來水法》第97條之1修正草案；日期為列入院會議程日。",
+          "role": "提案委員",
+          "outcome": "來源證實列入議程，不據此推定單一版本已三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "cyc-water-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "cyc-wang-flood-2026",
+          "category": "contribution",
+          "occurredAt": "2026-05-12",
+          "title": "協調嘉義市治水工程中央補助",
+          "summary": "中央社依王美惠服務處新聞稿報導：王美惠曾邀中央官員會勘，嘉義市6項治水工程已核定、中央補助2.4億元；日期為報導日。",
+          "role": "地方建設協調者",
+          "outcome": "報導確認核定與補助規劃，不代表工程均已完工",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "cyc-flood"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        },
+        {
+          "id": "cyc-wang-charity-2024",
+          "category": "good_deed",
+          "occurredAt": "2024-05-11",
+          "title": "捐20萬元選舉保證金予嘉義家扶助學",
+          "summary": "嘉義家扶中心活動報導及照片說明，王美惠在2024年5月11日捐出20萬元立委選舉保證金，作為嘉義地區弱勢學子助學金。",
+          "role": "捐贈者",
+          "outcome": "家扶中心記錄收受捐贈，用於助學工程",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "cyc-charity"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "donor",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "public"
+        },
+        {
+          "id": "cyc-wang-police-2024",
+          "category": "concern",
+          "occurredAt": "2024-05-17",
+          "title": "議場推擠中遭指對駐衛警動粗",
+          "summary": "立法院議場門口推擠時，羅廷瑋指稱目擊王美惠打駐衛警；王美惠當日否認打人。次日她表示推擠造成員警困擾並致歉，但否認針對特定人士攻擊。現有來源不足以認定刑事責任。",
+          "role": "受指控的衝突參與者",
+          "outcome": "王美惠公開致歉；未以這些來源確認司法裁判",
+          "processStatus": "documented",
+          "personResponse": "王美惠先否認打人，後就推擠造成員警困擾表示歉意，稱無意針對個人攻擊",
+          "resolution": "公開回應與致歉已見報；是否有司法程序或確定結果未查得足夠資料",
+          "sourceIds": [
+            "cyc-conflict-cna",
+            "cyc-conflict-tvbs"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "public"
+        },
+        {
+          "id": "cyc-wang-carnation-2024",
+          "category": "anecdote",
+          "occurredAt": "2024-05-11",
+          "title": "家扶孩童送手作康乃馨後落淚",
+          "summary": "嘉義家扶中心記錄，王美惠於母親節前夕助學捐款活動中，收到家扶孩童製作的康乃馨，當場感動落淚。",
+          "role": "活動參與者",
+          "outcome": "家扶中心活動報導記錄當日互動",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "cyc-charity"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

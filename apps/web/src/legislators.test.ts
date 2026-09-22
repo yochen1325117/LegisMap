@@ -294,7 +294,8 @@ describe('2026 legislator snapshot', () => {
     for (const member of specialMembers) {
       const research = eventMembers.get(member.id);
       expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-      expect(research?.events).toHaveLength(1);
+      expect(research?.reviewedSourceTypes).toEqual(['legislative', 'government', 'oversight_and_judicial', 'independent_news', 'statements']);
+      expect(research?.backgroundRecords).toHaveLength(1);
       for (const event of research?.events ?? []) expect(sourcesForEvent(event)).toHaveLength(1);
     }
   });

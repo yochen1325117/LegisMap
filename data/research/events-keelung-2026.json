@@ -1,28 +1,159 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "keelung-2026-09-19",
   "regionName": "基隆市",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46778"],
+  "memberIds": [
+    "ly11-46778"
+  ],
   "sources": [
-    {"id":"keelung-traffic-visit","title":"立法院交通委員會考察基隆地區交通及重大公共建設紀錄","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024032126/PPGB60500_2400_20595_1130502_0001.pdf","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"第 1 頁考察日期、領隊委員；第 2–3 頁結論"},
-    {"id":"keelung-recall-bulletin","title":"第11屆立法委員（基隆市選舉區）林沛祥罷免案罷免公告內容","publisher":"基隆市選舉委員會","url":"https://web.cec.gov.tw/api/file/4e75a728-db75-4179-8d41-31eafd092bc1.pdf","sourceType":"official","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"第 1–2 頁罷免理由書及答辯書；兩份文字由各提出人自行負責"},
-    {"id":"keelung-recall-result","title":"中選會公告 25 案罷免投票結果皆為否決","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202508010192.aspx","sourceType":"news","publishedAt":"2025-08-01","accessedAt":"2026-09-19","evidenceLocator":"內文列林沛祥案，說明不同意票多於同意票、結果否決"},
-    {"id":"keelung-interview","title":"基隆最年輕副議長林沛祥，能靠「很不國民黨」選贏立委？","publisher":"遠見雜誌","url":"https://www.gvm.com.tw/article/106681","sourceType":"news","publishedAt":"2023-10-04","accessedAt":"2026-09-19","evidenceLocator":"「做自己選舉海報『很電影』，長輩一路罵」段落"}
+    {
+      "id": "keelung-traffic-visit",
+      "title": "立法院交通委員會考察基隆地區交通及重大公共建設紀錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024032126/PPGB60500_2400_20595_1130502_0001.pdf",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "第 1 頁考察日期、領隊委員；第 2–3 頁結論",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "keelung-recall-bulletin",
+      "title": "第11屆立法委員（基隆市選舉區）林沛祥罷免案罷免公告內容",
+      "publisher": "基隆市選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/4e75a728-db75-4179-8d41-31eafd092bc1.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "第 1–2 頁罷免理由書及答辯書；兩份文字由各提出人自行負責",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "keelung-recall-result",
+      "title": "中選會公告 25 案罷免投票結果皆為否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "內文列林沛祥案，說明不同意票多於同意票、結果否決",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "keelung-interview",
+      "title": "基隆最年輕副議長林沛祥，能靠「很不國民黨」選贏立委？",
+      "publisher": "遠見雜誌",
+      "url": "https://www.gvm.com.tw/article/106681",
+      "sourceType": "news",
+      "publishedAt": "2023-10-04",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "「做自己選舉海報『很電影』，長輩一路罵」段落",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
     {
       "memberId": "ly11-46778",
       "reviewedAt": "2026-09-19",
-      "reviewedCategories": ["contribution", "good_deed", "concern", "anecdote"],
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
       "events": [
-        {"id":"keelung-2024-traffic-visit","category":"contribution","occurredAt":"2024-03-28","title":"領隊考察基隆交通與公共建設","summary":"立法院交通委員會的考察紀錄列林沛祥為領隊委員；結論包含台 62 線延伸、基隆捷運第二階段及公共運輸計畫的後續辦理方向。這是考察與督促紀錄，不代表各工程已完工。","role":"領隊委員","outcome":"考察紀錄提出後續辦理方向","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["keelung-traffic-visit"]},
-        {"id":"keelung-2024-transit-followup","category":"good_deed","occurredAt":"2024-03-28","title":"追蹤基隆捷運第二階段可行性研究","summary":"在林沛祥領隊的交通委員會考察紀錄中，交通部說明已同意補助基隆市政府辦理整體路網及第二階段可行性研究，補助上限為新臺幣 1,950 萬元。補助函發於考察前一天；不能將核定歸功於單一委員。","role":"考察領隊、追蹤議題","outcome":"紀錄載明交通部既有補助決定與後續辦理事項","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["keelung-traffic-visit"]},
-        {"id":"keelung-2025-recall","category":"concern","occurredAt":"2025-07-03","title":"罷免理由與答辯中的問政爭議","summary":"基隆市選舉委員會刊載罷免方對林沛祥交通監督等問政表現的批評，以及林沛祥逐項否認、說明交通委員會工作內容的答辯。這些是相對主張，公告本身未認定批評屬實。","role":"被罷免人、答辯人","outcome":"2025 年 7 月 26 日投票，罷免案遭否決","processStatus":"resolved","personResponse":"林沛祥在公告所附答辯書中否認怠忽交通監督，並說明其辦公室聯繫及委員會追蹤作為。","resolution":"罷免方主張與答辯均刊載於官方選舉公報；罷免遭否決不等於逐項事實認定，也不作違法或失職認定。","sourceIds":["keelung-recall-bulletin","keelung-recall-result"]},
-        {"id":"keelung-2023-poster","category":"anecdote","occurredAt":"2023-10-04","title":"以電影式海報參選","summary":"遠見雜誌專訪記錄，林沛祥在 2024 年立委選戰採用灰暗基隆背景、本人站在畫面前方的海報；他說曾因此受到黨內長輩批評。日期為報導發表日。","role":"受訪的立委參選人","outcome":"專訪記錄其競選設計與回應","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["keelung-interview"]}
+        {
+          "id": "keelung-2024-traffic-visit",
+          "category": "contribution",
+          "occurredAt": "2024-03-28",
+          "title": "領隊考察基隆交通與公共建設",
+          "summary": "立法院交通委員會的考察紀錄列林沛祥為領隊委員；結論包含台 62 線延伸、基隆捷運第二階段及公共運輸計畫的後續辦理方向。這是考察與督促紀錄，不代表各工程已完工。",
+          "role": "領隊委員",
+          "outcome": "考察紀錄提出後續辦理方向",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "keelung-traffic-visit"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "proposed",
+          "visibility": "public"
+        },
+        {
+          "id": "keelung-2024-transit-followup",
+          "category": "good_deed",
+          "occurredAt": "2024-03-28",
+          "title": "追蹤基隆捷運第二階段可行性研究",
+          "summary": "在林沛祥領隊的交通委員會考察紀錄中，交通部說明已同意補助基隆市政府辦理整體路網及第二階段可行性研究，補助上限為新臺幣 1,950 萬元。補助函發於考察前一天；不能將核定歸功於單一委員。",
+          "role": "考察領隊、追蹤議題",
+          "outcome": "紀錄載明交通部既有補助決定與後續辦理事項",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "keelung-traffic-visit"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "public"
+        },
+        {
+          "id": "keelung-2025-recall",
+          "category": "concern",
+          "occurredAt": "2025-07-03",
+          "title": "罷免理由與答辯中的問政爭議",
+          "summary": "基隆市選舉委員會刊載罷免方對林沛祥交通監督等問政表現的批評，以及林沛祥逐項否認、說明交通委員會工作內容的答辯。這些是相對主張，公告本身未認定批評屬實。",
+          "role": "被罷免人、答辯人",
+          "outcome": "2025 年 7 月 26 日投票，罷免案遭否決",
+          "processStatus": "resolved",
+          "personResponse": "林沛祥在公告所附答辯書中否認怠忽交通監督，並說明其辦公室聯繫及委員會追蹤作為。",
+          "resolution": "罷免方主張與答辯均刊載於官方選舉公報；罷免遭否決不等於逐項事實認定，也不作違法或失職認定。",
+          "sourceIds": [
+            "keelung-recall-bulletin",
+            "keelung-recall-result"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        },
+        {
+          "id": "keelung-2023-poster",
+          "category": "anecdote",
+          "occurredAt": "2023-10-04",
+          "title": "以電影式海報參選",
+          "summary": "遠見雜誌專訪記錄，林沛祥在 2024 年立委選戰採用灰暗基隆背景、本人站在畫面前方的海報；他說曾因此受到黨內長輩批評。日期為報導發表日。",
+          "role": "受訪的立委參選人",
+          "outcome": "專訪記錄其競選設計與回應",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "keelung-interview"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "before_legislative_service",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     }
   ]

@@ -32,22 +32,22 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await page.getByRole('button', { name: /黃國昌.*2026 年離職/ }).click();
   await expect(page).toHaveURL(/\/legislator\/ly11-46832$/);
   await expect(page.getByText('2026-02-01')).toBeVisible();
-  await expect(page.getByRole('heading', { name: '參與第11屆第4會期司法及法制委員會' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
   await expect(page.getByRole('link', { name: /立法院/ }).last()).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46832');
   await page.getByRole('button', { name: '收合資料' }).click();
   await expect(page.getByRole('button', { name: '查看資料' })).toBeVisible();
   await page.goto('/legislator/ly11-46823');
   await expect(page.getByRole('heading', { name: '陳瑩' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '參與第11屆第5會期社會福利及衛生環境委員會' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
   await page.goto('/legislator/ly11-46763');
   await expect(page.getByRole('heading', { name: '伍麗華Saidhai‧Tahovecahe' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: /參與第11屆第5會期教育及文化委員會/ })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
 });
 
 test('Keelung profile shows four sourced research categories after reload', async ({ page }) => {
   await page.goto('/legislator/ly11-46778');
   await expect(page.getByRole('heading', { name: '林沛祥' })).toBeVisible();
-  for (const heading of ['立委貢獻', '正面事蹟', '爭議事件', '逸聞']) {
+  for (const heading of ['立法與問政成果', '公益與公共服務', '爭議與責任紀錄', '人物側寫']) {
     await expect(page.getByRole('heading', { name: heading })).toBeVisible();
   }
   await expect(page.getByRole('link', { name: /立法院・立法院交通委員會考察基隆地區交通及重大公共建設紀錄/ }).first()).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
@@ -78,19 +78,17 @@ test('New Taipei county and profile retain sourced events after reload', async (
   await expect(page.getByRole('link', { name: /立法院・兒童托育服務法草案/ })).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
   await page.reload();
   await expect(page.getByRole('heading', { name: '蘇巧慧' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '分送春聯並決定加印' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
 });
 
 test('Taoyuan profiles show multiple events in a category and preserve links after reload', async ({ page }) => {
   await page.goto('/legislator/ly11-46836');
   await expect(page.getByRole('heading', { name: '萬美玲' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '持續舉辦捐髮活動協助癌症病友' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '舉辦技專校院升學講座' })).toBeVisible();
-  await expect(page.getByRole('link', { name: /中央通訊社・捐髮活動助癌症病友/ })).toHaveAttribute('href', /cna\.com\.tw/);
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
   await page.goto('/legislator/ly11-46757');
   await expect(page.getByRole('heading', { name: '試用期八成薪條文引起爭議後刪除' })).toBeVisible();
   await page.reload();
-  await expect(page.getByRole('heading', { name: '受訪談領養貓UNO' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '牛煦庭' })).toBeVisible();
 });
 
 test('Hsinchu County profiles show sources and reload correctly', async ({ page }) => {
@@ -100,7 +98,7 @@ test('Hsinchu County profiles show sources and reload correctly', async ({ page 
   await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政爭議' })).toBeVisible();
   await expect(page.getByRole('link', { name: /中央選舉委員會・第11屆立法委員新竹縣第2選舉區林思銘罷免案公告內容/ })).toHaveAttribute('href', /web\.cec\.gov\.tw/);
   await page.goto('/legislator/ly11-46797');
-  await expect(page.getByRole('heading', { name: '媒合二手電腦供弱勢學生使用' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '徐欣瑩' })).toBeVisible();
 });
@@ -151,7 +149,7 @@ test('Changhua profiles show sourced deeds and preserve direct URLs after reload
   await expect(page.getByRole('heading', { name: '以家族基金會名義捐贈彰化家扶年菜' })).toBeVisible();
   await expect(page.getByRole('link', { name: /彰化家扶中心/ })).toHaveAttribute('href', /ccf\.org\.tw/);
   await page.goto('/legislator/ly11-46818');
-  await expect(page.getByRole('heading', { name: '邀集友人為創世基金會彰化分會募款' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出老年農民福利津貼修正草案' })).toBeVisible();
 });
@@ -171,12 +169,12 @@ test('Nantou profiles distinguish accusations and recall outcomes after reload',
 test('Yilan profile shows four sourced categories and the prior-term caveat', async ({ page }) => {
   await page.goto('/legislator/ly11-46816');
   await expect(page.getByRole('heading', { name: '陳俊宇' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '與縣議員聯合服務處義賣盆景助弱勢' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
   await expect(page.getByRole('heading', { name: '楊桃集貨場住宅使用爭議再受質疑' })).toBeVisible();
   await expect(page.getByText(/第11屆立委任期前/)).toBeVisible();
   await expect(page.getByRole('link', { name: /菱傳媒/ })).toHaveAttribute('href', /rwnews\.tw/);
   await page.reload();
-  await expect(page.getByRole('heading', { name: '服務處掛小學老師所贈' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '陳俊宇' })).toBeVisible();
 });
 
 test('Hualien profile distinguishes constitutional review from personal liability', async ({ page }) => {
@@ -198,7 +196,7 @@ test('Yunlin profiles retain sourced events after direct load and reload', async
   await expect(page.getByRole('heading', { name: '提出土石採取法第36條修正草案' })).toBeVisible();
   await page.goto('/legislator/ly11-46841');
   await expect(page.getByRole('heading', { name: '劉建國' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '協助為花蓮洪災募物並響應捐款' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
 });
 
 test('Chiayi City profile shows sourced donation and qualified dispute after reload', async ({ page }) => {
@@ -217,7 +215,7 @@ test('Chiayi County profiles show directly sourced events after reload', async (
   await expect(page.getByRole('heading', { name: '提出安樂死法草案並促請排審' })).toBeVisible();
   await expect(page.getByRole('link', { name: /立法院/ }).first()).toHaveAttribute('href', /ly\.gov\.tw/);
   await page.reload();
-  await expect(page.getByRole('heading', { name: '獲法國未來人物計畫邀請參訪' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
   await page.goto('/legislator/ly11-46843');
   await expect(page.getByRole('heading', { name: '蔡易餘' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '財劃法審查推擠與陳永康受傷爭議' })).toBeVisible();
@@ -280,18 +278,17 @@ test('Penghu profile keeps current status alongside retirement announcement', as
   await page.goto('/legislator/ly11-46834');
   await expect(page.getByRole('heading', { name: '楊曜' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '提出勞工保險條例修正草案' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '公開宣布本屆任滿後不再參選公職' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-20 尚無已核實資料。').first()).toBeVisible();
   await expect(page.getByText(/現任/).first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出兒少福利與權益保障法修正草案' })).toBeVisible();
-  await expect(page.getByRole('link', { name: /中央通訊社/ })).toHaveAttribute('href', /cna\.com\.tw/);
 });
 
 test('Kinmen profile shows qualified allegation and current status after reload', async ({ page }) => {
   await page.goto('/legislator/ly11-46813');
   await expect(page.getByRole('heading', { name: '陳玉珍' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '中華電信人事介入指控遭告發' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: '在立委任內登記參選金門縣長' })).toBeVisible();
+  await expect(page.getByText('截至 2026-09-20 尚無已核實資料。').first()).toBeVisible();
   await expect(page.getByText(/現任/).first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出離島建設條例第10條等條文修正草案' })).toBeVisible();

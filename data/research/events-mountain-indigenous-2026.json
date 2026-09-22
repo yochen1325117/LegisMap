@@ -1,6 +1,6 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "mountain-indigenous-2026-09-22",
   "regionName": null,
   "seatType": "mountain_indigenous",
@@ -22,7 +22,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會 (召集委員)"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會 (召集委員)",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "mountain-indigenous-46801-profile",
@@ -32,7 +33,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：內政委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：內政委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "mountain-indigenous-46847-profile",
@@ -42,7 +44,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會 (召集委員)"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會 (召集委員)",
+      "lastVerifiedAt": "2026-09-22"
     }
   ],
   "members": [
@@ -55,18 +58,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "mountain-indigenous-46763-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期教育及文化委員會 (召集委員)",
+          "id": "mountain-indigenous-46763-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明伍麗華Saidhai‧Tahovecahe於第11屆第5會期：教育及文化委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "mountain-indigenous-46763-profile"
           ]
@@ -82,18 +87,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "mountain-indigenous-46801-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期內政委員會",
+          "id": "mountain-indigenous-46801-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明高金素梅於第11屆第5會期：內政委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "mountain-indigenous-46801-profile"
           ]
@@ -109,18 +116,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "mountain-indigenous-46847-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會 (召集委員)",
+          "id": "mountain-indigenous-46847-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明盧縣一於第11屆第5會期：社會福利及衛生環境委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "mountain-indigenous-46847-profile"
           ]

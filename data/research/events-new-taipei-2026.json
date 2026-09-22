@@ -1,39 +1,658 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "new-taipei-2026-09-19",
   "regionName": "新北市",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46768", "ly11-46771", "ly11-46863", "ly11-46785", "ly11-46787", "ly11-46794", "ly11-46802", "ly11-46804", "ly11-46837", "ly11-46839", "ly11-46857", "ly11-46860"],
+  "memberIds": [
+    "ly11-46768",
+    "ly11-46771",
+    "ly11-46863",
+    "ly11-46785",
+    "ly11-46787",
+    "ly11-46794",
+    "ly11-46802",
+    "ly11-46804",
+    "ly11-46837",
+    "ly11-46839",
+    "ly11-46857",
+    "ly11-46860"
+  ],
   "sources": [
-    {"id":"nt-wub-bill","title":"金融機構合併法第十二條及第十五條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110163830000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"議案名稱、吳秉叡等22人、提案人與審議進度欄"},
-    {"id":"nt-wuq-bill","title":"運動部組織法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110083570000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"議案名稱、吳琪銘等16人及三讀進度欄"},
-    {"id":"nt-li-finance","title":"第11屆第4會期財政委員會會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025110659/details?meetingDate=114%2F11%2F12&meetingTime=09%3A00~17%3A30","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114年11月12日議程與委員發言片段：李坤城10:31–10:43"},
-    {"id":"nt-lins-bill","title":"第11屆第3會期第13次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2025052177/details?meetingDate=114%2F05%2F23","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"報告事項第84案：林淑芬等25人擬具兒童托育服務法草案"},
-    {"id":"nt-lind-bill","title":"青年發展基本法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110017600000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"林德福等20人提案；審議進度欄記載三讀及114年12月26日協商"},
-    {"id":"nt-hung-bill","title":"運動發展部組織法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110033000000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"洪孟楷等19人提案；審議進度欄列與運動部組織法等版本併案"},
-    {"id":"nt-changh-bill","title":"天然氣事業法第五十五條之一條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110175030000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"議案名稱、張宏陸等19人及114年11月28日進度"},
-    {"id":"nt-changc-bill","title":"兒童及少年性剝削防制條例部分條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110126800000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"議案名稱、張智倫等18人及114年5月16日進度"},
-    {"id":"nt-yeh-bill","title":"人工智慧基本法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110174270000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"葉元之等18人提案；審議進度列114年12月23日三讀"},
-    {"id":"nt-liao-bill","title":"兒童及少年福利與權益保障法第一百條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110123870000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"廖先翔等17人提案；114年5月9日議案進度"},
-    {"id":"nt-luo-bill","title":"貨物稅條例第十二條之三條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110153820000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列羅明才等19人；審議進度列114年12月26日咨請公布"},
-    {"id":"nt-su-bill","title":"兒童托育服務法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110129230000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"蘇巧慧等16人提案及議案進度欄"},
-    {"id":"nt-su-spring","title":"蘇巧慧：蔡英文春聯人氣高 新北黨部決加印發送","publisher":"中央通訊社","url":"https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=248074","sourceType":"news","publishedAt":"2025-01-12","accessedAt":"2026-09-19","evidenceLocator":"新北黨部分送與加印春聯段落；立法院轉載中央社報導"}
+    {
+      "id": "nt-wub-bill",
+      "title": "金融機構合併法第十二條及第十五條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110163830000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、吳秉叡等22人、提案人與審議進度欄",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-wuq-bill",
+      "title": "運動部組織法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110083570000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、吳琪銘等16人及三讀進度欄",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-li-finance",
+      "title": "第11屆第4會期財政委員會會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025110659/details?meetingDate=114%2F11%2F12&meetingTime=09%3A00~17%3A30",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114年11月12日議程與委員發言片段：李坤城10:31–10:43",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-lins-bill",
+      "title": "第11屆第3會期第13次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025052177/details?meetingDate=114%2F05%2F23",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "報告事項第84案：林淑芬等25人擬具兒童托育服務法草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-lind-bill",
+      "title": "青年發展基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110017600000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "林德福等20人提案；審議進度欄記載三讀及114年12月26日協商",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-hung-bill",
+      "title": "運動發展部組織法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110033000000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "洪孟楷等19人提案；審議進度欄列與運動部組織法等版本併案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-changh-bill",
+      "title": "天然氣事業法第五十五條之一條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110175030000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、張宏陸等19人及114年11月28日進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-changc-bill",
+      "title": "兒童及少年性剝削防制條例部分條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110126800000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、張智倫等18人及114年5月16日進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-yeh-bill",
+      "title": "人工智慧基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110174270000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "葉元之等18人提案；審議進度列114年12月23日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-liao-bill",
+      "title": "兒童及少年福利與權益保障法第一百條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110123870000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "廖先翔等17人提案；114年5月9日議案進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-luo-bill",
+      "title": "貨物稅條例第十二條之三條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110153820000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列羅明才等19人；審議進度列114年12月26日咨請公布",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-su-bill",
+      "title": "兒童托育服務法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110129230000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "蘇巧慧等16人提案及議案進度欄",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-su-spring",
+      "title": "蘇巧慧：蔡英文春聯人氣高 新北黨部決加印發送",
+      "publisher": "中央通訊社",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=248074",
+      "sourceType": "news",
+      "publishedAt": "2025-01-12",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "新北黨部分送與加印春聯段落；立法院轉載中央社報導",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46768","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-wub-finance-2025","category":"contribution","occurredAt":"2025-10-14","title":"提出金融機構合併法修正草案","summary":"立法院議案頁列吳秉叡等22人提出《金融機構合併法》第12條及第15條修正草案；日期是議案頁所列的院會進度日期，不代表修法已通過。","role":"提案委員","outcome":"草案交付審查","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-wub-bill"]}]},
-    {"memberId":"ly11-46771","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-wuq-sports-2025","category":"contribution","occurredAt":"2025-01-23","title":"提出運動部組織法草案","summary":"立法院議案頁列吳琪銘等16人提出《運動部組織法》草案。該議案與其他版本併案審議，不能將最後通過條文全歸於單一提案人。","role":"提案委員","outcome":"併案審議；議案頁記載114年1月23日咨請公布","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-wuq-bill"]}]},
-    {"memberId":"ly11-46863","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-li-finance-2025","category":"contribution","occurredAt":"2025-11-12","title":"財政委員會質詢","summary":"立法院財政委員會議事頁列李坤城於114年11月12日會議質詢；僅確認質詢行為，不推定政策因此改變。","role":"質詢委員","outcome":"完成委員會質詢","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-li-finance"]}]},
-    {"memberId":"ly11-46785","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-lins-childcare-2025","category":"contribution","occurredAt":"2025-05-23","title":"提出兒童托育服務法草案","summary":"立法院第11屆第3會期第13次院會報告事項第84案列林淑芬等25人擬具《兒童托育服務法》草案。","role":"提案委員","outcome":"院會決定交社會福利及衛生環境委員會審查","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-lins-bill"]}]},
-    {"memberId":"ly11-46787","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-lind-youth-2025","category":"contribution","occurredAt":"2025-12-26","title":"提出青年發展基本法草案","summary":"立法院議案頁列林德福等20人提出《青年發展基本法》草案；與多項青年基本法版本併案審議。日期為議案頁所列協商日。","role":"提案委員","outcome":"併案審議，議案頁記載三讀；不將最終條文單獨歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-lind-bill"]}]},
-    {"memberId":"ly11-46794","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-hung-sports-2025","category":"contribution","occurredAt":"2025-01-23","title":"提出運動發展部組織法草案","summary":"立法院議案頁列洪孟楷等19人提出《運動發展部組織法》草案，與運動部組織法等版本併案審議。","role":"提案委員","outcome":"併案審議；不將最後通過的條文全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-hung-bill"]}]},
-    {"memberId":"ly11-46802","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-changh-gas-2025","category":"contribution","occurredAt":"2025-11-28","title":"提出天然氣事業法修正草案","summary":"立法院議案頁列張宏陸等19人提出《天然氣事業法》第55條之1修正草案；日期為議案頁進度日期，不代表修法已通過。","role":"提案委員","outcome":"列入院會報告事項","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-changh-bill"]}]},
-    {"memberId":"ly11-46804","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-changc-child-2025","category":"contribution","occurredAt":"2025-05-16","title":"提出兒少性剝削防制條例修正草案","summary":"立法院議案頁列張智倫等18人擬具《兒童及少年性剝削防制條例》部分條文修正草案。","role":"提案委員","outcome":"草案交付審查；未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-changc-bill"]}]},
-    {"memberId":"ly11-46837","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-yeh-ai-2025","category":"contribution","occurredAt":"2025-12-23","title":"提出人工智慧基本法草案","summary":"立法院議案頁列葉元之等18人提出《人工智慧基本法》草案；與其他版本併案後於114年12月23日三讀。不能把最終條文全歸於單一版本。","role":"提案委員","outcome":"併案審議後三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-yeh-bill"]}]},
-    {"memberId":"ly11-46839","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-liao-child-2025","category":"contribution","occurredAt":"2025-05-09","title":"提出兒少福利與權益保障法修正草案","summary":"立法院議案頁列廖先翔等17人提出《兒童及少年福利與權益保障法》第100條修正草案。","role":"提案委員","outcome":"114年5月9日院會交付委員會審查","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-liao-bill"]}]},
-    {"memberId":"ly11-46857","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-luo-tax-2025","category":"contribution","occurredAt":"2025-12-26","title":"提出貨物稅條例修正草案","summary":"立法院議案頁列羅明才等19人提出《貨物稅條例》第12條之3修正草案；與其他版本併案審查，最後條文不能全歸於其提案。","role":"提案委員","outcome":"併案審議；議案頁列114年12月26日咨請公布","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-luo-bill"]}]},
-    {"memberId":"ly11-46860","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[{"id":"nt-su-childcare-2025","category":"contribution","occurredAt":"2025-05-23","title":"提出兒童托育服務法草案","summary":"立法院議案頁列蘇巧慧等16人提出《兒童托育服務法》草案；此為提案，不推定已成為法律。日期為議案頁所列院會進度日期。","role":"提案委員","outcome":"草案交付審查","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["nt-su-bill"]},{"id":"nt-su-spring-2025","category":"anecdote","occurredAt":"2025-01-12","title":"分送春聯並決定加印","summary":"中央社報導，蘇巧慧以新北市黨部主委身分到中和、汐止等地分送春聯，並表示將加印前總統蔡英文春聯。","role":"黨部主委、分送者","outcome":"黨部決定加印發送","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["nt-su-spring"]}]}
+    {
+      "memberId": "ly11-46768",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-wub-finance-2025",
+          "category": "contribution",
+          "occurredAt": "2025-10-14",
+          "title": "提出金融機構合併法修正草案",
+          "summary": "立法院議案頁列吳秉叡等22人提出《金融機構合併法》第12條及第15條修正草案；日期是議案頁所列的院會進度日期，不代表修法已通過。",
+          "role": "提案委員",
+          "outcome": "草案交付審查",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-wub-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46771",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-wuq-sports-2025",
+          "category": "contribution",
+          "occurredAt": "2025-01-23",
+          "title": "提出運動部組織法草案",
+          "summary": "立法院議案頁列吳琪銘等16人提出《運動部組織法》草案。該議案與其他版本併案審議，不能將最後通過條文全歸於單一提案人。",
+          "role": "提案委員",
+          "outcome": "併案審議；議案頁記載114年1月23日咨請公布",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-wuq-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "proposed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46863",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-li-finance-2025",
+          "category": "contribution",
+          "occurredAt": "2025-11-12",
+          "title": "財政委員會質詢",
+          "summary": "立法院財政委員會議事頁列李坤城於114年11月12日會議質詢；僅確認質詢行為，不推定政策因此改變。",
+          "role": "質詢委員",
+          "outcome": "完成委員會質詢",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-li-finance"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "questioner",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46785",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-lins-childcare-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-23",
+          "title": "提出兒童托育服務法草案",
+          "summary": "立法院第11屆第3會期第13次院會報告事項第84案列林淑芬等25人擬具《兒童托育服務法》草案。",
+          "role": "提案委員",
+          "outcome": "院會決定交社會福利及衛生環境委員會審查",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-lins-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46787",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-lind-youth-2025",
+          "category": "contribution",
+          "occurredAt": "2025-12-26",
+          "title": "提出青年發展基本法草案",
+          "summary": "立法院議案頁列林德福等20人提出《青年發展基本法》草案；與多項青年基本法版本併案審議。日期為議案頁所列協商日。",
+          "role": "提案委員",
+          "outcome": "併案審議，議案頁記載三讀；不將最終條文單獨歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-lind-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46794",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-hung-sports-2025",
+          "category": "contribution",
+          "occurredAt": "2025-01-23",
+          "title": "提出運動發展部組織法草案",
+          "summary": "立法院議案頁列洪孟楷等19人提出《運動發展部組織法》草案，與運動部組織法等版本併案審議。",
+          "role": "提案委員",
+          "outcome": "併案審議；不將最後通過的條文全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-hung-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46802",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-changh-gas-2025",
+          "category": "contribution",
+          "occurredAt": "2025-11-28",
+          "title": "提出天然氣事業法修正草案",
+          "summary": "立法院議案頁列張宏陸等19人提出《天然氣事業法》第55條之1修正草案；日期為議案頁進度日期，不代表修法已通過。",
+          "role": "提案委員",
+          "outcome": "列入院會報告事項",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-changh-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "proposed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46804",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-changc-child-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-16",
+          "title": "提出兒少性剝削防制條例修正草案",
+          "summary": "立法院議案頁列張智倫等18人擬具《兒童及少年性剝削防制條例》部分條文修正草案。",
+          "role": "提案委員",
+          "outcome": "草案交付審查；未推定已通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-changc-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46837",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-yeh-ai-2025",
+          "category": "contribution",
+          "occurredAt": "2025-12-23",
+          "title": "提出人工智慧基本法草案",
+          "summary": "立法院議案頁列葉元之等18人提出《人工智慧基本法》草案；與其他版本併案後於114年12月23日三讀。不能把最終條文全歸於單一版本。",
+          "role": "提案委員",
+          "outcome": "併案審議後三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-yeh-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46839",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-liao-child-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-09",
+          "title": "提出兒少福利與權益保障法修正草案",
+          "summary": "立法院議案頁列廖先翔等17人提出《兒童及少年福利與權益保障法》第100條修正草案。",
+          "role": "提案委員",
+          "outcome": "114年5月9日院會交付委員會審查",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-liao-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46857",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-luo-tax-2025",
+          "category": "contribution",
+          "occurredAt": "2025-12-26",
+          "title": "提出貨物稅條例修正草案",
+          "summary": "立法院議案頁列羅明才等19人提出《貨物稅條例》第12條之3修正草案；與其他版本併案審查，最後條文不能全歸於其提案。",
+          "role": "提案委員",
+          "outcome": "併案審議；議案頁列114年12月26日咨請公布",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-luo-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "proposed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46860",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "nt-su-childcare-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-23",
+          "title": "提出兒童托育服務法草案",
+          "summary": "立法院議案頁列蘇巧慧等16人提出《兒童托育服務法》草案；此為提案，不推定已成為法律。日期為議案頁所列院會進度日期。",
+          "role": "提案委員",
+          "outcome": "草案交付審查",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-su-bill"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        },
+        {
+          "id": "nt-su-spring-2025",
+          "category": "anecdote",
+          "occurredAt": "2025-01-12",
+          "title": "分送春聯並決定加印",
+          "summary": "中央社報導，蘇巧慧以新北市黨部主委身分到中和、汐止等地分送春聯，並表示將加印前總統蔡英文春聯。",
+          "role": "黨部主委、分送者",
+          "outcome": "黨部決定加印發送",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "nt-su-spring"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

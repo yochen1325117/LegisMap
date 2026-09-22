@@ -1,37 +1,339 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "pingtung-2026-09-19",
   "regionName": "屏東縣",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46798", "ly11-46853"],
+  "memberIds": [
+    "ly11-46798",
+    "ly11-46853"
+  ],
   "sources": [
-    {"id":"pt-hsu-local","title":"地方制度法第三十三條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110051530000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列徐富癸等18人；113年7月16日三讀"},
-    {"id":"pt-hsu-space","title":"太空發展法第三條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110204830000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列徐富癸等18人；115年4月10日院會進度"},
-    {"id":"pt-chung-tax","title":"加值型及非加值型營業稅法部分條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/deliver-and-negotiation/203110111510000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列鍾佳濱等18人及23人版本；114年4月22日交付協商"},
-    {"id":"pt-chung-scholarship","title":"鍾佳濱連捐3屆立委選舉補助款 匯聚愛心助學子","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202405290307.aspx","sourceType":"news","publishedAt":"2024-05-29","accessedAt":"2026-09-19","evidenceLocator":"2024年選舉補助款扣除黨部上繳款後捐作獎學金；5月29日頒獎典禮"},
-    {"id":"pt-chung-hearing","title":"鍾佳濱媒合天籟計畫 巡迴4鄉聽檢贈千台助聽器","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202405260098.aspx","sourceType":"news","publishedAt":"2024-05-26","accessedAt":"2026-09-19","evidenceLocator":"鍾佳濱媒合企業及扶輪社；首站九如鄉聽檢，計畫巡迴四鄉鎮"},
-    {"id":"pt-chung-amulet","title":"鍾佳濱創總統人形立牌 媽祖誕辰前夕送聯名御守","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202404280077.aspx","sourceType":"news","publishedAt":"2024-04-28","accessedAt":"2026-09-19","evidenceLocator":"屏東慈鳳宮發送自製平安御守，並表示發票將捐創世基金會"},
-    {"id":"pt-chung-clash-cna","title":"陳菁徽告傷害與性騷 鍾佳濱：期待釐清過程還清白","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202405200186.aspx","sourceType":"news","publishedAt":"2024-05-20","accessedAt":"2026-09-19","evidenceLocator":"2024年5月17日議場碰撞、陳菁徽5月20日刑事自訴、鍾佳濱回應"},
-    {"id":"pt-chung-clash-pts","title":"陳菁徽告鍾佳濱性騷、故意傷害 立院21日續審國會改革五法","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/696006","sourceType":"news","publishedAt":"2024-05-20","accessedAt":"2026-09-19","evidenceLocator":"陳菁徽提告及鍾佳濱稱期待司法調查段落"},
-    {"id":"pt-chung-clash-court","title":"立法院內衝突 鍾佳濱撂倒陳菁徽挨告今出庭","publisher":"TVBS新聞網","url":"https://news.tvbs.com.tw/local/2682247","sourceType":"news","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"北院就傷害及性騷指控開庭，當日未宣判段落"},
-    {"id":"pt-chung-barrier-cna","title":"立委鍾佳濱涉破壞護欄鋼索 北檢依毀損公物罪嫌起訴","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202609090069.aspx","sourceType":"news","publishedAt":"2026-09-09","accessedAt":"2026-09-19","evidenceLocator":"北檢起訴罪名、2024年12月20日事件、鍾佳濱緊急避難說法及檢方意見"},
-    {"id":"pt-chung-barrier-udn","title":"剪集會護欄鋼索辯救急 檢認非緊急起訴鍾佳濱","publisher":"聯合新聞網","url":"https://udn.com/news/story/7321/9744991","sourceType":"news","publishedAt":"2026-09-10","accessedAt":"2026-09-19","evidenceLocator":"檢方起訴罪名與鋼索事件經過段落"}
+    {
+      "id": "pt-hsu-local",
+      "title": "地方制度法第三十三條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110051530000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列徐富癸等18人；113年7月16日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-hsu-space",
+      "title": "太空發展法第三條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110204830000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列徐富癸等18人；115年4月10日院會進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-tax",
+      "title": "加值型及非加值型營業稅法部分條文修正草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/deliver-and-negotiation/203110111510000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列鍾佳濱等18人及23人版本；114年4月22日交付協商",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-scholarship",
+      "title": "鍾佳濱連捐3屆立委選舉補助款 匯聚愛心助學子",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202405290307.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-29",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2024年選舉補助款扣除黨部上繳款後捐作獎學金；5月29日頒獎典禮",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-hearing",
+      "title": "鍾佳濱媒合天籟計畫 巡迴4鄉聽檢贈千台助聽器",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202405260098.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-26",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "鍾佳濱媒合企業及扶輪社；首站九如鄉聽檢，計畫巡迴四鄉鎮",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-amulet",
+      "title": "鍾佳濱創總統人形立牌 媽祖誕辰前夕送聯名御守",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202404280077.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-04-28",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "屏東慈鳳宮發送自製平安御守，並表示發票將捐創世基金會",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-clash-cna",
+      "title": "陳菁徽告傷害與性騷 鍾佳濱：期待釐清過程還清白",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202405200186.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-20",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2024年5月17日議場碰撞、陳菁徽5月20日刑事自訴、鍾佳濱回應",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-clash-pts",
+      "title": "陳菁徽告鍾佳濱性騷、故意傷害 立院21日續審國會改革五法",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/696006",
+      "sourceType": "news",
+      "publishedAt": "2024-05-20",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "陳菁徽提告及鍾佳濱稱期待司法調查段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-clash-court",
+      "title": "立法院內衝突 鍾佳濱撂倒陳菁徽挨告今出庭",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/local/2682247",
+      "sourceType": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "北院就傷害及性騷指控開庭，當日未宣判段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-barrier-cna",
+      "title": "立委鍾佳濱涉破壞護欄鋼索 北檢依毀損公物罪嫌起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202609090069.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "北檢起訴罪名、2024年12月20日事件、鍾佳濱緊急避難說法及檢方意見",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "pt-chung-barrier-udn",
+      "title": "剪集會護欄鋼索辯救急 檢認非緊急起訴鍾佳濱",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/story/7321/9744991",
+      "sourceType": "news",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "檢方起訴罪名與鋼索事件經過段落",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46798","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"pt-hsu-local-2024","category":"contribution","occurredAt":"2024-07-16","title":"提出地方制度法第33條修正草案","summary":"立法院議案紀錄列徐富癸等18人提出《地方制度法》第33條修正草案；日期為議案三讀日。","role":"提案委員","outcome":"議案三讀；相關修法亦有其他版本與審議程序，不能將整部修法歸於此提案","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["pt-hsu-local"]},
-      {"id":"pt-hsu-space-2026","category":"contribution","occurredAt":"2026-04-10","title":"提出太空發展法第3條修正草案","summary":"立法院議案紀錄列徐富癸等18人提出《太空發展法》第3條修正草案；日期為院會進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["pt-hsu-space"]}
-    ]},
-    {"memberId":"ly11-46853","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"pt-chung-tax-2025","category":"contribution","occurredAt":"2025-04-22","title":"提出營業稅法修正草案","summary":"立法院併案紀錄列鍾佳濱等18人及23人提出《加值型及非加值型營業稅法》修正草案；日期為交付協商日。","role":"提案委員","outcome":"已交付協商；截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["pt-chung-tax"]},
-      {"id":"pt-chung-scholarship-2024","category":"good_deed","occurredAt":"2024-05-29","title":"捐選舉補助款辦理屏東學子獎學金","summary":"中央社報導鍾佳濱將2024年立委選舉補助款扣除依黨規上繳部分後，捐作獎學金；5月29日舉行頒獎典禮。","role":"捐款並出席頒獎的立法委員","outcome":"2024年頒獎活動已舉行；歷屆累計受獎學生數不可當作本年度人數","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["pt-chung-scholarship"]},
-      {"id":"pt-chung-hearing-2024","category":"good_deed","occurredAt":"2024-05-26","title":"媒合企業與扶輪社啟動屏東助聽器計畫","summary":"鍾佳濱媒合元健大和公司與屏東扶輪社合作巡迴聽力檢測與助聽器捐贈；5月26日九如鄉舉行首站活動。","role":"媒合單位的立法委員","outcome":"首站已舉行；報導所稱千台為整體規劃，不等於首日實際捐贈量","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["pt-chung-hearing"]},
-      {"id":"pt-chung-clash-2024","category":"concern","occurredAt":"2024-05-20","title":"議場碰撞陳菁徽後遭提刑事自訴","summary":"2024年5月17日立法院議場衝突時，鍾佳濱與陳菁徽碰撞倒地；陳菁徽於5月20日自訴指控傷害與性騷擾。鍾佳濱道歉並稱踩到紙張失去平衡；控訴尚須由法院認定。日期為提告日。","role":"被自訴的立法委員","outcome":"可查資料確認提告及後續開庭；截至查閱日未以所附來源確認確定判決","processStatus":"disputed","personResponse":"鍾佳濱向陳菁徽道歉，主張碰撞是滑倒，表示期待法院調查釐清","resolution":"截至2026年9月19日未查得確定判決，爭議的法律結果仍待確認","sourceIds":["pt-chung-clash-cna","pt-chung-clash-pts","pt-chung-clash-court"]},
-      {"id":"pt-chung-barrier-2026","category":"concern","occurredAt":"2026-09-09","title":"護欄鋼索案遭北檢依毀損公物罪嫌起訴","summary":"檢方指鍾佳濱在2024年12月20日立法院外集會時持鋼索剪剪斷警方護欄鋼索，2026年9月9日依刑法毀損公務員職務上掌管之物品罪嫌起訴。起訴是檢方指控，並非確定有罪判決；日期為起訴日。","role":"被起訴的立法委員","outcome":"案件已起訴，尚待法院審理結果","processStatus":"indicted","personResponse":"鍾佳濱承認剪斷鋼索，但稱為讓救護車救護傷患而排除護欄，主張緊急避難並否認犯罪","resolution":"截至2026年9月19日未查得確定判決","sourceIds":["pt-chung-barrier-cna","pt-chung-barrier-udn"]},
-      {"id":"pt-chung-amulet-2024","category":"anecdote","occurredAt":"2024-04-28","title":"在慈鳳宮發送自製雙總統平安御守","summary":"鍾佳濱服務處製作蔡英文與賴清德人形立牌及聯名平安御守，於2024年4月28日在屏東慈鳳宮發送；報導記錄排隊領取情形。","role":"發起活動的立法委員","outcome":"活動已舉行；未以此來源認定募得發票的最終捐贈量","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["pt-chung-amulet"]}
-    ]}
+    {
+      "memberId": "ly11-46798",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "pt-hsu-local-2024",
+          "category": "contribution",
+          "occurredAt": "2024-07-16",
+          "title": "提出地方制度法第33條修正草案",
+          "summary": "立法院議案紀錄列徐富癸等18人提出《地方制度法》第33條修正草案；日期為議案三讀日。",
+          "role": "提案委員",
+          "outcome": "議案三讀；相關修法亦有其他版本與審議程序，不能將整部修法歸於此提案",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "pt-hsu-local"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "pt-hsu-space-2026",
+          "category": "contribution",
+          "occurredAt": "2026-04-10",
+          "title": "提出太空發展法第3條修正草案",
+          "summary": "立法院議案紀錄列徐富癸等18人提出《太空發展法》第3條修正草案；日期為院會進度所列日期。",
+          "role": "提案委員",
+          "outcome": "截至查閱日未以此來源確認三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "pt-hsu-space"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46853",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "pt-chung-tax-2025",
+          "category": "contribution",
+          "occurredAt": "2025-04-22",
+          "title": "提出營業稅法修正草案",
+          "summary": "立法院併案紀錄列鍾佳濱等18人及23人提出《加值型及非加值型營業稅法》修正草案；日期為交付協商日。",
+          "role": "提案委員",
+          "outcome": "已交付協商；截至查閱日未以此來源確認三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "pt-chung-tax"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "pt-chung-scholarship-2024",
+          "category": "good_deed",
+          "occurredAt": "2024-05-29",
+          "title": "捐選舉補助款辦理屏東學子獎學金",
+          "summary": "中央社報導鍾佳濱將2024年立委選舉補助款扣除依黨規上繳部分後，捐作獎學金；5月29日舉行頒獎典禮。",
+          "role": "捐款並出席頒獎的立法委員",
+          "outcome": "2024年頒獎活動已舉行；歷屆累計受獎學生數不可當作本年度人數",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "pt-chung-scholarship"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "donor",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        },
+        {
+          "id": "pt-chung-hearing-2024",
+          "category": "good_deed",
+          "occurredAt": "2024-05-26",
+          "title": "媒合企業與扶輪社啟動屏東助聽器計畫",
+          "summary": "鍾佳濱媒合元健大和公司與屏東扶輪社合作巡迴聽力檢測與助聽器捐贈；5月26日九如鄉舉行首站活動。",
+          "role": "媒合單位的立法委員",
+          "outcome": "首站已舉行；報導所稱千台為整體規劃，不等於首日實際捐贈量",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "pt-chung-hearing"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        },
+        {
+          "id": "pt-chung-clash-2024",
+          "category": "concern",
+          "occurredAt": "2024-05-20",
+          "title": "議場碰撞陳菁徽後遭提刑事自訴",
+          "summary": "2024年5月17日立法院議場衝突時，鍾佳濱與陳菁徽碰撞倒地；陳菁徽於5月20日自訴指控傷害與性騷擾。鍾佳濱道歉並稱踩到紙張失去平衡；控訴尚須由法院認定。日期為提告日。",
+          "role": "被自訴的立法委員",
+          "outcome": "可查資料確認提告及後續開庭；截至查閱日未以所附來源確認確定判決",
+          "processStatus": "disputed",
+          "personResponse": "鍾佳濱向陳菁徽道歉，主張碰撞是滑倒，表示期待法院調查釐清",
+          "resolution": "截至2026年9月19日未查得確定判決，爭議的法律結果仍待確認",
+          "sourceIds": [
+            "pt-chung-clash-cna",
+            "pt-chung-clash-pts",
+            "pt-chung-clash-court"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "alleged",
+          "visibility": "public"
+        },
+        {
+          "id": "pt-chung-barrier-2026",
+          "category": "concern",
+          "occurredAt": "2026-09-09",
+          "title": "護欄鋼索案遭北檢依毀損公物罪嫌起訴",
+          "summary": "檢方指鍾佳濱在2024年12月20日立法院外集會時持鋼索剪剪斷警方護欄鋼索，2026年9月9日依刑法毀損公務員職務上掌管之物品罪嫌起訴。起訴是檢方指控，並非確定有罪判決；日期為起訴日。",
+          "role": "被起訴的立法委員",
+          "outcome": "案件已起訴，尚待法院審理結果",
+          "processStatus": "indicted",
+          "personResponse": "鍾佳濱承認剪斷鋼索，但稱為讓救護車救護傷患而排除護欄，主張緊急避難並否認犯罪",
+          "resolution": "截至2026年9月19日未查得確定判決",
+          "sourceIds": [
+            "pt-chung-barrier-cna",
+            "pt-chung-barrier-udn"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "indicted",
+          "visibility": "public"
+        },
+        {
+          "id": "pt-chung-amulet-2024",
+          "category": "anecdote",
+          "occurredAt": "2024-04-28",
+          "title": "在慈鳳宮發送自製雙總統平安御守",
+          "summary": "鍾佳濱服務處製作蔡英文與賴清德人形立牌及聯名平安御守，於2024年4月28日在屏東慈鳳宮發送；報導記錄排隊領取情形。",
+          "role": "發起活動的立法委員",
+          "outcome": "活動已舉行；未以此來源認定募得發票的最終捐贈量",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "pt-chung-amulet"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

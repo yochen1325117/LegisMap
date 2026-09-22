@@ -1,38 +1,343 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "changhua-2026-09-19",
   "regionName": "彰化縣",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46814", "ly11-46818", "ly11-46828", "ly11-46851"],
+  "memberIds": [
+    "ly11-46814",
+    "ly11-46818",
+    "ly11-46828",
+    "ly11-46851"
+  ],
   "sources": [
-    {"id":"ch-chen-gas","title":"天然氣事業法第五十五條之一條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110168050000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列陳秀寳；114年11月4日交付經濟委員會審查"},
-    {"id":"ch-su-farm","title":"老年農民福利津貼暫行條例第二條、第四條及第七條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110196450000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列陳素月；115年3月24日交付審查"},
-    {"id":"ch-huang-child","title":"兒童及少年福利與權益保障法第十三條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110120000000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列黃秀芳；115年3月25日委員會審查"},
-    {"id":"ch-hsieh-retire","title":"農民退休儲金條例第七條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110182100000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列謝衣鳯等16人；115年1月27日三讀"},
-    {"id":"ch-su-donation","title":"彰化暖流！神秘客低調捐10萬 陳素月霸氣『揪團』 12小時籌募近30萬元","publisher":"民視新聞","url":"https://www.ftvnews.com.tw/news/detail/2025C13W0356","sourceType":"news","publishedAt":"2025-12-13","accessedAt":"2026-09-19","lastVerifiedAt":"2026-09-20","evidenceLocator":"創世基金會彰化分會捐贈儀式；陳素月邀集友人募款段落"},
-    {"id":"ch-huang-rehab","title":"拚初選不忘公益！黃秀芳牽線捐贈彰化關懷據點復建器材","publisher":"民視新聞","url":"https://www.ftvnews.com.tw/news/detail/2025C11C13M1","sourceType":"news","publishedAt":"2025-12-11","accessedAt":"2026-09-19","evidenceLocator":"黃秀芳牽線生技公司捐26部復健器材予26鄉鎮市關懷據點段落"},
-    {"id":"ch-hsieh-meals","title":"彰化家扶募幸福年菜 謝衣鳯『連續6年』以祖父母基金會名義捐200套","publisher":"彰化家扶中心","url":"https://www.ccf.org.tw/21/news/NzkzMg/detail","sourceType":"statement","publishedAt":"2026-01-15","accessedAt":"2026-09-19","evidenceLocator":"活動報導標題與2026年1月15日日期；連結原始聯合報報導"},
-    {"id":"ch-hsieh-inauguration","title":"藍委謝衣鳯現身520就職典禮 盼朝野不要對立","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202405200039.aspx","sourceType":"news","publishedAt":"2024-05-20","accessedAt":"2026-09-19","evidenceLocator":"立委身分出席總統就職典禮及受訪談朝野協商段落"}
+    {
+      "id": "ch-chen-gas",
+      "title": "天然氣事業法第五十五條之一條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110168050000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列陳秀寳；114年11月4日交付經濟委員會審查",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "ch-su-farm",
+      "title": "老年農民福利津貼暫行條例第二條、第四條及第七條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110196450000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列陳素月；115年3月24日交付審查",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "ch-huang-child",
+      "title": "兒童及少年福利與權益保障法第十三條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110120000000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列黃秀芳；115年3月25日委員會審查",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "ch-hsieh-retire",
+      "title": "農民退休儲金條例第七條條文修正草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110182100000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列謝衣鳯等16人；115年1月27日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "ch-su-donation",
+      "title": "彰化暖流！神秘客低調捐10萬 陳素月霸氣『揪團』 12小時籌募近30萬元",
+      "publisher": "民視新聞",
+      "url": "https://www.ftvnews.com.tw/news/detail/2025C13W0356",
+      "sourceType": "news",
+      "publishedAt": "2025-12-13",
+      "accessedAt": "2026-09-19",
+      "lastVerifiedAt": "2026-09-20",
+      "evidenceLocator": "創世基金會彰化分會捐贈儀式；陳素月邀集友人募款段落"
+    },
+    {
+      "id": "ch-huang-rehab",
+      "title": "拚初選不忘公益！黃秀芳牽線捐贈彰化關懷據點復建器材",
+      "publisher": "民視新聞",
+      "url": "https://www.ftvnews.com.tw/news/detail/2025C11C13M1",
+      "sourceType": "news",
+      "publishedAt": "2025-12-11",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "黃秀芳牽線生技公司捐26部復健器材予26鄉鎮市關懷據點段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "ch-hsieh-meals",
+      "title": "彰化家扶募幸福年菜 謝衣鳯『連續6年』以祖父母基金會名義捐200套",
+      "publisher": "彰化家扶中心",
+      "url": "https://www.ccf.org.tw/21/news/NzkzMg/detail",
+      "sourceType": "statement",
+      "publishedAt": "2026-01-15",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "活動報導標題與2026年1月15日日期；連結原始聯合報報導",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "ch-hsieh-inauguration",
+      "title": "藍委謝衣鳯現身520就職典禮 盼朝野不要對立",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202405200039.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-20",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "立委身分出席總統就職典禮及受訪談朝野協商段落",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46814","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"ch-chen-gas-2025","category":"contribution","occurredAt":"2025-11-04","title":"提出天然氣事業法修正草案","summary":"立法院議案紀錄列陳秀寳等18人提出《天然氣事業法》第55條之1修正草案；日期為交付審查日。","role":"提案委員","outcome":"交付經濟委員會審查，尚未以此來源確認通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-chen-gas"]}
-    ]},
-    {"memberId":"ly11-46818","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"ch-su-farm-2026","category":"contribution","occurredAt":"2026-03-24","title":"提出老年農民福利津貼修正草案","summary":"立法院議案紀錄列陳素月與蔡易餘為《老年農民福利津貼暫行條例》修正草案提案人；日期為交付審查日。","role":"共同提案委員","outcome":"交付委員會審查，尚未以此來源確認通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-su-farm"]},
-      {"id":"ch-su-donation-2025","category":"good_deed","occurredAt":"2025-12-13","title":"邀集友人為創世基金會彰化分會募款","summary":"報導記載陳素月在接獲捐款人委託後邀集友人，約12小時募集近30萬元，並於創世基金會彰化分會捐贈儀式說明經過。","role":"募款號召人","outcome":"捐贈儀式已舉行；金額為報導所載的近30萬元","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-su-donation"]}
-    ]},
-    {"memberId":"ly11-46828","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"ch-huang-child-2026","category":"contribution","occurredAt":"2026-03-25","title":"提出兒童及少年福利與權益保障法修正草案","summary":"立法院議案紀錄列黃秀芳為第13條修正草案提案人；日期為委員會審查日。","role":"提案委員","outcome":"進入委員會審查，尚未以此來源確認通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-huang-child"]},
-      {"id":"ch-huang-rehab-2025","category":"good_deed","occurredAt":"2025-12-11","title":"牽線捐贈彰化關懷據點復健器材","summary":"報導記載黃秀芳牽線生技公司捐贈26部復健器材，供彰化縣26鄉鎮市各一處關懷據點使用；日期為報導日。","role":"企業與受贈據點媒合人","outcome":"報導記錄捐贈活動；未將器材價值視為個人捐款","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-huang-rehab"]}
-    ]},
-    {"memberId":"ly11-46851","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"ch-hsieh-retire-2026","category":"contribution","occurredAt":"2026-01-27","title":"提出農民退休儲金條例修正草案","summary":"立法院併案紀錄列謝衣鳯等16人提出《農民退休儲金條例》第7條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-hsieh-retire"]},
-      {"id":"ch-hsieh-meals-2026","category":"good_deed","occurredAt":"2026-01-15","title":"以家族基金會名義捐贈彰化家扶年菜","summary":"彰化家扶中心活動報導記錄謝衣鳯以祖父母基金會名義捐贈200套年菜；日期為家扶刊登日。","role":"基金會名義捐贈參與者","outcome":"家扶公告募得年菜；未將基金會捐贈歸為個人出資","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-hsieh-meals"]},
-      {"id":"ch-hsieh-inauguration-2024","category":"anecdote","occurredAt":"2024-05-20","title":"以立委身分出席總統就職典禮","summary":"中央社報導國民黨立法院黨團先前表示不出席總統就職典禮，謝衣鳯仍以立委身分到場，受訪時表示希望朝野協商。","role":"出席典禮的立法委員","outcome":"當日出席並接受採訪；此為經查證的活動紀錄","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["ch-hsieh-inauguration"]}
-    ]}
+    {
+      "memberId": "ly11-46814",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "ch-chen-gas-2025",
+          "category": "contribution",
+          "occurredAt": "2025-11-04",
+          "title": "提出天然氣事業法修正草案",
+          "summary": "立法院議案紀錄列陳秀寳等18人提出《天然氣事業法》第55條之1修正草案；日期為交付審查日。",
+          "role": "提案委員",
+          "outcome": "交付經濟委員會審查，尚未以此來源確認通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-chen-gas"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46818",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "ch-su-farm-2026",
+          "category": "contribution",
+          "occurredAt": "2026-03-24",
+          "title": "提出老年農民福利津貼修正草案",
+          "summary": "立法院議案紀錄列陳素月與蔡易餘為《老年農民福利津貼暫行條例》修正草案提案人；日期為交付審查日。",
+          "role": "共同提案委員",
+          "outcome": "交付委員會審查，尚未以此來源確認通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-su-farm"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "ch-su-donation-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-12-13",
+          "title": "邀集友人為創世基金會彰化分會募款",
+          "summary": "報導記載陳素月在接獲捐款人委託後邀集友人，約12小時募集近30萬元，並於創世基金會彰化分會捐贈儀式說明經過。",
+          "role": "募款號召人",
+          "outcome": "捐贈儀式已舉行；金額為報導所載的近30萬元",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-su-donation"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46828",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "ch-huang-child-2026",
+          "category": "contribution",
+          "occurredAt": "2026-03-25",
+          "title": "提出兒童及少年福利與權益保障法修正草案",
+          "summary": "立法院議案紀錄列黃秀芳為第13條修正草案提案人；日期為委員會審查日。",
+          "role": "提案委員",
+          "outcome": "進入委員會審查，尚未以此來源確認通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-huang-child"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "ch-huang-rehab-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-12-11",
+          "title": "牽線捐贈彰化關懷據點復健器材",
+          "summary": "報導記載黃秀芳牽線生技公司捐贈26部復健器材，供彰化縣26鄉鎮市各一處關懷據點使用；日期為報導日。",
+          "role": "企業與受贈據點媒合人",
+          "outcome": "報導記錄捐贈活動；未將器材價值視為個人捐款",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-huang-rehab"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46851",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "ch-hsieh-retire-2026",
+          "category": "contribution",
+          "occurredAt": "2026-01-27",
+          "title": "提出農民退休儲金條例修正草案",
+          "summary": "立法院併案紀錄列謝衣鳯等16人提出《農民退休儲金條例》第7條修正草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "與其他委員版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-hsieh-retire"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "ch-hsieh-meals-2026",
+          "category": "good_deed",
+          "occurredAt": "2026-01-15",
+          "title": "以家族基金會名義捐贈彰化家扶年菜",
+          "summary": "彰化家扶中心活動報導記錄謝衣鳯以祖父母基金會名義捐贈200套年菜；日期為家扶刊登日。",
+          "role": "基金會名義捐贈參與者",
+          "outcome": "家扶公告募得年菜；未將基金會捐贈歸為個人出資",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-hsieh-meals"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "donor",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "public"
+        },
+        {
+          "id": "ch-hsieh-inauguration-2024",
+          "category": "anecdote",
+          "occurredAt": "2024-05-20",
+          "title": "以立委身分出席總統就職典禮",
+          "summary": "中央社報導國民黨立法院黨團先前表示不出席總統就職典禮，謝衣鳯仍以立委身分到場，受訪時表示希望朝野協商。",
+          "role": "出席典禮的立法委員",
+          "outcome": "當日出席並接受採訪；此為經查證的活動紀錄",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "ch-hsieh-inauguration"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

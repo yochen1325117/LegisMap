@@ -1,64 +1,690 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "taichung-2026-09-19",
   "regionName": "臺中市",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46764", "ly11-46765", "ly11-46831", "ly11-46835", "ly11-46840", "ly11-46842", "ly11-46855", "ly11-46856"],
+  "memberIds": [
+    "ly11-46764",
+    "ly11-46765",
+    "ly11-46831",
+    "ly11-46835",
+    "ly11-46840",
+    "ly11-46842",
+    "ly11-46855",
+    "ly11-46856"
+  ],
   "sources": [
-    {"id":"tc-chiang-us","title":"立法院江啟臣副院長偕台美國會議員聯誼會與外交及國防委員會成員訪美進行國會外交圓滿成功","publisher":"立法院","url":"https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=77734&pid=250330","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"114年4月27日至5月2日跨黨派訪團、江啟臣擔任榮譽團長及會晤對象段落"},
-    {"id":"tc-ho-childcare","title":"兒童托育服務法草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110186000000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列何欣純等16人兒童托育服務法草案；115年4月14日三讀"},
-    {"id":"tc-huang-childcare","title":"兒童托育服務法草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110186000000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列黃健豪等17人兒童托育服務法草案；115年4月14日三讀"},
-    {"id":"tc-yang-fraud","title":"詐欺犯罪危害防制條例部分條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110181950000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列楊瓊瓔等29人部分條文修正草案；114年12月30日三讀"},
-    {"id":"tc-liao-college","title":"專科學校法第四十四條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/deliver-and-negotiation/202110223720000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列廖偉翔；115年7月14日逕付二讀交付協商"},
-    {"id":"tc-tsai-ai","title":"人工智慧基本法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110097580000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列蔡其昌；114年3月14日院會同意撤回"},
-    {"id":"tc-yen-equality","title":"性別平等工作法增訂第二十三條之一條文草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110134650000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列顏寬恒；114年6月20日交付審查"},
-    {"id":"tc-lo-esports","title":"電子競技運動發展基本法草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110213440000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列羅廷瑋；115年5月8日交付審查、6月4日委員會審查"},
-    {"id":"tc-tsai-baseball","title":"基層棒球回饋計畫 TOGETHER, WE CONQUER!","publisher":"TAIWOLF","url":"https://www.taiwolf.com/blogs/news/httpswwwtaiwolfcomblogsnews-20260123112640","sourceType":"statement","publishedAt":"2026-01-23","accessedAt":"2026-09-19","evidenceLocator":"蔡其昌號召、聯盟與TAIWOLF共同捐助40校各10萬元器材補助段落"},
-    {"id":"tc-lo-school","title":"西區向上國中羅廷瑋與運彩公會捐普發現金","publisher":"TDN台灣生活新聞","url":"https://news.st-media.com.tw/news/54255","sourceType":"news","publishedAt":"2025-11-18","accessedAt":"2026-09-19","lastVerifiedAt":"2026-09-20","evidenceLocator":"羅廷瑋與運彩公會號召會員、經銷商宣布三年捐助向上國中200萬元的計畫段落"},
-    {"id":"tc-yang-withdraw","title":"老人福利法修法長者免健保費惹議 立委楊瓊瓔撤案","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202501030297.aspx","sourceType":"news","publishedAt":"2025-01-03","accessedAt":"2026-09-19","evidenceLocator":"修法內容、外界爭議、楊瓊瓔提出撤案與本人回應段落"},
-    {"id":"tc-yang-withdraw-official","title":"擬撤回前提之老人福利法第二十二條條文修正草案案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110085360000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"本院委員楊瓊瓔擬撤回前提老人福利法第22條修正草案"},
-    {"id":"tc-yen-remand","title":"撤銷發回顏寬恒涉貪案 最高法院認仍需調查釐清","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202605280299.aspx","sourceType":"news","publishedAt":"2026-05-28","accessedAt":"2026-09-19","evidenceLocator":"最高法院撤銷助理費貪污案二審判決、發回更審及另兩案確定狀態段落"},
-    {"id":"tc-yen-response","title":"涉貪遭判刑最高法院撤銷發回更審 顏寬恒：還我公道","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202605280306.aspx","sourceType":"news","publishedAt":"2026-05-28","accessedAt":"2026-09-19","evidenceLocator":"顏寬恒於最高法院撤銷發回後回應段落"},
-    {"id":"tc-yen-remand-tvbs","title":"有做事怎算人頭？最高法院點4疑點 將顏寬恒詐領助理費案發回","publisher":"TVBS新聞網","url":"https://news.tvbs.com.tw/local/3216097","sourceType":"news","publishedAt":"2026-05-28","accessedAt":"2026-09-19","evidenceLocator":"最高法院撤銷判決發回更審及待釐清事項段落"},
-    {"id":"tc-recall-result","title":"中央選舉委員會114年8月1日立法委員罷免投票結果公告","publisher":"中央選舉委員會","url":"https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf","sourceType":"official","publishedAt":"2025-08-01","accessedAt":"2026-09-19","evidenceLocator":"PDF第6至7頁：臺中市第4、5、6選舉區廖偉翔、黃健豪、羅廷瑋投票結果"},
-    {"id":"tc-liao-recall","title":"立委廖偉翔罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507035020.aspx","sourceType":"news","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"中選會公告罷免理由及廖偉翔答辯書全文"},
-    {"id":"tc-huang-recall","title":"立委黃健豪罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507035021.aspx","sourceType":"news","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"中選會公告罷免理由及黃健豪答辯書全文"},
-    {"id":"tc-lo-recall","title":"立委羅廷瑋罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507035022.aspx","sourceType":"news","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"中選會公告罷免理由及羅廷瑋答辯書全文"}
+    {
+      "id": "tc-chiang-us",
+      "title": "立法院江啟臣副院長偕台美國會議員聯誼會與外交及國防委員會成員訪美進行國會外交圓滿成功",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=77734&pid=250330",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114年4月27日至5月2日跨黨派訪團、江啟臣擔任榮譽團長及會晤對象段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-ho-childcare",
+      "title": "兒童托育服務法草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110186000000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列何欣純等16人兒童托育服務法草案；115年4月14日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-huang-childcare",
+      "title": "兒童托育服務法草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110186000000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列黃健豪等17人兒童托育服務法草案；115年4月14日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-yang-fraud",
+      "title": "詐欺犯罪危害防制條例部分條文修正草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110181950000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列楊瓊瓔等29人部分條文修正草案；114年12月30日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-liao-college",
+      "title": "專科學校法第四十四條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/deliver-and-negotiation/202110223720000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列廖偉翔；115年7月14日逕付二讀交付協商",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-tsai-ai",
+      "title": "人工智慧基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110097580000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列蔡其昌；114年3月14日院會同意撤回",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-yen-equality",
+      "title": "性別平等工作法增訂第二十三條之一條文草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110134650000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列顏寬恒；114年6月20日交付審查",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-lo-esports",
+      "title": "電子競技運動發展基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110213440000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列羅廷瑋；115年5月8日交付審查、6月4日委員會審查",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-tsai-baseball",
+      "title": "基層棒球回饋計畫 TOGETHER, WE CONQUER!",
+      "publisher": "TAIWOLF",
+      "url": "https://www.taiwolf.com/blogs/news/httpswwwtaiwolfcomblogsnews-20260123112640",
+      "sourceType": "statement",
+      "publishedAt": "2026-01-23",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "蔡其昌號召、聯盟與TAIWOLF共同捐助40校各10萬元器材補助段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-lo-school",
+      "title": "西區向上國中羅廷瑋與運彩公會捐普發現金",
+      "publisher": "TDN台灣生活新聞",
+      "url": "https://news.st-media.com.tw/news/54255",
+      "sourceType": "news",
+      "publishedAt": "2025-11-18",
+      "accessedAt": "2026-09-19",
+      "lastVerifiedAt": "2026-09-20",
+      "evidenceLocator": "羅廷瑋與運彩公會號召會員、經銷商宣布三年捐助向上國中200萬元的計畫段落"
+    },
+    {
+      "id": "tc-yang-withdraw",
+      "title": "老人福利法修法長者免健保費惹議 立委楊瓊瓔撤案",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202501030297.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-01-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "修法內容、外界爭議、楊瓊瓔提出撤案與本人回應段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-yang-withdraw-official",
+      "title": "擬撤回前提之老人福利法第二十二條條文修正草案案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110085360000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "本院委員楊瓊瓔擬撤回前提老人福利法第22條修正草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-yen-remand",
+      "title": "撤銷發回顏寬恒涉貪案 最高法院認仍需調查釐清",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202605280299.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "最高法院撤銷助理費貪污案二審判決、發回更審及另兩案確定狀態段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-yen-response",
+      "title": "涉貪遭判刑最高法院撤銷發回更審 顏寬恒：還我公道",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202605280306.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "顏寬恒於最高法院撤銷發回後回應段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-yen-remand-tvbs",
+      "title": "有做事怎算人頭？最高法院點4疑點 將顏寬恒詐領助理費案發回",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/local/3216097",
+      "sourceType": "news",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "最高法院撤銷判決發回更審及待釐清事項段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-recall-result",
+      "title": "中央選舉委員會114年8月1日立法委員罷免投票結果公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "PDF第6至7頁：臺中市第4、5、6選舉區廖偉翔、黃健豪、羅廷瑋投票結果",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-liao-recall",
+      "title": "立委廖偉翔罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035020.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "中選會公告罷免理由及廖偉翔答辯書全文",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-huang-recall",
+      "title": "立委黃健豪罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035021.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "中選會公告罷免理由及黃健豪答辯書全文",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "tc-lo-recall",
+      "title": "立委羅廷瑋罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035022.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "中選會公告罷免理由及羅廷瑋答辯書全文",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46764","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-chiang-us-2025","category":"contribution","occurredAt":"2025-05-02","title":"以立法院副院長身分參與跨黨派訪美","summary":"立法院記錄江啟臣於2025年4月27日至5月2日擔任跨黨派國會訪團榮譽團長，與美國國會議員、行政部門及智庫代表會晤；日期為訪問結束日。","role":"立法院副院長、訪團榮譽團長","outcome":"完成國會交流；未據此推定雙邊法案或協議已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-chiang-us"]}
-    ]},
-    {"memberId":"ly11-46765","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-ho-childcare-2026","category":"contribution","occurredAt":"2026-04-14","title":"提出兒童托育服務法草案","summary":"立法院併案紀錄列何欣純等16人提出《兒童托育服務法》草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-ho-childcare"]}
-    ]},
-    {"memberId":"ly11-46831","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-huang-childcare-2026","category":"contribution","occurredAt":"2026-04-14","title":"提出兒童托育服務法草案","summary":"立法院併案紀錄列黃健豪等17人提出《兒童托育服務法》草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-huang-childcare"]},
-      {"id":"tc-huang-recall-2025","category":"concern","occurredAt":"2025-07-26","title":"罷免理由與答辯中的問政爭議","summary":"中選會公告刊載罷免提議方對黃健豪問政與政策立場的批評，也刊載其答辯。雙方主張不等於主管機關認定。7月26日投票遭否決。","role":"被罷免委員、答辯者","outcome":"罷免案投票遭否決","processStatus":"resolved","personResponse":"黃健豪在答辯書中回應政策與修法批評，說明其打詐、財政分配等立場。","resolution":"罷免投票處理的是去留，不構成對雙方各項政策主張的事實裁判。","sourceIds":["tc-huang-recall","tc-recall-result"]}
-    ]},
-    {"memberId":"ly11-46835","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-yang-fraud-2025","category":"contribution","occurredAt":"2025-12-30","title":"提出詐欺犯罪危害防制條例修正草案","summary":"立法院併案紀錄列楊瓊瓔等29人提出《詐欺犯罪危害防制條例》部分條文修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-yang-fraud"]},
-      {"id":"tc-yang-withdraw-2025","category":"concern","occurredAt":"2025-01-03","title":"長者健保費修法引起爭議後撤案","summary":"楊瓊瓔提出《老人福利法》第22條修正草案，主張由中央補助符合條件長者健保費；政策引起財政及公平性討論後，她於2025年1月3日向立法院議事處提出撤案。","role":"提案委員、撤案者","outcome":"草案撤回，未進入三讀","processStatus":"resolved","personResponse":"楊瓊瓔表示聽到各方建議，會接受並參考不同意見。","resolution":"提案撤回；此處記錄政策爭議與處理結果，不推定提案違法。","sourceIds":["tc-yang-withdraw","tc-yang-withdraw-official"]}
-    ]},
-    {"memberId":"ly11-46840","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-liao-college-2026","category":"contribution","occurredAt":"2026-07-14","title":"共同提出專科學校法修正草案","summary":"立法院議案頁列廖偉翔為《專科學校法》第44條修正草案提案人；日期為逕付二讀、交付協商日。","role":"提案委員","outcome":"交付協商，未據此推定草案已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-liao-college"]},
-      {"id":"tc-liao-recall-2025","category":"concern","occurredAt":"2025-07-26","title":"罷免理由與答辯中的問政爭議","summary":"中選會公告刊載罷免提議方對廖偉翔議場行為及問政的批評，也刊載其答辯。雙方主張不等於主管機關認定。7月26日投票遭否決。","role":"被罷免委員、答辯者","outcome":"罷免案投票遭否決","processStatus":"resolved","personResponse":"廖偉翔於中選會公告答辯書反駁罷免理由，說明其修法與政策立場。","resolution":"罷免投票處理去留，不構成對各項指控的事實裁判。","sourceIds":["tc-liao-recall","tc-recall-result"]}
-    ]},
-    {"memberId":"ly11-46842","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-tsai-ai-2025","category":"contribution","occurredAt":"2025-03-14","title":"提出人工智慧基本法草案後獲同意撤回","summary":"立法院議案頁列蔡其昌等21人提出《人工智慧基本法》草案；日期為院會同意撤回日。","role":"提案委員","outcome":"草案獲同意撤回，未將其他版本的後續立法歸於此案","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-tsai-ai"]},
-      {"id":"tc-tsai-baseball-2026","category":"good_deed","occurredAt":"2026-01-23","title":"號召基層棒球器材補助計畫","summary":"TAIWOLF公告記錄中職會長蔡其昌號召基層棒球回饋計畫，由中華職棒聯盟與TAIWOLF共同捐助40所學校棒球隊，各10萬元器材補助；日期為公告日，款項不視為蔡其昌個人捐贈。","role":"中職會長、號召者","outcome":"共同捐助總額400萬元的器材補助計畫","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["tc-tsai-baseball"]}
-    ]},
-    {"memberId":"ly11-46855","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-yen-equality-2025","category":"contribution","occurredAt":"2025-06-20","title":"提出性別平等工作法增訂條文草案","summary":"立法院議案頁列顏寬恒為《性別平等工作法》增訂第23條之1草案提案人；日期為交付審查日。","role":"提案委員","outcome":"交委員會審查；不據此推定其單獨促成最終條文","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-yen-equality"]},
-      {"id":"tc-yen-remand-2026","category":"concern","occurredAt":"2026-05-28","title":"助理費涉貪案最高法院撤銷發回","summary":"顏寬恒助理費涉貪案一、二審曾判有罪；最高法院2026年5月28日認為事實與證據仍需調查釐清，撤銷相關判決並發回更審。另案偽造文書判刑6月已確定，竊占國土部分無罪確定，須與發回案件區分。","role":"刑事案件被告、上訴人","outcome":"助理費案發回更審，尚無確定有罪判決","processStatus":"remanded","personResponse":"顏寬恒回應最高法院撤銷發回是還他公道，持續主張清白。","resolution":"本批截至查閱日未查得更審結果，不沿用已被撤銷的二審貪污結論。","sourceIds":["tc-yen-remand","tc-yen-response","tc-yen-remand-tvbs"]}
-    ]},
-    {"memberId":"ly11-46856","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"tc-lo-esports-2026","category":"contribution","occurredAt":"2026-05-08","title":"共同提出電子競技運動發展基本法草案","summary":"立法院議案頁列羅廷瑋為《電子競技運動發展基本法》草案提案人；日期為交付審查日。","role":"提案委員","outcome":"交教育及文化委員會審查，未據此推定草案已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["tc-lo-esports"]},
-      {"id":"tc-lo-school-2025","category":"good_deed","occurredAt":"2025-11-18","title":"與運彩公會號召向上國中贊助計畫","summary":"地方媒體報導羅廷瑋與台灣運彩公會號召會員和經銷商，宣布三年合計贊助臺中市向上國中200萬元的計畫；日期為報導日，金額不視為已全數交付或羅廷瑋個人捐款。","role":"共同號召者","outcome":"報導記錄贊助合作簽署儀式；後續實際撥款進度未由此來源確認","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["tc-lo-school"]},
-      {"id":"tc-lo-recall-2025","category":"concern","occurredAt":"2025-07-26","title":"罷免理由與答辯中的問政爭議","summary":"中選會公告刊載罷免提議方對羅廷瑋問政與政策立場的批評，也刊載其答辯。雙方主張不等於主管機關認定。7月26日投票遭否決。","role":"被罷免委員、答辯者","outcome":"罷免案投票遭否決","processStatus":"resolved","personResponse":"羅廷瑋在答辯書中回應對修法與預算立場的批評，列舉其提案與選區服務。","resolution":"罷免投票處理去留，不構成對雙方各項主張的事實裁判。","sourceIds":["tc-lo-recall","tc-recall-result"]}
-    ]}
+    {
+      "memberId": "ly11-46764",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-chiang-us-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-02",
+          "title": "以立法院副院長身分參與跨黨派訪美",
+          "summary": "立法院記錄江啟臣於2025年4月27日至5月2日擔任跨黨派國會訪團榮譽團長，與美國國會議員、行政部門及智庫代表會晤；日期為訪問結束日。",
+          "role": "立法院副院長、訪團榮譽團長",
+          "outcome": "完成國會交流；未據此推定雙邊法案或協議已通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-chiang-us"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46765",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-ho-childcare-2026",
+          "category": "contribution",
+          "occurredAt": "2026-04-14",
+          "title": "提出兒童托育服務法草案",
+          "summary": "立法院併案紀錄列何欣純等16人提出《兒童托育服務法》草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-ho-childcare"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46831",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-huang-childcare-2026",
+          "category": "contribution",
+          "occurredAt": "2026-04-14",
+          "title": "提出兒童托育服務法草案",
+          "summary": "立法院併案紀錄列黃健豪等17人提出《兒童托育服務法》草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-huang-childcare"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "tc-huang-recall-2025",
+          "category": "concern",
+          "occurredAt": "2025-07-26",
+          "title": "罷免理由與答辯中的問政爭議",
+          "summary": "中選會公告刊載罷免提議方對黃健豪問政與政策立場的批評，也刊載其答辯。雙方主張不等於主管機關認定。7月26日投票遭否決。",
+          "role": "被罷免委員、答辯者",
+          "outcome": "罷免案投票遭否決",
+          "processStatus": "resolved",
+          "personResponse": "黃健豪在答辯書中回應政策與修法批評，說明其打詐、財政分配等立場。",
+          "resolution": "罷免投票處理的是去留，不構成對雙方各項政策主張的事實裁判。",
+          "sourceIds": [
+            "tc-huang-recall",
+            "tc-recall-result"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46835",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-yang-fraud-2025",
+          "category": "contribution",
+          "occurredAt": "2025-12-30",
+          "title": "提出詐欺犯罪危害防制條例修正草案",
+          "summary": "立法院併案紀錄列楊瓊瓔等29人提出《詐欺犯罪危害防制條例》部分條文修正草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "與行政院及其他委員版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-yang-fraud"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "tc-yang-withdraw-2025",
+          "category": "concern",
+          "occurredAt": "2025-01-03",
+          "title": "長者健保費修法引起爭議後撤案",
+          "summary": "楊瓊瓔提出《老人福利法》第22條修正草案，主張由中央補助符合條件長者健保費；政策引起財政及公平性討論後，她於2025年1月3日向立法院議事處提出撤案。",
+          "role": "提案委員、撤案者",
+          "outcome": "草案撤回，未進入三讀",
+          "processStatus": "resolved",
+          "personResponse": "楊瓊瓔表示聽到各方建議，會接受並參考不同意見。",
+          "resolution": "提案撤回；此處記錄政策爭議與處理結果，不推定提案違法。",
+          "sourceIds": [
+            "tc-yang-withdraw",
+            "tc-yang-withdraw-official"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46840",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-liao-college-2026",
+          "category": "contribution",
+          "occurredAt": "2026-07-14",
+          "title": "共同提出專科學校法修正草案",
+          "summary": "立法院議案頁列廖偉翔為《專科學校法》第44條修正草案提案人；日期為逕付二讀、交付協商日。",
+          "role": "提案委員",
+          "outcome": "交付協商，未據此推定草案已通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-liao-college"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "tc-liao-recall-2025",
+          "category": "concern",
+          "occurredAt": "2025-07-26",
+          "title": "罷免理由與答辯中的問政爭議",
+          "summary": "中選會公告刊載罷免提議方對廖偉翔議場行為及問政的批評，也刊載其答辯。雙方主張不等於主管機關認定。7月26日投票遭否決。",
+          "role": "被罷免委員、答辯者",
+          "outcome": "罷免案投票遭否決",
+          "processStatus": "resolved",
+          "personResponse": "廖偉翔於中選會公告答辯書反駁罷免理由，說明其修法與政策立場。",
+          "resolution": "罷免投票處理去留，不構成對各項指控的事實裁判。",
+          "sourceIds": [
+            "tc-liao-recall",
+            "tc-recall-result"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46842",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-tsai-ai-2025",
+          "category": "contribution",
+          "occurredAt": "2025-03-14",
+          "title": "提出人工智慧基本法草案後獲同意撤回",
+          "summary": "立法院議案頁列蔡其昌等21人提出《人工智慧基本法》草案；日期為院會同意撤回日。",
+          "role": "提案委員",
+          "outcome": "草案獲同意撤回，未將其他版本的後續立法歸於此案",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-tsai-ai"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        },
+        {
+          "id": "tc-tsai-baseball-2026",
+          "category": "good_deed",
+          "occurredAt": "2026-01-23",
+          "title": "號召基層棒球器材補助計畫",
+          "summary": "TAIWOLF公告記錄中職會長蔡其昌號召基層棒球回饋計畫，由中華職棒聯盟與TAIWOLF共同捐助40所學校棒球隊，各10萬元器材補助；日期為公告日，款項不視為蔡其昌個人捐贈。",
+          "role": "中職會長、號召者",
+          "outcome": "共同捐助總額400萬元的器材補助計畫",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-tsai-baseball"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46855",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-yen-equality-2025",
+          "category": "contribution",
+          "occurredAt": "2025-06-20",
+          "title": "提出性別平等工作法增訂條文草案",
+          "summary": "立法院議案頁列顏寬恒為《性別平等工作法》增訂第23條之1草案提案人；日期為交付審查日。",
+          "role": "提案委員",
+          "outcome": "交委員會審查；不據此推定其單獨促成最終條文",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-yen-equality"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        },
+        {
+          "id": "tc-yen-remand-2026",
+          "category": "concern",
+          "occurredAt": "2026-05-28",
+          "title": "助理費涉貪案最高法院撤銷發回",
+          "summary": "顏寬恒助理費涉貪案一、二審曾判有罪；最高法院2026年5月28日認為事實與證據仍需調查釐清，撤銷相關判決並發回更審。另案偽造文書判刑6月已確定，竊占國土部分無罪確定，須與發回案件區分。",
+          "role": "刑事案件被告、上訴人",
+          "outcome": "助理費案發回更審，尚無確定有罪判決",
+          "processStatus": "remanded",
+          "personResponse": "顏寬恒回應最高法院撤銷發回是還他公道，持續主張清白。",
+          "resolution": "本批截至查閱日未查得更審結果，不沿用已被撤銷的二審貪污結論。",
+          "sourceIds": [
+            "tc-yen-remand",
+            "tc-yen-response",
+            "tc-yen-remand-tvbs"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "subject",
+          "mandateRelation": "current_term",
+          "resultStatus": "appealable",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46856",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "tc-lo-esports-2026",
+          "category": "contribution",
+          "occurredAt": "2026-05-08",
+          "title": "共同提出電子競技運動發展基本法草案",
+          "summary": "立法院議案頁列羅廷瑋為《電子競技運動發展基本法》草案提案人；日期為交付審查日。",
+          "role": "提案委員",
+          "outcome": "交教育及文化委員會審查，未據此推定草案已通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-lo-esports"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "tc-lo-school-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-11-18",
+          "title": "與運彩公會號召向上國中贊助計畫",
+          "summary": "地方媒體報導羅廷瑋與台灣運彩公會號召會員和經銷商，宣布三年合計贊助臺中市向上國中200萬元的計畫；日期為報導日，金額不視為已全數交付或羅廷瑋個人捐款。",
+          "role": "共同號召者",
+          "outcome": "報導記錄贊助合作簽署儀式；後續實際撥款進度未由此來源確認",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "tc-lo-school"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        },
+        {
+          "id": "tc-lo-recall-2025",
+          "category": "concern",
+          "occurredAt": "2025-07-26",
+          "title": "罷免理由與答辯中的問政爭議",
+          "summary": "中選會公告刊載罷免提議方對羅廷瑋問政與政策立場的批評，也刊載其答辯。雙方主張不等於主管機關認定。7月26日投票遭否決。",
+          "role": "被罷免委員、答辯者",
+          "outcome": "罷免案投票遭否決",
+          "processStatus": "resolved",
+          "personResponse": "羅廷瑋在答辯書中回應對修法與預算立場的批評，列舉其提案與選區服務。",
+          "resolution": "罷免投票處理去留，不構成對雙方各項主張的事實裁判。",
+          "sourceIds": [
+            "tc-lo-recall",
+            "tc-recall-result"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

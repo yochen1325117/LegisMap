@@ -1,6 +1,6 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "party-list-2026-09-22",
   "regionName": null,
   "seatType": "party_list",
@@ -60,7 +60,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46767-profile",
@@ -70,7 +71,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46775-profile",
@@ -80,7 +82,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46776-profile",
@@ -90,7 +93,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46777-profile",
@@ -100,7 +104,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會 (召集委員)"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會 (召集委員)",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46783-profile",
@@ -110,7 +115,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46786-profile",
@@ -120,7 +126,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46792-profile",
@@ -130,7 +137,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46793-profile",
@@ -140,7 +148,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46795-profile",
@@ -150,7 +159,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46754-profile",
@@ -160,7 +170,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會 (召集委員)"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會 (召集委員)",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46805-profile",
@@ -170,7 +181,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46806-profile",
@@ -180,7 +192,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：經濟委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：經濟委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46807-profile",
@@ -190,7 +203,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會 (召集委員)"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會 (召集委員)",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46808-profile",
@@ -200,7 +214,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46810-profile",
@@ -210,7 +225,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46812-profile",
@@ -220,7 +236,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46755-profile",
@@ -230,7 +247,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46819-profile",
@@ -240,7 +258,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46821-profile",
@@ -250,7 +269,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46838-profile",
@@ -260,7 +280,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46852-profile",
@@ -270,7 +291,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46854-profile",
@@ -280,7 +302,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46858-profile",
@@ -290,7 +313,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46861-profile",
@@ -300,7 +324,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-55030-profile",
@@ -310,7 +335,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-55855-profile",
@@ -320,7 +346,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-77699-profile",
@@ -330,7 +357,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：財政委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：財政委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56378-profile",
@@ -340,7 +368,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：經濟委員會 (召集委員)"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：經濟委員會 (召集委員)",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56398-profile",
@@ -350,7 +379,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：教育及文化委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56418-profile",
@@ -360,7 +390,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56438-profile",
@@ -370,7 +401,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：社會福利及衛生環境委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56458-profile",
@@ -380,7 +412,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：交通委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：交通委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56585-profile",
@@ -390,7 +423,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：內政委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第5會期：內政委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46784-profile",
@@ -400,7 +434,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：交通委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：交通委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46864-profile",
@@ -410,7 +445,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：外交及國防委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：外交及國防委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46803-profile",
@@ -420,7 +456,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：經濟委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：經濟委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46756-profile",
@@ -430,7 +467,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：內政委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：內政委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46830-profile",
@@ -440,7 +478,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：財政委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：財政委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-46832-profile",
@@ -450,7 +489,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：司法及法制委員會"
+      "evidenceLocator": "委員資料之委員會欄：第11屆第4會期：司法及法制委員會",
+      "lastVerifiedAt": "2026-09-22"
     },
     {
       "id": "party-list-56478-profile",
@@ -460,7 +500,41 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-22",
-      "evidenceLocator": "委員資料之到職及離職日期欄"
+      "evidenceLocator": "委員資料之到職及離職日期欄",
+      "lastVerifiedAt": "2026-09-22"
+    },
+    {
+      "id": "special-bill-national-security-2024",
+      "title": "國家安全法第三條、第八條及第十八條條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110073810000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-11-01",
+      "accessedAt": "2026-09-22",
+      "lastVerifiedAt": "2026-09-22",
+      "evidenceLocator": "議案頁「提案人」及「審議進度」欄"
+    },
+    {
+      "id": "special-bill-criminal-procedure-2024",
+      "title": "刑事訴訟法增訂部分條文草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110050100000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-05-31",
+      "accessedAt": "2026-09-22",
+      "lastVerifiedAt": "2026-09-22",
+      "evidenceLocator": "議案頁「提案人」及「審議進度」欄"
+    },
+    {
+      "id": "special-bill-civil-service-protection-2025",
+      "title": "公務人員保障法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110132360000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-06-13",
+      "accessedAt": "2026-09-22",
+      "lastVerifiedAt": "2026-09-22",
+      "evidenceLocator": "議案頁「提案人」及「審議進度」欄"
     }
   ],
   "members": [
@@ -473,18 +547,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46759-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會",
+          "id": "party-list-46759-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明王育敏於第11屆第5會期：社會福利及衛生環境委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46759-profile"
           ]
@@ -502,16 +578,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46767-service",
+          "id": "ly11-46767-criminal-procedure-2024",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
-          "summary": "立法院官方個人頁列明吳宗憲於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2024-05-31",
+          "title": "提出刑事訴訟法增訂部分條文草案",
+          "summary": "吳宗憲列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "領銜提案人",
+          "outcome": "官方議案頁標示審查完畢（三讀）。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-criminal-procedure-2024"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46767-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明吳宗憲於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46767-profile"
           ]
@@ -529,16 +628,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46775-service",
+          "id": "ly11-46775-national-security-2024",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期外交及國防委員會",
-          "summary": "立法院官方個人頁列明沈伯洋於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2024-11-01",
+          "title": "提出國家安全法第三條、第八條及第十八條條文修正草案",
+          "summary": "沈伯洋列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "領銜提案人",
+          "outcome": "已交內政委員會審查；官方頁面記載後續委員會審查至 2026-04-30。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-national-security-2024"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46775-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明沈伯洋於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46775-profile"
           ]
@@ -556,16 +678,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46776-service",
+          "id": "ly11-46776-civil-service-protection-2025",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
-          "summary": "立法院官方個人頁列明沈發惠於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2025-06-13",
+          "title": "提出公務人員保障法部分條文修正草案",
+          "summary": "沈發惠列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "領銜提案人",
+          "outcome": "已交司法及法制委員會審查。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-civil-service-protection-2025"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46776-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明沈發惠於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46776-profile"
           ]
@@ -581,18 +726,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46777-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會 (召集委員)",
+          "id": "party-list-46777-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明林月琴於第11屆第5會期：社會福利及衛生環境委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46777-profile"
           ]
@@ -608,18 +755,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46783-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
+          "id": "party-list-46783-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明林倩綺於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46783-profile"
           ]
@@ -637,16 +786,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46786-service",
+          "id": "ly11-46786-national-security-2024",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期外交及國防委員會",
-          "summary": "立法院官方個人頁列明林楚茵於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2024-11-01",
+          "title": "提出國家安全法第三條、第八條及第十八條條文修正草案",
+          "summary": "林楚茵列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "共同提案人",
+          "outcome": "已交內政委員會審查；官方頁面記載後續委員會審查至 2026-04-30。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-national-security-2024"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46786-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明林楚茵於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46786-profile"
           ]
@@ -662,18 +834,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46792-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期教育及文化委員會",
+          "id": "party-list-46792-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明柯志恩於第11屆第5會期：教育及文化委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46792-profile"
           ]
@@ -689,18 +863,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46793-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
+          "id": "party-list-46793-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明柯建銘於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46793-profile"
           ]
@@ -716,18 +892,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46795-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
+          "id": "party-list-46795-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明范雲於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46795-profile"
           ]
@@ -743,18 +921,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46754-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會 (召集委員)",
+          "id": "party-list-46754-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明翁曉玲於第11屆第5會期：司法及法制委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46754-profile"
           ]
@@ -770,18 +950,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46805-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
+          "id": "party-list-46805-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明張雅琳於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46805-profile"
           ]
@@ -799,16 +981,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46806-service",
+          "id": "ly11-46806-criminal-procedure-2024",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期經濟委員會",
-          "summary": "立法院官方個人頁列明張嘉郡於第11屆第5會期：經濟委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2024-05-31",
+          "title": "提出刑事訴訟法增訂部分條文草案",
+          "summary": "張嘉郡列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "共同提案人",
+          "outcome": "官方議案頁標示審查完畢（三讀）。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-criminal-procedure-2024"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46806-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明張嘉郡於第11屆第5會期：經濟委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46806-profile"
           ]
@@ -826,16 +1031,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46807-service",
+          "id": "ly11-46807-national-security-2024",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會 (召集委員)",
-          "summary": "立法院官方個人頁列明莊瑞雄於第11屆第5會期：司法及法制委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2024-11-01",
+          "title": "提出國家安全法第三條、第八條及第十八條條文修正草案",
+          "summary": "莊瑞雄列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "共同提案人",
+          "outcome": "已交內政委員會審查；官方頁面記載後續委員會審查至 2026-04-30。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-national-security-2024"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46807-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明莊瑞雄於第11屆第5會期：司法及法制委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46807-profile"
           ]
@@ -851,18 +1079,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46808-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
+          "id": "party-list-46808-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明許宇甄於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46808-profile"
           ]
@@ -878,18 +1108,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46810-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期教育及文化委員會",
+          "id": "party-list-46810-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明郭昱晴於第11屆第5會期：教育及文化委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46810-profile"
           ]
@@ -905,18 +1137,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46812-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期外交及國防委員會",
+          "id": "party-list-46812-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明陳永康於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46812-profile"
           ]
@@ -932,18 +1166,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46755-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期司法及法制委員會",
+          "id": "party-list-46755-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明陳昭姿於第11屆第5會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46755-profile"
           ]
@@ -959,18 +1195,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46819-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期教育及文化委員會",
+          "id": "party-list-46819-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明陳培瑜於第11屆第5會期：教育及文化委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46819-profile"
           ]
@@ -986,18 +1224,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46821-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會",
+          "id": "party-list-46821-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明陳菁徽於第11屆第5會期：社會福利及衛生環境委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46821-profile"
           ]
@@ -1013,18 +1253,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46838-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期教育及文化委員會",
+          "id": "party-list-46838-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明葛如鈞於第11屆第5會期：教育及文化委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46838-profile"
           ]
@@ -1040,18 +1282,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46852-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期教育及文化委員會",
+          "id": "party-list-46852-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明謝龍介於第11屆第5會期：教育及文化委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46852-profile"
           ]
@@ -1067,18 +1311,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46854-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期外交及國防委員會",
+          "id": "party-list-46854-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明韓國瑜於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46854-profile"
           ]
@@ -1096,16 +1342,39 @@
       ],
       "events": [
         {
-          "id": "party-list-46858-service",
+          "id": "ly11-46858-national-security-2024",
           "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期外交及國防委員會",
-          "summary": "立法院官方個人頁列明羅美玲於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2024-11-01",
+          "title": "提出國家安全法第三條、第八條及第十八條條文修正草案",
+          "summary": "羅美玲列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "共同提案人",
+          "outcome": "已交內政委員會審查；官方頁面記載後續委員會審查至 2026-04-30。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-national-security-2024"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-46858-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明羅美玲於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-46858-profile"
           ]
@@ -1121,18 +1390,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46861-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會",
+          "id": "party-list-46861-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明蘇清泉於第11屆第5會期：社會福利及衛生環境委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46861-profile"
           ]
@@ -1148,18 +1419,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-55030-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-19",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會",
+          "id": "party-list-55030-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明王正旭於第11屆第5會期：社會福利及衛生環境委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-55030-profile"
           ]
@@ -1177,16 +1450,39 @@
       ],
       "events": [
         {
-          "id": "party-list-55855-service",
+          "id": "ly11-55855-civil-service-protection-2025",
           "category": "contribution",
-          "occurredAt": "2024-12-02",
-          "title": "參與第11屆第5會期外交及國防委員會",
-          "summary": "立法院官方個人頁列明王義川於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
-          "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
+          "occurredAt": "2025-06-13",
+          "title": "提出公務人員保障法部分條文修正草案",
+          "summary": "王義川列於官方議案頁的提案人名單；本紀錄僅陳述提案角色及官方所載審議進度。",
+          "role": "共同提案人",
+          "outcome": "已交司法及法制委員會審查。",
           "processStatus": "documented",
           "personResponse": null,
           "resolution": null,
+          "sourceIds": [
+            "special-bill-civil-service-protection-2025"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
+        {
+          "id": "party-list-55855-service-background",
+          "title": "第11屆委員會參與",
+          "summary": "立法院官方個人頁列明王義川於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
+          "role": "委員會委員",
           "sourceIds": [
             "party-list-55855-profile"
           ]
@@ -1202,18 +1498,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-77699-service",
-          "category": "contribution",
-          "occurredAt": "2025-03-14",
-          "title": "參與第11屆第5會期財政委員會",
+          "id": "party-list-77699-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明劉書彬於第11屆第5會期：財政委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-77699-profile"
           ]
@@ -1229,18 +1527,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56378-service",
-          "category": "contribution",
-          "occurredAt": "2026-02-03",
-          "title": "參與第11屆第5會期經濟委員會 (召集委員)",
+          "id": "party-list-56378-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明洪毓祥於第11屆第5會期：經濟委員會 (召集委員)；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56378-profile"
           ]
@@ -1256,18 +1556,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56398-service",
-          "category": "contribution",
-          "occurredAt": "2026-02-03",
-          "title": "參與第11屆第5會期教育及文化委員會",
+          "id": "party-list-56398-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明蔡春綢於第11屆第5會期：教育及文化委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56398-profile"
           ]
@@ -1283,18 +1585,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56418-service",
-          "category": "contribution",
-          "occurredAt": "2026-02-03",
-          "title": "參與第11屆第5會期外交及國防委員會",
+          "id": "party-list-56418-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明王安祥於第11屆第5會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56418-profile"
           ]
@@ -1310,18 +1614,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56438-service",
-          "category": "contribution",
-          "occurredAt": "2026-02-03",
-          "title": "參與第11屆第5會期社會福利及衛生環境委員會",
+          "id": "party-list-56438-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明邱慧洳於第11屆第5會期：社會福利及衛生環境委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56438-profile"
           ]
@@ -1337,18 +1643,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56458-service",
-          "category": "contribution",
-          "occurredAt": "2026-02-03",
-          "title": "參與第11屆第5會期交通委員會",
+          "id": "party-list-56458-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明陳清龍於第11屆第5會期：交通委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56458-profile"
           ]
@@ -1364,18 +1672,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56585-service",
-          "category": "contribution",
-          "occurredAt": "2026-04-22",
-          "title": "參與第11屆第5會期內政委員會",
+          "id": "party-list-56585-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明許忠信於第11屆第5會期：內政委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56585-profile"
           ]
@@ -1391,18 +1701,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46784-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第4會期交通委員會",
+          "id": "party-list-46784-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明林國成於第11屆第4會期：交通委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46784-profile"
           ]
@@ -1418,18 +1730,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46864-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第4會期外交及國防委員會",
+          "id": "party-list-46864-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明林憶君於第11屆第4會期：外交及國防委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46864-profile"
           ]
@@ -1445,18 +1759,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46803-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第4會期經濟委員會",
+          "id": "party-list-46803-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明張啓楷於第11屆第4會期：經濟委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46803-profile"
           ]
@@ -1472,18 +1788,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46756-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第4會期內政委員會",
+          "id": "party-list-46756-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明麥玉珍於第11屆第4會期：內政委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46756-profile"
           ]
@@ -1499,18 +1817,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46830-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第4會期財政委員會",
+          "id": "party-list-46830-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明黃珊珊於第11屆第4會期：財政委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46830-profile"
           ]
@@ -1526,18 +1846,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-46832-service",
-          "category": "contribution",
-          "occurredAt": "2024-02-01",
-          "title": "參與第11屆第4會期司法及法制委員會",
+          "id": "party-list-46832-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁列明黃國昌於第11屆第4會期：司法及法制委員會；本紀錄只確認委員會席次，不推定個別提案或政策成果。",
           "role": "委員會委員",
-          "outcome": "官方個人頁已列入該會期委員會名單",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-46832-profile"
           ]
@@ -1553,18 +1875,20 @@
         "concern",
         "anecdote"
       ],
-      "events": [
+      "events": [],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ],
+      "backgroundRecords": [
         {
-          "id": "party-list-56478-service",
-          "category": "anecdote",
-          "occurredAt": "2026-02-03",
-          "title": "遞補就任第11屆立法委員",
+          "id": "party-list-56478-service-background",
+          "title": "第11屆委員會參與",
           "summary": "立法院官方個人頁記錄李貞秀於2026-02-03到職；本紀錄僅確認任職事實。",
           "role": "遞補立法委員",
-          "outcome": "官方紀錄顯示任期至2026-04-13",
-          "processStatus": "documented",
-          "personResponse": null,
-          "resolution": null,
           "sourceIds": [
             "party-list-56478-profile"
           ]

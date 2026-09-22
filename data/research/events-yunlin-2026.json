@@ -1,31 +1,254 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "yunlin-2026-09-19",
   "regionName": "雲林縣",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46752", "ly11-46841"],
+  "memberIds": [
+    "ly11-46752",
+    "ly11-46841"
+  ],
   "sources": [
-    {"id":"yl-ding-earth","title":"土石採取法第三十六條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110183840000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人丁學忠；審議進度115年1月9日交付審查及115年7月3日委員會發文"},
-    {"id":"yl-funeral","title":"殯葬管理條例第二十一條之一條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110110210000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列丁學忠等16人與劉建國等16人不同版本；114年5月9日三讀，5月22日咨請公布"},
-    {"id":"yl-liu-medical","title":"醫療法增訂第九十八條之一條文草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110175950000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"議案標題及本院委員劉建國等16人提案"},
-    {"id":"yl-liu-medical-meeting","title":"立法院第11屆第5會期社會福利及衛生環境委員會第8次全體委員會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/2026042459/details?departmentCode=null&meetingDate=115%2F04%2F29&meetingTime=09%3A00-17%3A30","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"115年4月29日議程列劉建國等16人醫療法增訂第98條之一草案"},
-    {"id":"yl-liu-relief","title":"為花蓮災民募資募物 立委劉建國捐出1個月所得","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202509290179.aspx","sourceType":"news","publishedAt":"2025-09-29","accessedAt":"2026-09-19","evidenceLocator":"報導內文：劉建國表示已募得2000個背包將送往災區，並響應捐出1個月所得；未證實物資已送達"},
-    {"id":"yl-ding-recall","title":"立委丁學忠罷免案理由與答辯書全文","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202507035023.aspx","sourceType":"news","publishedAt":"2025-07-03","accessedAt":"2026-09-19","evidenceLocator":"中選會公告全文：第二節罷免理由書及第三節丁學忠答辯書；理由屬提議人主張"},
-    {"id":"yl-recall-result","title":"中央選舉委員會114年8月1日立法委員罷免投票結果公告","publisher":"中央選舉委員會","url":"https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf","sourceType":"official","publishedAt":"2025-08-01","accessedAt":"2026-09-19","evidenceLocator":"PDF第7頁，雲林縣第1選舉區丁學忠罷免結果為否決"}
+    {
+      "id": "yl-ding-earth",
+      "title": "土石採取法第三十六條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110183840000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人丁學忠；審議進度115年1月9日交付審查及115年7月3日委員會發文",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-funeral",
+      "title": "殯葬管理條例第二十一條之一條文修正草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110110210000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列丁學忠等16人與劉建國等16人不同版本；114年5月9日三讀，5月22日咨請公布",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-liu-medical",
+      "title": "醫療法增訂第九十八條之一條文草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110175950000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案標題及本院委員劉建國等16人提案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-liu-medical-meeting",
+      "title": "立法院第11屆第5會期社會福利及衛生環境委員會第8次全體委員會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2026042459/details?departmentCode=null&meetingDate=115%2F04%2F29&meetingTime=09%3A00-17%3A30",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "115年4月29日議程列劉建國等16人醫療法增訂第98條之一草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-liu-relief",
+      "title": "為花蓮災民募資募物 立委劉建國捐出1個月所得",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202509290179.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-09-29",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "報導內文：劉建國表示已募得2000個背包將送往災區，並響應捐出1個月所得；未證實物資已送達",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-ding-recall",
+      "title": "立委丁學忠罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035023.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "中選會公告全文：第二節罷免理由書及第三節丁學忠答辯書；理由屬提議人主張",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-recall-result",
+      "title": "中央選舉委員會114年8月1日立法委員罷免投票結果公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "PDF第7頁，雲林縣第1選舉區丁學忠罷免結果為否決",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46752","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"yl-ding-earth-2026","category":"contribution","occurredAt":"2026-01-09","title":"提出土石採取法第36條修正草案","summary":"立法院議案紀錄列丁學忠等16人提出《土石採取法》第36條修正草案；日期為議案交付審查日。","role":"提案委員","outcome":"與其他版本併案審查；單一版本的條文不能直接等同最終立法內容","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-ding-earth"]},
-      {"id":"yl-ding-funeral-2025","category":"contribution","occurredAt":"2025-05-09","title":"提出殯葬管理條例第21條之1修正草案","summary":"立法院併案紀錄列丁學忠等16人提出《殯葬管理條例》第21條之1修正草案；日期為併案三讀日。","role":"提案委員","outcome":"多位委員版本併案三讀，不能將最終條文全歸於丁學忠版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-funeral"]},
-      {"id":"yl-ding-recall-2025","category":"concern","occurredAt":"2025-07-26","title":"罷免理由與答辯中的問政爭議","summary":"罷免提議人於理由書批評丁學忠對罷免及國會職權修法的立場；這些是提議人的主張，不等於主管機關認定。丁學忠提出答辯書回應其問政與地方建設。","role":"被罷免人、答辯人","outcome":"2025年7月26日罷免投票遭否決；投票結果不判定各項指控真偽","processStatus":"resolved","personResponse":"丁學忠於答辯書表示尊重鄉親選擇，並主張自己積極推動地方建設與民生法案","resolution":"中央選舉委員會公告罷免案否決","sourceIds":["yl-ding-recall","yl-recall-result"]}
-    ]},
-    {"memberId":"ly11-46841","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"yl-liu-funeral-2025","category":"contribution","occurredAt":"2025-05-09","title":"提出殯葬管理條例第21條之1修正草案","summary":"立法院併案紀錄列劉建國等16人提出《殯葬管理條例》第21條之1修正草案；日期為併案三讀日。","role":"提案委員","outcome":"多位委員版本併案三讀，不能將最終條文全歸於劉建國版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-funeral"]},
-      {"id":"yl-liu-medical-2026","category":"contribution","occurredAt":"2026-04-29","title":"提出醫療法增訂第98條之1草案","summary":"立法院列劉建國等16人提出《醫療法》增訂第98條之1草案，並列入2026年4月29日社福衛環委員會議程；日期為列入委員會議程日。","role":"提案委員","outcome":"有委員會議程紀錄；不據此推定此版本已單獨三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-liu-medical","yl-liu-medical-meeting"]},
-      {"id":"yl-liu-relief-2025","category":"good_deed","occurredAt":"2025-09-29","title":"協助為花蓮洪災募物並響應捐款","summary":"中央社報導劉建國表示已協助募得2000個背包，將送往花蓮災區，並響應捐出一個月所得；日期為報導發表日。","role":"募物協助者、捐款響應者","outcome":"報導當時物資尚稱將送往，未以此來源確認送達或捐款入帳","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-liu-relief"]}
-    ]}
+    {
+      "memberId": "ly11-46752",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "yl-ding-earth-2026",
+          "category": "contribution",
+          "occurredAt": "2026-01-09",
+          "title": "提出土石採取法第36條修正草案",
+          "summary": "立法院議案紀錄列丁學忠等16人提出《土石採取法》第36條修正草案；日期為議案交付審查日。",
+          "role": "提案委員",
+          "outcome": "與其他版本併案審查；單一版本的條文不能直接等同最終立法內容",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-ding-earth"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_review",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-ding-funeral-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-09",
+          "title": "提出殯葬管理條例第21條之1修正草案",
+          "summary": "立法院併案紀錄列丁學忠等16人提出《殯葬管理條例》第21條之1修正草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "多位委員版本併案三讀，不能將最終條文全歸於丁學忠版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-funeral"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-ding-recall-2025",
+          "category": "concern",
+          "occurredAt": "2025-07-26",
+          "title": "罷免理由與答辯中的問政爭議",
+          "summary": "罷免提議人於理由書批評丁學忠對罷免及國會職權修法的立場；這些是提議人的主張，不等於主管機關認定。丁學忠提出答辯書回應其問政與地方建設。",
+          "role": "被罷免人、答辯人",
+          "outcome": "2025年7月26日罷免投票遭否決；投票結果不判定各項指控真偽",
+          "processStatus": "resolved",
+          "personResponse": "丁學忠於答辯書表示尊重鄉親選擇，並主張自己積極推動地方建設與民生法案",
+          "resolution": "中央選舉委員會公告罷免案否決",
+          "sourceIds": [
+            "yl-ding-recall",
+            "yl-recall-result"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46841",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "yl-liu-funeral-2025",
+          "category": "contribution",
+          "occurredAt": "2025-05-09",
+          "title": "提出殯葬管理條例第21條之1修正草案",
+          "summary": "立法院併案紀錄列劉建國等16人提出《殯葬管理條例》第21條之1修正草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "多位委員版本併案三讀，不能將最終條文全歸於劉建國版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-funeral"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-liu-medical-2026",
+          "category": "contribution",
+          "occurredAt": "2026-04-29",
+          "title": "提出醫療法增訂第98條之1草案",
+          "summary": "立法院列劉建國等16人提出《醫療法》增訂第98條之1草案，並列入2026年4月29日社福衛環委員會議程；日期為列入委員會議程日。",
+          "role": "提案委員",
+          "outcome": "有委員會議程紀錄；不據此推定此版本已單獨三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-liu-medical",
+            "yl-liu-medical-meeting"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-liu-relief-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-09-29",
+          "title": "協助為花蓮洪災募物並響應捐款",
+          "summary": "中央社報導劉建國表示已協助募得2000個背包，將送往花蓮災區，並響應捐出一個月所得；日期為報導發表日。",
+          "role": "募物協助者、捐款響應者",
+          "outcome": "報導當時物資尚稱將送往，未以此來源確認送達或捐款入帳",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-liu-relief"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "donor",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

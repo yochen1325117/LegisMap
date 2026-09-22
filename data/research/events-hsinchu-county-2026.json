@@ -1,34 +1,296 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "hsinchu-county-2026-09-19",
   "regionName": "新竹縣",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46782", "ly11-46797"],
+  "memberIds": [
+    "ly11-46782",
+    "ly11-46797"
+  ],
   "sources": [
-    {"id":"hc-lin-climate","title":"氣候變遷因應法第五條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110105130000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"林思銘等18人提案；114年4月18日議案進度"},
-    {"id":"hc-lin-housing","title":"住宅法部分條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110097400000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列林思銘等21人；114年3月14日議案進度"},
-    {"id":"hc-lin-relief-1","title":"送暖！林思銘攜竹縣愛心功德會捐40萬物資 致死者家屬1萬慰問金","publisher":"NOWnews今日新聞","url":"https://www.nownews.com/news/6735886","sourceType":"news","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"花蓮救災物資募集、兩台貨卡運送及慰問金段落"},
-    {"id":"hc-lin-relief-2","title":"同島一命！林思銘募兩大貨卡物資救災民 致贈1萬慰問金給遺屬","publisher":"知新聞","url":"https://www.knews.com.tw/news/0821C48FB9EBF39281D2708F4FCFF1AD","sourceType":"news","publishedAt":"2025-09-26","accessedAt":"2026-09-19","evidenceLocator":"與新竹縣愛心功德會募集40餘萬元物資及送往災區段落"},
-    {"id":"hc-lin-recall-notice","title":"第11屆立法委員新竹縣第2選舉區林思銘罷免案公告內容","publisher":"中央選舉委員會","url":"https://web.cec.gov.tw/api/file/99c1cc7d-6fd0-4b1a-8737-a5e9f78ff206.pdf","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"罷免理由、林思銘答辯及114年8月23日投票日期"},
-    {"id":"hc-lin-recall-result","title":"823立委罷免案開票結果一覽 7案全數不通過","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202508225019.aspx","sourceType":"news","publishedAt":"2025-08-23","accessedAt":"2026-09-19","evidenceLocator":"新竹縣第2選區林思銘罷免案列於8月23日投票、結果不通過段落"},
-    {"id":"hc-hsu-engineers","title":"技師法第十一條條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110177990000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列徐欣瑩等18人；114年12月26日咨請公布"},
-    {"id":"hc-hsu-public-servants","title":"公務人員保障法部分條文修正草案併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110135460000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列徐欣瑩等27人；114年7月2日咨請公布"},
-    {"id":"hc-hsu-computers","title":"徐欣瑩媒合工研院200台二手電腦 愛心送暖新竹縣弱勢學子","publisher":"聯合新聞網","url":"https://udn.com/news/story/7324/9092855","sourceType":"news","publishedAt":"2025-10-23","accessedAt":"2026-09-19","evidenceLocator":"媒合工研院捐200台二手電腦，慈濟志工整新後分送縣內國中小段落"}
+    {
+      "id": "hc-lin-climate",
+      "title": "氣候變遷因應法第五條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110105130000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "林思銘等18人提案；114年4月18日議案進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-lin-housing",
+      "title": "住宅法部分條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110097400000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列林思銘等21人；114年3月14日議案進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-lin-relief-1",
+      "title": "送暖！林思銘攜竹縣愛心功德會捐40萬物資 致死者家屬1萬慰問金",
+      "publisher": "NOWnews今日新聞",
+      "url": "https://www.nownews.com/news/6735886",
+      "sourceType": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "花蓮救災物資募集、兩台貨卡運送及慰問金段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-lin-relief-2",
+      "title": "同島一命！林思銘募兩大貨卡物資救災民 致贈1萬慰問金給遺屬",
+      "publisher": "知新聞",
+      "url": "https://www.knews.com.tw/news/0821C48FB9EBF39281D2708F4FCFF1AD",
+      "sourceType": "news",
+      "publishedAt": "2025-09-26",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "與新竹縣愛心功德會募集40餘萬元物資及送往災區段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-lin-recall-notice",
+      "title": "第11屆立法委員新竹縣第2選舉區林思銘罷免案公告內容",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/99c1cc7d-6fd0-4b1a-8737-a5e9f78ff206.pdf",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "罷免理由、林思銘答辯及114年8月23日投票日期",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-lin-recall-result",
+      "title": "823立委罷免案開票結果一覽 7案全數不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508225019.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "新竹縣第2選區林思銘罷免案列於8月23日投票、結果不通過段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-hsu-engineers",
+      "title": "技師法第十一條條文修正草案併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110177990000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列徐欣瑩等18人；114年12月26日咨請公布",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-hsu-public-servants",
+      "title": "公務人員保障法部分條文修正草案併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110135460000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列徐欣瑩等27人；114年7月2日咨請公布",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "hc-hsu-computers",
+      "title": "徐欣瑩媒合工研院200台二手電腦 愛心送暖新竹縣弱勢學子",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/story/7324/9092855",
+      "sourceType": "news",
+      "publishedAt": "2025-10-23",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "媒合工研院捐200台二手電腦，慈濟志工整新後分送縣內國中小段落",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46782","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"hc-lin-climate-2025","category":"contribution","occurredAt":"2025-04-18","title":"提出氣候變遷因應法修正草案","summary":"立法院議案頁列林思銘等18人提出《氣候變遷因應法》第5條修正草案；日期為議案頁進度日期。","role":"提案委員","outcome":"列入院會議程，未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hc-lin-climate"]},
-      {"id":"hc-lin-housing-2025","category":"contribution","occurredAt":"2025-03-14","title":"提出住宅法修正草案","summary":"立法院議案頁列林思銘等21人提出《住宅法》部分條文修正草案；日期為議案頁進度日期。","role":"提案委員","outcome":"草案列入審議，未推定已通過","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hc-lin-housing"]},
-      {"id":"hc-lin-relief-2025","category":"good_deed","occurredAt":"2025-09-26","title":"號召募集花蓮災區物資","summary":"兩家媒體記錄林思銘與新竹縣愛心功德會募集約40萬元物資，使用兩台貨車送往花蓮災區，並向罹難者家屬致贈慰問金；物資由多方共同募集，不視為林思銘個人全額捐贈。","role":"募集與協調者","outcome":"物資送往災區並致贈慰問金","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["hc-lin-relief-1","hc-lin-relief-2"]},
-      {"id":"hc-lin-recall-2025","category":"concern","occurredAt":"2025-08-23","title":"罷免理由與答辯中的問政爭議","summary":"中選會公告載明罷免提議方對林思銘問政及預算審查的批評，也刊載林思銘逐項答辯。這些是雙方主張，不等於主管機關對指控作成認定。8月23日罷免投票未通過。","role":"被罷免委員、答辯者","outcome":"罷免案投票未通過","processStatus":"resolved","personResponse":"林思銘於選舉公告答辯書反駁罷免理由，稱部分指控不實，並說明提案與預算審查立場。","resolution":"投票結果處理的是罷免案，不構成對雙方具體政治主張的事實裁判。","sourceIds":["hc-lin-recall-notice","hc-lin-recall-result"]}
-    ]},
-    {"memberId":"ly11-46797","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"hc-hsu-engineers-2025","category":"contribution","occurredAt":"2025-12-26","title":"提出技師法修正草案","summary":"立法院併案審查頁列徐欣瑩等18人提出《技師法》第11條修正草案；日期為併案案咨請公布日。","role":"提案委員","outcome":"與其他版本併案審議；最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hc-hsu-engineers"]},
-      {"id":"hc-hsu-public-servants-2025","category":"contribution","occurredAt":"2025-07-02","title":"提出公務人員保障法修正草案","summary":"立法院併案審查頁列徐欣瑩等27人提出《公務人員保障法》部分條文修正草案；日期為併案案咨請公布日。","role":"提案委員","outcome":"與其他版本併案審議；最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["hc-hsu-public-servants"]},
-      {"id":"hc-hsu-computers-2025","category":"good_deed","occurredAt":"2025-10-23","title":"媒合二手電腦供弱勢學生使用","summary":"聯合報報導徐欣瑩媒合工研院捐出200台二手電腦，經慈濟志工整新後陸續分送新竹縣國中小；電腦由工研院捐贈，並非徐欣瑩個人捐出。","role":"媒合者","outcome":"二手電腦整新後陸續分送學校","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["hc-hsu-computers"]}
-    ]}
+    {
+      "memberId": "ly11-46782",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "hc-lin-climate-2025",
+          "category": "contribution",
+          "occurredAt": "2025-04-18",
+          "title": "提出氣候變遷因應法修正草案",
+          "summary": "立法院議案頁列林思銘等18人提出《氣候變遷因應法》第5條修正草案；日期為議案頁進度日期。",
+          "role": "提案委員",
+          "outcome": "列入院會議程，未推定已通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "hc-lin-climate"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "hc-lin-housing-2025",
+          "category": "contribution",
+          "occurredAt": "2025-03-14",
+          "title": "提出住宅法修正草案",
+          "summary": "立法院議案頁列林思銘等21人提出《住宅法》部分條文修正草案；日期為議案頁進度日期。",
+          "role": "提案委員",
+          "outcome": "草案列入審議，未推定已通過",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "hc-lin-housing"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "hc-lin-relief-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-09-26",
+          "title": "號召募集花蓮災區物資",
+          "summary": "兩家媒體記錄林思銘與新竹縣愛心功德會募集約40萬元物資，使用兩台貨車送往花蓮災區，並向罹難者家屬致贈慰問金；物資由多方共同募集，不視為林思銘個人全額捐贈。",
+          "role": "募集與協調者",
+          "outcome": "物資送往災區並致贈慰問金",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "hc-lin-relief-1",
+            "hc-lin-relief-2"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "public"
+        },
+        {
+          "id": "hc-lin-recall-2025",
+          "category": "concern",
+          "occurredAt": "2025-08-23",
+          "title": "罷免理由與答辯中的問政爭議",
+          "summary": "中選會公告載明罷免提議方對林思銘問政及預算審查的批評，也刊載林思銘逐項答辯。這些是雙方主張，不等於主管機關對指控作成認定。8月23日罷免投票未通過。",
+          "role": "被罷免委員、答辯者",
+          "outcome": "罷免案投票未通過",
+          "processStatus": "resolved",
+          "personResponse": "林思銘於選舉公告答辯書反駁罷免理由，稱部分指控不實，並說明提案與預算審查立場。",
+          "resolution": "投票結果處理的是罷免案，不構成對雙方具體政治主張的事實裁判。",
+          "sourceIds": [
+            "hc-lin-recall-notice",
+            "hc-lin-recall-result"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    },
+    {
+      "memberId": "ly11-46797",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "hc-hsu-engineers-2025",
+          "category": "contribution",
+          "occurredAt": "2025-12-26",
+          "title": "提出技師法修正草案",
+          "summary": "立法院併案審查頁列徐欣瑩等18人提出《技師法》第11條修正草案；日期為併案案咨請公布日。",
+          "role": "提案委員",
+          "outcome": "與其他版本併案審議；最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "hc-hsu-engineers"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "proposed",
+          "visibility": "public"
+        },
+        {
+          "id": "hc-hsu-public-servants-2025",
+          "category": "contribution",
+          "occurredAt": "2025-07-02",
+          "title": "提出公務人員保障法修正草案",
+          "summary": "立法院併案審查頁列徐欣瑩等27人提出《公務人員保障法》部分條文修正草案；日期為併案案咨請公布日。",
+          "role": "提案委員",
+          "outcome": "與其他版本併案審議；最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "hc-hsu-public-servants"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "proposed",
+          "visibility": "public"
+        },
+        {
+          "id": "hc-hsu-computers-2025",
+          "category": "good_deed",
+          "occurredAt": "2025-10-23",
+          "title": "媒合二手電腦供弱勢學生使用",
+          "summary": "聯合報報導徐欣瑩媒合工研院捐出200台二手電腦，經慈濟志工整新後陸續分送新竹縣國中小；電腦由工研院捐贈，並非徐欣瑩個人捐出。",
+          "role": "媒合者",
+          "outcome": "二手電腦整新後陸續分送學校",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "hc-hsu-computers"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

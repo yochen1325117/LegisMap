@@ -1,27 +1,202 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "yilan-2026-09-19",
   "regionName": "宜蘭縣",
   "researchedAt": "2026-09-19",
   "periodStart": "2021-09-19",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46816"],
+  "memberIds": [
+    "ly11-46816"
+  ],
   "sources": [
-    {"id":"yl-chen-engineer","title":"技師法第十一條條文修正草案等併案審查","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110177990000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"關聯議案列陳俊宇等20人；114年12月16日三讀"},
-    {"id":"yl-chen-gender","title":"性別平等工作法第十九條條文修正草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110031790000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-19","evidenceLocator":"提案人列陳俊宇；115年6月3日審議進度"},
-    {"id":"yl-chen-sale","title":"義賣盆景募善款 陳俊宇與黃惠慈聯合服務處募得十萬助弱勢","publisher":"勢傳媒・中華趨勢報","url":"https://chinatrends.news/archives/43128","sourceType":"news","publishedAt":"2024-11-30","accessedAt":"2026-09-19","evidenceLocator":"聯合服務處舉辦盆景義賣、募得10萬元並捐予五個在地團體段落"},
-    {"id":"yl-chen-building-cna","title":"藍營指把楊桃館變住宅 陳俊宇：檢已不起訴還清白","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202309190171.aspx","sourceType":"news","publishedAt":"2023-09-19","accessedAt":"2026-09-19","evidenceLocator":"2023年9月藍營再提出質疑；陳俊宇回應2016年檢方不起訴段落"},
-    {"id":"yl-chen-building-rw","title":"集貨場獲農委會補助247萬 僅營運3年就變豪宅","publisher":"菱傳媒","url":"https://rwnews.tw/article.php?news=10421","sourceType":"news","publishedAt":"2023-07-28","accessedAt":"2026-09-19","lastVerifiedAt":"2026-09-20","evidenceLocator":"報導比對集貨場使用及檢方認定未構成竊佔罪部分"},
-    {"id":"yl-chen-calligraphy","title":"陳俊宇立委『謙和』祕境曝光・書法情緣成服務座右銘","publisher":"葛瑪蘭新聞網","url":"https://www.kamalan-news.com/local/4/16278","sourceType":"news","publishedAt":"2025-03-10","accessedAt":"2026-09-19","evidenceLocator":"服務處二樓掛小學書法老師陳玨霖所贈『謙和』題字段落"}
+    {
+      "id": "yl-chen-engineer",
+      "title": "技師法第十一條條文修正草案等併案審查",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110177990000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列陳俊宇等20人；114年12月16日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-chen-gender",
+      "title": "性別平等工作法第十九條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110031790000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "提案人列陳俊宇；115年6月3日審議進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-chen-sale",
+      "title": "義賣盆景募善款 陳俊宇與黃惠慈聯合服務處募得十萬助弱勢",
+      "publisher": "勢傳媒・中華趨勢報",
+      "url": "https://chinatrends.news/archives/43128",
+      "sourceType": "news",
+      "publishedAt": "2024-11-30",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "聯合服務處舉辦盆景義賣、募得10萬元並捐予五個在地團體段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-chen-building-cna",
+      "title": "藍營指把楊桃館變住宅 陳俊宇：檢已不起訴還清白",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202309190171.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-09-19",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2023年9月藍營再提出質疑；陳俊宇回應2016年檢方不起訴段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "yl-chen-building-rw",
+      "title": "集貨場獲農委會補助247萬 僅營運3年就變豪宅",
+      "publisher": "菱傳媒",
+      "url": "https://rwnews.tw/article.php?news=10421",
+      "sourceType": "news",
+      "publishedAt": "2023-07-28",
+      "accessedAt": "2026-09-19",
+      "lastVerifiedAt": "2026-09-20",
+      "evidenceLocator": "報導比對集貨場使用及檢方認定未構成竊佔罪部分"
+    },
+    {
+      "id": "yl-chen-calligraphy",
+      "title": "陳俊宇立委『謙和』祕境曝光・書法情緣成服務座右銘",
+      "publisher": "葛瑪蘭新聞網",
+      "url": "https://www.kamalan-news.com/local/4/16278",
+      "sourceType": "news",
+      "publishedAt": "2025-03-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "服務處二樓掛小學書法老師陳玨霖所贈『謙和』題字段落",
+      "lastVerifiedAt": "2026-09-19"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46816","reviewedAt":"2026-09-19","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"yl-chen-engineer-2025","category":"contribution","occurredAt":"2025-12-16","title":"提出技師法修正草案","summary":"立法院併案紀錄列陳俊宇等20人提出《技師法》第11條修正草案；日期為併案三讀日。","role":"提案委員","outcome":"與其他委員版本併案三讀，最終條文不能全歸於此版本","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-chen-engineer"]},
-      {"id":"yl-chen-gender-2026","category":"contribution","occurredAt":"2026-06-03","title":"提出性別平等工作法修正草案","summary":"立法院議案紀錄列陳俊宇等20人提出《性別平等工作法》第19條修正草案；日期為議案審議進度所列日期。","role":"提案委員","outcome":"截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-chen-gender"]},
-      {"id":"yl-chen-sale-2024","category":"good_deed","occurredAt":"2024-11-30","title":"與縣議員聯合服務處義賣盆景助弱勢","summary":"報導記載陳俊宇與黃惠慈聯合服務處舉辦盆景義賣，募得約10萬元，捐給真儒家庭關懷協會等五個在地公益團體。","role":"聯合服務處主辦者","outcome":"義賣活動及捐贈完成；金額為聯合服務處募集，不歸為個人捐款","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-chen-sale"]},
-      {"id":"yl-chen-building-2023","category":"concern","occurredAt":"2023-09-19","title":"楊桃集貨場住宅使用爭議再受質疑","summary":"2023年宜蘭縣議會國民黨團重新質疑陳俊宇將受補助興建的楊桃集貨場作住宅使用；報導記錄過往檢方認為未構成竊佔罪，陳俊宇亦援引不起訴處分回應。事件發生於其第11屆立委任期前。","role":"遭質疑的當時立委參選人","outcome":"過往竊佔指控曾獲不起訴；行政使用爭議與刑事構成要件不可混為一談","processStatus":"resolved","personResponse":"陳俊宇稱2016年宜蘭地檢署已作不起訴處分，否認貪污指控","resolution":"可查資料僅確認過往刑事不起訴，未以此認定建物使用完全合法","sourceIds":["yl-chen-building-cna","yl-chen-building-rw"]},
-      {"id":"yl-chen-calligraphy-2025","category":"anecdote","occurredAt":"2025-03-10","title":"服務處掛小學老師所贈『謙和』書法","summary":"地方新聞報導陳俊宇新服務處二樓掛著小學書法老師陳玨霖贈送的『謙和』題字，他受訪稱以此提醒自己服務態度；日期為報導日。","role":"接受訪問的立法委員","outcome":"具體擺設與受訪內容有報導記錄","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["yl-chen-calligraphy"]}
-    ]}
+    {
+      "memberId": "ly11-46816",
+      "reviewedAt": "2026-09-19",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "yl-chen-engineer-2025",
+          "category": "contribution",
+          "occurredAt": "2025-12-16",
+          "title": "提出技師法修正草案",
+          "summary": "立法院併案紀錄列陳俊宇等20人提出《技師法》第11條修正草案；日期為併案三讀日。",
+          "role": "提案委員",
+          "outcome": "與其他委員版本併案三讀，最終條文不能全歸於此版本",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-chen-engineer"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-chen-gender-2026",
+          "category": "contribution",
+          "occurredAt": "2026-06-03",
+          "title": "提出性別平等工作法修正草案",
+          "summary": "立法院議案紀錄列陳俊宇等20人提出《性別平等工作法》第19條修正草案；日期為議案審議進度所列日期。",
+          "role": "提案委員",
+          "outcome": "截至查閱日未以此來源確認三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-chen-gender"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-chen-sale-2024",
+          "category": "good_deed",
+          "occurredAt": "2024-11-30",
+          "title": "與縣議員聯合服務處義賣盆景助弱勢",
+          "summary": "報導記載陳俊宇與黃惠慈聯合服務處舉辦盆景義賣，募得約10萬元，捐給真儒家庭關懷協會等五個在地公益團體。",
+          "role": "聯合服務處主辦者",
+          "outcome": "義賣活動及捐贈完成；金額為聯合服務處募集，不歸為個人捐款",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-chen-sale"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
+        },
+        {
+          "id": "yl-chen-building-2023",
+          "category": "concern",
+          "occurredAt": "2023-09-19",
+          "title": "楊桃集貨場住宅使用爭議再受質疑",
+          "summary": "2023年宜蘭縣議會國民黨團重新質疑陳俊宇將受補助興建的楊桃集貨場作住宅使用；報導記錄過往檢方認為未構成竊佔罪，陳俊宇亦援引不起訴處分回應。事件發生於其第11屆立委任期前。",
+          "role": "遭質疑的當時立委參選人",
+          "outcome": "過往竊佔指控曾獲不起訴；行政使用爭議與刑事構成要件不可混為一談",
+          "processStatus": "resolved",
+          "personResponse": "陳俊宇稱2016年宜蘭地檢署已作不起訴處分，否認貪污指控",
+          "resolution": "可查資料僅確認過往刑事不起訴，未以此認定建物使用完全合法",
+          "sourceIds": [
+            "yl-chen-building-cna",
+            "yl-chen-building-rw"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "subject",
+          "mandateRelation": "before_legislative_service",
+          "resultStatus": "resolved",
+          "visibility": "public"
+        },
+        {
+          "id": "yl-chen-calligraphy-2025",
+          "category": "anecdote",
+          "occurredAt": "2025-03-10",
+          "title": "服務處掛小學老師所贈『謙和』書法",
+          "summary": "地方新聞報導陳俊宇新服務處二樓掛著小學書法老師陳玨霖贈送的『謙和』題字，他受訪稱以此提醒自己服務態度；日期為報導日。",
+          "role": "接受訪問的立法委員",
+          "outcome": "具體擺設與受訪內容有報導記錄",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "yl-chen-calligraphy"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

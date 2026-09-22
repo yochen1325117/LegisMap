@@ -1,26 +1,183 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "kinmen-2026-09-20",
   "regionName": "金門縣",
   "researchedAt": "2026-09-20",
   "periodStart": "2021-09-20",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46813"],
+  "memberIds": [
+    "ly11-46813"
+  ],
   "sources": [
-    {"id":"km-chen-fire","title":"報告併案審查委員陳玉珍等18人擬具「離島建設條例第五條條文修正草案」及委員蔡易餘等21人擬具「離島建設條例第十條之一條文修正草案」案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/203110055550000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-20","evidenceLocator":"議案標題與審議進度；陳玉珍等18人提案"},
-    {"id":"km-chen-islands","title":"第11屆第5會期第17次會議","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/sittings/yuan-sittings/2026070883/details?departmentCode=null&meetingDate=115%2F07%2F14&meetingTime=","sourceType":"official","publishedAt":"2026-07-14","accessedAt":"2026-09-20","evidenceLocator":"報告事項第五十五案：陳玉珍等17人擬具離島建設條例修正草案"},
-    {"id":"km-chen-union","title":"中華電信工會指介入員工升遷 陳玉珍：捍衛基層","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/afe/202510030251.aspx","sourceType":"news","publishedAt":"2025-10-03","accessedAt":"2026-09-20","evidenceLocator":"工會聲明與陳玉珍回應段落"},
-    {"id":"km-chen-complaint","title":"遭指喬中華電信人事 陳玉珍：不隨之起舞","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202601090121.aspx","sourceType":"news","publishedAt":"2026-01-09","accessedAt":"2026-09-20","evidenceLocator":"馬郁雯與陳又新赴北檢告發及陳玉珍回應段落"},
-    {"id":"km-chen-udn","title":"馬郁雯指控她涉中華電信人事關說 陳玉珍：做賊喊抓賊","publisher":"聯合新聞網","url":"https://udn.com/news/amp/story/6656/9245095","sourceType":"news","publishedAt":"2026-01-05","accessedAt":"2026-09-20","evidenceLocator":"所公布陳情文件之說法及陳玉珍接受民眾陳情的回應"},
-    {"id":"km-chen-election","title":"競逐金門縣長 陳玉珍、李文良等人完成登記","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202609020279.aspx","sourceType":"news","publishedAt":"2026-09-02","accessedAt":"2026-09-20","evidenceLocator":"陳玉珍於9月2日登記參選金門縣長段落"}
+    {
+      "id": "km-chen-fire",
+      "title": "報告併案審查委員陳玉珍等18人擬具「離島建設條例第五條條文修正草案」及委員蔡易餘等21人擬具「離島建設條例第十條之一條文修正草案」案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110055550000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "議案標題與審議進度；陳玉珍等18人提案",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "km-chen-islands",
+      "title": "第11屆第5會期第17次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/yuan-sittings/2026070883/details?departmentCode=null&meetingDate=115%2F07%2F14&meetingTime=",
+      "sourceType": "official",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "報告事項第五十五案：陳玉珍等17人擬具離島建設條例修正草案",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "km-chen-union",
+      "title": "中華電信工會指介入員工升遷 陳玉珍：捍衛基層",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/afe/202510030251.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-03",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "工會聲明與陳玉珍回應段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "km-chen-complaint",
+      "title": "遭指喬中華電信人事 陳玉珍：不隨之起舞",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202601090121.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-01-09",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "馬郁雯與陳又新赴北檢告發及陳玉珍回應段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "km-chen-udn",
+      "title": "馬郁雯指控她涉中華電信人事關說 陳玉珍：做賊喊抓賊",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/amp/story/6656/9245095",
+      "sourceType": "news",
+      "publishedAt": "2026-01-05",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "所公布陳情文件之說法及陳玉珍接受民眾陳情的回應",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "km-chen-election",
+      "title": "競逐金門縣長 陳玉珍、李文良等人完成登記",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202609020279.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "陳玉珍於9月2日登記參選金門縣長段落",
+      "lastVerifiedAt": "2026-09-20"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46813","reviewedAt":"2026-09-20","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"km-chen-fire-2024","category":"contribution","occurredAt":"2024-05-27","title":"提出離島建設條例消防建設修正草案","summary":"立法院併案紀錄列陳玉珍等18人提出《離島建設條例》第5條修正草案，主張將消防建設列入離島綜合建設實施方案；日期為委員會初審日。","role":"提案委員","outcome":"委員會併案審查；不將初審等同於三讀或工程完成","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["km-chen-fire"]},
-      {"id":"km-chen-islands-2026","category":"contribution","occurredAt":"2026-07-14","title":"提出離島建設條例第10條等條文修正草案","summary":"立法院院會紀錄列陳玉珍等17人擬具《離島建設條例》第10條、第10條之3及第17條修正草案；日期為院會報告日。","role":"提案委員","outcome":"列入院會報告事項；截至查閱日未以此來源確認三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["km-chen-islands"]},
-      {"id":"km-chen-telecom-2026","category":"concern","occurredAt":"2026-01-09","title":"中華電信人事介入指控遭告發","summary":"中華電信工會先前指稱陳玉珍介入金門員工升遷；馬郁雯、陳又新於2026年1月9日赴台北地檢署告發。這些是工會與告發人的主張，來源未證實陳玉珍違法。","role":"被指控及告發的立法委員","outcome":"截至查閱日所列來源未確認起訴或有罪判決","processStatus":"disputed","personResponse":"陳玉珍表示自己是在回應基層陳情，否認不當關說，對告發稱不隨之起舞。","resolution":"已提出告發；法律責任尚待正式程序釐清。","sourceIds":["km-chen-union","km-chen-complaint","km-chen-udn"]},
-      {"id":"km-chen-election-2026","category":"anecdote","occurredAt":"2026-09-02","title":"在立委任內登記參選金門縣長","summary":"陳玉珍於2026年9月2日完成金門縣長選舉登記；登記參選不代表已卸任立委。","role":"登記參選的現任立法委員","outcome":"截至名單基準日仍列為現任委員；選舉結果尚未發生","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["km-chen-election"]}
-    ]}
+    {
+      "memberId": "ly11-46813",
+      "reviewedAt": "2026-09-20",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "km-chen-fire-2024",
+          "category": "contribution",
+          "occurredAt": "2024-05-27",
+          "title": "提出離島建設條例消防建設修正草案",
+          "summary": "立法院併案紀錄列陳玉珍等18人提出《離島建設條例》第5條修正草案，主張將消防建設列入離島綜合建設實施方案；日期為委員會初審日。",
+          "role": "提案委員",
+          "outcome": "委員會併案審查；不將初審等同於三讀或工程完成",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "km-chen-fire"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "km-chen-islands-2026",
+          "category": "contribution",
+          "occurredAt": "2026-07-14",
+          "title": "提出離島建設條例第10條等條文修正草案",
+          "summary": "立法院院會紀錄列陳玉珍等17人擬具《離島建設條例》第10條、第10條之3及第17條修正草案；日期為院會報告日。",
+          "role": "提案委員",
+          "outcome": "列入院會報告事項；截至查閱日未以此來源確認三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "km-chen-islands"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "km-chen-telecom-2026",
+          "category": "concern",
+          "occurredAt": "2026-01-09",
+          "title": "中華電信人事介入指控遭告發",
+          "summary": "中華電信工會先前指稱陳玉珍介入金門員工升遷；馬郁雯、陳又新於2026年1月9日赴台北地檢署告發。這些是工會與告發人的主張，來源未證實陳玉珍違法。",
+          "role": "被指控及告發的立法委員",
+          "outcome": "截至查閱日所列來源未確認起訴或有罪判決",
+          "processStatus": "disputed",
+          "personResponse": "陳玉珍表示自己是在回應基層陳情，否認不當關說，對告發稱不隨之起舞。",
+          "resolution": "已提出告發；法律責任尚待正式程序釐清。",
+          "sourceIds": [
+            "km-chen-union",
+            "km-chen-complaint",
+            "km-chen-udn"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "subject",
+          "mandateRelation": "current_term",
+          "resultStatus": "alleged",
+          "visibility": "public"
+        },
+        {
+          "id": "km-chen-election-2026",
+          "category": "anecdote",
+          "occurredAt": "2026-09-02",
+          "title": "在立委任內登記參選金門縣長",
+          "summary": "陳玉珍於2026年9月2日完成金門縣長選舉登記；登記參選不代表已卸任立委。",
+          "role": "登記參選的現任立法委員",
+          "outcome": "截至名單基準日仍列為現任委員；選舉結果尚未發生",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "km-chen-election"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

@@ -1,26 +1,176 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "lienchiang-2026-09-20",
   "regionName": "連江縣",
   "researchedAt": "2026-09-20",
   "periodStart": "2021-09-20",
   "reviewStatus": "verified",
-  "memberIds": ["ly11-46820"],
+  "memberIds": [
+    "ly11-46820"
+  ],
   "sources": [
-    {"id":"lc-chen-island","title":"離島建設條例增訂第七條之一條文草案","publisher":"立法院","url":"https://ppg.ly.gov.tw/ppg/bills/202110059990000/details","sourceType":"official","publishedAt":null,"accessedAt":"2026-09-20","evidenceLocator":"提案人陳雪生、陳玉珍；審議進度113年7月9日退回程序委員會"},
-    {"id":"lc-chen-search","title":"立委陳雪生涉詐領助理費等2案 檢調搜索約談27人","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202608240274.aspx","sourceType":"news","publishedAt":"2026-08-24","accessedAt":"2026-09-20","evidenceLocator":"引述台北地檢署新聞稿之35處搜索、27人約談與調查仍在進行段落"},
-    {"id":"lc-chen-bail","title":"陳雪生涉詐領助理費、收受不正利益 200萬元交保","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202608250015.aspx","sourceType":"news","publishedAt":"2026-08-25","accessedAt":"2026-09-20","evidenceLocator":"檢察官複訊後諭令200萬元交保及限制出境出海段落"},
-    {"id":"lc-chen-followup","title":"陳雪生涉詐領助理費案 北檢4路搜索約談5人","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/asoc/202609030204.aspx","sourceType":"news","publishedAt":"2026-09-03","accessedAt":"2026-09-20","evidenceLocator":"北檢9月3日第二波搜索及約談助理等5人段落"},
-    {"id":"lc-chen-pts","title":"國民黨立委陳雪生涉詐領助理費 檢調搜索住處、國會辦公室","publisher":"公視新聞網","url":"https://news.pts.org.tw/article/823894","sourceType":"news","publishedAt":"2026-08-24","accessedAt":"2026-09-20","evidenceLocator":"北檢證實案件及35處搜索、27人到案說明段落"},
-    {"id":"lc-chen-recall","title":"馬祖民間團體發動罷免 陳雪生：不知道、沒意見","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aloc/202502130146.aspx","sourceType":"news","publishedAt":"2025-02-13","accessedAt":"2026-09-20","evidenceLocator":"罷免團體發起聲明及陳雪生回應段落"},
-    {"id":"lc-chen-recall-followup","title":"附身分證影本首案 罷團：陳雪生案一階達標暫不送件","publisher":"中央通訊社","url":"https://www.cna.com.tw/news/aipl/202503170248.aspx","sourceType":"news","publishedAt":"2025-03-17","accessedAt":"2026-09-20","evidenceLocator":"罷團稱第一階段達標但暫不送件段落"}
+    {
+      "id": "lc-chen-island",
+      "title": "離島建設條例增訂第七條之一條文草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110059990000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "提案人陳雪生、陳玉珍；審議進度113年7月9日退回程序委員會",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "lc-chen-search",
+      "title": "立委陳雪生涉詐領助理費等2案 檢調搜索約談27人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202608240274.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "引述台北地檢署新聞稿之35處搜索、27人約談與調查仍在進行段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "lc-chen-bail",
+      "title": "陳雪生涉詐領助理費、收受不正利益 200萬元交保",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202608250015.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "檢察官複訊後諭令200萬元交保及限制出境出海段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "lc-chen-followup",
+      "title": "陳雪生涉詐領助理費案 北檢4路搜索約談5人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202609030204.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "北檢9月3日第二波搜索及約談助理等5人段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "lc-chen-pts",
+      "title": "國民黨立委陳雪生涉詐領助理費 檢調搜索住處、國會辦公室",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/823894",
+      "sourceType": "news",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "北檢證實案件及35處搜索、27人到案說明段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "lc-chen-recall",
+      "title": "馬祖民間團體發動罷免 陳雪生：不知道、沒意見",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202502130146.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-02-13",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "罷免團體發起聲明及陳雪生回應段落",
+      "lastVerifiedAt": "2026-09-20"
+    },
+    {
+      "id": "lc-chen-recall-followup",
+      "title": "附身分證影本首案 罷團：陳雪生案一階達標暫不送件",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202503170248.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-03-17",
+      "accessedAt": "2026-09-20",
+      "evidenceLocator": "罷團稱第一階段達標但暫不送件段落",
+      "lastVerifiedAt": "2026-09-20"
+    }
   ],
   "members": [
-    {"memberId":"ly11-46820","reviewedAt":"2026-09-20","reviewedCategories":["contribution","good_deed","concern","anecdote"],"events":[
-      {"id":"lc-chen-island-2024","category":"contribution","occurredAt":"2024-07-09","title":"提出離島建設條例第7條之1草案","summary":"立法院議案紀錄列陳雪生與陳玉珍共同提出《離島建設條例》增訂第7條之1草案；日期為院會處理日。","role":"共同提案委員","outcome":"113年7月9日退回程序委員會，並未三讀","processStatus":"documented","personResponse":null,"resolution":null,"sourceIds":["lc-chen-island"]},
-      {"id":"lc-chen-investigation-2026","category":"concern","occurredAt":"2026-08-25","title":"助理費及廠商利益案遭搜索，200萬元交保","summary":"台北地檢署偵辦陳雪生涉嫌詐領助理費及收受廠商提供助理使用等案，8月24日搜索、約談，25日複訊後諭令200萬元交保並限制出境出海。9月3日再搜索並約談相關人員。此為偵查程序，並非起訴或有罪判決。","role":"受偵查的立法委員","outcome":"截至查閱日所列來源顯示案件仍在偵查中","processStatus":"under_investigation","personResponse":"截至查閱日，所列來源未載陳雪生對本案的完整公開答辯。","resolution":"檢方持續偵查；尚無所列來源可確認的起訴或確定判決。","sourceIds":["lc-chen-search","lc-chen-bail","lc-chen-followup","lc-chen-pts"]},
-      {"id":"lc-chen-recall-2025","category":"anecdote","occurredAt":"2025-03-17","title":"罷免提議第一階段達標後暫未送件","summary":"馬祖民間團體於2025年2月宣布發動罷免陳雪生，3月稱第一階段提議人數已達門檻，但決定暫不送件；日期為後續說明日。","role":"被發起罷免的立法委員","outcome":"團體當時暫不送交第一階段連署；不能視作正式罷免投票","processStatus":"reported","personResponse":null,"resolution":null,"sourceIds":["lc-chen-recall","lc-chen-recall-followup"]}
-    ]}
+    {
+      "memberId": "ly11-46820",
+      "reviewedAt": "2026-09-20",
+      "reviewedCategories": [
+        "contribution",
+        "good_deed",
+        "concern",
+        "anecdote"
+      ],
+      "events": [
+        {
+          "id": "lc-chen-island-2024",
+          "category": "contribution",
+          "occurredAt": "2024-07-09",
+          "title": "提出離島建設條例第7條之1草案",
+          "summary": "立法院議案紀錄列陳雪生與陳玉珍共同提出《離島建設條例》增訂第7條之1草案；日期為院會處理日。",
+          "role": "共同提案委員",
+          "outcome": "113年7月9日退回程序委員會，並未三讀",
+          "processStatus": "documented",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "lc-chen-island"
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "co_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
+        },
+        {
+          "id": "lc-chen-investigation-2026",
+          "category": "concern",
+          "occurredAt": "2026-08-25",
+          "title": "助理費及廠商利益案遭搜索，200萬元交保",
+          "summary": "台北地檢署偵辦陳雪生涉嫌詐領助理費及收受廠商提供助理使用等案，8月24日搜索、約談，25日複訊後諭令200萬元交保並限制出境出海。9月3日再搜索並約談相關人員。此為偵查程序，並非起訴或有罪判決。",
+          "role": "受偵查的立法委員",
+          "outcome": "截至查閱日所列來源顯示案件仍在偵查中",
+          "processStatus": "under_investigation",
+          "personResponse": "截至查閱日，所列來源未載陳雪生對本案的完整公開答辯。",
+          "resolution": "檢方持續偵查；尚無所列來源可確認的起訴或確定判決。",
+          "sourceIds": [
+            "lc-chen-search",
+            "lc-chen-bail",
+            "lc-chen-followup",
+            "lc-chen-pts"
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "subject",
+          "mandateRelation": "current_term",
+          "resultStatus": "under_investigation",
+          "visibility": "public"
+        },
+        {
+          "id": "lc-chen-recall-2025",
+          "category": "anecdote",
+          "occurredAt": "2025-03-17",
+          "title": "罷免提議第一階段達標後暫未送件",
+          "summary": "馬祖民間團體於2025年2月宣布發動罷免陳雪生，3月稱第一階段提議人數已達門檻，但決定暫不送件；日期為後續說明日。",
+          "role": "被發起罷免的立法委員",
+          "outcome": "團體當時暫不送交第一階段連署；不能視作正式罷免投票",
+          "processStatus": "reported",
+          "personResponse": null,
+          "resolution": null,
+          "sourceIds": [
+            "lc-chen-recall",
+            "lc-chen-recall-followup"
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "subject",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
+        }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
+      ]
+    }
   ]
 }

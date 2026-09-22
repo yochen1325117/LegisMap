@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useMatch, useNavigate } from 'react-router-dom';
 import { TaiwanDrilldownMap } from 'taiwan-atlas/react';
 import type { RegionMeta, TaiwanMapInstance, TaiwanMapError } from 'taiwan-atlas';
-import { dataAsOfDate, eventMembers, fieldSources, members, membersForRegion, rosterSource, sourcesForEvent, type EventCategory, type MemberRecord, type SourceRecord } from './data/legislators.ts';
+import { dataAsOfDate, eventMembers, fieldSources, members, membersForRegion, rosterSource, sourcesForEvent, sourcesForIds, type EventCategory, type MemberRecord, type SourceRecord } from './data/legislators.ts';
 
 const specialSeats = [
   ['party_list', '全國不分區及僑居國外國民'],
@@ -21,28 +21,38 @@ function SourceLinks({ items, label }: { items: SourceRecord[]; label: string })
 }
 
 const eventCategoryLabels: Record<EventCategory, string> = {
-  contribution: '立委貢獻', good_deed: '正面事蹟', concern: '爭議事件', anecdote: '逸聞',
+  contribution: '立法與問政成果', good_deed: '公益與公共服務', concern: '爭議與責任紀錄', anecdote: '人物側寫',
 };
 const eventStatusLabels: Record<string, string> = {
   documented: '紀錄已核對', reported: '報導已核對', disputed: '主張有爭議',
   investigation: '查核中', indicted: '已起訴，法院審理中', judgment_appealable: '一審判決，可上訴', resolved: '事件已有後續結果',
 };
+const evidenceLabels: Record<string, string> = { official_confirmed: '官方確認', independently_corroborated: '獨立交叉查證', attributed_claim: '具名單方說法' };
+const roleTypeLabels: Record<string, string> = { lead_proposer: '主提案', co_proposer: '共同提案', cosigner: '連署', questioner: '質詢', coordinator: '協調', donor: '本人捐贈', subject: '事件當事人', participant: '參與' };
+const resultLabels: Record<string, string> = { proposed: '提案', under_review: '審查中', passed: '通過', implemented: '執行中', completed: '完成', recorded: '已有紀錄', alleged: '指控', under_investigation: '偵查中', indicted: '起訴', appealable: '上訴中', final: '確定', resolved: '已結案' };
 
 function MemberEvents({ memberId }: { memberId: string }) {
   const research = eventMembers.get(memberId);
+  const [expanded, setExpanded] = useState<Partial<Record<EventCategory, boolean>>>({});
   if (!research) return <p className="research-pending">此地區尚未完成事蹟資料查證。</p>;
   return <div className="profile-events"><p className="source-note">事蹟資料查閱日：{research.reviewedAt}。事件描述以所附來源可查證的內容為準。</p>
-    {(Object.keys(eventCategoryLabels) as EventCategory[]).map(category => <section className="research-section" key={category}>
+    {(research.backgroundRecords?.length ?? 0) > 0 && <section className="research-section background-section"><h3>人物背景</h3>{research.backgroundRecords?.map(record => <article className="event-card" key={record.id}><h4>{record.title}</h4><p>{record.summary}</p><p><strong>角色：</strong>{record.role}</p><p className="event-source-list"><strong>來源：</strong>{sourcesForIds(record.sourceIds).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer">{source.publisher}・{source.title} ↗</a>)}</p></article>)}</section>}
+    {(Object.keys(eventCategoryLabels) as EventCategory[]).map(category => {
+      const events = research.events.filter(event => event.category === category && event.visibility === 'public').sort((a, b) => b.occurredAt.localeCompare(a.occurredAt));
+      const shown = expanded[category] ? events : events.slice(0, 3);
+      return <section className="research-section" key={category}>
       <h3>{eventCategoryLabels[category]}</h3>
-      {research.events.filter(event => event.category === category).map(event => <article className="event-card" key={event.id}>
+      {shown.map(event => <article className="event-card" key={event.id}>
         <h4>{event.title}</h4><time dateTime={event.occurredAt}>{event.occurredAt}</time>
+        <div className="event-tags"><span>{evidenceLabels[event.evidenceLevel]}</span><span>{roleTypeLabels[event.roleType]}</span><span>{resultLabels[event.resultStatus]}</span>{event.mandateRelation === 'before_legislative_service' && <span className="preterm-tag">任期前</span>}{event.mandateRelation === 'prior_public_role' && <span>先前公職期間</span>}</div>
         <p>{event.summary}</p><p><strong>角色：</strong>{event.role}</p><p><strong>查證狀態：</strong>{eventStatusLabels[event.processStatus] ?? event.processStatus}</p><p><strong>結果／進度：</strong>{event.outcome}</p>
         {event.personResponse && <p><strong>當事人回應：</strong>{event.personResponse}</p>}
         {event.resolution && <p><strong>查證界線：</strong>{event.resolution}</p>}
-        <p className="event-source-list"><strong>來源：</strong>{sourcesForEvent(event).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.evidenceLocator}｜查閱 ${source.accessedAt}`}>{source.publisher}・{source.title} ↗</a>)}</p>
+        <p className="event-source-list"><strong>來源：</strong>{sourcesForEvent(event).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={`${source.publisher}｜${source.evidenceLocator}｜首次查閱 ${source.accessedAt}｜最近複核 ${source.lastVerifiedAt ?? source.accessedAt}`}>{source.publisher}・{source.title} ↗</a>)}</p>
       </article>)}
-      {!research.events.some(event => event.category === category) && <p className="empty-research">截至 {research.reviewedAt} 尚無已核實資料。</p>}
-    </section>)}
+      {!events.length && <p className="empty-research">截至 {research.reviewedAt} 尚無已核實資料。</p>}
+      {events.length > 3 && <button className="event-expand" onClick={() => setExpanded(current => ({ ...current, [category]: !current[category] }))}>{expanded[category] ? '收合' : `查看其餘 ${events.length - 3} 則`}</button>}
+    </section>;})}
   </div>;
 }
 

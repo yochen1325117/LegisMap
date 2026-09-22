@@ -1,6 +1,6 @@
 {
   "documentType": "legislatorEventBatch",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "batchId": "tainan-2026-09-19",
   "regionName": "臺南市",
   "researchedAt": "2026-09-19",
@@ -23,7 +23,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "提案人王定宇等16人；114年11月28日交付審查"
+      "evidenceLocator": "提案人王定宇等16人；114年11月28日交付審查",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-wang-ttv",
@@ -33,7 +34,8 @@
       "sourceType": "news",
       "publishedAt": "2025-09-25",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "內文：流出黨團群組截圖及王定宇2025年9月25日回應"
+      "evidenceLocator": "內文：流出黨團群組截圖及王定宇2025年9月25日回應",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-wang-tvbs",
@@ -43,7 +45,8 @@
       "sourceType": "news",
       "publishedAt": "2025-09-25",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "內文：王定宇對『殺傷力』用語和群組截圖的回應"
+      "evidenceLocator": "內文：王定宇對『殺傷力』用語和群組截圖的回應",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-liny-bill",
@@ -53,7 +56,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "關聯議案列林宜瑾等22人；114年10月17日併案三讀"
+      "evidenceLocator": "關聯議案列林宜瑾等22人；114年10月17日併案三讀",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-liny-cna",
@@ -63,7 +67,8 @@
       "sourceType": "news",
       "publishedAt": "2026-07-02",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "2026年7月2日台南地院一審判刑7年、褫奪公權4年；尚可上訴"
+      "evidenceLocator": "2026年7月2日台南地院一審判刑7年、褫奪公權4年；尚可上訴",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-liny-pts",
@@ -73,7 +78,8 @@
       "sourceType": "news",
       "publishedAt": "2026-07-02",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "內文第1至8段：一審判決、過去職務期間、林宜瑾文字聲明擬上訴"
+      "evidenceLocator": "內文第1至8段：一審判決、過去職務期間、林宜瑾文字聲明擬上訴",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-linj-bill",
@@ -83,7 +89,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "114年3月25日議程列林俊憲等19人青年基本法草案"
+      "evidenceLocator": "114年3月25日議程列林俊憲等19人青年基本法草案",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-linj-gift",
@@ -93,7 +100,8 @@
       "sourceType": "news",
       "publishedAt": "2024-10-15",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "內文：林俊憲媒合企業捐100萬元，4校回贈感謝狀；款項由企業提供"
+      "evidenceLocator": "內文：林俊憲媒合企業捐100萬元，4校回贈感謝狀；款項由企業提供",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-guo-bill",
@@ -103,7 +111,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "關聯議案列郭國文等18人兒少投資儲蓄帳戶草案；115年7月24日併案三讀"
+      "evidenceLocator": "關聯議案列郭國文等18人兒少投資儲蓄帳戶草案；115年7月24日併案三讀",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-guo-gift",
@@ -113,7 +122,8 @@
       "sourceType": "news",
       "publishedAt": "2025-08-24",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "內文：郭國文與江肇國媒合台中宮廟捐57.2萬元予台灣心義工團"
+      "evidenceLocator": "內文：郭國文與江肇國媒合台中宮廟捐57.2萬元予台灣心義工團",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-chen-bill",
@@ -123,7 +133,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "提案人陳亭妃等16人；115年4月10日議案進度"
+      "evidenceLocator": "提案人陳亭妃等16人；115年4月10日議案進度",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-chen-gift",
@@ -133,7 +144,8 @@
       "sourceType": "news",
       "publishedAt": "2025-07-24",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "2025年7月24日報導：公益信託變更用途獲准，265萬元可供災害救助個案申請"
+      "evidenceLocator": "2025年7月24日報導：公益信託變更用途獲准，265萬元可供災害救助個案申請",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-lai-bill",
@@ -143,7 +155,8 @@
       "sourceType": "official",
       "publishedAt": null,
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "關聯議案列賴惠員等21人；114年10月17日併案三讀"
+      "evidenceLocator": "關聯議案列賴惠員等21人；114年10月17日併案三讀",
+      "lastVerifiedAt": "2026-09-19"
     },
     {
       "id": "tn-lai-gift",
@@ -153,7 +166,8 @@
       "sourceType": "news",
       "publishedAt": "2025-01-23",
       "accessedAt": "2026-09-19",
-      "evidenceLocator": "2025年1月23日於新營服務處舉行記者會，媒合企業向溪北14校捐電腦"
+      "evidenceLocator": "2025年1月23日於新營服務處舉行記者會，媒合企業向溪北14校捐電腦",
+      "lastVerifiedAt": "2026-09-19"
     }
   ],
   "members": [
@@ -180,7 +194,12 @@
           "resolution": null,
           "sourceIds": [
             "tn-wang-bill"
-          ]
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
         },
         {
           "id": "tn-wang-flood-2025",
@@ -196,8 +215,20 @@
           "sourceIds": [
             "tn-wang-ttv",
             "tn-wang-tvbs"
-          ]
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "public"
         }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     },
     {
@@ -223,7 +254,12 @@
           "resolution": null,
           "sourceIds": [
             "tn-liny-bill"
-          ]
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
         },
         {
           "id": "tn-liny-aide-2026",
@@ -239,8 +275,20 @@
           "sourceIds": [
             "tn-liny-cna",
             "tn-liny-pts"
-          ]
+          ],
+          "evidenceLevel": "independently_corroborated",
+          "roleType": "subject",
+          "mandateRelation": "current_term",
+          "resultStatus": "appealable",
+          "visibility": "public"
         }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     },
     {
@@ -266,7 +314,12 @@
           "resolution": null,
           "sourceIds": [
             "tn-linj-bill"
-          ]
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
         },
         {
           "id": "tn-linj-scholarship-2024",
@@ -281,8 +334,20 @@
           "resolution": null,
           "sourceIds": [
             "tn-linj-gift"
-          ]
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
         }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     },
     {
@@ -308,7 +373,12 @@
           "resolution": null,
           "sourceIds": [
             "tn-guo-bill"
-          ]
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
         },
         {
           "id": "tn-guo-relief-2025",
@@ -323,8 +393,20 @@
           "resolution": null,
           "sourceIds": [
             "tn-guo-gift"
-          ]
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "completed",
+          "visibility": "withheld"
         }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     },
     {
@@ -350,7 +432,12 @@
           "resolution": null,
           "sourceIds": [
             "tn-chen-bill"
-          ]
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
         },
         {
           "id": "tn-chen-relief-2025",
@@ -365,8 +452,20 @@
           "resolution": null,
           "sourceIds": [
             "tn-chen-gift"
-          ]
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "participant",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
         }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     },
     {
@@ -392,7 +491,12 @@
           "resolution": null,
           "sourceIds": [
             "tn-lai-bill"
-          ]
+          ],
+          "evidenceLevel": "official_confirmed",
+          "roleType": "lead_proposer",
+          "mandateRelation": "current_term",
+          "resultStatus": "passed",
+          "visibility": "public"
         },
         {
           "id": "tn-lai-computers-2025",
@@ -407,8 +511,20 @@
           "resolution": null,
           "sourceIds": [
             "tn-lai-gift"
-          ]
+          ],
+          "evidenceLevel": "attributed_claim",
+          "roleType": "coordinator",
+          "mandateRelation": "current_term",
+          "resultStatus": "recorded",
+          "visibility": "withheld"
         }
+      ],
+      "reviewedSourceTypes": [
+        "legislative",
+        "government",
+        "oversight_and_judicial",
+        "independent_news",
+        "statements"
       ]
     }
   ]
