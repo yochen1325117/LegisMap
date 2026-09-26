@@ -1,4 +1,6 @@
 import snapshot from '../../../../data/research/ly11-2026.json';
+import electoralSnapshot from './electoral-districts.json';
+import type { MultiPolygon, Polygon } from 'geojson';
 
 export interface SourceRecord {
   id: string; title: string; publisher: string; url: string; accessedAt: string; lastVerifiedAt?: string; evidenceLocator: string;
@@ -29,11 +31,21 @@ export function sourcesForIds(ids: string[]): SourceRecord[] {
 export interface MemberRecord {
   id: string; name: string; districtLabel: string;
   seatType: 'district' | 'party_list' | 'plains_indigenous' | 'mountain_indigenous';
-  regionName: string | null; mandateStatus: 'active' | 'former';
+  regionName: string | null; electoralDistrictId: string | null; mandateStatus: 'active' | 'former';
   serviceStart: string; serviceEnd: string | null; fieldSourceIds: Record<string, string[]>;
+}
+export interface ElectoralDistrictMeta {
+  id: string; term: number; name: string; countyId: string; countyName: string; districtNumber: number;
+  scopeText: string; memberId: string; sourceIds: string[];
+  units: Array<{ townName: string; villageNames: string[] | null }>;
+}
+export interface ElectoralDistrictFeature {
+  id: string; geometry: Polygon | MultiPolygon; sourceFeatureCount: number;
 }
 export const dataAsOfDate = snapshot.asOfDate;
 export const members = snapshot.members as MemberRecord[];
+export const electoralDistricts = electoralSnapshot.districts as ElectoralDistrictMeta[];
+export const electoralDistrictById = new Map(electoralDistricts.map(district => [district.id, district]));
 export const sources = new Map((snapshot.sources as SourceRecord[]).map(source => [source.id, source]));
 export const rosterSource = sources.get(snapshot.rosterSourceId)!;
 export function fieldSources(member: MemberRecord, field: string): SourceRecord[] {
@@ -41,4 +53,18 @@ export function fieldSources(member: MemberRecord, field: string): SourceRecord[
 }
 export function membersForRegion(regionName: string): MemberRecord[] {
   return members.filter(member => member.regionName === regionName);
+}
+export function districtsForCounty(countyId: string): ElectoralDistrictMeta[] {
+  return electoralDistricts.filter(district => district.countyId === countyId).sort((a, b) => a.districtNumber - b.districtNumber);
+}
+export function membersForDistrict(districtId: string): MemberRecord[] {
+  return members.filter(member => member.electoralDistrictId === districtId);
+}
+
+const geometryModules = import.meta.glob('./district-geometry/*.json', { import: 'default' });
+export async function loadDistrictFeatures(countyId: string): Promise<ElectoralDistrictFeature[]> {
+  const loader = geometryModules[`./district-geometry/${countyId}.json`];
+  if (!loader) return [];
+  const data = await loader() as { countyId: string; districts: ElectoralDistrictFeature[] };
+  return data.districts;
 }

@@ -1,0 +1,26 @@
+{
+  "term": 11,
+  "electionDate": "2024-01-13",
+  "license": "政府資料開放授權條款－第1版",
+  "licenseUrl": "https://data.gov.tw/license",
+  "districtScope": {
+    "publisher": "中央選舉委員會",
+    "dataset": "第11屆立法委員選舉區範圍",
+    "datasetUrl": "https://data.gov.tw/dataset/170247",
+    "sourceUrl": "https://data.cec.gov.tw/第11屆立法委員選舉區範圍/立法委員選舉區範圍.csv",
+    "sourceFile": "data/electoral-districts/source/cec-term-11.csv",
+    "sha256": "8141cc1cf12b9afb4cf8d10d44ee992bf33c4c6c5090e79a71a08dc0bb8ce1ba"
+  },
+  "villageGeometry": {
+    "publisher": "內政部國土測繪中心",
+    "dataset": "112年9月村里界",
+    "releaseUrl": "https://www.nlsc.gov.tw/NLSC_Content.aspx?n=1742&s=296093",
+    "snapshot": "1120928",
+    "mirrorServiceUrl": "https://services4.arcgis.com/qxKrACmhWOm9bbby/ArcGIS/rest/services/村(里)界(TWD97_121分帶)1120928_/FeatureServer/0",
+    "mirrorServiceItemId": "403801470b0b4b03a77f3f8be92c1b82",
+    "mirrorLastEditEpochMs": 1700709078073,
+    "expectedFeatureCount": 7657,
+    "sourceCrs": "TWD97 / TM2 zone 121 (EPSG:3826)",
+    "outputCrs": "WGS84 longitude/latitude (EPSG:4326)"
+  }
+}

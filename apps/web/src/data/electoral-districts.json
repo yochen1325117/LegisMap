@@ -1,0 +1,3452 @@
+{
+  "schemaVersion": "1.0.0",
+  "term": 11,
+  "geometrySnapshot": "1120928",
+  "sources": [
+    {
+      "id": "cec-term-11-scope",
+      "license": "政府資料開放授權條款－第1版",
+      "licenseUrl": "https://data.gov.tw/license",
+      "publisher": "中央選舉委員會",
+      "dataset": "第11屆立法委員選舉區範圍",
+      "datasetUrl": "https://data.gov.tw/dataset/170247",
+      "sourceUrl": "https://data.cec.gov.tw/第11屆立法委員選舉區範圍/立法委員選舉區範圍.csv",
+      "sourceFile": "data/electoral-districts/source/cec-term-11.csv",
+      "sha256": "8141cc1cf12b9afb4cf8d10d44ee992bf33c4c6c5090e79a71a08dc0bb8ce1ba"
+    },
+    {
+      "id": "nlsc-village-1120928",
+      "license": "政府資料開放授權條款－第1版",
+      "licenseUrl": "https://data.gov.tw/license",
+      "publisher": "內政部國土測繪中心",
+      "dataset": "112年9月村里界",
+      "releaseUrl": "https://www.nlsc.gov.tw/NLSC_Content.aspx?n=1742&s=296093",
+      "snapshot": "1120928",
+      "mirrorServiceUrl": "https://services4.arcgis.com/qxKrACmhWOm9bbby/ArcGIS/rest/services/村(里)界(TWD97_121分帶)1120928_/FeatureServer/0",
+      "mirrorServiceItemId": "403801470b0b4b03a77f3f8be92c1b82",
+      "mirrorLastEditEpochMs": 1700709078073,
+      "expectedFeatureCount": 7657,
+      "sourceCrs": "TWD97 / TM2 zone 121 (EPSG:3826)",
+      "outputCrs": "WGS84 longitude/latitude (EPSG:4326)",
+      "rawCountyFiles": [
+        {
+          "countyId": "63000",
+          "countyName": "臺北市",
+          "file": "data/electoral-districts/source/nlsc-counties/63000.geojson",
+          "sha256": "55858929be175b46b8065e1b8385064ae27be1dcd3548ab70bcc18218c763bbc",
+          "featureCount": 456
+        },
+        {
+          "countyId": "65000",
+          "countyName": "新北市",
+          "file": "data/electoral-districts/source/nlsc-counties/65000.geojson",
+          "sha256": "8d2aafc2b7cb061851bba6005e85494eb27745d638b73333acc4104fa9f395a2",
+          "featureCount": 1049
+        },
+        {
+          "countyId": "68000",
+          "countyName": "桃園市",
+          "file": "data/electoral-districts/source/nlsc-counties/68000.geojson",
+          "sha256": "bf8253b2dcedd8fed540e82b31b753797e876130b5585304dae797655e2d6d90",
+          "featureCount": 516
+        },
+        {
+          "countyId": "66000",
+          "countyName": "臺中市",
+          "file": "data/electoral-districts/source/nlsc-counties/66000.geojson",
+          "sha256": "751d655baf7c162101a7e3d2660180044a53f776999cd9fbd1a6d04e0bcf3b01",
+          "featureCount": 630
+        },
+        {
+          "countyId": "67000",
+          "countyName": "臺南市",
+          "file": "data/electoral-districts/source/nlsc-counties/67000.geojson",
+          "sha256": "b2510c87b2859223c7fcbe9ed0f851ff214c0061803e217d1172f5aad73be7e0",
+          "featureCount": 649
+        },
+        {
+          "countyId": "64000",
+          "countyName": "高雄市",
+          "file": "data/electoral-districts/source/nlsc-counties/64000.geojson",
+          "sha256": "e31be692165a04d49efcd977c0dc0c404af68d77455a1d287d4dd7e12efc5bef",
+          "featureCount": 899
+        },
+        {
+          "countyId": "10004",
+          "countyName": "新竹縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10004.geojson",
+          "sha256": "b2be6dc993a5ea32abd740f3c7512a0fec23027e890dde053a04a143f1896f11",
+          "featureCount": 192
+        },
+        {
+          "countyId": "10005",
+          "countyName": "苗栗縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10005.geojson",
+          "sha256": "867b3d5d88a41323bbd107e176623e2f25a397fce31259811a72f5839309ea71",
+          "featureCount": 275
+        },
+        {
+          "countyId": "10007",
+          "countyName": "彰化縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10007.geojson",
+          "sha256": "e7dabb6b41d4dbcc60cf326c251551f515010085d62a62aef683b3f4c896f8b3",
+          "featureCount": 591
+        },
+        {
+          "countyId": "10008",
+          "countyName": "南投縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10008.geojson",
+          "sha256": "905116201c4508af8b4f6d0623d389dbc15f60f8c2539d6743aee6040e19f28c",
+          "featureCount": 263
+        },
+        {
+          "countyId": "10009",
+          "countyName": "雲林縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10009.geojson",
+          "sha256": "81a9fcaea5c9a5bf7c0d1c1e1a3a0726f716064562ca840bdf6873347405c4e4",
+          "featureCount": 394
+        },
+        {
+          "countyId": "10010",
+          "countyName": "嘉義縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10010.geojson",
+          "sha256": "e8eb12904e1cf3aa5fc23e3bcbdb2e391e03866a327d3aa1d9d7374891b2c3b0",
+          "featureCount": 358
+        },
+        {
+          "countyId": "10013",
+          "countyName": "屏東縣",
+          "file": "data/electoral-districts/source/nlsc-counties/10013.geojson",
+          "sha256": "6b2b073cead09b51eb9eb8d5a57543fbc01fe561eec799f2a8fb1de88d473d41",
+          "featureCount": 447
+        }
+      ]
+    }
+  ],
+  "districts": [
+    {
+      "id": "ly11-09007-01",
+      "term": 11,
+      "name": "連江縣選舉區",
+      "countyId": "09007",
+      "countyName": "連江縣",
+      "districtNumber": 1,
+      "scopeText": "連江縣",
+      "memberId": "ly11-46820",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-09020-01",
+      "term": 11,
+      "name": "金門縣選舉區",
+      "countyId": "09020",
+      "countyName": "金門縣",
+      "districtNumber": 1,
+      "scopeText": "金門縣",
+      "memberId": "ly11-46813",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10002-01",
+      "term": 11,
+      "name": "宜蘭縣選舉區",
+      "countyId": "10002",
+      "countyName": "宜蘭縣",
+      "districtNumber": 1,
+      "scopeText": "宜蘭縣",
+      "memberId": "ly11-46816",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10004-01",
+      "term": 11,
+      "name": "新竹縣第1選舉區",
+      "countyId": "10004",
+      "countyName": "新竹縣",
+      "districtNumber": 1,
+      "scopeText": "新豐鄉、湖口鄉、新埔鎮、芎林鄉、關西鎮、尖石鄉、竹北市－尚義里、崇義里、大義里、大眉里、新港里、白地里、麻園里、聯興里、新庄里、溪州里、新國里、新社里等12里",
+      "memberId": "ly11-46797",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "新豐鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "湖口鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "新埔鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "芎林鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "關西鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "尖石鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "竹北市",
+          "villageNames": [
+            "尚義里",
+            "崇義里",
+            "大義里",
+            "大眉里",
+            "新港里",
+            "白地里",
+            "麻園里",
+            "聯興里",
+            "新庄里",
+            "溪州里",
+            "新國里",
+            "新社里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-10004-02",
+      "term": 11,
+      "name": "新竹縣第2選舉區",
+      "countyId": "10004",
+      "countyName": "新竹縣",
+      "districtNumber": 2,
+      "scopeText": "竹東鎮、橫山鄉、寶山鄉、北埔鄉、峨眉鄉、五峰鄉、竹北市－泰和里、竹北里、竹義里、新崙里、福德里、竹仁里、文化里、北崙里、興安里、北興里、十興里、中崙里、斗崙里、鹿場里、東興里、東海里、中興里、隘口里、東平里等19里",
+      "memberId": "ly11-46782",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "竹東鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "橫山鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "寶山鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "北埔鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "峨眉鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "五峰鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "竹北市",
+          "villageNames": [
+            "泰和里",
+            "竹北里",
+            "竹義里",
+            "新崙里",
+            "福德里",
+            "竹仁里",
+            "文化里",
+            "北崙里",
+            "興安里",
+            "北興里",
+            "十興里",
+            "中崙里",
+            "斗崙里",
+            "鹿場里",
+            "東興里",
+            "東海里",
+            "中興里",
+            "隘口里",
+            "東平里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-10005-01",
+      "term": 11,
+      "name": "苗栗縣第1選舉區",
+      "countyId": "10005",
+      "countyName": "苗栗縣",
+      "districtNumber": 1,
+      "scopeText": "竹南鎮、造橋鄉、後龍鎮、西湖鄉、通霄鎮、銅鑼鄉、苑裡鎮、三義鄉",
+      "memberId": "ly11-46822",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "竹南鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "造橋鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "後龍鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "西湖鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "通霄鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "銅鑼鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "苑裡鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "三義鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10005-02",
+      "term": 11,
+      "name": "苗栗縣第2選舉區",
+      "countyId": "10005",
+      "countyName": "苗栗縣",
+      "districtNumber": 2,
+      "scopeText": "頭份市、三灣鄉、南庄鄉、苗栗市、頭屋鄉、獅潭鄉、公館鄉、大湖鄉、泰安鄉、卓蘭鎮",
+      "memberId": "ly11-46790",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "頭份市",
+          "villageNames": null
+        },
+        {
+          "townName": "三灣鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "南庄鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "苗栗市",
+          "villageNames": null
+        },
+        {
+          "townName": "頭屋鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "獅潭鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "公館鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "大湖鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "泰安鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "卓蘭鎮",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10007-01",
+      "term": 11,
+      "name": "彰化縣第1選舉區",
+      "countyId": "10007",
+      "countyName": "彰化縣",
+      "districtNumber": 1,
+      "scopeText": "伸港鄉、線西鄉、和美鎮、鹿港鎮、福興鄉、秀水鄉",
+      "memberId": "ly11-46814",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "伸港鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "線西鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "和美鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "鹿港鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "福興鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "秀水鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10007-02",
+      "term": 11,
+      "name": "彰化縣第2選舉區",
+      "countyId": "10007",
+      "countyName": "彰化縣",
+      "districtNumber": 2,
+      "scopeText": "彰化市、花壇鄉、芬園鄉",
+      "memberId": "ly11-46828",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "彰化市",
+          "villageNames": null
+        },
+        {
+          "townName": "花壇鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "芬園鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10007-03",
+      "term": 11,
+      "name": "彰化縣第3選舉區",
+      "countyId": "10007",
+      "countyName": "彰化縣",
+      "districtNumber": 3,
+      "scopeText": "芳苑鄉、二林鎮、埔鹽鄉、溪湖鎮、埔心鄉、大城鄉、竹塘鄉、埤頭鄉、北斗鎮、溪州鄉",
+      "memberId": "ly11-46851",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "芳苑鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "二林鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "埔鹽鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "溪湖鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "埔心鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "大城鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "竹塘鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "埤頭鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "北斗鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "溪州鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10007-04",
+      "term": 11,
+      "name": "彰化縣第4選舉區",
+      "countyId": "10007",
+      "countyName": "彰化縣",
+      "districtNumber": 4,
+      "scopeText": "大村鄉、員林市、永靖鄉、社頭鄉、田尾鄉、田中鎮、二水鄉",
+      "memberId": "ly11-46818",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "大村鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "員林市",
+          "villageNames": null
+        },
+        {
+          "townName": "永靖鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "社頭鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "田尾鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "田中鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "二水鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10008-01",
+      "term": 11,
+      "name": "南投縣第1選舉區",
+      "countyId": "10008",
+      "countyName": "南投縣",
+      "districtNumber": 1,
+      "scopeText": "草屯鎮、國姓鄉、埔里鎮、仁愛鄉、中寮鄉、魚池鄉",
+      "memberId": "ly11-46800",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "草屯鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "國姓鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "埔里鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "仁愛鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "中寮鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "魚池鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10008-02",
+      "term": 11,
+      "name": "南投縣第2選舉區",
+      "countyId": "10008",
+      "countyName": "南投縣",
+      "districtNumber": 2,
+      "scopeText": "南投市、名間鄉、集集鎮、竹山鎮、鹿谷鄉、水里鄉、信義鄉",
+      "memberId": "ly11-46826",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "南投市",
+          "villageNames": null
+        },
+        {
+          "townName": "名間鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "集集鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "竹山鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "鹿谷鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "水里鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "信義鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10009-01",
+      "term": 11,
+      "name": "雲林縣第1選舉區",
+      "countyId": "10009",
+      "countyName": "雲林縣",
+      "districtNumber": 1,
+      "scopeText": "麥寮鄉、臺西鄉、東勢鄉、褒忠鄉、土庫鎮、虎尾鎮、四湖鄉、元長鄉、口湖鄉、水林鄉、北港鎮",
+      "memberId": "ly11-46752",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "麥寮鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "臺西鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "東勢鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "褒忠鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "土庫鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "虎尾鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "四湖鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "元長鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "口湖鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "水林鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "北港鎮",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10009-02",
+      "term": 11,
+      "name": "雲林縣第2選舉區",
+      "countyId": "10009",
+      "countyName": "雲林縣",
+      "districtNumber": 2,
+      "scopeText": "崙背鄉、二崙鄉、西螺鎮、莿桐鄉、林內鄉、斗六市、大埤鄉、斗南鎮、古坑鄉",
+      "memberId": "ly11-46841",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "崙背鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "二崙鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "西螺鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "莿桐鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "林內鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "斗六市",
+          "villageNames": null
+        },
+        {
+          "townName": "大埤鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "斗南鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "古坑鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10010-01",
+      "term": 11,
+      "name": "嘉義縣第1選舉區",
+      "countyId": "10010",
+      "countyName": "嘉義縣",
+      "districtNumber": 1,
+      "scopeText": "六腳鄉、東石鄉、朴子市、太保市、布袋鎮、義竹鄉、鹿草鄉、水上鄉",
+      "memberId": "ly11-46843",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "六腳鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "東石鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "朴子市",
+          "villageNames": null
+        },
+        {
+          "townName": "太保市",
+          "villageNames": null
+        },
+        {
+          "townName": "布袋鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "義竹鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "鹿草鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "水上鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10010-02",
+      "term": 11,
+      "name": "嘉義縣第2選舉區",
+      "countyId": "10010",
+      "countyName": "嘉義縣",
+      "districtNumber": 2,
+      "scopeText": "溪口鄉、大林鎮、梅山鄉、新港鄉、民雄鄉、竹崎鄉、中埔鄉、番路鄉、阿里山鄉、大埔鄉",
+      "memberId": "ly11-46817",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "溪口鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "大林鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "梅山鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "新港鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "民雄鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "竹崎鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "中埔鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "番路鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "阿里山鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "大埔鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10013-01",
+      "term": 11,
+      "name": "屏東縣第1選舉區",
+      "countyId": "10013",
+      "countyName": "屏東縣",
+      "districtNumber": 1,
+      "scopeText": "里港鄉、高樹鄉、三地門鄉、霧臺鄉、瑪家鄉、九如鄉、鹽埔鄉、長治鄉、麟洛鄉、屏東市、內埔鄉",
+      "memberId": "ly11-46853",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "里港鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "高樹鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "三地門鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "霧臺鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "瑪家鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "九如鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "鹽埔鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "長治鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "麟洛鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "屏東市",
+          "villageNames": null
+        },
+        {
+          "townName": "內埔鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10013-02",
+      "term": 11,
+      "name": "屏東縣第2選舉區",
+      "countyId": "10013",
+      "countyName": "屏東縣",
+      "districtNumber": 2,
+      "scopeText": "萬丹鄉、泰武鄉、竹田鄉、萬巒鄉、潮州鎮、新園鄉、崁頂鄉、南州鄉、新埤鄉、來義鄉、東港鎮、林邊鄉、佳冬鄉、枋寮鄉、春日鄉、枋山鄉、獅子鄉、牡丹鄉、車城鄉、滿州鄉、恆春鎮、琉球鄉",
+      "memberId": "ly11-46798",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "萬丹鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "泰武鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "竹田鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "萬巒鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "潮州鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "新園鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "崁頂鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "南州鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "新埤鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "來義鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "東港鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "林邊鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "佳冬鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "枋寮鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "春日鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "枋山鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "獅子鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "牡丹鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "車城鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "滿州鄉",
+          "villageNames": null
+        },
+        {
+          "townName": "恆春鎮",
+          "villageNames": null
+        },
+        {
+          "townName": "琉球鄉",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10014-01",
+      "term": 11,
+      "name": "臺東縣選舉區",
+      "countyId": "10014",
+      "countyName": "臺東縣",
+      "districtNumber": 1,
+      "scopeText": "臺東縣",
+      "memberId": "ly11-46829",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10015-01",
+      "term": 11,
+      "name": "花蓮縣選舉區",
+      "countyId": "10015",
+      "countyName": "花蓮縣",
+      "districtNumber": 1,
+      "scopeText": "花蓮縣",
+      "memberId": "ly11-46824",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10016-01",
+      "term": 11,
+      "name": "澎湖縣選舉區",
+      "countyId": "10016",
+      "countyName": "澎湖縣",
+      "districtNumber": 1,
+      "scopeText": "澎湖縣",
+      "memberId": "ly11-46834",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10017-01",
+      "term": 11,
+      "name": "基隆市選舉區",
+      "countyId": "10017",
+      "countyName": "基隆市",
+      "districtNumber": 1,
+      "scopeText": "基隆市",
+      "memberId": "ly11-46778",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10018-01",
+      "term": 11,
+      "name": "新竹市選舉區",
+      "countyId": "10018",
+      "countyName": "新竹市",
+      "districtNumber": 1,
+      "scopeText": "新竹市",
+      "memberId": "ly11-46845",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-10020-01",
+      "term": 11,
+      "name": "嘉義市選舉區",
+      "countyId": "10020",
+      "countyName": "嘉義市",
+      "districtNumber": 1,
+      "scopeText": "嘉義市",
+      "memberId": "ly11-46761",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "*",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-01",
+      "term": 11,
+      "name": "臺北市第1選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 1,
+      "scopeText": "北投區、士林區－天母里、三玉里、天福里、天祿里、天壽里、天山里、天和里、天玉里、德行里、德華里、忠誠里、蘭雅里、蘭興里等13里",
+      "memberId": "ly11-46769",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "北投區",
+          "villageNames": null
+        },
+        {
+          "townName": "士林區",
+          "villageNames": [
+            "天母里",
+            "三玉里",
+            "天福里",
+            "天祿里",
+            "天壽里",
+            "天山里",
+            "天和里",
+            "天玉里",
+            "德行里",
+            "德華里",
+            "忠誠里",
+            "蘭雅里",
+            "蘭興里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-02",
+      "term": 11,
+      "name": "臺北市第2選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 2,
+      "scopeText": "大同區、士林區－仁勇里、義信里、福林里、福德里、福志里、舊佳里、福佳里、後港里、福中里、前港里、百齡里、承德里、福華里、明勝里、福順里、富光里、葫蘆里、葫東里、社子里、社新里、社園里、永倫里、福安里、富洲里、岩山里、名山里、聖山里、芝山里、東山里、永福里、公館里、新安里、陽明里、菁山里、平等里、溪山里、翠山里、臨溪里等38里",
+      "memberId": "ly11-46758",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "大同區",
+          "villageNames": null
+        },
+        {
+          "townName": "士林區",
+          "villageNames": [
+            "仁勇里",
+            "義信里",
+            "福林里",
+            "福德里",
+            "福志里",
+            "舊佳里",
+            "福佳里",
+            "後港里",
+            "福中里",
+            "前港里",
+            "百齡里",
+            "承德里",
+            "福華里",
+            "明勝里",
+            "福順里",
+            "富光里",
+            "葫蘆里",
+            "葫東里",
+            "社子里",
+            "社新里",
+            "社園里",
+            "永倫里",
+            "福安里",
+            "富洲里",
+            "岩山里",
+            "名山里",
+            "聖山里",
+            "芝山里",
+            "東山里",
+            "永福里",
+            "公館里",
+            "新安里",
+            "陽明里",
+            "菁山里",
+            "平等里",
+            "溪山里",
+            "翠山里",
+            "臨溪里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-03",
+      "term": 11,
+      "name": "臺北市第3選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 3,
+      "scopeText": "中山區、松山區－精忠里、東光里、龍田里、東昌里、東勢里、中華里、民有里、民福里、松基里、莊敬里、東榮里、新益里、新東里、介壽里、三民里、富錦里、富泰里、自強里、鵬程里、安平里等20里",
+      "memberId": "ly11-46762",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "中山區",
+          "villageNames": null
+        },
+        {
+          "townName": "松山區",
+          "villageNames": [
+            "精忠里",
+            "東光里",
+            "龍田里",
+            "東昌里",
+            "東勢里",
+            "中華里",
+            "民有里",
+            "民福里",
+            "松基里",
+            "莊敬里",
+            "東榮里",
+            "新益里",
+            "新東里",
+            "介壽里",
+            "三民里",
+            "富錦里",
+            "富泰里",
+            "自強里",
+            "鵬程里",
+            "安平里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-04",
+      "term": 11,
+      "name": "臺北市第4選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 4,
+      "scopeText": "內湖區、南港區",
+      "memberId": "ly11-46773",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "內湖區",
+          "villageNames": null
+        },
+        {
+          "townName": "南港區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-05",
+      "term": 11,
+      "name": "臺北市第5選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 5,
+      "scopeText": "萬華區、中正區－南門里、新營里、龍福里、南福里、愛國里、廈安里、忠勤里、永功里、永昌里、龍興里、龍光里、黎明里、光復里、建國里、東門里、幸福里、梅花里、幸市里、文北里、文祥里、三愛里等21里",
+      "memberId": "ly11-46766",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "萬華區",
+          "villageNames": null
+        },
+        {
+          "townName": "中正區",
+          "villageNames": [
+            "南門里",
+            "新營里",
+            "龍福里",
+            "南福里",
+            "愛國里",
+            "廈安里",
+            "忠勤里",
+            "永功里",
+            "永昌里",
+            "龍興里",
+            "龍光里",
+            "黎明里",
+            "光復里",
+            "建國里",
+            "東門里",
+            "幸福里",
+            "梅花里",
+            "幸市里",
+            "文北里",
+            "文祥里",
+            "三愛里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-06",
+      "term": 11,
+      "name": "臺北市第6選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 6,
+      "scopeText": "大安區",
+      "memberId": "ly11-46859",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "大安區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-07",
+      "term": 11,
+      "name": "臺北市第7選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 7,
+      "scopeText": "信義區、松山區－慈祐里、吉祥里、新聚里、復盛里、中正里、中崙里、美仁里、吉仁里、敦化里、復源里、復建里、復勢里、福成里等13里",
+      "memberId": "ly11-46796",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "信義區",
+          "villageNames": null
+        },
+        {
+          "townName": "松山區",
+          "villageNames": [
+            "慈祐里",
+            "吉祥里",
+            "新聚里",
+            "復盛里",
+            "中正里",
+            "中崙里",
+            "美仁里",
+            "吉仁里",
+            "敦化里",
+            "復源里",
+            "復建里",
+            "復勢里",
+            "福成里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-63000-08",
+      "term": 11,
+      "name": "臺北市第8選舉區",
+      "countyId": "63000",
+      "countyName": "臺北市",
+      "districtNumber": 8,
+      "scopeText": "文山區、中正區－水源里、富水里、文盛里、林興里、河堤里、螢圃里、網溪里、板溪里、頂東里、螢雪里等10里",
+      "memberId": "ly11-46848",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "文山區",
+          "villageNames": null
+        },
+        {
+          "townName": "中正區",
+          "villageNames": [
+            "水源里",
+            "富水里",
+            "文盛里",
+            "林興里",
+            "河堤里",
+            "螢圃里",
+            "網溪里",
+            "板溪里",
+            "頂東里",
+            "螢雪里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-01",
+      "term": 11,
+      "name": "高雄市第1選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 1,
+      "scopeText": "桃源區、那瑪夏區、甲仙區、六龜區、杉林區、內門區、旗山區、美濃區、茂林區、阿蓮區、田寮區、燕巢區、大樹區、大社區",
+      "memberId": "ly11-46791",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "桃源區",
+          "villageNames": null
+        },
+        {
+          "townName": "那瑪夏區",
+          "villageNames": null
+        },
+        {
+          "townName": "甲仙區",
+          "villageNames": null
+        },
+        {
+          "townName": "六龜區",
+          "villageNames": null
+        },
+        {
+          "townName": "杉林區",
+          "villageNames": null
+        },
+        {
+          "townName": "內門區",
+          "villageNames": null
+        },
+        {
+          "townName": "旗山區",
+          "villageNames": null
+        },
+        {
+          "townName": "美濃區",
+          "villageNames": null
+        },
+        {
+          "townName": "茂林區",
+          "villageNames": null
+        },
+        {
+          "townName": "阿蓮區",
+          "villageNames": null
+        },
+        {
+          "townName": "田寮區",
+          "villageNames": null
+        },
+        {
+          "townName": "燕巢區",
+          "villageNames": null
+        },
+        {
+          "townName": "大樹區",
+          "villageNames": null
+        },
+        {
+          "townName": "大社區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-02",
+      "term": 11,
+      "name": "高雄市第2選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 2,
+      "scopeText": "茄萣區、湖內區、路竹區、永安區、岡山區、彌陀區、梓官區、橋頭區",
+      "memberId": "ly11-46788",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "茄萣區",
+          "villageNames": null
+        },
+        {
+          "townName": "湖內區",
+          "villageNames": null
+        },
+        {
+          "townName": "路竹區",
+          "villageNames": null
+        },
+        {
+          "townName": "永安區",
+          "villageNames": null
+        },
+        {
+          "townName": "岡山區",
+          "villageNames": null
+        },
+        {
+          "townName": "彌陀區",
+          "villageNames": null
+        },
+        {
+          "townName": "梓官區",
+          "villageNames": null
+        },
+        {
+          "townName": "橋頭區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-03",
+      "term": 11,
+      "name": "高雄市第3選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 3,
+      "scopeText": "楠梓區、左營區",
+      "memberId": "ly11-46774",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "楠梓區",
+          "villageNames": null
+        },
+        {
+          "townName": "左營區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-04",
+      "term": 11,
+      "name": "高雄市第4選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 4,
+      "scopeText": "仁武區、鳥松區、大寮區、林園區",
+      "memberId": "ly11-46780",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "仁武區",
+          "villageNames": null
+        },
+        {
+          "townName": "鳥松區",
+          "villageNames": null
+        },
+        {
+          "townName": "大寮區",
+          "villageNames": null
+        },
+        {
+          "townName": "林園區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-05",
+      "term": 11,
+      "name": "高雄市第5選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 5,
+      "scopeText": "三民區、苓雅區－安祥里、五權里、民主里、五福里、正心里、正道里、文昌里、建軍里等8里",
+      "memberId": "ly11-46772",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "三民區",
+          "villageNames": null
+        },
+        {
+          "townName": "苓雅區",
+          "villageNames": [
+            "安祥里",
+            "五權里",
+            "民主里",
+            "五福里",
+            "正心里",
+            "正道里",
+            "文昌里",
+            "建軍里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-06",
+      "term": 11,
+      "name": "高雄市第6選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 6,
+      "scopeText": "鼓山區、鹽埕區、前金區、新興區、苓雅區－博仁里、苓洲里、苓昇里、苓中里、苓雅里、苓東里、城北里、城西里、城東里、意誠里、鼓中里、田西里、人和里、仁政里、廣澤里、美田里、華堂里、日中里、普照里、和煦里、晴朗里、普天里、林富里、林圍里、林安里、光華里、林興里、林華里、林西里、林中里、林泉里、林南里、中正里、尚義里、同慶里、凱旋里、奏捷里、福壽里、福南里、林德里、林貴里、林榮里、英明里、林靖里、朝陽里、福隆里、福祥里、福海里、福康里、福人里、福地里、福居里、福東里、福西里、永康里、正文里、正言里、正大里、正義里、正仁里、衛武里等61里",
+      "memberId": "ly11-46833",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "鼓山區",
+          "villageNames": null
+        },
+        {
+          "townName": "鹽埕區",
+          "villageNames": null
+        },
+        {
+          "townName": "前金區",
+          "villageNames": null
+        },
+        {
+          "townName": "新興區",
+          "villageNames": null
+        },
+        {
+          "townName": "苓雅區",
+          "villageNames": [
+            "博仁里",
+            "苓洲里",
+            "苓昇里",
+            "苓中里",
+            "苓雅里",
+            "苓東里",
+            "城北里",
+            "城西里",
+            "城東里",
+            "意誠里",
+            "鼓中里",
+            "田西里",
+            "人和里",
+            "仁政里",
+            "廣澤里",
+            "美田里",
+            "華堂里",
+            "日中里",
+            "普照里",
+            "和煦里",
+            "晴朗里",
+            "普天里",
+            "林富里",
+            "林圍里",
+            "林安里",
+            "光華里",
+            "林興里",
+            "林華里",
+            "林西里",
+            "林中里",
+            "林泉里",
+            "林南里",
+            "中正里",
+            "尚義里",
+            "同慶里",
+            "凱旋里",
+            "奏捷里",
+            "福壽里",
+            "福南里",
+            "林德里",
+            "林貴里",
+            "林榮里",
+            "英明里",
+            "林靖里",
+            "朝陽里",
+            "福隆里",
+            "福祥里",
+            "福海里",
+            "福康里",
+            "福人里",
+            "福地里",
+            "福居里",
+            "福東里",
+            "福西里",
+            "永康里",
+            "正文里",
+            "正言里",
+            "正大里",
+            "正義里",
+            "正仁里",
+            "衛武里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-07",
+      "term": 11,
+      "name": "高雄市第7選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 7,
+      "scopeText": "鳳山區",
+      "memberId": "ly11-46809",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "鳳山區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-64000-08",
+      "term": 11,
+      "name": "高雄市第8選舉區",
+      "countyId": "64000",
+      "countyName": "高雄市",
+      "districtNumber": 8,
+      "scopeText": "旗津區、前鎮區、小港區",
+      "memberId": "ly11-46850",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "旗津區",
+          "villageNames": null
+        },
+        {
+          "townName": "前鎮區",
+          "villageNames": null
+        },
+        {
+          "townName": "小港區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-01",
+      "term": 11,
+      "name": "新北市第1選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 1,
+      "scopeText": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+      "memberId": "ly11-46794",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "石門區",
+          "villageNames": null
+        },
+        {
+          "townName": "三芝區",
+          "villageNames": null
+        },
+        {
+          "townName": "淡水區",
+          "villageNames": null
+        },
+        {
+          "townName": "八里區",
+          "villageNames": null
+        },
+        {
+          "townName": "林口區",
+          "villageNames": null
+        },
+        {
+          "townName": "泰山區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-02",
+      "term": 11,
+      "name": "新北市第2選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 2,
+      "scopeText": "五股區、蘆洲區、三重區－富貴里、碧華里、仁華里、永清里、永順里、富福里、慈化里、慈惠里、慈愛里、永福里、慈生里、慈福里、慈祐里、富華里、五華里、五福里等16里",
+      "memberId": "ly11-46785",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "五股區",
+          "villageNames": null
+        },
+        {
+          "townName": "蘆洲區",
+          "villageNames": null
+        },
+        {
+          "townName": "三重區",
+          "villageNames": [
+            "富貴里",
+            "碧華里",
+            "仁華里",
+            "永清里",
+            "永順里",
+            "富福里",
+            "慈化里",
+            "慈惠里",
+            "慈愛里",
+            "永福里",
+            "慈生里",
+            "慈福里",
+            "慈祐里",
+            "富華里",
+            "五華里",
+            "五福里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-03",
+      "term": 11,
+      "name": "新北市第3選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 3,
+      "scopeText": "三重區－二重里、三民里、三安里、大同里、大安里、大有里、大園里、大德里、中山里、中央里、中正里、中民里、中興里、五谷里、五常里、五順里、仁忠里、仁義里、仁德里、介壽里、六合里、六福里、文化里、平和里、正安里、正義里、正德里、民生里、永吉里、永安里、永春里、永盛里、永發里、永德里、永興里、永豐里、永煇里、田中里、田心里、田安里、立德里、光正里、光田里、光明里、光華里、光陽里、光榮里、光輝里、吉利里、同安里、同慶里、安慶里、成功里、自強里、秀江里、谷王里、尚德里、幸福里、忠孝里、承德里、長元里、長生里、長安里、長江里、長泰里、長福里、信安里、厚德里、奕壽里、重明里、重陽里、重新里、國隆里、培德里、崇德里、清和里、頂崁里、博愛里、菜寮里、開元里、順德里、溪美里、瑞德里、萬壽里、過田里、福民里、福田里、福安里、福利里、福星里、福祉里、福隆里、福德里、福樂里、維德里、德厚里、錦田里、錦安里、錦江里、錦通里、龍門里、龍濱里、雙園里等103里",
+      "memberId": "ly11-46863",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "三重區",
+          "villageNames": [
+            "二重里",
+            "三民里",
+            "三安里",
+            "大同里",
+            "大安里",
+            "大有里",
+            "大園里",
+            "大德里",
+            "中山里",
+            "中央里",
+            "中正里",
+            "中民里",
+            "中興里",
+            "五谷里",
+            "五常里",
+            "五順里",
+            "仁忠里",
+            "仁義里",
+            "仁德里",
+            "介壽里",
+            "六合里",
+            "六福里",
+            "文化里",
+            "平和里",
+            "正安里",
+            "正義里",
+            "正德里",
+            "民生里",
+            "永吉里",
+            "永安里",
+            "永春里",
+            "永盛里",
+            "永發里",
+            "永德里",
+            "永興里",
+            "永豐里",
+            "永煇里",
+            "田中里",
+            "田心里",
+            "田安里",
+            "立德里",
+            "光正里",
+            "光田里",
+            "光明里",
+            "光華里",
+            "光陽里",
+            "光榮里",
+            "光輝里",
+            "吉利里",
+            "同安里",
+            "同慶里",
+            "安慶里",
+            "成功里",
+            "自強里",
+            "秀江里",
+            "谷王里",
+            "尚德里",
+            "幸福里",
+            "忠孝里",
+            "承德里",
+            "長元里",
+            "長生里",
+            "長安里",
+            "長江里",
+            "長泰里",
+            "長福里",
+            "信安里",
+            "厚德里",
+            "奕壽里",
+            "重明里",
+            "重陽里",
+            "重新里",
+            "國隆里",
+            "培德里",
+            "崇德里",
+            "清和里",
+            "頂崁里",
+            "博愛里",
+            "菜寮里",
+            "開元里",
+            "順德里",
+            "溪美里",
+            "瑞德里",
+            "萬壽里",
+            "過田里",
+            "福民里",
+            "福田里",
+            "福安里",
+            "福利里",
+            "福星里",
+            "福祉里",
+            "福隆里",
+            "福德里",
+            "福樂里",
+            "維德里",
+            "德厚里",
+            "錦田里",
+            "錦安里",
+            "錦江里",
+            "錦通里",
+            "龍門里",
+            "龍濱里",
+            "雙園里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-04",
+      "term": 11,
+      "name": "新北市第4選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 4,
+      "scopeText": "新莊區－中平里、中全里、中宏里、中和里、中信里、中美里、中原里、中泰里、中港里、中華里、中隆里、中誠里、丹鳳里、仁愛里、仁義里、化成里、文明里、文聖里、文德里、文衡里、民全里、立人里、立功里、立廷里、立志里、立言里、立泰里、立基里、立德里、昌明里、全安里、全泰里、合鳳里、自立里、自信里、自強里、和平里、幸福里、忠孝里、昌平里、昌信里、昌隆里、信義里、建安里、建福里、後港里、後德里、思源里、思賢里、恆安里、泰豐里、海山里、國泰里、祥鳳里、富民里、富國里、萬安里、裕民里、榮和里、福基里、福興里、福營里、興漢里、頭前里、龍安里、龍福里、龍鳳里、營盤里、豐年里、雙鳳里、瓊林里、四維里、成德里、八德里、南港里等75里",
+      "memberId": "ly11-46768",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "新莊區",
+          "villageNames": [
+            "中平里",
+            "中全里",
+            "中宏里",
+            "中和里",
+            "中信里",
+            "中美里",
+            "中原里",
+            "中泰里",
+            "中港里",
+            "中華里",
+            "中隆里",
+            "中誠里",
+            "丹鳳里",
+            "仁愛里",
+            "仁義里",
+            "化成里",
+            "文明里",
+            "文聖里",
+            "文德里",
+            "文衡里",
+            "民全里",
+            "立人里",
+            "立功里",
+            "立廷里",
+            "立志里",
+            "立言里",
+            "立泰里",
+            "立基里",
+            "立德里",
+            "昌明里",
+            "全安里",
+            "全泰里",
+            "合鳳里",
+            "自立里",
+            "自信里",
+            "自強里",
+            "和平里",
+            "幸福里",
+            "忠孝里",
+            "昌平里",
+            "昌信里",
+            "昌隆里",
+            "信義里",
+            "建安里",
+            "建福里",
+            "後港里",
+            "後德里",
+            "思源里",
+            "思賢里",
+            "恆安里",
+            "泰豐里",
+            "海山里",
+            "國泰里",
+            "祥鳳里",
+            "富民里",
+            "富國里",
+            "萬安里",
+            "裕民里",
+            "榮和里",
+            "福基里",
+            "福興里",
+            "福營里",
+            "興漢里",
+            "頭前里",
+            "龍安里",
+            "龍福里",
+            "龍鳳里",
+            "營盤里",
+            "豐年里",
+            "雙鳳里",
+            "瓊林里",
+            "四維里",
+            "成德里",
+            "八德里",
+            "南港里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-05",
+      "term": 11,
+      "name": "新北市第5選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 5,
+      "scopeText": "樹林區、鶯歌區、新莊區－民安里、民有里、民本里、光明里、光正里、光榮里、光和里、光華里、西盛里等9里",
+      "memberId": "ly11-46860",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "樹林區",
+          "villageNames": null
+        },
+        {
+          "townName": "鶯歌區",
+          "villageNames": null
+        },
+        {
+          "townName": "新莊區",
+          "villageNames": [
+            "民安里",
+            "民有里",
+            "民本里",
+            "光明里",
+            "光正里",
+            "光榮里",
+            "光和里",
+            "光華里",
+            "西盛里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-06",
+      "term": 11,
+      "name": "新北市第6選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 6,
+      "scopeText": "板橋區－中正里、仁翠里、介壽里、公舘里、文化里、文聖里、文翠里、文德里、民安里、民權里、永安里、光華里、光榮里、吉翠里、江翠里、百壽里、自立里、自強里、宏翠里、赤松里、幸福里、忠誠里、忠翠里、明翠里、松柏里、松翠里、社後里、金華里、青翠里、建國里、柏翠里、流芳里、香社里、香雅里、留侯里、純翠里、國光里、埤墘里、莒光里、莊敬里、嵐翠里、朝陽里、港尾里、港嘴里、港德里、華江里、華翠里、陽明里、黃石里、新民里、新生里、新埔里、新海里、新翠里、新興里、漢生里、滿翠里、福翠里、德翠里、龍翠里、聯翠里、懷翠里、挹秀里、湳興里、溪頭里等65里",
+      "memberId": "ly11-46802",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "板橋區",
+          "villageNames": [
+            "中正里",
+            "仁翠里",
+            "介壽里",
+            "公舘里",
+            "文化里",
+            "文聖里",
+            "文翠里",
+            "文德里",
+            "民安里",
+            "民權里",
+            "永安里",
+            "光華里",
+            "光榮里",
+            "吉翠里",
+            "江翠里",
+            "百壽里",
+            "自立里",
+            "自強里",
+            "宏翠里",
+            "赤松里",
+            "幸福里",
+            "忠誠里",
+            "忠翠里",
+            "明翠里",
+            "松柏里",
+            "松翠里",
+            "社後里",
+            "金華里",
+            "青翠里",
+            "建國里",
+            "柏翠里",
+            "流芳里",
+            "香社里",
+            "香雅里",
+            "留侯里",
+            "純翠里",
+            "國光里",
+            "埤墘里",
+            "莒光里",
+            "莊敬里",
+            "嵐翠里",
+            "朝陽里",
+            "港尾里",
+            "港嘴里",
+            "港德里",
+            "華江里",
+            "華翠里",
+            "陽明里",
+            "黃石里",
+            "新民里",
+            "新生里",
+            "新埔里",
+            "新海里",
+            "新翠里",
+            "新興里",
+            "漢生里",
+            "滿翠里",
+            "福翠里",
+            "德翠里",
+            "龍翠里",
+            "聯翠里",
+            "懷翠里",
+            "挹秀里",
+            "湳興里",
+            "溪頭里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-07",
+      "term": 11,
+      "name": "新北市第7選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 7,
+      "scopeText": "板橋區－九如里、大安里、大豐里、大觀里、中山里、五權里、仁愛里、正泰里、民生里、民族里、玉光里、光仁里、光復里、成和里、西安里、和平里、居仁里、東丘里、東安里、長安里、長壽里、信義里、後埔里、重慶里、香丘里、埔墘里、振興里、振義里、海山里、浮洲里、國泰里、堂春里、崑崙里、深丘里、富貴里、復興里、景星里、華中里、華東里、華貴里、華福里、華德里、華興里、鄉雲里、溪北里、溪洲里、溪福里、僑中里、福丘里、福安里、福星里、福祿里、福壽里、福德里、聚安里、廣新里、廣福里、廣德里、龍安里、雙玉里、歡園里等61里",
+      "memberId": "ly11-46837",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "板橋區",
+          "villageNames": [
+            "九如里",
+            "大安里",
+            "大豐里",
+            "大觀里",
+            "中山里",
+            "五權里",
+            "仁愛里",
+            "正泰里",
+            "民生里",
+            "民族里",
+            "玉光里",
+            "光仁里",
+            "光復里",
+            "成和里",
+            "西安里",
+            "和平里",
+            "居仁里",
+            "東丘里",
+            "東安里",
+            "長安里",
+            "長壽里",
+            "信義里",
+            "後埔里",
+            "重慶里",
+            "香丘里",
+            "埔墘里",
+            "振興里",
+            "振義里",
+            "海山里",
+            "浮洲里",
+            "國泰里",
+            "堂春里",
+            "崑崙里",
+            "深丘里",
+            "富貴里",
+            "復興里",
+            "景星里",
+            "華中里",
+            "華東里",
+            "華貴里",
+            "華福里",
+            "華德里",
+            "華興里",
+            "鄉雲里",
+            "溪北里",
+            "溪洲里",
+            "溪福里",
+            "僑中里",
+            "福丘里",
+            "福安里",
+            "福星里",
+            "福祿里",
+            "福壽里",
+            "福德里",
+            "聚安里",
+            "廣新里",
+            "廣福里",
+            "廣德里",
+            "龍安里",
+            "雙玉里",
+            "歡園里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-08",
+      "term": 11,
+      "name": "新北市第8選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 8,
+      "scopeText": "中和區－力行里、中山里、中正里、中原里、中興里、仁和里、內南里、文元里、外南里、平河里、正行里、正南里、民生里、民安里、民有里、民享里、瓦磘里、吉興里、安穗里、灰磘里、自強里、佳和里、和興里、忠孝里、明德里、明穗里、枋寮里、東南里、信和里、冠穗里、南山里、建和里、員山里、員富里、國光里、國華里、崇南里、清穗里、連和里、連城里、頂南里、復興里、景文里、景平里、景本里、景安里、景南里、景新里、景福里、華南里、華新里、新南里、瑞穗里、嘉新里、嘉慶里、嘉穗里、壽南里、壽德里、漳和里、碧河里、福和里、福南里、福美里、福真里、福祥里、福善里、廟美里、德行里、德穗里、橫路里、積穗里、興南里、錦中里、錦和里、錦昌里、錦盛里等76里",
+      "memberId": "ly11-46804",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "中和區",
+          "villageNames": [
+            "力行里",
+            "中山里",
+            "中正里",
+            "中原里",
+            "中興里",
+            "仁和里",
+            "內南里",
+            "文元里",
+            "外南里",
+            "平河里",
+            "正行里",
+            "正南里",
+            "民生里",
+            "民安里",
+            "民有里",
+            "民享里",
+            "瓦磘里",
+            "吉興里",
+            "安穗里",
+            "灰磘里",
+            "自強里",
+            "佳和里",
+            "和興里",
+            "忠孝里",
+            "明德里",
+            "明穗里",
+            "枋寮里",
+            "東南里",
+            "信和里",
+            "冠穗里",
+            "南山里",
+            "建和里",
+            "員山里",
+            "員富里",
+            "國光里",
+            "國華里",
+            "崇南里",
+            "清穗里",
+            "連和里",
+            "連城里",
+            "頂南里",
+            "復興里",
+            "景文里",
+            "景平里",
+            "景本里",
+            "景安里",
+            "景南里",
+            "景新里",
+            "景福里",
+            "華南里",
+            "華新里",
+            "新南里",
+            "瑞穗里",
+            "嘉新里",
+            "嘉慶里",
+            "嘉穗里",
+            "壽南里",
+            "壽德里",
+            "漳和里",
+            "碧河里",
+            "福和里",
+            "福南里",
+            "福美里",
+            "福真里",
+            "福祥里",
+            "福善里",
+            "廟美里",
+            "德行里",
+            "德穗里",
+            "橫路里",
+            "積穗里",
+            "興南里",
+            "錦中里",
+            "錦和里",
+            "錦昌里",
+            "錦盛里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-09",
+      "term": 11,
+      "name": "新北市第9選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 9,
+      "scopeText": "永和區、中和區－泰安里、安平里、中安里、安樂里、宜安里、安順里、安和里、秀明里、秀仁里、秀山里、秀福里、秀義里、秀景里、秀水里、秀士里、秀成里、秀峰里等17里",
+      "memberId": "ly11-46787",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "永和區",
+          "villageNames": null
+        },
+        {
+          "townName": "中和區",
+          "villageNames": [
+            "泰安里",
+            "安平里",
+            "中安里",
+            "安樂里",
+            "宜安里",
+            "安順里",
+            "安和里",
+            "秀明里",
+            "秀仁里",
+            "秀山里",
+            "秀福里",
+            "秀義里",
+            "秀景里",
+            "秀水里",
+            "秀士里",
+            "秀成里",
+            "秀峰里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-10",
+      "term": 11,
+      "name": "新北市第10選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 10,
+      "scopeText": "土城區、三峽區",
+      "memberId": "ly11-46771",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "土城區",
+          "villageNames": null
+        },
+        {
+          "townName": "三峽區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-11",
+      "term": 11,
+      "name": "新北市第11選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 11,
+      "scopeText": "新店區、深坑區、石碇區、坪林區、烏來區",
+      "memberId": "ly11-46857",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "新店區",
+          "villageNames": null
+        },
+        {
+          "townName": "深坑區",
+          "villageNames": null
+        },
+        {
+          "townName": "石碇區",
+          "villageNames": null
+        },
+        {
+          "townName": "坪林區",
+          "villageNames": null
+        },
+        {
+          "townName": "烏來區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-65000-12",
+      "term": 11,
+      "name": "新北市第12選舉區",
+      "countyId": "65000",
+      "countyName": "新北市",
+      "districtNumber": 12,
+      "scopeText": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+      "memberId": "ly11-46839",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "金山區",
+          "villageNames": null
+        },
+        {
+          "townName": "萬里區",
+          "villageNames": null
+        },
+        {
+          "townName": "汐止區",
+          "villageNames": null
+        },
+        {
+          "townName": "平溪區",
+          "villageNames": null
+        },
+        {
+          "townName": "瑞芳區",
+          "villageNames": null
+        },
+        {
+          "townName": "雙溪區",
+          "villageNames": null
+        },
+        {
+          "townName": "貢寮區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-01",
+      "term": 11,
+      "name": "臺中市第1選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 1,
+      "scopeText": "大甲區、大安區、外埔區、清水區、梧棲區",
+      "memberId": "ly11-46842",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "大甲區",
+          "villageNames": null
+        },
+        {
+          "townName": "大安區",
+          "villageNames": null
+        },
+        {
+          "townName": "外埔區",
+          "villageNames": null
+        },
+        {
+          "townName": "清水區",
+          "villageNames": null
+        },
+        {
+          "townName": "梧棲區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-02",
+      "term": 11,
+      "name": "臺中市第2選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 2,
+      "scopeText": "沙鹿區、龍井區、大肚區、烏日區、霧峰區",
+      "memberId": "ly11-46855",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "沙鹿區",
+          "villageNames": null
+        },
+        {
+          "townName": "龍井區",
+          "villageNames": null
+        },
+        {
+          "townName": "大肚區",
+          "villageNames": null
+        },
+        {
+          "townName": "烏日區",
+          "villageNames": null
+        },
+        {
+          "townName": "霧峰區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-03",
+      "term": 11,
+      "name": "臺中市第3選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 3,
+      "scopeText": "后里區、神岡區、大雅區、潭子區",
+      "memberId": "ly11-46835",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "后里區",
+          "villageNames": null
+        },
+        {
+          "townName": "神岡區",
+          "villageNames": null
+        },
+        {
+          "townName": "大雅區",
+          "villageNames": null
+        },
+        {
+          "townName": "潭子區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-04",
+      "term": 11,
+      "name": "臺中市第4選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 4,
+      "scopeText": "西屯區、南屯區",
+      "memberId": "ly11-46840",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "西屯區",
+          "villageNames": null
+        },
+        {
+          "townName": "南屯區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-05",
+      "term": 11,
+      "name": "臺中市第5選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 5,
+      "scopeText": "北屯區、北區",
+      "memberId": "ly11-46831",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "北屯區",
+          "villageNames": null
+        },
+        {
+          "townName": "北區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-06",
+      "term": 11,
+      "name": "臺中市第6選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 6,
+      "scopeText": "西區、中區、東區、南區",
+      "memberId": "ly11-46856",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "西區",
+          "villageNames": null
+        },
+        {
+          "townName": "中區",
+          "villageNames": null
+        },
+        {
+          "townName": "東區",
+          "villageNames": null
+        },
+        {
+          "townName": "南區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-07",
+      "term": 11,
+      "name": "臺中市第7選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 7,
+      "scopeText": "太平區、大里區",
+      "memberId": "ly11-46765",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "太平區",
+          "villageNames": null
+        },
+        {
+          "townName": "大里區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-66000-08",
+      "term": 11,
+      "name": "臺中市第8選舉區",
+      "countyId": "66000",
+      "countyName": "臺中市",
+      "districtNumber": 8,
+      "scopeText": "豐原區、石岡區、新社區、東勢區、和平區",
+      "memberId": "ly11-46764",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "豐原區",
+          "villageNames": null
+        },
+        {
+          "townName": "石岡區",
+          "villageNames": null
+        },
+        {
+          "townName": "新社區",
+          "villageNames": null
+        },
+        {
+          "townName": "東勢區",
+          "villageNames": null
+        },
+        {
+          "townName": "和平區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-67000-01",
+      "term": 11,
+      "name": "臺南市第1選舉區",
+      "countyId": "67000",
+      "countyName": "臺南市",
+      "districtNumber": 1,
+      "scopeText": "後壁區、白河區、北門區、學甲區、鹽水區、新營區、柳營區、東山區、將軍區、下營區、六甲區",
+      "memberId": "ly11-46849",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "後壁區",
+          "villageNames": null
+        },
+        {
+          "townName": "白河區",
+          "villageNames": null
+        },
+        {
+          "townName": "北門區",
+          "villageNames": null
+        },
+        {
+          "townName": "學甲區",
+          "villageNames": null
+        },
+        {
+          "townName": "鹽水區",
+          "villageNames": null
+        },
+        {
+          "townName": "新營區",
+          "villageNames": null
+        },
+        {
+          "townName": "柳營區",
+          "villageNames": null
+        },
+        {
+          "townName": "東山區",
+          "villageNames": null
+        },
+        {
+          "townName": "將軍區",
+          "villageNames": null
+        },
+        {
+          "townName": "下營區",
+          "villageNames": null
+        },
+        {
+          "townName": "六甲區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-67000-02",
+      "term": 11,
+      "name": "臺南市第2選舉區",
+      "countyId": "67000",
+      "countyName": "臺南市",
+      "districtNumber": 2,
+      "scopeText": "七股區、佳里區、麻豆區、官田區、善化區、大內區、玉井區、楠西區、西港區、安定區、山上區、左鎮區、南化區",
+      "memberId": "ly11-46811",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "七股區",
+          "villageNames": null
+        },
+        {
+          "townName": "佳里區",
+          "villageNames": null
+        },
+        {
+          "townName": "麻豆區",
+          "villageNames": null
+        },
+        {
+          "townName": "官田區",
+          "villageNames": null
+        },
+        {
+          "townName": "善化區",
+          "villageNames": null
+        },
+        {
+          "townName": "大內區",
+          "villageNames": null
+        },
+        {
+          "townName": "玉井區",
+          "villageNames": null
+        },
+        {
+          "townName": "楠西區",
+          "villageNames": null
+        },
+        {
+          "townName": "西港區",
+          "villageNames": null
+        },
+        {
+          "townName": "安定區",
+          "villageNames": null
+        },
+        {
+          "townName": "山上區",
+          "villageNames": null
+        },
+        {
+          "townName": "左鎮區",
+          "villageNames": null
+        },
+        {
+          "townName": "南化區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-67000-03",
+      "term": 11,
+      "name": "臺南市第3選舉區",
+      "countyId": "67000",
+      "countyName": "臺南市",
+      "districtNumber": 3,
+      "scopeText": "安南區、北區",
+      "memberId": "ly11-46815",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "安南區",
+          "villageNames": null
+        },
+        {
+          "townName": "北區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-67000-04",
+      "term": 11,
+      "name": "臺南市第4選舉區",
+      "countyId": "67000",
+      "countyName": "臺南市",
+      "districtNumber": 4,
+      "scopeText": "新市區、永康區、新化區",
+      "memberId": "ly11-46779",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "新市區",
+          "villageNames": null
+        },
+        {
+          "townName": "永康區",
+          "villageNames": null
+        },
+        {
+          "townName": "新化區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-67000-05",
+      "term": 11,
+      "name": "臺南市第5選舉區",
+      "countyId": "67000",
+      "countyName": "臺南市",
+      "districtNumber": 5,
+      "scopeText": "安平區、中西區、南區、東  區－成大里、大學里、圍下里、東門里、中西里、東安里、大同里、泉南里、龍山里、路東里、忠孝里、德光里、崇信里、大德里、崇學里、大福里等16里",
+      "memberId": "ly11-46781",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "安平區",
+          "villageNames": null
+        },
+        {
+          "townName": "中西區",
+          "villageNames": null
+        },
+        {
+          "townName": "南區",
+          "villageNames": null
+        },
+        {
+          "townName": "東區",
+          "villageNames": [
+            "成大里",
+            "大學里",
+            "圍下里",
+            "東門里",
+            "中西里",
+            "東安里",
+            "大同里",
+            "泉南里",
+            "龍山里",
+            "路東里",
+            "忠孝里",
+            "德光里",
+            "崇信里",
+            "大德里",
+            "崇學里",
+            "大福里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-67000-06",
+      "term": 11,
+      "name": "臺南市第6選舉區",
+      "countyId": "67000",
+      "countyName": "臺南市",
+      "districtNumber": 6,
+      "scopeText": "仁德區、歸仁區、關廟區、龍崎區、東  區－小東里、莊敬里、後甲里、東明里、東光里、崇誨里、裕農里、富強里、東聖里、南聖里、衛國里、新東里、富裕里、關聖里、自強里、文聖里、復興里、裕聖里、虎尾里、崇善里、和平里、崇德里、崇明里、崇成里、崇文里、仁和里、德高里、東智里、大智里等29里",
+      "memberId": "ly11-46760",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "仁德區",
+          "villageNames": null
+        },
+        {
+          "townName": "歸仁區",
+          "villageNames": null
+        },
+        {
+          "townName": "關廟區",
+          "villageNames": null
+        },
+        {
+          "townName": "龍崎區",
+          "villageNames": null
+        },
+        {
+          "townName": "東區",
+          "villageNames": [
+            "小東里",
+            "莊敬里",
+            "後甲里",
+            "東明里",
+            "東光里",
+            "崇誨里",
+            "裕農里",
+            "富強里",
+            "東聖里",
+            "南聖里",
+            "衛國里",
+            "新東里",
+            "富裕里",
+            "關聖里",
+            "自強里",
+            "文聖里",
+            "復興里",
+            "裕聖里",
+            "虎尾里",
+            "崇善里",
+            "和平里",
+            "崇德里",
+            "崇明里",
+            "崇成里",
+            "崇文里",
+            "仁和里",
+            "德高里",
+            "東智里",
+            "大智里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-68000-01",
+      "term": 11,
+      "name": "桃園市第1選舉區",
+      "countyId": "68000",
+      "countyName": "桃園市",
+      "districtNumber": 1,
+      "scopeText": "蘆竹區、龜山區、桃園區－汴洲里、春日里、會稽里、檜樂里、大有里、寶山里、寶民里、大興里、大業里、忠義里、福元里、三元里、青溪里、三民里、萬壽里等15里",
+      "memberId": "ly11-46757",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "蘆竹區",
+          "villageNames": null
+        },
+        {
+          "townName": "龜山區",
+          "villageNames": null
+        },
+        {
+          "townName": "桃園區",
+          "villageNames": [
+            "汴洲里",
+            "春日里",
+            "會稽里",
+            "檜樂里",
+            "大有里",
+            "寶山里",
+            "寶民里",
+            "大興里",
+            "大業里",
+            "忠義里",
+            "福元里",
+            "三元里",
+            "青溪里",
+            "三民里",
+            "萬壽里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-68000-02",
+      "term": 11,
+      "name": "桃園市第2選舉區",
+      "countyId": "68000",
+      "countyName": "桃園市",
+      "districtNumber": 2,
+      "scopeText": "大園區、觀音區、新屋區、楊梅區",
+      "memberId": "ly11-46799",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "大園區",
+          "villageNames": null
+        },
+        {
+          "townName": "觀音區",
+          "villageNames": null
+        },
+        {
+          "townName": "新屋區",
+          "villageNames": null
+        },
+        {
+          "townName": "楊梅區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-68000-03",
+      "term": 11,
+      "name": "桃園市第3選舉區",
+      "countyId": "68000",
+      "countyName": "桃園市",
+      "districtNumber": 3,
+      "scopeText": "中壢區－石頭里、青埔里、華愛里、龍昌里、三民里、光明里、信義里、新明里、龍東里、山東里、仁義里、成功里、後寮里、新街里、龍德里、仁福里、自立里、洽溪里、青溪里、新興里、龍興里、中央里、自治里、振興里、過嶺里、舊明里、內定里、健行里、福德里、中建里、內厝里、至善里、莊敬里、德義里、中原里、內壢里、和平里、復華里、文化里、幸福里、復興里、興華里、中榮里、月眉里、忠孝里、普仁里、興和里、中壢里、水尾里、忠義里、普忠里、興南里、五福里、正義里、忠福里、興福里、普強里、興國里、五權里、永光里、明德里、普義里、龍平里、永福里、東興里、普慶里、仁美里、永興里、芝芭里、龍岡里、中興里、興平里、龍慈里、自信里、林森里、金華里等76里",
+      "memberId": "ly11-46846",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "中壢區",
+          "villageNames": [
+            "石頭里",
+            "青埔里",
+            "華愛里",
+            "龍昌里",
+            "三民里",
+            "光明里",
+            "信義里",
+            "新明里",
+            "龍東里",
+            "山東里",
+            "仁義里",
+            "成功里",
+            "後寮里",
+            "新街里",
+            "龍德里",
+            "仁福里",
+            "自立里",
+            "洽溪里",
+            "青溪里",
+            "新興里",
+            "龍興里",
+            "中央里",
+            "自治里",
+            "振興里",
+            "過嶺里",
+            "舊明里",
+            "內定里",
+            "健行里",
+            "福德里",
+            "中建里",
+            "內厝里",
+            "至善里",
+            "莊敬里",
+            "德義里",
+            "中原里",
+            "內壢里",
+            "和平里",
+            "復華里",
+            "文化里",
+            "幸福里",
+            "復興里",
+            "興華里",
+            "中榮里",
+            "月眉里",
+            "忠孝里",
+            "普仁里",
+            "興和里",
+            "中壢里",
+            "水尾里",
+            "忠義里",
+            "普忠里",
+            "興南里",
+            "五福里",
+            "正義里",
+            "忠福里",
+            "興福里",
+            "普強里",
+            "興國里",
+            "五權里",
+            "永光里",
+            "明德里",
+            "普義里",
+            "龍平里",
+            "永福里",
+            "東興里",
+            "普慶里",
+            "仁美里",
+            "永興里",
+            "芝芭里",
+            "龍岡里",
+            "中興里",
+            "興平里",
+            "龍慈里",
+            "自信里",
+            "林森里",
+            "金華里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-68000-04",
+      "term": 11,
+      "name": "桃園市第4選舉區",
+      "countyId": "68000",
+      "countyName": "桃園市",
+      "districtNumber": 4,
+      "scopeText": "桃園區－中路里、同安里、福安里、中寧里、成功里、信光里、福林里、中德里、自強里、南門里、龍山里、大林里、大樹里、中興里、西門里、南埔里、龍安里、文中里、西埔里、南華里、龍岡里、大豐里、文化里、西湖里、建國里、龍祥里、中山里、文昌里、龍鳳里、中平里、文明里、泰山里、豐林里、中正里、北門里、東山里、莊敬里、中成里、北埔里、東門里、朝陽里、寶慶里、中和里、民生里、東埔里、雲林里、中信里、永安里、武陵里、慈文里、中原里、永興里、長安里、新埔里、經國里、中埔里、玉山里、長美里、中泰里、光興里、長德里、同德里、明德里、瑞慶里、寶安里、中聖里、龍壽里等67里",
+      "memberId": "ly11-46836",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "桃園區",
+          "villageNames": [
+            "中路里",
+            "同安里",
+            "福安里",
+            "中寧里",
+            "成功里",
+            "信光里",
+            "福林里",
+            "中德里",
+            "自強里",
+            "南門里",
+            "龍山里",
+            "大林里",
+            "大樹里",
+            "中興里",
+            "西門里",
+            "南埔里",
+            "龍安里",
+            "文中里",
+            "西埔里",
+            "南華里",
+            "龍岡里",
+            "大豐里",
+            "文化里",
+            "西湖里",
+            "建國里",
+            "龍祥里",
+            "中山里",
+            "文昌里",
+            "龍鳳里",
+            "中平里",
+            "文明里",
+            "泰山里",
+            "豐林里",
+            "中正里",
+            "北門里",
+            "東山里",
+            "莊敬里",
+            "中成里",
+            "北埔里",
+            "東門里",
+            "朝陽里",
+            "寶慶里",
+            "中和里",
+            "民生里",
+            "東埔里",
+            "雲林里",
+            "中信里",
+            "永安里",
+            "武陵里",
+            "慈文里",
+            "中原里",
+            "永興里",
+            "長安里",
+            "新埔里",
+            "經國里",
+            "中埔里",
+            "玉山里",
+            "長美里",
+            "中泰里",
+            "光興里",
+            "長德里",
+            "同德里",
+            "明德里",
+            "瑞慶里",
+            "寶安里",
+            "中聖里",
+            "龍壽里"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly11-68000-05",
+      "term": 11,
+      "name": "桃園市第5選舉區",
+      "countyId": "68000",
+      "countyName": "桃園市",
+      "districtNumber": 5,
+      "scopeText": "平鎮區、龍潭區",
+      "memberId": "ly11-46862",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "平鎮區",
+          "villageNames": null
+        },
+        {
+          "townName": "龍潭區",
+          "villageNames": null
+        }
+      ]
+    },
+    {
+      "id": "ly11-68000-06",
+      "term": 11,
+      "name": "桃園市第6選舉區",
+      "countyId": "68000",
+      "countyName": "桃園市",
+      "districtNumber": 6,
+      "scopeText": "八德區、大溪區、復興區、中壢區－興仁里、自強里、中正里、中山里、篤行里、仁愛里、仁和里、仁祥里、華勛里、仁德里、中堅里、龍安里等12里",
+      "memberId": "ly11-46789",
+      "sourceIds": [
+        "cec-term-11-scope",
+        "nlsc-village-1120928"
+      ],
+      "units": [
+        {
+          "townName": "八德區",
+          "villageNames": null
+        },
+        {
+          "townName": "大溪區",
+          "villageNames": null
+        },
+        {
+          "townName": "復興區",
+          "villageNames": null
+        },
+        {
+          "townName": "中壢區",
+          "villageNames": [
+            "興仁里",
+            "自強里",
+            "中正里",
+            "中山里",
+            "篤行里",
+            "仁愛里",
+            "仁和里",
+            "仁祥里",
+            "華勛里",
+            "仁德里",
+            "中堅里",
+            "龍安里"
+          ]
+        }
+      ]
+    }
+  ]
+}

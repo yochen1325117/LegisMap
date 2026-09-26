@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { eventMembers, fieldSources, members, membersForRegion, sourcesForEvent } from './data/legislators.ts';
+import { districtsForCounty, electoralDistricts, eventMembers, fieldSources, members, membersForDistrict, membersForRegion, sourcesForEvent } from './data/legislators.ts';
 
 describe('2026 legislator snapshot', () => {
   it('covers every published member with direct field sources', () => {
@@ -16,6 +16,30 @@ describe('2026 legislator snapshot', () => {
     expect(membersForRegion('臺北市').every(member => member.seatType === 'district')).toBe(true);
     expect(membersForRegion('臺北市').some(member => member.name === '王世堅')).toBe(true);
     expect(membersForRegion('臺北市').some(member => member.name === '韓國瑜')).toBe(false);
+  });
+
+  it('maps all 73 geographic seats one-to-one and excludes special seats', () => {
+    const districtMembers = members.filter(member => member.seatType === 'district');
+    expect(electoralDistricts).toHaveLength(73);
+    expect(districtMembers).toHaveLength(73);
+    expect(new Set(districtMembers.map(member => member.electoralDistrictId)).size).toBe(73);
+    expect(members.filter(member => member.seatType !== 'district').every(member => member.electoralDistrictId === null)).toBe(true);
+    for (const district of electoralDistricts) {
+      expect(membersForDistrict(district.id).map(member => member.id)).toEqual([district.memberId]);
+    }
+  });
+
+  it('publishes correct county seat counts and preserves village-level split cases', () => {
+    expect(districtsForCounty('63000')).toHaveLength(8);
+    expect(districtsForCounty('65000')).toHaveLength(12);
+    expect(districtsForCounty('68000')).toHaveLength(6);
+    expect(districtsForCounty('67000')).toHaveLength(6);
+    expect(districtsForCounty('10017')).toHaveLength(1);
+    for (const [countyId, townName] of [['63000', '士林區'], ['65000', '三重區'], ['68000', '桃園區'], ['67000', '東區']]) {
+      const splitUnits = districtsForCounty(countyId).flatMap(district => district.units.filter(unit => unit.townName === townName));
+      expect(splitUnits.length).toBeGreaterThanOrEqual(2);
+      expect(splitUnits.every(unit => (unit.villageNames?.length ?? 0) > 0)).toBe(true);
+    }
   });
 
   it('publishes a complete sourced Keelung research batch', () => {

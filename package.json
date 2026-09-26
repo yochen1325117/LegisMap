@@ -12,7 +12,11 @@
     "typecheck": "npm run typecheck -w @legismap/web",
     "test": "npm run test -w @legismap/web",
     "test:browser": "npm run test:browser -w @legismap/web",
-    "data:validate": "node scripts/validate-2026.mjs && node scripts/validate-events.mjs",
+    "data:build:districts": "node scripts/build-electoral-districts.mjs",
+    "data:validate": "node scripts/validate-2026.mjs && node scripts/validate-events.mjs && node scripts/validate-electoral-districts.mjs",
     "data:validate:legacy": "node scripts/validate-research.mjs"
+  },
+  "devDependencies": {
+    "polygon-clipping": "^0.15.7"
   }
 }

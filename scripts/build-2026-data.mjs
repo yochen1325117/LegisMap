@@ -1,6 +1,8 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
 const captured = JSON.parse(readFileSync('data/research/profile-capture.json', 'utf8'));
+const electoralDistricts = JSON.parse(readFileSync('apps/web/src/data/electoral-districts.json', 'utf8')).districts;
+const electoralDistrictByLabel = new Map(electoralDistricts.map(district => [district.name.replace(/\s/g, ''), district.id]));
 const asOfDate = '2026-09-17';
 const rosterUrl = 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=109';
 const rocDate = value => {
@@ -36,8 +38,10 @@ for (const person of captured) {
     : person.district === '山地原住民選舉區' ? 'mountain_indigenous' : 'district';
   const regionName = seatType === 'district' ? person.district.match(/^[^縣市]+[縣市]/)?.[0] : null;
   if (seatType === 'district' && !regionName) throw new Error(`No county for ${person.name}: ${person.district}`);
+  const electoralDistrictId = seatType === 'district' ? electoralDistrictByLabel.get(person.district.replace(/\s/g, '')) : null;
+  if (seatType === 'district' && !electoralDistrictId) throw new Error(`No electoral district for ${person.name}: ${person.district}`);
   members.push({
-    id, name: person.name, districtLabel: person.district, seatType, regionName,
+    id, name: person.name, districtLabel: person.district, seatType, regionName, electoralDistrictId,
     mandateStatus: person.status, serviceStart, serviceEnd,
     fieldSourceIds: {
       name: ['ly11-roster', sourceId], districtLabel: [sourceId],
@@ -53,7 +57,7 @@ const data = {
   roster, sources, members,
   researchNotes: [
     '官方頁面同時列出現任及所有離職委員；公開人物限 2026-01-01 至基準日曾在職者。',
-    '選區文字照錄立法院個人頁；縣市只作清單分類，不代表真實選區邊界。',
+    '選區文字照錄立法院個人頁；第11屆區域選舉區範圍依中央選舉委員會資料建立。',
   ],
 };
 writeFileSync('data/research/ly11-2026.json', JSON.stringify(data, null, 2) + '\n');

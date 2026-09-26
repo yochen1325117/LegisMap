@@ -11,13 +11,23 @@ test('real roster, county navigation, profile field sources, and browser history
   await expect(page).toHaveURL(/\/region\/63000$/);
   await expect(page.getByRole('heading', { name: '臺北市' })).toBeVisible();
   await page.getByRole('button', { name: /王世堅.*臺北市第2選舉區/ }).click();
-  await expect(page).toHaveURL(/\/legislator\/ly11-46758$/);
+  await expect(page).toHaveURL(/\/region\/63000\/legislator\/ly11-46758$/);
+  await expect(page.getByRole('dialog')).toBeVisible();
   await expect(page.getByRole('heading', { name: '王世堅' })).toBeVisible();
-  await expect(page.getByRole('link', { name: /姓名來源：立法院 王世堅委員/ })).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758');
-  await expect(page.getByRole('link', { name: /選區來源：立法院 王世堅委員/ })).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758');
+  const dialog = page.getByRole('dialog');
+  await expect(dialog.getByRole('link', { name: /姓名來源：立法院 王世堅委員/ })).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758');
+  await expect(dialog.getByRole('link', { name: /選區來源：立法院 王世堅委員/ })).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758');
+  await page.goBack();
+  await expect(page).toHaveURL(/\/region\/63000$/);
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await expect(page.getByRole('heading', { name: '臺北市' })).toBeVisible();
+  await page.goForward();
+  await expect(page.getByRole('dialog')).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '王世堅' })).toBeVisible();
-  const mapReturn = page.getByRole('button', { name: '返回全台', exact: true });
+  await page.getByRole('button', { name: '關閉立法委員詳細資料' }).click();
+  await expect(page).toHaveURL(/\/region\/63000$/);
+  const mapReturn = page.locator('.map-heading').getByRole('button', { name: /返回全台/ });
   await expect(mapReturn).toBeEnabled();
   await mapReturn.click();
   await expect(page).toHaveURL(/\/$/);
@@ -34,6 +44,7 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await expect(page.getByText('2026-02-01')).toBeVisible();
   await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
   await expect(page.getByRole('link', { name: /立法院/ }).last()).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46832');
+  await page.getByRole('button', { name: '關閉立法委員詳細資料' }).click();
   await page.getByRole('button', { name: '收合資料' }).click();
   await expect(page.getByRole('button', { name: '查看資料' })).toBeVisible();
   await page.goto('/legislator/ly11-46823');
@@ -42,6 +53,72 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await page.goto('/legislator/ly11-46763');
   await expect(page.getByRole('heading', { name: '伍麗華Saidhai‧Tahovecahe' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
+});
+
+test('electoral district route filters the roster and modal preserves its background', async ({ page }) => {
+  await page.goto('/region/63000');
+  await expect(page.getByRole('heading', { name: '臺北市' })).toBeVisible();
+  await expect(page.locator('.member-card')).toHaveCount(8);
+  await page.locator('.district-nav-link').filter({ hasText: '第 2 選舉區' }).click();
+  await expect(page).toHaveURL(/\/region\/63000\/district\/ly11-63000-02$/);
+  await expect(page.getByRole('heading', { name: '臺北市第2選舉區' })).toBeVisible();
+  await expect(page.locator('.member-card')).toHaveCount(1);
+  const memberButton = page.getByRole('button', { name: /王世堅/ });
+  await expect(memberButton).toBeVisible();
+  await memberButton.click();
+  await expect(page).toHaveURL(/\/region\/63000\/district\/ly11-63000-02\/legislator\/ly11-46758$/);
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await expect(page.getByRole('button', { name: '關閉立法委員詳細資料' })).toBeFocused();
+  await page.keyboard.press('Shift+Tab');
+  expect(await page.evaluate(() => {
+    const dialog = document.querySelector('dialog');
+    return dialog === document.activeElement || Boolean(dialog?.contains(document.activeElement));
+  })).toBe(true);
+  await expect(page.locator('.right-panel .member-card')).toHaveCount(1);
+  await page.keyboard.press('Escape');
+  await expect(page).toHaveURL(/\/region\/63000\/district\/ly11-63000-02$/);
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await expect(page.locator('.district-nav-link.is-current')).toContainText('第 2 選舉區');
+  await expect(memberButton).toBeFocused();
+  await memberButton.click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await page.mouse.click(2, 2);
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await expect(page).toHaveURL(/\/region\/63000\/district\/ly11-63000-02$/);
+});
+
+test('single-seat county remains at county level', async ({ page }) => {
+  await page.goto('/region/10017');
+  await expect(page).toHaveURL(/\/region\/10017$/);
+  await expect(page.getByRole('heading', { name: '基隆市' })).toBeVisible();
+  await expect(page.locator('.district-nav-list')).toHaveCount(0);
+  await expect(page.locator('.right-panel .member-card')).toHaveCount(1);
+});
+
+test('desktop county, district, and modal visual snapshots', async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto('/region/63000');
+  await expect(page.locator('.right-panel .member-card')).toHaveCount(8);
+  await page.waitForTimeout(800);
+  await expect(page).toHaveScreenshot('desktop-county.png', { animations: 'disabled', fullPage: true });
+  await page.locator('.district-nav-link').filter({ hasText: '第 2 選舉區' }).click();
+  await expect(page.locator('.right-panel .member-card')).toHaveCount(1);
+  await page.waitForTimeout(500);
+  await expect(page).toHaveScreenshot('desktop-district.png', { animations: 'disabled', fullPage: true });
+  await page.getByRole('button', { name: /王世堅/ }).click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await expect(page).toHaveScreenshot('desktop-modal.png', { animations: 'disabled', fullPage: true });
+});
+
+test('mobile district and modal visual snapshots', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto('/region/63000/district/ly11-63000-02');
+  await expect(page.locator('.right-panel .member-card')).toHaveCount(1);
+  await page.waitForTimeout(800);
+  await expect(page).toHaveScreenshot('mobile-district.png', { animations: 'disabled', fullPage: true });
+  await page.getByRole('button', { name: /王世堅/ }).click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await expect(page).toHaveScreenshot('mobile-modal.png', { animations: 'disabled', fullPage: true });
 });
 
 test('Keelung profile shows four sourced research categories after reload', async ({ page }) => {

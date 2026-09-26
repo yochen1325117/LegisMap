@@ -3,6 +3,8 @@ import assert from 'node:assert/strict';
 
 const data = JSON.parse(readFileSync('data/research/ly11-2026.json', 'utf8'));
 const captured = JSON.parse(readFileSync('data/research/profile-capture.json', 'utf8'));
+const electoral = JSON.parse(readFileSync('apps/web/src/data/electoral-districts.json', 'utf8'));
+const electoralById = new Map(electoral.districts.map(district => [district.id, district]));
 const date = value => /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(value)) && new Date(`${value}T00:00:00Z`).toISOString().slice(0, 10) === value;
 const rocDate = value => {
   if (value === null) return null;
@@ -51,6 +53,12 @@ for (const member of data.members) {
   assert.ok(date(member.serviceStart) && member.serviceStart <= data.asOfDate);
   assert.ok(member.serviceEnd === null || (date(member.serviceEnd) && member.serviceEnd >= data.periodStart && member.serviceEnd <= data.asOfDate));
   assert.ok(member.seatType === 'district' ? member.regionName && member.districtLabel.startsWith(member.regionName) : member.regionName === null);
+  if (member.seatType === 'district') {
+    const district = electoralById.get(member.electoralDistrictId);
+    assert.ok(district, `Unknown electoral district ${member.electoralDistrictId}`);
+    assert.equal(district.memberId, member.id);
+    assert.equal(district.name, member.districtLabel);
+  } else assert.equal(member.electoralDistrictId, null);
   for (const field of ['name', 'districtLabel', 'mandateStatus', 'serviceStart', ...(member.serviceEnd ? ['serviceEnd'] : [])]) {
     const refs = member.fieldSourceIds[field];
     assert.ok(Array.isArray(refs) && refs.length, `${member.name}.${field} needs a source`);

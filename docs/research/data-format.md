@@ -4,7 +4,7 @@
 
 `profile-capture.json` 是逐頁打開立法院官方個人頁後取得的姓名、個人頁 URL、選區、到職日及離職生效日。民國年在建立快照時轉為 ISO 日期。`build-2026-data.mjs` 會從擷取檔產生快照；更新官方資料時，必須重新核對每個頁面、修改擷取檔、調整基準日，再執行產生程式。不可只更改日期沿用舊名單。
 
-快照使用官方個人頁 `nodeid` 作為人物 ID（例如 `ly11-46752`）。`roster` 保留名單頁的現任與離職完整分組。`members` 僅保留本次 2026 年範圍，包含官方選區文字、席次類型、縣市分類、任職狀態及到離職日期。縣市分類只由區域選區文字推得，不能當作選區邊界。不分區與原住民席次的 `regionName` 必須是 `null`。
+快照使用官方個人頁 `nodeid` 作為人物 ID（例如 `ly11-46752`）。`roster` 保留名單頁的現任與離職完整分組。`members` 僅保留本次 2026 年範圍，包含官方選區文字、席次類型、縣市分類、`electoralDistrictId`、任職狀態及到離職日期。區域委員的 `electoralDistrictId` 必須對應 `apps/web/src/data/electoral-districts.json` 的一個穩定 ID；不分區與原住民席次的 `regionName` 及 `electoralDistrictId` 必須是 `null`。
 
 每位人物的 `fieldSourceIds` 指向同檔 `sources`。姓名同時引用立法院名單及個人頁；選區、到職與離職日期引用個人頁；任職狀態引用名單及個人頁。來源保存標題、發布者、直接 URL、查閱日期及頁面位置。網站在對應欄位旁顯示來源連結。
 

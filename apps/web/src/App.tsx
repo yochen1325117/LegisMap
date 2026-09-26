@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react';
-import { useMatch, useNavigate } from 'react-router-dom';
-import { TaiwanDrilldownMap } from 'taiwan-atlas/react';
-import type { RegionMeta, TaiwanMapInstance, TaiwanMapError } from 'taiwan-atlas';
-import { dataAsOfDate, eventMembers, fieldSources, members, membersForRegion, rosterSource, sourcesForEvent, sourcesForIds, type EventCategory, type MemberRecord, type SourceRecord } from './data/legislators.ts';
+import { useEffect, useRef, useState } from 'react';
+import { matchPath, useLocation, useNavigate } from 'react-router-dom';
+import { createTaiwanMap } from 'taiwan-atlas';
+import type { MapOverlay, RegionMeta, TaiwanMapError, TaiwanMapInstance } from 'taiwan-atlas';
+import type { Geometry } from 'geojson';
+import { dataAsOfDate, districtsForCounty, electoralDistrictById, eventMembers, fieldSources, loadDistrictFeatures, members, membersForDistrict, membersForRegion, rosterSource, sourcesForEvent, sourcesForIds, type ElectoralDistrictFeature, type ElectoralDistrictMeta, type EventCategory, type MemberRecord, type SourceRecord } from './data/legislators.ts';
 
 const specialSeats = [
   ['party_list', '全國不分區及僑居國外國民'],
@@ -56,10 +57,64 @@ function MemberEvents({ memberId }: { memberId: string }) {
   </div>;
 }
 
-function RegionNavigator({ map, selectedId, onSelect, onClose }: {
-  map: TaiwanMapInstance | null; selectedId: string; onSelect: (id: string) => void; onClose: () => void;
+function CountyElectoralMap({ countyId, overlays, selectedOverlayId, selectedGeometry, onCounty, onOverlay, onReady, onError }: {
+  countyId: string; overlays: MapOverlay[]; selectedOverlayId: string | null; selectedGeometry?: Geometry;
+  onCounty: (id: string) => void; onOverlay: (id: string) => void;
+  onReady: (map: TaiwanMapInstance | null) => void; onError: (error: TaiwanMapError) => void;
+}) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const mapRef = useRef<TaiwanMapInstance | null>(null);
+  const callbacks = useRef({ onCounty, onOverlay, onError });
+  callbacks.current = { onCounty, onOverlay, onError };
+
+  useEffect(() => {
+    if (!containerRef.current) return;
+    const instance = createTaiwanMap(containerRef.current, {
+      initialCountyId: countyId === 'TW' ? null : countyId,
+      onCountyClick: county => callbacks.current.onCounty(county.id),
+      onOverlayClick: id => callbacks.current.onOverlay(id),
+      onError: error => callbacks.current.onError(error),
+      theme: { selectedFill: '#7eb8a4', selectedStroke: '#0b5c50', hoverFill: '#b7d7ca' },
+    });
+    mapRef.current = instance;
+    onReady(instance);
+    return () => { mapRef.current = null; onReady(null); instance.destroy(); };
+  }, [onReady]);
+
+  useEffect(() => {
+    const instance = mapRef.current;
+    if (!instance) return;
+    let cancelled = false;
+    void instance.ready.then(async () => {
+      if (cancelled) return;
+      if (countyId === 'TW') {
+        await instance.reset();
+        if (!cancelled) await instance.fitGeometry(mainlandView);
+      }
+      else await instance.selectCounty(countyId);
+      if (!cancelled && selectedGeometry) await instance.fitGeometry(selectedGeometry);
+    }).catch(error => { if (!cancelled) callbacks.current.onError(error as TaiwanMapError); });
+    return () => { cancelled = true; };
+  }, [countyId, selectedGeometry]);
+
+  useEffect(() => {
+    const instance = mapRef.current;
+    if (!instance) return;
+    let cancelled = false;
+    void instance.ready.then(() => {
+      if (!cancelled && mapRef.current === instance) instance.setOverlays(overlays, selectedOverlayId);
+    }).catch(error => { if (!cancelled) callbacks.current.onError(error as TaiwanMapError); });
+    return () => { cancelled = true; };
+  }, [overlays, selectedOverlayId]);
+  return <div className="electoral-map" ref={containerRef} />;
+}
+
+function RegionNavigator({ map, selectedCountyId, selectedDistrictId, onCounty, onDistrict, onClose }: {
+  map: TaiwanMapInstance | null; selectedCountyId: string; selectedDistrictId?: string;
+  onCounty: (id: string) => void; onDistrict: (id: string) => void; onClose: () => void;
 }) {
   const [counties, setCounties] = useState<readonly RegionMeta[]>([]);
+  const [expandedCountyId, setExpandedCountyId] = useState<string | null>(selectedCountyId === 'TW' ? null : selectedCountyId);
   const [error, setError] = useState('');
   useEffect(() => {
     if (!map) return;
@@ -67,13 +122,27 @@ function RegionNavigator({ map, selectedId, onSelect, onClose }: {
     void map.listRegions('TW').then(items => { if (!cancelled) setCounties(items); }).catch(() => { if (!cancelled) setError('縣市清單無法載入'); });
     return () => { cancelled = true; };
   }, [map]);
-  const choose = (id: string) => { onSelect(id); onClose(); };
+  useEffect(() => { if (selectedCountyId !== 'TW') setExpandedCountyId(selectedCountyId); }, [selectedCountyId]);
+  const chooseCounty = (id: string) => { onCounty(id); onClose(); };
+  const chooseDistrict = (id: string) => { onDistrict(id); onClose(); };
   return <nav aria-label="地區導覽" className="region-nav">
-    <div className="rail-heading"><span className="eyebrow">REGION NAVIGATOR</span><h2>探索地區</h2><p>選擇縣市，查看 2026 年曾在職的區域立委。</p></div>
-    <button className={`country-link ${selectedId === 'TW' ? 'is-current' : ''}`} onClick={() => choose('TW')} aria-current={selectedId === 'TW' ? 'page' : undefined}><span className="country-icon" aria-hidden="true">◎</span><span>全台灣</span><span className="region-count">{members.length}</span></button>
+    <div className="rail-heading"><span className="eyebrow">REGION NAVIGATOR</span><h2>探索地區</h2><p>選擇縣市與第 11 屆立委選區，查看該區代表。</p></div>
+    <button className={`country-link ${selectedCountyId === 'TW' ? 'is-current' : ''}`} onClick={() => chooseCounty('TW')} aria-current={selectedCountyId === 'TW' ? 'page' : undefined}><span className="country-icon" aria-hidden="true">◎</span><span>全台灣</span><span className="region-count">{members.length}</span></button>
     {error && <p role="alert" className="nav-error">{error}</p>}
     {!counties.length && !error && <p className="nav-loading">正在載入縣市…</p>}
-    <div className="county-list">{counties.map(county => <div className={`county-row ${selectedId === county.id ? 'is-current' : ''}`} key={county.id}><button className="county-select" onClick={() => choose(county.id)} aria-current={selectedId === county.id ? 'page' : undefined}>{county.name}</button><span className="region-count">{membersForRegion(county.name).length}</span></div>)}</div>
+    <div className="county-list">{counties.map(county => {
+      const districts = districtsForCounty(county.id);
+      const expandable = districts.length > 1;
+      const expanded = expandable && expandedCountyId === county.id;
+      return <div className="county-group" key={county.id}>
+        <div className={`county-row ${selectedCountyId === county.id && !selectedDistrictId ? 'is-current' : ''}`}>
+          <button className="county-select" onClick={() => chooseCounty(county.id)} aria-current={selectedCountyId === county.id && !selectedDistrictId ? 'page' : undefined}>{county.name}</button>
+          <span className="region-count">{membersForRegion(county.name).length}</span>
+          {expandable && <button className="expand-button" aria-label={`${expanded ? '收合' : '展開'}${county.name}選區`} aria-expanded={expanded} onClick={() => setExpandedCountyId(current => current === county.id ? null : county.id)}>{expanded ? '−' : '+'}</button>}
+        </div>
+        {expanded && <div className="district-nav-list">{districts.map(district => <button key={district.id} className={`district-nav-link ${selectedDistrictId === district.id ? 'is-current' : ''}`} aria-current={selectedDistrictId === district.id ? 'page' : undefined} onClick={() => chooseDistrict(district.id)}><span>第 {district.districtNumber} 選舉區</span><small>{district.scopeText}</small></button>)}</div>}
+      </div>;
+    })}</div>
     <div className="rail-footer"><span className="footer-mark">LM</span><span>資料基準日 {dataAsOfDate}<br />名單來源：立法院</span></div>
   </nav>;
 }
@@ -86,86 +155,137 @@ function MemberList({ items, onOpen }: { items: MemberRecord[]; onOpen: (id: str
   return <div className="member-list">{items.map(member => <MemberCard key={member.id} member={member} onOpen={() => onOpen(member.id)} />)}</div>;
 }
 
-function DetailPanel({ regionName, isCountry, member, onMember, onBack }: {
-  regionName: string; isCountry: boolean; member?: MemberRecord; onMember: (id: string) => void; onBack: () => void;
-}) {
-  if (member) return <div className="panel-content">
-    <button className="text-back" onClick={onBack}>← 返回名單</button>
+function ProfileContent({ member }: { member: MemberRecord }) {
+  return <div className="profile-content">
     <div className="profile-hero"><span className="profile-avatar" aria-hidden="true">{member.name.slice(0, 1)}</span><span className="eyebrow">LEGISLATOR PROFILE</span><h2>{member.name}</h2><p>第 11 屆 · {member.mandateStatus === 'active' ? '現任' : '2026 年離職'}</p></div>
     <div className="profile-facts"><div><span>姓名</span><div className="fact-value"><strong>{member.name}</strong><SourceLinks items={fieldSources(member, 'name')} label="姓名" /></div></div><div><span>選區</span><div className="fact-value"><strong>{member.districtLabel}</strong><SourceLinks items={fieldSources(member, 'districtLabel')} label="選區" /></div></div><div><span>任職狀態</span><div className="fact-value"><strong>{member.mandateStatus === 'active' ? '現任' : '已離職'}</strong><SourceLinks items={fieldSources(member, 'mandateStatus')} label="任職狀態" /></div></div><div><span>到職日期</span><div className="fact-value"><strong>{member.serviceStart}</strong><SourceLinks items={fieldSources(member, 'serviceStart')} label="到職日期" /></div></div>{member.serviceEnd && <div><span>離職生效日期</span><div className="fact-value"><strong>{member.serviceEnd}</strong><SourceLinks items={fieldSources(member, 'serviceEnd')} label="離職日期" /></div></div>}</div>
     <p className="source-note">資料基準日：{dataAsOfDate}。選區文字照錄立法院個人頁；人物頁資料由委員研究室提供，請以來源頁面為準。</p>
     <MemberEvents memberId={member.id} />
   </div>;
+}
 
-  const visible = isCountry ? members : membersForRegion(regionName);
+function ProfileDialog({ member, onClose, returnFocus }: { member: MemberRecord; onClose: () => void; returnFocus: React.RefObject<HTMLElement | null> }) {
+  const dialogRef = useRef<HTMLDialogElement>(null);
+  useEffect(() => {
+    const dialog = dialogRef.current;
+    if (dialog && !dialog.open) dialog.showModal();
+    return () => { returnFocus.current?.focus(); };
+  }, []);
+  const keepFocusInside = (event: React.KeyboardEvent<HTMLDialogElement>) => {
+    if (event.key !== 'Tab') return;
+    const dialog = dialogRef.current;
+    if (!dialog) return;
+    const focusable = Array.from(dialog.querySelectorAll<HTMLElement>('button:not([disabled]), a[href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])')).filter(element => element.getClientRects().length > 0);
+    const first = focusable[0];
+    const last = focusable.at(-1);
+    if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last?.focus(); }
+    else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first?.focus(); }
+  };
+  return <dialog ref={dialogRef} className="profile-dialog" aria-labelledby="profile-dialog-title" onKeyDown={keepFocusInside} onCancel={event => { event.preventDefault(); onClose(); }} onClose={onClose} onPointerDown={event => { if (event.target === event.currentTarget) onClose(); }}>
+    <div className="profile-dialog-card">
+      <div className="profile-dialog-header"><span id="profile-dialog-title">立法委員詳細資料</span><button autoFocus onClick={onClose} aria-label="關閉立法委員詳細資料">關閉 ×</button></div>
+      <ProfileContent member={member} />
+    </div>
+  </dialog>;
+}
+
+function RosterPanel({ regionName, isCountry, district, onMember }: {
+  regionName: string; isCountry: boolean; district?: ElectoralDistrictMeta; onMember: (id: string) => void;
+}) {
+  const visible = district ? membersForDistrict(district.id) : isCountry ? members : membersForRegion(regionName);
   const districtMembers = visible.filter(item => item.seatType === 'district');
-  return <div className="panel-content"><div className="panel-intro"><span className="eyebrow">2026 LEGISLATORS</span><h2>{regionName}</h2><p>2026-01-01 至 {dataAsOfDate} 曾在職的第 11 屆立法委員。縣市清單依官方選區文字分類。</p><p className="roster-source">名單來源：<a href={rosterSource.url} target="_blank" rel="noopener noreferrer">{rosterSource.publisher}第 11 屆名單 ↗</a></p></div>
+  const title = district?.name ?? regionName;
+  return <div className="panel-content"><div className="panel-intro"><span className="eyebrow">2026 LEGISLATORS</span><h2>{title}</h2><p>{district ? district.scopeText : `2026-01-01 至 ${dataAsOfDate} 曾在職的第 11 屆立法委員。`}</p><p className="roster-source">名單來源：<a href={rosterSource.url} target="_blank" rel="noopener noreferrer">{rosterSource.publisher}第 11 屆名單 ↗</a></p></div>
     <div className="summary-strip"><div><strong>{visible.length}</strong><span>曾在職委員</span></div><div><strong>{visible.filter(item => item.mandateStatus === 'active').length}</strong><span>目前在職</span></div></div>
-    <section className="panel-section"><div className="section-heading"><span className="eyebrow">DISTRICT SEATS</span><h3>{isCountry ? '區域委員' : '此縣市委員'} <span className="section-count">{districtMembers.length}</span></h3></div>{districtMembers.length ? <MemberList items={districtMembers} onOpen={onMember} /> : <div className="empty-state"><h4>此縣市沒有區域席次資料</h4><p>不分區與原住民席次請從全台灣名單查看。</p></div>}</section>
+    <section className="panel-section"><div className="section-heading"><span className="eyebrow">DISTRICT SEATS</span><h3>{district ? '本選區代表' : isCountry ? '區域委員' : '此縣市委員'} <span className="section-count">{districtMembers.length}</span></h3></div>{districtMembers.length ? <MemberList items={districtMembers} onOpen={onMember} /> : <div className="empty-state"><h4>此縣市沒有區域席次資料</h4><p>不分區與原住民席次請從全台灣名單查看。</p></div>}</section>
     {isCountry && specialSeats.map(([type, label]) => <section className="panel-section" key={type}><div className="section-heading"><h3>{label} <span className="section-count">{members.filter(item => item.seatType === type).length}</span></h3></div><MemberList items={members.filter(item => item.seatType === type)} onOpen={onMember} /></section>)}
   </div>;
 }
 
 export function App() {
   const navigate = useNavigate();
-  const regionMatch = useMatch('/region/:regionId');
-  const memberMatch = useMatch('/legislator/:legislatorId');
-  const selectedMember = members.find(item => item.id === memberMatch?.params.legislatorId);
+  const location = useLocation();
+  const districtMemberMatch = matchPath('/region/:countyId/district/:districtId/legislator/:memberId', location.pathname);
+  const countyMemberMatch = matchPath('/region/:countyId/legislator/:memberId', location.pathname);
+  const districtMatch = matchPath('/region/:countyId/district/:districtId', location.pathname);
+  const countyMatch = matchPath('/region/:countyId', location.pathname);
+  const legacyMemberMatch = matchPath('/legislator/:memberId', location.pathname);
+  const memberId = districtMemberMatch?.params.memberId ?? countyMemberMatch?.params.memberId ?? legacyMemberMatch?.params.memberId;
+  const selectedMember = members.find(item => item.id === memberId);
+  const inferredDistrict = selectedMember?.electoralDistrictId ? electoralDistrictById.get(selectedMember.electoralDistrictId) : undefined;
+  const routeCountyId = districtMemberMatch?.params.countyId ?? countyMemberMatch?.params.countyId ?? districtMatch?.params.countyId ?? countyMatch?.params.countyId;
+  const countyId = routeCountyId ?? inferredDistrict?.countyId ?? 'TW';
+  const requestedDistrictId = districtMemberMatch?.params.districtId ?? districtMatch?.params.districtId ?? (legacyMemberMatch ? inferredDistrict?.id : undefined);
+  const routeDistrict = requestedDistrictId ? electoralDistrictById.get(requestedDistrictId) : undefined;
+  const selectedDistrict = routeDistrict?.countyId === countyId ? routeDistrict : undefined;
+  const countyDistricts = districtsForCounty(countyId);
   const [map, setMap] = useState<TaiwanMapInstance | null>(null);
   const [regionNames, setRegionNames] = useState<Record<string, string>>({ TW: '全台灣' });
   const [mapError, setMapError] = useState('');
+  const [geometryError, setGeometryError] = useState('');
+  const [districtFeatures, setDistrictFeatures] = useState<ElectoralDistrictFeature[]>([]);
   const [navOpen, setNavOpen] = useState(false);
   const [panelOpen, setPanelOpen] = useState(true);
   const [copied, setCopied] = useState(false);
-  const memberRegionId = selectedMember?.regionName
-    ? Object.entries(regionNames).find(([, name]) => name === selectedMember.regionName)?.[0]
-    : undefined;
-  const regionId = regionMatch?.params.regionId ?? memberRegionId ?? 'TW';
-  const regionName = regionId === 'TW' ? '全台灣' : regionNames[regionId] ?? '全台灣';
+  const profileOpenerRef = useRef<HTMLElement | null>(null);
+  const regionName = countyId === 'TW' ? '全台灣' : regionNames[countyId] ?? selectedDistrict?.countyName ?? inferredDistrict?.countyName ?? '載入中…';
+
   useEffect(() => {
     if (!map) return;
     let cancelled = false;
     void map.listRegions('TW').then(items => { if (!cancelled) setRegionNames(current => ({ ...current, ...Object.fromEntries(items.map(item => [item.id, item.name])) })); });
     return () => { cancelled = true; };
   }, [map]);
+
   useEffect(() => {
-    if (!map || regionId !== 'TW') return;
+    if (countyId === 'TW' || countyDistricts.length <= 1) {
+      setDistrictFeatures([]);
+      setGeometryError('');
+      return;
+    }
     let cancelled = false;
-    let frame = 0;
-    let observer: ResizeObserver | null = null;
-    const fitMainland = () => {
-      cancelAnimationFrame(frame);
-      frame = requestAnimationFrame(() => {
-        if (!cancelled) void map.fitGeometry(mainlandView).catch(error => { if (!cancelled) onMapError(error); });
-      });
-    };
-    void map.ready.then(async () => {
-      if (cancelled) return;
-      const viewport = document.querySelector('.taiwan-atlas__viewport');
-      if (viewport) {
-        observer = new ResizeObserver(fitMainland);
-        observer.observe(viewport);
+    setGeometryError('');
+    void loadDistrictFeatures(countyId).then(features => {
+      if (!cancelled) setDistrictFeatures(features);
+    }).catch(() => {
+      if (!cancelled) {
+        setDistrictFeatures([]);
+        setGeometryError('選區邊界無法載入，請稍後再試。');
       }
-      await map.selectRegion('TW');
-      if (!cancelled) fitMainland();
-    }).catch(error => { if (!cancelled) onMapError(error); });
-    return () => { cancelled = true; cancelAnimationFrame(frame); observer?.disconnect(); };
-  }, [map, regionId]);
-  const chooseRegion = (id: string) => { navigate(id === 'TW' ? '/' : `/region/${id.slice(0, 5)}`); setPanelOpen(true); };
-  const chooseMember = (id: string) => { navigate(`/legislator/${id}`); setPanelOpen(true); };
-  const onRegionChange = (region: RegionMeta) => setRegionNames(current => current[region.id] === region.name ? current : { ...current, [region.id]: region.name });
+    });
+    return () => { cancelled = true; };
+  }, [countyId, countyDistricts.length]);
+
+  const basePath = countyId === 'TW' ? '/' : selectedDistrict ? `/region/${countyId}/district/${selectedDistrict.id}` : `/region/${countyId}`;
+  const chooseCounty = (id: string) => { navigate(id === 'TW' ? '/' : `/region/${id}`); setPanelOpen(true); };
+  const chooseDistrict = (id: string) => {
+    const district = electoralDistrictById.get(id);
+    if (!district) return;
+    navigate(`/region/${district.countyId}/district/${district.id}`);
+    setPanelOpen(true);
+  };
+  const chooseMember = (id: string) => {
+    profileOpenerRef.current = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+    const suffix = `legislator/${id}`;
+    navigate(basePath === '/' ? `/region/TW/${suffix}` : `${basePath}/${suffix}`);
+  };
+  const closeMember = () => navigate(basePath, { replace: true });
   const onMapError = (error: TaiwanMapError) => setMapError(error.message);
-  const share = async () => { try { await navigator.clipboard.writeText(location.href); setCopied(true); window.setTimeout(() => setCopied(false), 2000); } catch { setCopied(false); } };
-  const breadcrumb = selectedMember ? `${selectedMember.districtLabel} / ${selectedMember.name}` : regionName;
+  const share = async () => { try { await navigator.clipboard.writeText(window.location.href); setCopied(true); window.setTimeout(() => setCopied(false), 2000); } catch { setCopied(false); } };
+  const breadcrumbBase = selectedDistrict ? `${regionName} / 第 ${selectedDistrict.districtNumber} 選舉區` : regionName;
+  const breadcrumb = selectedMember ? `${breadcrumbBase} / ${selectedMember.name}` : breadcrumbBase;
+  const overlays: MapOverlay[] = districtFeatures.map(feature => ({ id: feature.id, geometry: feature.geometry, fillColor: '#63a999', lineColor: '#16685d' }));
+  const selectedGeometry = selectedDistrict ? districtFeatures.find(feature => feature.id === selectedDistrict.id)?.geometry : undefined;
 
   return <div className="app-shell">
     <header className="app-header"><div className="brand"><span className="brand-symbol" aria-hidden="true">◎</span><div><span className="brand-name">委員地圖</span><span className="brand-english">LEGISMAP</span></div></div><div className="header-context"><span className="context-prefix">正在探索</span><span className="context-path">{breadcrumb}</span></div><div className="header-actions"><span className="demo-pill">資料截至 {dataAsOfDate}</span><button className="header-button share-button" onClick={share}>{copied ? '已複製連結' : '分享頁面 ↗'}</button><button className="header-button mobile-nav-button" onClick={() => setNavOpen(true)}>地區選單</button></div></header>
-    <div className="disclaimer" role="note"><span className="disclaimer-dot" />名單與選區文字據立法院官方頁面整理；地圖顯示行政區，並非立委選區邊界。資料基準日 {dataAsOfDate}。</div>
+    <div className="disclaimer" role="note"><span className="disclaimer-dot" />第 11 屆選區依中選會公告範圍與國土測繪中心 112 年 9 月村里界建立。資料基準日 {dataAsOfDate}。</div>
     <div className="workspace">
       {navOpen && <button className="mobile-backdrop" aria-label="關閉地區選單" onClick={() => setNavOpen(false)} />}
-      <aside className={`left-rail ${navOpen ? 'is-open' : ''}`}><button className="mobile-close" onClick={() => setNavOpen(false)}>關閉 ×</button><RegionNavigator map={map} selectedId={regionId} onSelect={chooseRegion} onClose={() => setNavOpen(false)} /></aside>
-      <main className="map-area"><div className="map-heading"><div><span className="eyebrow">INTERACTIVE ATLAS</span><h1>從地圖，看見你的國會代表。</h1></div><button onClick={() => chooseRegion('TW')}>返回全台 ↗</button></div><div className="map-stage"><TaiwanDrilldownMap regionId={regionId} onRegionIdChange={chooseRegion} onRegionChange={onRegionChange} onError={onMapError} mapRef={setMap} style={{ height: '100%' }} />{mapError && <div className="map-error" role="alert">地圖無法載入：{mapError}</div>}<div className="map-legend"><span><i className="legend-admin" />行政區</span></div></div><div className="map-caption"><span>底圖：Taiwan-Atlas</span><span>選區分類依立法院個人頁文字</span></div></main>
-      <aside className={`right-panel ${panelOpen ? 'is-open' : ''}`} aria-label="地區與人物資料"><div className="panel-mobile-handle"><button onClick={() => setPanelOpen(open => !open)}>{panelOpen ? '收合資料' : '查看資料'} {panelOpen ? '⌄' : '⌃'}</button></div><DetailPanel regionName={regionName} isCountry={regionId === 'TW'} member={selectedMember} onMember={chooseMember} onBack={() => chooseRegion(memberRegionId ?? 'TW')} /></aside>
+      <aside className={`left-rail ${navOpen ? 'is-open' : ''}`}><button className="mobile-close" onClick={() => setNavOpen(false)}>關閉 ×</button><RegionNavigator map={map} selectedCountyId={countyId} selectedDistrictId={selectedDistrict?.id} onCounty={chooseCounty} onDistrict={chooseDistrict} onClose={() => setNavOpen(false)} /></aside>
+      <main className="map-area"><div className="map-heading"><div><span className="eyebrow">INTERACTIVE ATLAS</span><h1>從地圖，看見你的國會代表。</h1></div><button onClick={() => chooseCounty('TW')}>返回全台 ↗</button></div><div className="map-stage"><CountyElectoralMap countyId={countyId} overlays={overlays} selectedOverlayId={selectedDistrict?.id ?? null} selectedGeometry={selectedGeometry} onCounty={chooseCounty} onOverlay={chooseDistrict} onReady={setMap} onError={onMapError} />{(mapError || geometryError) && <div className="map-error" role="alert">地圖無法載入：{mapError || geometryError}</div>}<div className="map-legend"><span><i className="legend-admin" />行政區</span><span><i className="legend-electoral" />立委選區</span><span><i className="legend-selected" />目前選取</span></div></div><div className="map-caption"><span>底圖：Taiwan-Atlas</span><span>選區：中選會第 11 屆範圍、國土測繪中心 112 年 9 月村里界</span></div></main>
+      <aside className={`right-panel ${panelOpen ? 'is-open' : ''}`} aria-label="地區與立委名單"><div className="panel-mobile-handle"><button onClick={() => setPanelOpen(open => !open)}>{panelOpen ? '收合資料' : '查看資料'} {panelOpen ? '⌄' : '⌃'}</button></div><RosterPanel regionName={regionName} isCountry={countyId === 'TW'} district={selectedDistrict} onMember={chooseMember} /></aside>
     </div>
+    {selectedMember && <ProfileDialog key={selectedMember.id} member={selectedMember} onClose={closeMember} returnFocus={profileOpenerRef} />}
   </div>;
 }
