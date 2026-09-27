@@ -1,7 +1,26 @@
 import { describe, expect, it } from 'vitest';
-import { districtsForCounty, electoralDistricts, eventMembers, fieldSources, members, membersForDistrict, membersForRegion, sourcesForEvent } from './data/legislators.ts';
+import { districtsForCounty, electoralDistricts, eventMembers, fieldSources, memberParticipations, members, membersForDistrict, membersForRegion, namedVotesForMember, sharedEvents, sourcesForEvent } from './data/legislators.ts';
 
 describe('2026 legislator snapshot', () => {
+  it('stores a shared bill once while preserving each member role', () => {
+    const event = sharedEvents.get('bill-202110073810000');
+    expect(event?.title).toContain('國家安全法');
+    const links = memberParticipations.filter(item => item.eventId === event?.id);
+    expect(links.length).toBeGreaterThan(1);
+    expect(new Set(links.map(item => item.memberId)).size).toBe(links.length);
+    expect(links.some(item => item.roleType === 'lead_proposer')).toBe(true);
+    expect(links.some(item => item.roleType === 'co_proposer')).toBe(true);
+  });
+
+  it('resolves official named votes per member without inferring absent votes', () => {
+    const shen = members.find(member => member.name === '沈伯洋')!;
+    const votes = namedVotesForMember(shen.id);
+    expect(votes).toHaveLength(1);
+    expect(votes[0].voteChoice).toBe('against');
+    expect(votes[0].voteChoiceLabel).toContain('贊成覆議');
+    const replacement = members.find(member => member.name === '蔡春綢')!;
+    expect(namedVotesForMember(replacement.id)).toHaveLength(0);
+  });
   it('covers every published member with direct field sources', () => {
     expect(members).toHaveLength(120);
     expect(members.filter(member => member.mandateStatus === 'active')).toHaveLength(113);

@@ -55,6 +55,19 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
 });
 
+test('shared proposal roles and named-vote filters stay person specific', async ({ page }) => {
+  await page.goto('/legislator/ly11-46775');
+  await expect(page.getByRole('heading', { name: /提出國家安全法/ })).toBeVisible();
+  await expect(page.getByText('主提案', { exact: true }).first()).toBeVisible();
+  await expect(page.getByRole('heading', { name: '具名表決' })).toBeVisible();
+  await expect(page.getByText(/反對維持原決議（贊成覆議）/).first()).toBeVisible();
+  await page.getByLabel('投票立場').selectOption('for');
+  await expect(page.getByText('沒有符合篩選條件的表決紀錄。')).toBeVisible();
+  await page.goto('/legislator/ly11-46786');
+  await expect(page.getByRole('heading', { name: /提出國家安全法/ })).toBeVisible();
+  await expect(page.getByText('共同提案', { exact: true }).first()).toBeVisible();
+});
+
 test('electoral district route filters the roster and modal preserves its background', async ({ page }) => {
   await page.goto('/region/63000');
   await expect(page.getByRole('heading', { name: '臺北市' })).toBeVisible();
@@ -124,7 +137,7 @@ test('mobile district and modal visual snapshots', async ({ page }) => {
 test('Keelung profile shows four sourced research categories after reload', async ({ page }) => {
   await page.goto('/legislator/ly11-46778');
   await expect(page.getByRole('heading', { name: '林沛祥' })).toBeVisible();
-  for (const heading of ['立法與問政成果', '公益與公共服務', '爭議與責任紀錄', '人物側寫']) {
+  for (const heading of ['立法與問政', '已有結果', '參與紀錄', '具名表決', '公益與公共服務', '爭議與責任紀錄', '人物側寫']) {
     await expect(page.getByRole('heading', { name: heading })).toBeVisible();
   }
   await expect(page.getByRole('link', { name: /立法院・立法院交通委員會考察基隆地區交通及重大公共建設紀錄/ }).first()).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
