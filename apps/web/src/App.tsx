@@ -274,7 +274,15 @@ export function App() {
   const share = async () => { try { await navigator.clipboard.writeText(window.location.href); setCopied(true); window.setTimeout(() => setCopied(false), 2000); } catch { setCopied(false); } };
   const breadcrumbBase = selectedDistrict ? `${regionName} / 第 ${selectedDistrict.districtNumber} 選舉區` : regionName;
   const breadcrumb = selectedMember ? `${breadcrumbBase} / ${selectedMember.name}` : breadcrumbBase;
-  const overlays: MapOverlay[] = districtFeatures.map(feature => ({ id: feature.id, geometry: feature.geometry, fillColor: '#63a999', lineColor: '#16685d' }));
+  const overlays: MapOverlay[] = districtFeatures.map(feature => {
+    const isSelected = feature.id === selectedDistrict?.id;
+    return {
+      id: feature.id,
+      geometry: feature.geometry,
+      fillColor: isSelected ? '#f59e0b' : '#73b8a8',
+      lineColor: isSelected ? '#92400e' : '#26766b',
+    };
+  });
   const selectedGeometry = selectedDistrict ? districtFeatures.find(feature => feature.id === selectedDistrict.id)?.geometry : undefined;
 
   return <div className="app-shell">
