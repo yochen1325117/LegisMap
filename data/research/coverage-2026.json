@@ -2,10 +2,26 @@
   "generatedAt": "2026-09-27",
   "memberCount": 120,
   "coverage": {
-    "bills": 55,
-    "budgets": 0,
-    "questions": 4,
-    "namedVotes": 111
+    "bills": 59,
+    "budgets": 1,
+    "questions": 12,
+    "namedVotes": 111,
+    "newsSources": 70
+  },
+  "workflow": {
+    "complete": 44,
+    "stale": 76,
+    "inProgress": 0,
+    "notStarted": 0,
+    "primaryCompletionRate": 0.36666666666666664,
+    "independentCompletionRate": 0.36666666666666664,
+    "candidateOverlapRate": 0,
+    "unilateralDiscoveryRate": 0.8843537414965986,
+    "adjudicationCompletionRate": 1,
+    "candidateCount": 164,
+    "staleSourceCount": 0,
+    "confirmedStaleSourceCount": 0,
+    "indeterminateSourceCount": 10
   },
   "members": [
     {
@@ -18,7 +34,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46757",
@@ -30,7 +48,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46758",
@@ -42,7 +62,9 @@
       "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 6,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46759",
@@ -54,7 +76,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46760",
@@ -66,7 +90,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46761",
@@ -78,7 +104,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5
+      "publicEvents": 5,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46762",
@@ -90,7 +118,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 5,
+      "newsSources": 6,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46763",
@@ -102,7 +132,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46764",
@@ -112,21 +144,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 5,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46765",
       "name": "何欣純",
       "seatType": "district",
       "regionName": "臺中市",
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46766",
@@ -138,7 +174,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 6,
+      "newsSources": 6,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46767",
@@ -150,7 +188,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46768",
@@ -159,10 +199,12 @@
       "regionName": "新北市",
       "bills": 1,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46769",
@@ -174,7 +216,9 @@
       "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46771",
@@ -182,11 +226,13 @@
       "seatType": "district",
       "regionName": "新北市",
       "bills": 0,
-      "budgets": 0,
+      "budgets": 1,
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46862",
@@ -198,7 +244,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46863",
@@ -210,7 +258,9 @@
       "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 4,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46772",
@@ -222,7 +272,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46773",
@@ -234,7 +286,9 @@
       "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46774",
@@ -246,7 +300,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46775",
@@ -258,7 +314,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46776",
@@ -270,7 +328,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46777",
@@ -282,7 +342,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46778",
@@ -294,7 +356,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46779",
@@ -306,7 +370,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46780",
@@ -318,7 +384,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46781",
@@ -328,9 +396,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 3,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 5,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46782",
@@ -342,7 +412,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5
+      "publicEvents": 5,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46783",
@@ -354,7 +426,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46785",
@@ -363,10 +437,12 @@
       "regionName": "新北市",
       "bills": 0,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 5,
+      "newsSources": 6,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46786",
@@ -378,7 +454,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46787",
@@ -390,7 +468,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46788",
@@ -402,7 +482,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46789",
@@ -414,7 +496,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46790",
@@ -426,7 +510,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5
+      "publicEvents": 5,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46791",
@@ -438,7 +524,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46792",
@@ -450,7 +538,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46793",
@@ -462,7 +552,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46794",
@@ -474,7 +566,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46795",
@@ -486,7 +580,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46796",
@@ -498,7 +594,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46797",
@@ -510,7 +608,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46798",
@@ -522,19 +622,23 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46799",
       "name": "涂權吉",
       "seatType": "district",
       "regionName": "桃園市",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 6,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46754",
@@ -546,7 +650,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46800",
@@ -558,7 +664,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5
+      "publicEvents": 5,
+      "newsSources": 4,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46801",
@@ -570,7 +678,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46802",
@@ -582,7 +692,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46804",
@@ -594,7 +706,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46805",
@@ -606,7 +720,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46806",
@@ -618,7 +734,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46807",
@@ -630,7 +748,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46808",
@@ -642,7 +762,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46809",
@@ -654,7 +776,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46810",
@@ -666,7 +790,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46811",
@@ -678,7 +804,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46812",
@@ -690,7 +818,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46813",
@@ -702,19 +832,23 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46814",
       "name": "陳秀寳",
       "seatType": "district",
       "regionName": "彰化縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46815",
@@ -726,7 +860,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46816",
@@ -738,7 +874,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46817",
@@ -750,7 +888,9 @@
       "questions": 0,
       "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46755",
@@ -762,19 +902,23 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46818",
       "name": "陳素月",
       "seatType": "district",
       "regionName": "彰化縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46819",
@@ -786,7 +930,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46820",
@@ -798,7 +944,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 6,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46821",
@@ -810,7 +958,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46822",
@@ -822,7 +972,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46823",
@@ -834,7 +986,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46824",
@@ -846,7 +1000,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 6
+      "publicEvents": 6,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46826",
@@ -858,7 +1014,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5
+      "publicEvents": 5,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46827",
@@ -870,19 +1028,23 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46828",
       "name": "黃秀芳",
       "seatType": "district",
       "regionName": "彰化縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46829",
@@ -894,7 +1056,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46831",
@@ -906,7 +1070,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46833",
@@ -918,7 +1084,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46834",
@@ -930,7 +1098,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46835",
@@ -942,7 +1112,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46836",
@@ -952,9 +1124,11 @@
       "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 5,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46837",
@@ -966,7 +1140,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46838",
@@ -978,7 +1154,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46839",
@@ -990,7 +1168,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46840",
@@ -1002,7 +1182,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46841",
@@ -1014,7 +1196,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46842",
@@ -1024,9 +1208,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 5,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46843",
@@ -1038,7 +1224,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46844",
@@ -1050,7 +1238,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46845",
@@ -1062,7 +1252,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 6
+      "publicEvents": 6,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46846",
@@ -1074,7 +1266,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46847",
@@ -1086,7 +1280,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46848",
@@ -1098,7 +1294,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46849",
@@ -1110,7 +1308,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46850",
@@ -1122,19 +1322,23 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46851",
       "name": "謝衣鳯",
       "seatType": "district",
       "regionName": "彰化縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 5,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46852",
@@ -1146,7 +1350,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46853",
@@ -1158,7 +1364,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4
+      "publicEvents": 4,
+      "newsSources": 8,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46854",
@@ -1170,7 +1378,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46855",
@@ -1182,7 +1392,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 3,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46856",
@@ -1194,7 +1406,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46857",
@@ -1206,7 +1420,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46858",
@@ -1218,7 +1434,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46859",
@@ -1230,7 +1448,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46860",
@@ -1242,7 +1462,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 3,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46861",
@@ -1254,7 +1476,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-55030",
@@ -1266,7 +1490,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-55855",
@@ -1278,7 +1504,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-77699",
@@ -1287,34 +1515,40 @@
       "regionName": null,
       "bills": 0,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56378",
       "name": "洪毓祥",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56398",
       "name": "蔡春綢",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 2,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56418",
@@ -1323,22 +1557,26 @@
       "regionName": null,
       "bills": 0,
       "budgets": 0,
-      "questions": 0,
-      "oversight": 0,
+      "questions": 1,
+      "oversight": 1,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 2,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56438",
       "name": "邱慧洳",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 1,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56458",
@@ -1350,7 +1588,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 0,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56585",
@@ -1359,10 +1599,12 @@
       "regionName": null,
       "bills": 0,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46784",
@@ -1374,7 +1616,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46864",
@@ -1386,7 +1630,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46803",
@@ -1398,7 +1644,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46756",
@@ -1410,7 +1658,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46830",
@@ -1422,7 +1672,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1
+      "publicEvents": 1,
+      "newsSources": 0,
+      "researchStatus": "stale"
     },
     {
       "memberId": "ly11-46832",
@@ -1432,9 +1684,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 2,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-56478",
@@ -1443,10 +1697,12 @@
       "regionName": null,
       "bills": 0,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 0,
-      "publicEvents": 0
+      "publicEvents": 3,
+      "newsSources": 5,
+      "researchStatus": "complete"
     }
   ]
 }

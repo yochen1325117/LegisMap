@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "party-list-zero-1-2026",
+  "primaryVersionId": "primary-party-list-zero-1-20260928-r1",
+  "independentVersionId": "independent-party-list-zero-1-20260928-r1",
+  "decidedAt": "2026-09-28",
+  "additionalSources": [],
+  "records": [
+    {
+      "id": "adjudication-party-list-zero-1-1",
+      "comparisonIds": ["comparison-primary-liu-media-bargaining-202504"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院公報直接確認書面質詢內容；只記錄質詢行動，不宣稱制度已採納。",
+      "finalEventId": "event-liu-media-bargaining-2025",
+      "finalSummary": "劉書彬以書面質詢追問新聞議價、媒體發展基金治理及平台反報復條款；公報可確認質詢內容，尚無資料顯示相關制度已完成。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-2",
+      "comparisonIds": ["comparison-primary-liu-offtopic-20250815"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "僅有單一新聞報導，且尚未補得同場官方議事影音或公報，不符合爭議公開門檻。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-3",
+      "comparisonIds": ["comparison-primary-hung-it-procurement-202606"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院影音與公報共同確認質詢及行政院回應；結果標示為研議中。",
+      "finalEventId": "event-hung-it-procurement-2026",
+      "finalSummary": "洪毓祥質詢政府資訊服務採購制度，要求研議專章及公開可揭露資訊；行政院答覆將請工程會研究，尚未形成完成改革。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-4",
+      "comparisonIds": ["comparison-primary-hung-civil-code-20260728"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案頁確認洪毓祥為連署人及議案三讀；只歸屬連署角色。",
+      "finalEventId": "bill-202110204670000",
+      "finalSummary": "洪毓祥連署《民法》第1223條修正草案；議案其後三讀通過，頁面僅將連署列為其個人參與。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-5",
+      "comparisonIds": ["comparison-primary-tsai-income-tax-20260710"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案頁確認蔡春綢列名提案及交付委員會審查，未把提案寫成已通過成果。",
+      "finalEventId": "bill-202110222890000",
+      "finalSummary": "蔡春綢等18人提出《所得稅法》第17條及第126條修正草案；截至查閱日已交付財政委員會審查。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-6",
+      "comparisonIds": ["comparison-primary-tsai-family-allegation-20260519-cand-tsai-allegations"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "兩個獨立新聞發布者可確認政治團體提出指控與蔡春綢回應；以指控狀態呈現，明示未有正式機關認定其涉不法。",
+      "finalEventId": "event-tsai-family-allegation-2026",
+      "finalSummary": "時代力量就蔡春綢與家族服務處及協會地址關係提出質疑；蔡春綢否認涉黑金並要求提出證據。查閱時未見正式機關認定其本人涉不法。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-7",
+      "comparisonIds": ["comparison-primary-wang-defense-tech-20260427"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院IVOD直接確認具名質詢；只記錄質詢行動。",
+      "finalEventId": "event-wang-defense-tech-2026",
+      "finalSummary": "王安祥在外交及國防委員會質詢國防部運用新興科技於不對稱作戰的效能與後續發展。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-8",
+      "comparisonIds": ["comparison-primary-wang-civil-code-20260728"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案頁列王安祥於民眾黨團提案人欄位；人物頁以黨團提案參與呈現，不擴張為個人領銜成果。",
+      "finalEventId": "bill-202110209260000",
+      "finalSummary": "王安祥列於民眾黨團《民法》第1223條修正草案的提案人欄位；該案其後與其他版本併案三讀。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-9",
+      "comparisonIds": ["comparison-cand-liu-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補與就職已由人物任職資料及其官方來源呈現，不另建立研究事件以免重複。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-10",
+      "comparisonIds": ["comparison-cand-liu-workplace"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "雖有多篇報導及本人回應，但核心仍是指控與未公開黨內調查轉述，沒有可核實的正式認定。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-11",
+      "comparisonIds": ["comparison-cand-hung-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補當選已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-12",
+      "comparisonIds": ["comparison-cand-hung-renovation"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "報導只有公帑疑慮與本人自費說法，未有審計、司法或其他正式程序確認公共責任事實。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-13",
+      "comparisonIds": ["comparison-cand-tsai-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補當選已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-party-list-zero-1-14",
+      "comparisonIds": ["comparison-cand-wang-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補當選已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion":"1.0.0","batchId":"research-20260928-46765","primaryVersionId":"primary-research-20260928-46765-r1","independentVersionId":"independent-research-20260928-46765-r1","decidedAt":"2026-09-28","additionalSources":[],
+  "records":[
+    {"id":"adj-46765-1","comparisonIds":["comparison-p-ho-sports"],"additionalSourceIds":[],"decision":"publish","reason":"官方議案頁確認何欣純提案角色與併案三讀結果；只歸屬其實際參與。","finalEventId":"bill-203110061600000","finalSummary":"何欣純領銜提出《國民體育法》修正草案，該版本其後納入併案並三讀。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-2","comparisonIds":["comparison-p-tsai-platform"],"additionalSourceIds":[],"decision":"publish","reason":"官方議案資料確認蔡其昌共同領銜提案及審議狀態。","finalEventId":"bill-202110164350000","finalSummary":"蔡其昌共同領銜提出《網際網路平臺廣告管理法》草案；截至查閱日仍在審議。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-3","comparisonIds":["comparison-p-hsiupao-gas"],"additionalSourceIds":[],"decision":"publish","reason":"官方議案資料確認陳秀寳共同領銜提案及審議狀態。","finalEventId":"bill-202110168050000","finalSummary":"陳秀寳共同領銜提出《天然氣事業法》第55條之1修正草案；截至查閱日仍在審議。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-4","comparisonIds":["comparison-p-hsiupao-election-complaint-c-chen-hsiupao-complaint"],"additionalSourceIds":[],"decision":"reject","reason":"兩軌均未取得偵查終結處分、法院裁判或足以確認後續程序的獨立來源。","finalEventId":null,"decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-5","comparisonIds":["comparison-p-suyueh-osh"],"additionalSourceIds":[],"decision":"publish","reason":"官方議案資料確認陳素月共同領銜提案及審議狀態。","finalEventId":"bill-202110167350000","finalSummary":"陳素月共同領銜提出《職業安全衛生法》部分條文修正草案；截至查閱日仍在審議。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-6","comparisonIds":["comparison-p-suyueh-volunteer-fraud-c-chen-suyue-fake-aide"],"additionalSourceIds":[],"decision":"publish","reason":"獨立軌來源確認冒名者遭起訴；事件文字清楚標明陳素月未涉案，不將第三人行為歸責於她。","finalEventId":"event-suyueh-fake-aide-2026","finalSummary":"一名前辦公室義工冒稱陳素月助理詐騙而遭起訴；現有資料未指控陳素月涉案。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-7","comparisonIds":["comparison-c-ho-recall"],"additionalSourceIds":[],"decision":"publish","reason":"正式程序與多方來源確認二階連署未送件，僅呈現程序終止。","finalEventId":"event-ho-recall-ended-2025","finalSummary":"何欣純罷免案因二階連署未送件而終止，未進入投票。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adj-46765-8","comparisonIds":["comparison-c-tsai-recall"],"additionalSourceIds":[],"decision":"publish","reason":"正式程序與多方來源確認二階連署未送件，僅呈現程序終止。","finalEventId":"event-tsai-chi-chang-recall-ended-2025","finalSummary":"蔡其昌罷免案因二階連署未送件而終止，未進入投票。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"}
+  ]
+}

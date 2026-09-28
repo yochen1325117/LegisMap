@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46828",
+  "versionId": "independent-research-20260928-46828-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:33:09.698Z",
+  "contentHash": "41e9f8b4f4c3bef03afb261a0f59676da3533d832c3d1dc22069df89b501b971",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46828",
+      "query": "罷免 選舉 政治獻金 司法 判決 爭議 黃秀芳",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 回應 後續 公告 起訴 裁定 判決 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsieh-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsieh-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46851",
+      "query": "罷免 選舉 政治獻金 司法 判決 爭議 謝衣鳯",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsieh-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsieh-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 回應 後續 公告 起訴 裁定 判決 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsieh-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46841",
+      "query": "劉建國 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-liu-constitutional"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46841",
+      "query": "劉建國 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-liu-constitutional"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46841",
+      "query": "罷免 選舉 政治獻金 司法 判決 爭議 劉建國",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-liu-constitutional"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46841",
+      "query": "劉建國 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-liu-constitutional"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46841",
+      "query": "劉建國 回應 後續 公告 起訴 裁定 判決 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-liu-constitutional"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46781",
+      "query": "罷免 選舉 政治獻金 司法 判決 爭議 林俊憲",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 回應 後續 公告 起訴 裁定 判決 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-huang-election",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46828"
+      ],
+      "provisionalCategory": "選舉結果",
+      "title": "黃秀芳參選2022彰化縣長落選",
+      "summary": "黃秀芳代表民進黨參選第19屆彰化縣長，獲27萬2817票，敗給連任的王惠美。",
+      "occurredAt": "2022-11-26",
+      "officialId": "第19屆彰化縣長選舉",
+      "sourceIds": [
+        "s-cec-huang",
+        "s-cna-huang-loss",
+        "s-cna-huang-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/04%E7%B8%A3%E5%B8%82%E9%95%B7/111%E5%B9%B4/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%B8%A3%E9%95%B7.pdf",
+        "https://www.cna.com.tw/news/aipl/202211260164.aspx",
+        "https://www.cna.com.tw/news/aipl/202211270005.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46828",
+          "role": "彰化縣長候選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "開票當晚自行宣布敗選。",
+      "processStatus": "選舉完成並公告結果",
+      "resultStatus": "落選",
+      "evidenceLevel": "official_primary_plus_news",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "c-hsieh-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46851"
+      ],
+      "provisionalCategory": "罷免程序",
+      "title": "謝衣鳯罷免案二階連署未達門檻而未成案",
+      "summary": "罷免團體取得1萬9131份連署，未達法定門檻，決定不送件；後續中選會進度資料列為未成案。",
+      "occurredAt": "2025-05-13",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-hsieh-recall",
+        "s-cna-recall-summary"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202505130295.aspx",
+        "https://www.cna.com.tw/news/aipl/202506230278.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46851",
+          "role": "罷免提議標的"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "感謝鄉親支持，表示會繼續打拚。",
+      "processStatus": "二階連署未達門檻且未送件",
+      "resultStatus": "罷免未成案，未進入投票",
+      "evidenceLevel": "election_authority_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "c-liu-constitutional",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46841"
+      ],
+      "provisionalCategory": "民事與憲法訴訟",
+      "title": "劉建國名譽訴訟敗訴後聲請裁判憲法審查不受理",
+      "summary": "劉建國就「愛情騙子」言論提起名譽侵權訴訟敗訴，後聲請裁判憲法審查；憲法法庭113年審裁字第403號裁定不受理。",
+      "occurredAt": "2024-06-14",
+      "officialId": "憲法法庭113年審裁字第403號",
+      "sourceIds": [
+        "s-const-liu",
+        "s-cna-liu"
+      ],
+      "canonicalSourceUrls": [
+        "https://cons.judicial.gov.tw/download/download.aspx?id=473560",
+        "https://www.cna.com.tw/news/asoc/202406140119.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46841",
+          "role": "民事原告及憲法訴訟聲請人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "主張原確定裁判侵害其訴訟權與名譽人格權。",
+      "processStatus": "憲法法庭程序終結",
+      "resultStatus": "裁判憲法審查聲請不受理",
+      "evidenceLevel": "official_final_court_record",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    },
+    {
+      "id": "c-lin-recall-forgery",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46781"
+      ],
+      "provisionalCategory": "罷免程序與偽造案",
+      "title": "林俊憲罷免提議名冊涉偽造，罷免案未成案",
+      "summary": "檢調偵辦林俊憲罷免提議名冊偽造案，多名黨務人員遭處分；中選會另處理名冊效力，最終該罷免案未送件或未成案。林俊憲是罷免標的，不是偽造案被告。",
+      "occurredAt": "2025-06-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-lin-investigation",
+        "s-cna-lin-cec",
+        "s-cna-lin-response",
+        "s-cna-recall-summary"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202505080405.aspx",
+        "https://www.cna.com.tw/news/aipl/202505190132.aspx",
+        "https://www.cna.com.tw/news/aipl/202502110130.aspx",
+        "https://www.cna.com.tw/news/aipl/202506230278.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46781",
+          "role": "罷免提議標的及要求查明者；非偽造案被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "尊重公民監督，但要求檢調嚴查是否偽造連署。",
+      "processStatus": "偽造案由檢方偵辦；罷免程序未成案",
+      "resultStatus": "未進入罷免投票",
+      "evidenceLevel": "prosecution_and_election_authority_reporting",
+      "publicationDecision": "publish_with_role_separation",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46828-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cec-huang",
+      "title": "臺灣省彰化縣第十九屆縣長選舉選舉公報",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/04%E7%B8%A3%E5%B8%82%E9%95%B7/111%E5%B9%B4/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%B8%A3%E9%95%B7.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2022-11-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃秀芳候選人資料及政見"
+    },
+    {
+      "id": "s-cna-huang-loss",
+      "title": "彰化縣長選舉 民進黨黃秀芳自行宣布敗選",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202211260164.aspx",
+      "sourceType": "news",
+      "publishedAt": "2022-11-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃秀芳宣布敗選"
+    },
+    {
+      "id": "s-cna-huang-result",
+      "title": "王惠美連任彰化縣長 感謝縣府團隊",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202211270005.aspx",
+      "sourceType": "news",
+      "publishedAt": "2022-11-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "彰化縣長選舉票數與王惠美當選結果"
+    },
+    {
+      "id": "s-cna-hsieh-recall",
+      "title": "罷免2階連署未達標 謝衣鳯：會繼續與大家打拚",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202505130295.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷團宣布連署未達門檻不送件及謝衣鳯回應"
+    },
+    {
+      "id": "s-cna-recall-summary",
+      "title": "全國罷免送件將截止 7藍委待補件查對、無綠委成案",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506230278.aspx",
+      "sourceType": "official_statement_reporting",
+      "publishedAt": "2025-06-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會進度摘要列謝衣鳯案未成案、林俊憲案未送件或未成案"
+    },
+    {
+      "id": "s-const-liu",
+      "title": "憲法法庭113年審裁字第403號裁定",
+      "publisher": "憲法法庭",
+      "url": "https://cons.judicial.gov.tw/download/download.aspx?id=473560",
+      "sourceType": "official_court_record",
+      "publishedAt": "2024-06-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "劉建國裁判憲法審查聲請一致決不受理"
+    },
+    {
+      "id": "s-cna-liu",
+      "title": "被指愛情騙子提告敗訴 劉建國聲請釋憲遭裁不受理",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202406140119.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2024-06-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "名譽訴訟程序及憲法法庭不受理理由"
+    },
+    {
+      "id": "s-cna-lin-investigation",
+      "title": "罷免林俊憲王定宇案疑涉不法 國民黨南市副主委坦承犯行20萬元交保",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202505080405.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2025-05-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免提議名冊偽造偵辦及林俊憲為罷免標的"
+    },
+    {
+      "id": "s-cna-lin-cec",
+      "title": "台南罷免涉偽造是否影響成案 中選會將討論後續應處",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202505190132.aspx",
+      "sourceType": "official_statement_reporting",
+      "publishedAt": "2025-05-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會表示將依台南選委會調查報告處理林俊憲案"
+    },
+    {
+      "id": "s-cna-lin-response",
+      "title": "爆遭提罷免後退件 林俊憲王定宇籲嚴查連署是否造假",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202502110130.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-02-11",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "林俊憲要求查明連署真偽並表達回應"
+    }
+  ]
+}

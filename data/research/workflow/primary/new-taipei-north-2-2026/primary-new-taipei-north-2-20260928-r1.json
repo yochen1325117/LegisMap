@@ -1,0 +1,724 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "new-taipei-north-2-2026",
+  "versionId": "primary-new-taipei-north-2-20260928-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:10:35.310Z",
+  "contentHash": "890606e6e1f47ba04b05aea65b291e4b0787a5ee5e3b2f8752bef291d30c2b14",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46787-legislative",
+      "track": "primary",
+      "memberId": "ly11-46787",
+      "query": "林德福 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-lind-youth-2025-ly11-46787"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46787-government",
+      "track": "primary",
+      "memberId": "ly11-46787",
+      "query": "林德福 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46787-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46787",
+      "query": "林德福 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46787-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46787",
+      "query": "林德福 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46787-statements",
+      "track": "primary",
+      "memberId": "ly11-46787",
+      "query": "林德福 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46794-legislative",
+      "track": "primary",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-hung-sports-2025-ly11-46794"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46794-government",
+      "track": "primary",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46794-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-hung-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46794-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-hung-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46794-statements",
+      "track": "primary",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46802-legislative",
+      "track": "primary",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-changh-gas-2025-ly11-46802"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46802-government",
+      "track": "primary",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46802-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-changhunglu-recall-20250608"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46802-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-changhunglu-recall-20250608"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46802-statements",
+      "track": "primary",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46804-legislative",
+      "track": "primary",
+      "memberId": "ly11-46804",
+      "query": "張智倫 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-bill-202110126800000-ly11-46804"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46804-government",
+      "track": "primary",
+      "memberId": "ly11-46804",
+      "query": "張智倫 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46804-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46804",
+      "query": "張智倫 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-changchihlun-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46804-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46804",
+      "query": "張智倫 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-changchihlun-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46804-statements",
+      "track": "primary",
+      "memberId": "ly11-46804",
+      "query": "張智倫 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-event-nt-lind-youth-2025-ly11-46787",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46787"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出青年發展基本法草案",
+      "summary": "立法院議案頁列林德福等20人提出《青年發展基本法》草案；與多項青年基本法版本併案審議。日期為議案頁所列協商日。",
+      "occurredAt": "2025-12-26",
+      "officialId": null,
+      "sourceIds": [
+        "nt-lind-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110017600000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-event-nt-hung-sports-2025-ly11-46794",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46794"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出運動發展部組織法草案",
+      "summary": "立法院議案頁列洪孟楷等19人提出《運動發展部組織法》草案，與運動部組織法等版本併案審議。",
+      "occurredAt": "2025-01-23",
+      "officialId": null,
+      "sourceIds": [
+        "nt-hung-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110033000000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-event-nt-changh-gas-2025-ly11-46802",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46802"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出天然氣事業法修正草案",
+      "summary": "立法院議案頁列張宏陸等19人提出《天然氣事業法》第55條之1修正草案；日期為議案頁進度日期，不代表修法已通過。",
+      "occurredAt": "2025-11-28",
+      "officialId": null,
+      "sourceIds": [
+        "nt-changh-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110175030000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-bill-202110126800000-ly11-46804",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46804"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒少性剝削防制條例修正草案",
+      "summary": "立法院議案頁列張智倫等18人擬具《兒童及少年性剝削防制條例》部分條文修正草案。",
+      "occurredAt": "2025-05-16",
+      "officialId": "202110126800000",
+      "sourceIds": [
+        "nt-changc-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110126800000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-lin-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46787"
+      ],
+      "provisionalCategory": "concern",
+      "title": "林德福罷免案投票結果為否決",
+      "summary": "中央選舉委員會結果附件與中央社開票整理均記錄林德福罷免案未通過。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "nt2-cec-results",
+        "nt2-cna-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/tpcec/article/60789",
+        "https://www.cna.com.tw/news/aipl/202507265011.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-hung-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46794"
+      ],
+      "provisionalCategory": "concern",
+      "title": "洪孟楷罷免案投票結果為否決",
+      "summary": "中央選舉委員會結果附件記錄同意票94,808票、不同意票121,592票，罷免結果為否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "nt2-cec-results",
+        "nt2-cna-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/tpcec/article/60789",
+        "https://www.cna.com.tw/news/aipl/202507265011.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-changhunglu-recall-20250608",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46802"
+      ],
+      "provisionalCategory": "concern",
+      "title": "罷免案第二階段未送件而停止",
+      "summary": "罷免張宏陸案進入第二階段後，罷團於截止日宣布不送件，因此未進入投票。張宏陸是罷免標的。",
+      "occurredAt": "2025-06-08",
+      "officialId": null,
+      "sourceIds": [
+        "nt2-cec-minutes",
+        "nt2-cna-chang-ended"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/726fce2e-629e-4d7b-bde4-d498449add51.pdf",
+        "https://www.cna.com.tw/news/aipl/202506080138.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "primary-changchihlun-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46804"
+      ],
+      "provisionalCategory": "concern",
+      "title": "張智倫罷免案投票結果為否決",
+      "summary": "中央選舉委員會結果附件與中央社開票整理均記錄張智倫罷免案未通過。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "nt2-cec-results",
+        "nt2-cna-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/tpcec/article/60789",
+        "https://www.cna.com.tw/news/aipl/202507265011.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-2-20260928-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "nt-lind-bill",
+      "title": "青年發展基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110017600000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "林德福等20人提案；審議進度欄記載三讀及114年12月26日協商",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-hung-bill",
+      "title": "運動發展部組織法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110033000000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "洪孟楷等19人提案；審議進度欄列與運動部組織法等版本併案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-changh-bill",
+      "title": "天然氣事業法第五十五條之一條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110175030000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、張宏陸等19人及114年11月28日進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-changc-bill",
+      "title": "兒童及少年性剝削防制條例部分條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110126800000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、張智倫等18人及114年5月16日進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt2-cec-results",
+      "title": "第11屆立法委員罷免案結果總表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/tpcec/article/60789",
+      "sourceType": "official",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "新北市第1、8、9選舉區罷免結果附件。"
+    },
+    {
+      "id": "nt2-cna-results",
+      "title": "2025立委罷免案開票結果一覽 7月26日24案全數不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507265011.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "開票結果列洪孟楷、林德福及張智倫罷免案否決。"
+    },
+    {
+      "id": "nt2-cna-chang-ended",
+      "title": "罷團二階不送件 張宏陸：續為地方打拚",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506080138.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二階截止未送件及張宏陸回應。"
+    },
+    {
+      "id": "nt2-cec-minutes",
+      "title": "新北市選舉委員會第118次委員會議紀錄",
+      "publisher": "新北市選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/726fce2e-629e-4d7b-bde4-d498449add51.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-04-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "會議紀錄列張宏陸等罷免案程序。"
+    }
+  ]
+}

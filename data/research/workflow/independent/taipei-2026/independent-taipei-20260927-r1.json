@@ -1,0 +1,1408 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "independent",
+  "batchId": "taipei-2026",
+  "versionId": "independent-taipei-20260927-r1",
+  "performedBy": "codex-independent-taipei-review",
+  "researchedAt": "2026-09-27",
+  "lockedAt": "2026-09-27T15:18:42.703Z",
+  "contentHash": "3db894c01b2ea211b736b3ff6f64ab2fea5fe319fd40c315f8cd6666a66d9816",
+  "searchRuns": [
+    {
+      "id": "sr-tpe-001",
+      "track": "independent",
+      "memberId": "ly11-46758",
+      "query": "王世堅 主要媒體站內與立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsk-defamation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-002",
+      "track": "independent",
+      "memberId": "ly11-46758",
+      "query": "王世堅 立法院 司法院 北檢 監察院 中選會 審計部",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsk-defamation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-003",
+      "track": "independent",
+      "memberId": "ly11-46758",
+      "query": "王世堅 政策 法案 司法 選舉 政治獻金 社群爭議",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsk-defamation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-004",
+      "track": "independent",
+      "memberId": "ly11-46758",
+      "query": "王世堅 王世堅 王世坚 WANG SHIH-CHIEN 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsk-defamation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-005",
+      "track": "independent",
+      "memberId": "ly11-46758",
+      "query": "王世堅 指控 回應 道歉 調查 判決 後續結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsk-defamation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-006",
+      "track": "independent",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 中央社 公視 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-whw-pan",
+        "c-whw-recall"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-007",
+      "track": "independent",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 立法院 司法院 北檢 監察院 中選會 審計部",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-whw-pan",
+        "c-whw-recall"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-008",
+      "track": "independent",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 潘孟安 豪宅 國會衝突 罷免 政治獻金",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-whw-pan",
+        "c-whw-recall"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-009",
+      "track": "independent",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 王鴻薇 王鸿薇 WANG HUNG-WEI 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-whw-pan",
+        "c-whw-recall"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-010",
+      "track": "independent",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 本人回應 上訴 最高法院 發回 罷免結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-whw-pan",
+        "c-whw-recall"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-011",
+      "track": "independent",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpy-chen"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-012",
+      "track": "independent",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 立法院 司法院 北檢 監察院 中選會 審計部",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpy-chen"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-013",
+      "track": "independent",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 陳玉珍 求碰瓷 國會衝突 罷免連署",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpy-chen"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-014",
+      "track": "independent",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 吳沛憶 吴沛忆 WU PEI-YI 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpy-chen"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-015",
+      "track": "independent",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 本人回應 上訴 判決 後續結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpy-chen"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-016",
+      "track": "independent",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsy-trade",
+        "c-wsy-recall-fraud"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-017",
+      "track": "independent",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 立法院 司法院 士檢 監察院 中選會 審計部",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsy-trade",
+        "c-wsy-recall-fraud"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-018",
+      "track": "independent",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 服貿 選舉言論 罷免幽靈連署",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsy-trade",
+        "c-wsy-recall-fraud"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-019",
+      "track": "independent",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 吳思瑤 吴思瑶 WU Szu-Yao 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsy-trade",
+        "c-wsy-recall-fraud"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-020",
+      "track": "independent",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 本人回應 不起訴 罷免結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wsy-trade",
+        "c-wsy-recall-fraud"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-021",
+      "track": "independent",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lyh-property"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-022",
+      "track": "independent",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 立法院 監察院 財產申報 中選會 司法院",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lyh-property"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-023",
+      "track": "independent",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 美國房產 海外信託 申報 罷免",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lyh-property"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-024",
+      "track": "independent",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 李彥秀 李彦秀 LEE YEN-HSIU 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lyh-property"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-025",
+      "track": "independent",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 本人道歉 監察院查核 裁罰 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lyh-property"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-026",
+      "track": "independent",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hch-family-fraud",
+        "c-hch-leak",
+        "c-hch-election"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-027",
+      "track": "independent",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 立法院 北檢 司法院 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hch-family-fraud",
+        "c-hch-leak",
+        "c-hch-election"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-028",
+      "track": "independent",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 洩密 詐欺 洗錢 潛艦 政治獻金 罷免",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hch-family-fraud",
+        "c-hch-leak",
+        "c-hch-election"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-029",
+      "track": "independent",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 徐巧芯 HSU CHIAO-HSIN 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hch-family-fraud",
+        "c-hch-leak",
+        "c-hch-election"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-030",
+      "track": "independent",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 本人回應 起訴 不起訴 再議 判決",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hch-family-fraud",
+        "c-hch-leak",
+        "c-hch-election"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-031",
+      "track": "independent",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsb-crash"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-032",
+      "track": "independent",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 立法院 北檢 司法院 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsb-crash"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-033",
+      "track": "independent",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 車禍 行人 罷免 政策 法案",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsb-crash"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-034",
+      "track": "independent",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 賴士葆 赖士葆 LAI SHIH-BAO 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsb-crash"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-035",
+      "track": "independent",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 本人道歉 和解 起訴 判決 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsb-crash"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-036",
+      "track": "independent",
+      "memberId": "ly11-46859",
+      "query": "羅智強 中央社 公視 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lcq-donation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-037",
+      "track": "independent",
+      "memberId": "ly11-46859",
+      "query": "羅智強 立法院 監察院 政治獻金 中選會 司法院",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lcq-donation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-038",
+      "track": "independent",
+      "memberId": "ly11-46859",
+      "query": "羅智強 政治獻金 基金會 罷免 國會衝突",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lcq-donation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-039",
+      "track": "independent",
+      "memberId": "ly11-46859",
+      "query": "羅智強 羅智強 罗智强 LO CHIH-CHIANG 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lcq-donation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    },
+    {
+      "id": "sr-tpe-040",
+      "track": "independent",
+      "memberId": "ly11-46859",
+      "query": "羅智強 本人說明 民事判決 上訴 罷免結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lcq-donation"
+      ],
+      "performedBy": "codex-independent-taipei-review",
+      "lockedAt": null,
+      "versionId": "independent-taipei-20260927-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-wsk-defamation",
+      "memberIds": [
+        "ly11-46758"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "何志偉對王世堅提出誹謗告訴及民事求償",
+      "summary": "2023年何志偉就王世堅所稱「講假話」提起刑事告訴及600萬元民事求償；可查來源僅確認法院命補繳裁判費，尚未確認本案終局結果。",
+      "occurredAt": "2023-08-02",
+      "sourceIds": [
+        "s-wsk-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/acn/202308020093.aspx"
+      ],
+      "roleClaims": [
+        "被告／民事相對人；言論內容為提告方主張"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "直接法院裁判或檢察處分",
+        "終局結果",
+        "王世堅對本案回應"
+      ],
+      "personResponse": null,
+      "processStatus": "complaint_filed",
+      "resultStatus": "unknown",
+      "evidenceLevel": "single_independent_news",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-whw-pan",
+      "memberIds": [
+        "ly11-46762"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "潘孟安就豪宅與官商勾結指控對王鴻薇求償",
+      "summary": "王鴻薇公開質疑潘孟安受財團供養。北院、高院判賠50萬元；2026年最高法院廢棄原判並發回高院，尚非確定賠償結果。",
+      "occurredAt": "2023-12-04",
+      "sourceIds": [
+        "s-whw-cna1",
+        "s-whw-cna2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202407230371.aspx",
+        "https://www.cna.com.tw/news/asoc/202602240073.aspx"
+      ],
+      "roleClaims": [
+        "言論發表者",
+        "民事被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "王鴻薇主張揭弊有所本並曾表示將上訴。",
+      "processStatus": "remanded",
+      "resultStatus": "supreme_court_vacated_and_remanded",
+      "evidenceLevel": "two_independent_reports_with_court_outcome",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-whw-recall",
+      "memberIds": [
+        "ly11-46762"
+      ],
+      "provisionalCategory": "election",
+      "title": "王鴻薇罷免案未通過",
+      "summary": "中選機關辦理臺北市第3選區罷免投票；2025年7月26日開票後罷免未通過。",
+      "occurredAt": "2025-07-26",
+      "sourceIds": [
+        "s-cec-tpe",
+        "s-whw-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/mect/article/60720",
+        "https://www.cna.com.tw/news/aipl/202507260143.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "王鴻薇宣布罷免未通過並哽咽回應。",
+      "processStatus": "vote_completed",
+      "resultStatus": "recall_failed",
+      "evidenceLevel": "official_plus_independent_news",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-wpy-chen",
+      "memberIds": [
+        "ly11-46766"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "吳沛憶「求碰瓷」言論民事判賠5萬元",
+      "summary": "北院認定吳沛憶指陳玉珍自拉衣服「求碰瓷」欠缺相當理由確信為真，2025年判賠5萬元；報導時尚未確定。",
+      "occurredAt": "2025-08-15",
+      "sourceIds": [
+        "s-wpy-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508150323.aspx"
+      ],
+      "roleClaims": [
+        "言論發表者",
+        "民事被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [
+        "是否上訴及後續確定結果"
+      ],
+      "personResponse": "吳沛憶表示將與律師討論是否上訴。",
+      "processStatus": "first_instance_judgment",
+      "resultStatus": "damages_50000_not_confirmed_final",
+      "evidenceLevel": "direct_court_reason_reported_by_wire_service",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-wsy-trade",
+      "memberIds": [
+        "ly11-46769"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "吳思瑤「藍白重啟服貿」選舉言論獲不起訴",
+      "summary": "士林地檢署認為吳思瑤於2024大選期間相關發文屬言論自由範疇，2025年不起訴。",
+      "occurredAt": "2025-04-05",
+      "sourceIds": [
+        "s-wsy-cna2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202504050060.aspx"
+      ],
+      "roleClaims": [
+        "被告發人",
+        "言論發表者"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "non_prosecution",
+      "resultStatus": "not_prosecuted",
+      "evidenceLevel": "prosecutorial_outcome_reported_by_wire_service",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-wsy-recall-fraud",
+      "memberIds": [
+        "ly11-46769",
+        "ly11-46766"
+      ],
+      "provisionalCategory": "election",
+      "title": "罷免吳思瑤、吳沛憶提議書偽造案",
+      "summary": "北檢起訴國民黨臺北市黨部及罷免領銜相關人員；吳思瑤、吳沛憶是罷免標的與事件關係人，並非被起訴人。",
+      "occurredAt": "2025-06-16",
+      "sourceIds": [
+        "s-wsy-cec",
+        "s-wsy-cna1"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/59941",
+        "https://www.cna.com.tw/news/asoc/202506160263.aspx"
+      ],
+      "roleClaims": [
+        "罷免標的／被害關係人；非刑事被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "吳思瑤表示無限感慨。",
+      "processStatus": "third_parties_indicted",
+      "resultStatus": "pending_trial",
+      "evidenceLevel": "official_election_record_plus_prosecution_report",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-lyh-property",
+      "memberIds": [
+        "ly11-46773"
+      ],
+      "provisionalCategory": "asset_disclosure",
+      "title": "李彥秀美國房產財產申報查核",
+      "summary": "李彥秀承認1998至2002年間未申報父親以其名義購買的加州房產；監察院財產申報處2025年立案查核。尚未找到監察院裁罰或結案公告。",
+      "occurredAt": "2025-02-13",
+      "sourceIds": [
+        "s-lyh-pts"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/737605"
+      ],
+      "roleClaims": [
+        "財產申報義務人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "監察院正式查核結果或裁罰書",
+        "後續行政救濟結果"
+      ],
+      "personResponse": "李彥秀承認疏失、致歉，稱會依法配合並坦然面對裁罰；另稱兩間信託房產已申報。",
+      "processStatus": "administrative_review",
+      "resultStatus": "pending_or_not_located",
+      "evidenceLevel": "single_independent_public_broadcaster_report",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-hch-family-fraud",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "徐巧芯親屬涉詐欺洗錢案與對徐巧芯另案告發",
+      "summary": "北檢起訴徐巧芯大姑、其夫等4人涉詐欺洗錢；起訴對象不含徐巧芯。另有人告發徐巧芯詐欺、貪污，報導時仍為他字案偵辦，不應把親屬罪嫌歸責徐巧芯。",
+      "occurredAt": "2024-07-17",
+      "sourceIds": [
+        "s-hch-cna1",
+        "s-hch-cna2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202404230139.aspx",
+        "https://www.cna.com.tw/news/asoc/202407170063.aspx"
+      ],
+      "roleClaims": [
+        "親屬涉案；本人另受告發但未起訴"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "對徐巧芯本人告發案的正式偵結結果"
+      ],
+      "personResponse": "徐巧芯表示若本人涉案願辭職，並稱司法會還她清白。",
+      "processStatus": "relative_indicted_person_separate_investigation",
+      "resultStatus": "no_charge_against_member_located",
+      "evidenceLevel": "two_wire_reports",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-hch-leak",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "徐巧芯公開文件遭告發洩密案",
+      "summary": "2023及2024年間公開外交相關文件後遭告發洩密；至2026年媒體僅稱列被告偵查，未查得起訴或不起訴正式結果。",
+      "occurredAt": "2024-05-06",
+      "sourceIds": [],
+      "canonicalSourceUrls": [],
+      "roleClaims": [
+        "被告發人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "北檢正式案件狀態或偵結處分",
+        "公開內容的密等與解密狀態直接證據"
+      ],
+      "personResponse": "徐巧芯稱案件尚未起訴，會繼續監督。",
+      "processStatus": "investigation_reported",
+      "resultStatus": "unknown",
+      "evidenceLevel": "insufficient_for_publication",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-hch-election",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "election",
+      "title": "徐巧芯選區相關賄選與赴中招待告發案不起訴確定",
+      "summary": "北市8名里長因附徐巧芯文宣物品或赴中招待被告發，北檢不起訴，高檢駁回再議確定；徐巧芯不是處分對象。",
+      "occurredAt": "2025-09-02",
+      "sourceIds": [
+        "s-hch-cna3"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202509020025.aspx"
+      ],
+      "roleClaims": [
+        "相關候選人；非被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "non_prosecution_final",
+      "resultStatus": "third_parties_not_prosecuted",
+      "evidenceLevel": "prosecutorial_outcome_reported_by_wire_service",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-lsb-crash",
+      "memberIds": [
+        "ly11-46848"
+      ],
+      "provisionalCategory": "conduct",
+      "title": "賴士葆駕車轉彎撞傷兩名行人",
+      "summary": "2024年7月9日賴士葆駕車左轉碰撞行穿線上兩名女子，警方排除酒駕；本人承認駕駛、道歉並稱負全責，後續報導記載雙方已和解。",
+      "occurredAt": "2024-07-09",
+      "sourceIds": [
+        "s-lsb-cna1",
+        "s-lsb-cna2",
+        "s-lsb-cna3"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202407100039.aspx",
+        "https://www.cna.com.tw/news/aipl/202407100041.aspx",
+        "https://www.cna.com.tw/news/asoc/202510080375.aspx"
+      ],
+      "roleClaims": [
+        "肇事駕駛"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "兩度鞠躬致歉，表示未酒駕、將負完全責任。",
+      "processStatus": "settled_with_injured_parties",
+      "resultStatus": "settlement_reported",
+      "evidenceLevel": "multiple_independent_reports_with_police_facts",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-taipei-20260927-r1",
+      "id": "c-lcq-donation",
+      "memberIds": [
+        "ly11-46859"
+      ],
+      "provisionalCategory": "political_finance",
+      "title": "羅智強2022政治獻金支出爭議及名譽訴訟",
+      "summary": "簡舒培評論羅智強2022年參選桃園期間約千萬元政治獻金支出流向；羅提民事求償。北院2026年判羅敗訴、簡免賠，仍可上訴。判決不等於認定羅有違反政治獻金法。",
+      "occurredAt": "2026-08-01",
+      "sourceIds": [
+        "s-lcq-udn"
+      ],
+      "canonicalSourceUrls": [
+        "https://udn.com/news/story/7321/9700376"
+      ],
+      "roleClaims": [
+        "政治獻金專戶候選人",
+        "名譽訴訟原告"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "判決全文與案號",
+        "監察院政治獻金原始申報",
+        "是否上訴"
+      ],
+      "personResponse": "羅智強主張款項支付設計公司，均用於選舉研究、規劃與廣告。",
+      "processStatus": "first_instance_civil_judgment",
+      "resultStatus": "claim_dismissed_appealable",
+      "evidenceLevel": "single_independent_news",
+      "publicationDecision": "hold"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-wsk-ly",
+      "title": "王世堅委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46758",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "委員頁與英文姓名"
+    },
+    {
+      "id": "s-wsk-cna",
+      "title": "何志偉對莊瑞雄、王世堅求償 法院命補繳裁判費",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/acn/202308020093.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-08-02",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "民刑事提告、補繳裁判費裁定"
+    },
+    {
+      "id": "s-whw-cna1",
+      "title": "王鴻薇敗訴判賠50萬 潘孟安：應立刻道歉刪造謠貼文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202407230371.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-23",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "一審結果及王鴻薇回應"
+    },
+    {
+      "id": "s-whw-cna2",
+      "title": "王鴻薇爆潘孟安住廠商豪宅判賠50萬 最高院判發回",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202602240073.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "最高法院廢棄發回"
+    },
+    {
+      "id": "s-cec-tpe",
+      "title": "公告臺北市第3、4、6、7、8選區罷免案投票人人數",
+      "publisher": "臺北市選舉委員會",
+      "url": "https://web.cec.gov.tw/mect/article/60720",
+      "sourceType": "official",
+      "publishedAt": "2025-07-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "罷免投票公告"
+    },
+    {
+      "id": "s-whw-recall",
+      "title": "罷免案開票 王鴻薇自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260143.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "投票結果及回應"
+    },
+    {
+      "id": "s-wpy-cna",
+      "title": "遭陳玉珍求償法院判賠5萬 吳沛憶擬討論上訴否",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508150323.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "北院判決理由與當事人回應"
+    },
+    {
+      "id": "s-wsy-cec",
+      "title": "吳思瑤罷免案提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/59941",
+      "sourceType": "official",
+      "publishedAt": "2025-03-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "提議人名冊查對"
+    },
+    {
+      "id": "s-wsy-cna1",
+      "title": "北檢：逾9成罷免吳思瑤吳沛憶提議書涉偽造",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202506160263.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-16",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "北檢起訴內容與吳思瑤回應"
+    },
+    {
+      "id": "s-wsy-cna2",
+      "title": "指藍白重啟服貿 吳思瑤、王定宇獲不起訴處分",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202504050060.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-04-05",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "士檢不起訴結果"
+    },
+    {
+      "id": "s-lyh-pts",
+      "title": "監察院立案查美國房產 李彥秀：坦蕩並依法配合",
+      "publisher": "公共電視",
+      "url": "https://news.pts.org.tw/article/737605",
+      "sourceType": "news",
+      "publishedAt": "2025-02-13",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "監察院立案、本人承認疏失與回應"
+    },
+    {
+      "id": "s-hch-cna1",
+      "title": "被控詐欺北檢分案偵辦 徐巧芯：司法會還我清白",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202404230139.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-04-23",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "北檢分案與本人回應"
+    },
+    {
+      "id": "s-hch-cna2",
+      "title": "徐巧芯大姑等4人涉幫詐團洗錢逾2700萬 北檢起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202407170063.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-17",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "起訴對象與徐巧芯另案仍偵辦"
+    },
+    {
+      "id": "s-hch-cna3",
+      "title": "被控幫徐巧芯賄選、赴中參訪 北市8里長不起訴確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202509020025.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-09-02",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "不起訴及再議駁回確定"
+    },
+    {
+      "id": "s-lsb-cna1",
+      "title": "賴士葆駕車轉彎撞傷2行人 警排除酒駕",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202407100039.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-10",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "警方初判、酒測與傷勢"
+    },
+    {
+      "id": "s-lsb-cna2",
+      "title": "賴士葆駕車撞傷行人 兩度鞠躬致歉",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202407100041.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-10",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "本人承認駕駛並道歉"
+    },
+    {
+      "id": "s-lsb-cna3",
+      "title": "賴士葆撞傷2女和解 員警洩車禍照片獲緩刑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202510080375.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-08",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "記載兩名傷者與賴士葆和解"
+    },
+    {
+      "id": "s-lcq-udn",
+      "title": "爆羅智強把千萬政治獻金給自家基金會 簡舒培遭求償結果",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/7321/9700376",
+      "sourceType": "news",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "北院民事判決、雙方主張及金流爭點"
+    },
+    {
+      "id": "s-lcq-cec",
+      "title": "臺北市第6選舉區立法委員羅智強罷免公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/02%E8%87%BA%E5%8C%97%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E8%87%BA%E5%8C%97%E5%B8%82%E7%AC%AC6%E9%81%B8%E8%88%89%E5%8D%80%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E7%BE%85%E6%99%BA%E5%BC%B7%E7%BD%B7%E5%85%8D%E5%85%AC%E5%91%8A.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-04",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "罷免理由與答辯全文"
+    }
+  ]
+}

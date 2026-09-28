@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "new-taipei-north-3-2026",
+  "primaryVersionId": "primary-new-taipei-north-3-20260928-r1",
+  "independentVersionId": "independent-new-taipei-north-3-20260928-r1",
+  "decidedAt": "2026-09-28",
+  "records": [
+    {
+      "id": "adjudication-new-taipei-north-3-1",
+      "comparisonIds": [
+        "comparison-primary-event-nt-yeh-ai-2025-ly11-46837"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-nt-yeh-ai-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-2",
+      "comparisonIds": [
+        "comparison-primary-bill-202110123870000-ly11-46839"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "bill-202110123870000",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-3",
+      "comparisonIds": [
+        "comparison-primary-bill-203110153820000-ly11-46857"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "bill-203110153820000",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-4",
+      "comparisonIds": [
+        "comparison-primary-event-nt-su-childcare-2025-ly11-46860"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-nt-su-childcare-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-5",
+      "comparisonIds": [
+        "comparison-primary-event-nt-su-spring-2025-ly11-46860"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-nt-su-spring-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-6",
+      "comparisonIds": [
+        "comparison-primary-ye-recall-20250726",
+        "comparison-c-yyc-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-new-taipei-ye-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-7",
+      "comparisonIds": [
+        "comparison-primary-liao-recall-20250726",
+        "comparison-c-lhh-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-new-taipei-liao-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-8",
+      "comparisonIds": [
+        "comparison-primary-luo-recall-20250823",
+        "comparison-c-lmt-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-new-taipei-luo-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-9",
+      "comparisonIds": [
+        "comparison-primary-su-recall-ended-20250605-c-sch-recall-forgery",
+        "comparison-primary-su-recall-ended-20250605-c-sch-recall-forgery"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-new-taipei-su-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-10",
+      "comparisonIds": [
+        "comparison-c-lmt-staff-forgery"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源與角色符合門檻；依裁決後中性文字發布，罷免相關紀錄合併為單一時間線。",
+      "finalEventId": "event-new-taipei-luo-staff-forgery-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-3-11",
+      "comparisonIds": [
+        "comparison-c-yyc-speech",
+        "comparison-c-lhh-property",
+        "comparison-c-lhh-occupation",
+        "comparison-c-sch-contract"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "缺少正式紀錄、獨立第二發布者或正式調查結果，保留研究紀錄但不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    }
+  ],
+  "additionalSources": []
+}

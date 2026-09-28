@@ -1,0 +1,21 @@
+import { existsSync, writeFileSync } from 'node:fs';
+import { buildAdjudicationDraft } from './adjudication-draft-utils.mjs';
+import { listManifests, loadVersion, readJson, root } from './workflow-utils.mjs';
+
+const batchId=process.argv[2];
+if(!batchId) throw new Error('Usage: npm run data:draft:adjudication -- <batchId>');
+const manifest=listManifests().find(item=>item.batchId===batchId);
+if(!manifest) throw new Error(`Unknown workflow batch ${batchId}`);
+if(manifest.status==='complete') throw new Error(`${batchId} is already complete; no adjudication draft may be created`);
+const finalPath=`${root}/adjudications/${batchId}.json`, draftPath=`${root}/adjudications/${batchId}.draft.json`;
+if(existsSync(finalPath)) throw new Error(`${batchId} already has a final adjudication; refusing to create a draft`);
+if(existsSync(draftPath)) throw new Error(`${batchId} already has an adjudication draft; refusing to overwrite it`);
+const primary=loadVersion('primary',manifest), independent=loadVersion('independent',manifest);
+if(!primary?.lockedAt||!independent?.lockedAt) throw new Error(`${batchId} requires two locked research versions`);
+const comparisonPath=`${root}/comparisons/${batchId}.json`;
+if(!existsSync(comparisonPath)) throw new Error(`${batchId} has no comparison file`);
+const comparison=readJson(comparisonPath);
+if(comparison.primaryVersionId!==manifest.primaryVersionId||comparison.independentVersionId!==manifest.independentVersionId) throw new Error(`${batchId} comparison does not use current versions`);
+const output=buildAdjudicationDraft({manifest,primary,independent,comparison,generatedAt:new Date().toISOString()});
+writeFileSync(draftPath,`${JSON.stringify(output,null,2)}\n`);
+console.log(`Drafted ${output.records.length} manual-review adjudication suggestions for ${batchId}.`);

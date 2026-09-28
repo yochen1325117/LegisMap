@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "new-taipei-north-3-2026",
+  "primaryVersionId": "primary-new-taipei-north-3-20260928-r1",
+  "independentVersionId": "independent-new-taipei-north-3-20260928-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-event-nt-yeh-ai-2025-ly11-46837",
+      "primaryCandidateId": "primary-event-nt-yeh-ai-2025-ly11-46837",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-bill-202110123870000-ly11-46839",
+      "primaryCandidateId": "primary-bill-202110123870000-ly11-46839",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-bill-203110153820000-ly11-46857",
+      "primaryCandidateId": "primary-bill-203110153820000-ly11-46857",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-nt-su-childcare-2025-ly11-46860",
+      "primaryCandidateId": "primary-event-nt-su-childcare-2025-ly11-46860",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-nt-su-spring-2025-ly11-46860",
+      "primaryCandidateId": "primary-event-nt-su-spring-2025-ly11-46860",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-ye-recall-20250726",
+      "primaryCandidateId": "primary-ye-recall-20250726",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-liao-recall-20250726",
+      "primaryCandidateId": "primary-liao-recall-20250726",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-luo-recall-20250823",
+      "primaryCandidateId": "primary-luo-recall-20250823",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-su-recall-ended-20250605-c-sch-recall-forgery",
+      "primaryCandidateId": "primary-su-recall-ended-20250605",
+      "independentCandidateId": "c-sch-recall-forgery",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-yyc-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-yyc-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-yyc-speech",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-yyc-speech",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lhh-property",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lhh-property",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lhh-occupation",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lhh-occupation",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lhh-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lhh-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lmt-staff-forgery",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lmt-staff-forgery",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lmt-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lmt-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-sch-contract",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-sch-contract",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

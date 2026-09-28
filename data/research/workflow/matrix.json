@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0.0",
+  "minimumResultsPerQuery": 20,
+  "maximumResultsPerQuery": 50,
+  "continueWhenNewCandidateInLastResults": 10,
+  "stopAfterResultsWithoutCandidate": 20,
+  "tracks": {
+    "primary": {
+      "sourceScopes": ["legislative", "government", "oversight_and_judicial", "independent_news", "statements"],
+      "queryFamilies": ["identity_and_year", "legislative_work", "accountability", "public_service"]
+    },
+    "independent": {
+      "sourceScopes": ["publisher_archives", "official_databases", "issue_reverse_lookup", "year_segments", "response_and_followup"],
+      "queryFamilies": ["source_led", "event_led", "identity_variants", "response_and_outcome"]
+    }
+  }
+}

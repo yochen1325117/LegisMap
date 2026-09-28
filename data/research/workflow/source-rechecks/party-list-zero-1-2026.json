@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-28T01:35:34.234Z",
+  "batchId": "party-list-zero-1-2026",
+  "sourceCount": 10,
+  "verifiedCount": 0,
+  "staleCount": 0,
+  "indeterminateCount": 10,
+  "results": [
+    {
+      "sourceId": "plz1-ly-liu-media-question",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/45/LCIDC01_1144501.pdf",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ppg.ly.gov.tw port 443 after 6 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-ivod-hung-procurement",
+      "url": "https://ivod.ly.gov.tw/Demand/Speech/168843",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ivod.ly.gov.tw port 443 after 5 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-ly-hung-procurement-gazette",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/115/36/LCIDC01_1153601.pdf",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ppg.ly.gov.tw port 443 after 5 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-ly-hung-civil-code",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110204670000/details",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ppg.ly.gov.tw port 443 after 5 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-ly-tsai-income-tax",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110222890000/details",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ppg.ly.gov.tw port 443 after 5 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-cna-tsai-family",
+      "url": "https://www.cna.com.tw/news/aipl/202605190122.aspx",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to www.cna.com.tw port 443 after 6 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "src-cna-tsai-2023",
+      "url": "https://www.cna.com.tw/news/aipl/202311270113.aspx",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to www.cna.com.tw port 443 after 5 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "src-cts-tsai",
+      "url": "https://news.cts.com.tw/cts/politics/202605/202605193033400.html",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to news.cts.com.tw port 443 after 6 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-ivod-wang-defense-tech",
+      "url": "https://ivod.ly.gov.tw/Play/Clip/1M/168857",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ivod.ly.gov.tw port 443 after 6 ms: Could not connect to server"
+    },
+    {
+      "sourceId": "plz1-ly-wang-civil-code",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110209260000/details",
+      "outcome": "indeterminate",
+      "status": null,
+      "method": "node_fetch",
+      "checkedAt": "2026-09-28T01:35:34.234Z",
+      "error": "fetch failed",
+      "fallbackError": "curl: (7) Failed to connect to ppg.ly.gov.tw port 443 after 6 ms: Could not connect to server"
+    }
+  ]
+}

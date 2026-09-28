@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-56478",
+  "primaryVersionId": "primary-research-20260928-56478-r1",
+  "independentVersionId": "independent-research-20260928-56478-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-li-transport-20260330",
+      "primaryCandidateId": "p-li-transport-20260330",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-li-seat-ended-20260413-c-li-expulsion",
+      "primaryCandidateId": "p-li-seat-ended-20260413",
+      "independentCandidateId": "c-li-expulsion",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chiu-rural-school-20260213",
+      "primaryCandidateId": "p-chiu-rural-school-20260213",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsu-ai-copyright-202608",
+      "primaryCandidateId": "p-hsu-ai-copyright-202608",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsu-indictment-20260707-c-hsu-indictment",
+      "primaryCandidateId": "p-hsu-indictment-20260707",
+      "independentCandidateId": "c-hsu-indictment",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chen-highschool-20260825",
+      "primaryCandidateId": "p-chen-highschool-20260825",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chen-housing-20260812",
+      "primaryCandidateId": "p-chen-housing-20260812",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-li-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-li-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-li-nationality",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-li-nationality",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-chiu-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-chiu-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-hsu-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hsu-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-chen-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-chen-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

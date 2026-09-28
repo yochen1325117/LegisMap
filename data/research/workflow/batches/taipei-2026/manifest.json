@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "taipei-2026",
+  "memberIds": ["ly11-46758", "ly11-46762", "ly11-46766", "ly11-46769", "ly11-46773", "ly11-46796", "ly11-46848", "ly11-46859"],
+  "periodStart": "2021-09-27",
+  "periodEnd": "2026-09-27",
+  "baselineCommit": "b8e05ec",
+  "primaryVersionId": "primary-taipei-20260927-r3",
+  "independentVersionId": "independent-taipei-20260927-r1",
+  "status": "complete"
+}

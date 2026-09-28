@@ -1,0 +1,715 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46832",
+  "versionId": "independent-research-20260928-46832-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:19:21.959Z",
+  "contentHash": "dfbff1429e7876d973577fe7ffaf53d42f85b5b79c8209b74654f98f3a277de2",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-mirror"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-mirror"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46832",
+      "query": "罷免 選舉 政治獻金 司法 起訴 判決 爭議 黃國昌",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-mirror"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-mirror"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 回應 後續 公告 裁定 判決 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-huang-mirror"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46862",
+      "query": "罷免 選舉 政治獻金 司法 起訴 判決 爭議 呂玉玲",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 回應 後續 公告 裁定 判決 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46789",
+      "query": "邱若華 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46789",
+      "query": "邱若華 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46789",
+      "query": "罷免 選舉 政治獻金 司法 起訴 判決 爭議 邱若華",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46789",
+      "query": "邱若華 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46789",
+      "query": "邱若華 回應 後續 公告 裁定 判決 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tu-recall",
+        "c-tu-defamation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tu-recall",
+        "c-tu-defamation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46799",
+      "query": "罷免 選舉 政治獻金 司法 起訴 判決 爭議 涂權吉",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tu-recall",
+        "c-tu-defamation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tu-recall",
+        "c-tu-defamation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 回應 後續 公告 裁定 判決 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tu-recall",
+        "c-tu-defamation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-huang-mirror",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46832"
+      ],
+      "provisionalCategory": "民事訴訟",
+      "title": "精鏡傳媒告黃國昌侵害商譽二審仍判免賠",
+      "summary": "精鏡傳媒因黃國昌批評其為垃圾媒體等語求償；台灣高等法院認相關言論未逸脫合理評論範圍，二審駁回上訴。",
+      "occurredAt": "2026-08-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-huang"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202608190107.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46832",
+          "role": "民事被告及爭議言論發言人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "黃國昌主張其言論為對媒體報導的評論。",
+      "processStatus": "民事二審判決；報導未載確定證明",
+      "resultStatus": "二審免賠，精鏡傳媒上訴遭駁回",
+      "evidenceLevel": "direct_court_reporting",
+      "publicationDecision": "publish_with_appeal_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "c-lu-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46862"
+      ],
+      "provisionalCategory": "罷免",
+      "title": "呂玉玲罷免案投票結果為否決",
+      "summary": "中選會公告桃園第5選區呂玉玲罷免案，2025年7月26日投票後結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員桃園市第5選區罷免案",
+      "sourceIds": [
+        "s-cec-lu",
+        "s-cec-results",
+        "s-cna-results",
+        "s-cna-lu-response",
+        "s-cna-lu-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/60308",
+        "https://web.cec.gov.tw/tyec/article/60980",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507210240.aspx",
+        "https://www.cna.com.tw/news/aipl/202507260171.aspx?topic=4753"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46862",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "於答辯及聲明說明問政立場，結果後表示會繼續地方服務。",
+      "processStatus": "中選會完成投票並公告結果",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "c-chiu-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46789"
+      ],
+      "provisionalCategory": "罷免",
+      "title": "邱若華罷免案投票結果為否決",
+      "summary": "桃園第6選區邱若華罷免案於2025年7月26日投票，中選會公告結果為否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員桃園市第6選區罷免案",
+      "sourceIds": [
+        "s-gazette-chiu",
+        "s-cec-results",
+        "s-cna-results",
+        "s-cna-chiu-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031124/ch02/type3/gov15/num21/Eg.pdf",
+        "https://web.cec.gov.tw/tyec/article/60980",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507260147.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46789",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "在正式答辯書否認罷團指控，稱其為政治性污衊。",
+      "processStatus": "中選會完成投票並公告結果",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "c-tu-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46799"
+      ],
+      "provisionalCategory": "罷免",
+      "title": "涂權吉罷免案投票結果為否決",
+      "summary": "桃園第2選區涂權吉罷免案於2025年7月26日投票，中選會公告結果為否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員桃園市第2選區罷免案",
+      "sourceIds": [
+        "s-cec-tu",
+        "s-cec-results",
+        "s-cna-results",
+        "s-cna-taoyuan-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/04%E6%A1%83%E5%9C%92%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E6%A1%83%E5%9C%92%E7%BD%B7%E5%85%8D%E5%85%AC%E5%A0%B1-%E7%AC%AC2%E9%81%B8%E5%8D%80%E5%85%A8.pdf",
+        "https://web.cec.gov.tw/tyec/article/60980",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507260189.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46799",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "在正式答辯書回應罷免理由；選後稱結果反映選民看到其問政努力。",
+      "processStatus": "中選會完成投票並公告結果",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    },
+    {
+      "id": "c-tu-defamation",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46799"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "黃世杰就SRF選舉言論控告涂權吉加重誹謗",
+      "summary": "2024年選舉期間，黃世杰就涂權吉的SRF相關言論提出加重誹謗告訴；涂稱相關發言有所依據。未查得檢察機關處分或法院確定結果。",
+      "occurredAt": "2024-01-10",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-tu-srf"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aloc/202401100331.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46799",
+          "role": "遭刑事告訴者及爭議言論發言人"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "檢察機關偵查終結處分或法院後續裁判",
+        "第二獨立來源確認程序進度"
+      ],
+      "personResponse": "表示相關發言有憑有據。",
+      "processStatus": "已知提出告訴，未查得偵查終結結果",
+      "resultStatus": "無法確認，不推定有罪",
+      "evidenceLevel": "single_independent_news_with_response",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46832-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cna-huang",
+      "title": "黃國昌批鏡週刊垃圾媒體挨告 二審仍判免賠",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202608190107.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "高院二審認言論未逸脫合理評論，駁回精鏡傳媒上訴"
+    },
+    {
+      "id": "s-cec-results",
+      "title": "第11屆立法委員罷免案在各投開票所投開票結果表",
+      "publisher": "桃園市選舉委員會",
+      "url": "https://web.cec.gov.tw/tyec/article/60980",
+      "sourceType": "official_database",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "桃園第2、5、6選區罷免案各投開票所結果附件"
+    },
+    {
+      "id": "s-cna-results",
+      "title": "中選會公告 25案罷免投票結果皆為否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會審查並公告呂玉玲、邱若華、涂權吉等罷免結果為否決"
+    },
+    {
+      "id": "s-cec-lu",
+      "title": "公告第11屆立法委員桃園市第5選舉區呂玉玲罷免案",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/60308",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由、答辯書與投票資訊"
+    },
+    {
+      "id": "s-cna-lu-response",
+      "title": "罷團不滿犧牲客家權益 呂玉玲將爭取鄉親支持",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507210240.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免說明會及呂玉玲聲明回應"
+    },
+    {
+      "id": "s-cna-lu-result",
+      "title": "罷免未過呂玉玲續拚服務 罷團：會繼續監督",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260171.aspx?topic=4753",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "呂玉玲宣布罷免未通過及選後回應"
+    },
+    {
+      "id": "s-gazette-chiu",
+      "title": "中央選舉委員會公告邱若華罷免案",
+      "publisher": "行政院公報／中央選舉委員會",
+      "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031124/ch02/type3/gov15/num21/Eg.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由書、答辯書與投票事項"
+    },
+    {
+      "id": "s-cna-chiu-result",
+      "title": "罷免案開票 邱若華自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260147.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "邱若華宣布罷免案未通過"
+    },
+    {
+      "id": "s-cec-tu",
+      "title": "桃園罷免公報第2選區",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/04%E6%A1%83%E5%9C%92%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E6%A1%83%E5%9C%92%E7%BD%B7%E5%85%8D%E5%85%AC%E5%A0%B1-%E7%AC%AC2%E9%81%B8%E5%8D%80%E5%85%A8.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "涂權吉罷免理由及答辯全文"
+    },
+    {
+      "id": "s-cna-taoyuan-results",
+      "title": "桃園6立委罷免未過 缺組織、普發現金皆有影響",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260189.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "桃園六案均未通過及涂權吉選後回應"
+    },
+    {
+      "id": "s-cna-tu-srf",
+      "title": "黃世杰控涂權吉散布SRF不實言論提告 涂：發言有憑據",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202401100331.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-10",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "選舉期間加重誹謗告訴與涂權吉回應"
+    }
+  ]
+}

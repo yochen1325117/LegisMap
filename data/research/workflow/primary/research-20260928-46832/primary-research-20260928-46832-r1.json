@@ -1,0 +1,827 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46832",
+  "versionId": "primary-research-20260928-46832-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:24:45.561Z",
+  "contentHash": "4226bf25b5f0e518f2102fa8df834ae7c9a2a8bc1443f7f764e7f4a43e0e87ea",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46832-legislative",
+      "track": "primary",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-whistleblower-20241227"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46832-government",
+      "track": "primary",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-whistleblower-20241227"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46832-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 法院、檢察署、監察院、中選會與責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-walk-20250902"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46832-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-walk-20250902"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46832-statements",
+      "track": "primary",
+      "memberId": "ly11-46832",
+      "query": "黃國昌 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-walk-20250902"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46862-legislative",
+      "track": "primary",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-vocational-202410"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46862-government",
+      "track": "primary",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46862-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 法院、檢察署、監察院、中選會與責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46862-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46862-statements",
+      "track": "primary",
+      "memberId": "ly11-46862",
+      "query": "呂玉玲 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46789-legislative",
+      "track": "primary",
+      "memberId": "ly11-46789",
+      "query": "邱若華 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-metro-202512"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46789-government",
+      "track": "primary",
+      "memberId": "ly11-46789",
+      "query": "邱若華 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46789-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46789",
+      "query": "邱若華 法院、檢察署、監察院、中選會與責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46789-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46789",
+      "query": "邱若華 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46789-statements",
+      "track": "primary",
+      "memberId": "ly11-46789",
+      "query": "邱若華 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46799-legislative",
+      "track": "primary",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tu-employment-insurance-202604"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46799-government",
+      "track": "primary",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tu-health-points-202411"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46799-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 法院、檢察署、監察院、中選會與責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46799-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    },
+    {
+      "id": "primary-ly11-46799-statements",
+      "track": "primary",
+      "memberId": "ly11-46799",
+      "query": "涂權吉 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46832-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-huang-whistleblower-20241227",
+      "memberIds": [
+        "ly11-46832"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "參與《公益揭弊者保護法》協商及三讀",
+      "summary": "立法院議案及協商紀錄顯示，黃國昌代表民眾黨團參與公益揭弊者保護法協商；法案於2024年12月27日三讀、2025年1月22日公布。此處記錄協商角色及共同立法結果，不把法案全數歸功於單一委員。",
+      "occurredAt": "2024-12-27",
+      "officialId": "202110025210000",
+      "sourceIds": [
+        "r46832-ly-whistle-bill",
+        "r46832-ly-whistle-talk",
+        "r46832-ly-whistle-law"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110025210000/details",
+        "https://ppg.ly.gov.tw/ppg/SittingAttachmentCapp/download/2024121382_1.pdf",
+        "https://ppg.ly.gov.tw/ppg/BillThirdReadingPassesClause/download/resources/ppgb32100/D_202501240859320.pdf"
+      ],
+      "roleClaims": [
+        "party_group_negotiator"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "promulgated",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-huang-walk-20250902",
+      "memberIds": [
+        "ly11-46832"
+      ],
+      "provisionalCategory": "concern",
+      "title": "走讀活動與警方衝突後列案偵辦",
+      "summary": "中央社與公視報導，黃國昌號召的2025年8月30日走讀活動與警方發生推擠，台北地檢署將黃國昌列為他字案被告偵辦。黃國昌回應稱是執政黨動用司法追殺。列案偵辦不代表起訴或有罪，後續結果仍需更新。",
+      "occurredAt": "2025-09-02",
+      "officialId": null,
+      "sourceIds": [
+        "r46832-cna-huang-walk",
+        "r46832-pts-huang-walk"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202509020087.aspx",
+        "https://news.pts.org.tw/article/768519"
+      ],
+      "roleClaims": [
+        "investigated_person",
+        "organizer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "黃國昌稱案件是執政黨以集遊法與司法檢調追殺反對者。",
+      "processStatus": "investigation",
+      "resultStatus": "under_investigation",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-lu-vocational-202410",
+      "memberIds": [
+        "ly11-46862"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出《技術及職業教育法》第17條修正草案",
+      "summary": "立法院議案頁列呂玉玲等16人提出技術及職業教育法第17條修正草案。此處記錄領銜提案與審議階段，不宣稱提案已成為法律。",
+      "occurredAt": "2024-10-18",
+      "officialId": "202110132100000",
+      "sourceIds": [
+        "r46832-ly-lu-vocational"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110132100000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "under_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-lu-recall-20250726",
+      "memberIds": [
+        "ly11-46862"
+      ],
+      "provisionalCategory": "concern",
+      "title": "呂玉玲罷免案投票結果為否決",
+      "summary": "中選會審定及中央社報導均確認呂玉玲罷免案不同意票多於同意票，結果為否決。罷免理由與答辯屬雙方政治主張，投票結果不構成對每項指控的事實認定。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "r46832-cna-july-result",
+        "r46832-cna-lu-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507260152.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "呂玉玲宣布罷免未通過並感謝支持者。",
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-chiu-metro-202512",
+      "memberIds": [
+        "ly11-46789"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出《大眾捷運法》第11條修正草案",
+      "summary": "立法院議案頁列邱若華等20人提出大眾捷運法第11條修正草案，後續併案審查。此處只記錄其領銜提案角色及程序。",
+      "occurredAt": "2025-12-19",
+      "officialId": "203110178910000",
+      "sourceIds": [
+        "r46832-ly-chiu-metro"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110178910000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_report",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-chiu-recall-20250726",
+      "memberIds": [
+        "ly11-46789"
+      ],
+      "provisionalCategory": "concern",
+      "title": "邱若華罷免案投票結果為否決",
+      "summary": "中選會審定與中央社報導確認邱若華罷免案結果為否決；中央社另保存罷免方主張與邱若華答辯。罷免遭否決不等於逐項認定主張真偽。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "r46832-cna-july-result",
+        "r46832-cna-chiu-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507035019.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "邱若華透過答辯書及聲明反駁罷免主張，稱罷團具有強烈意識形態。",
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-tu-employment-insurance-202604",
+      "memberIds": [
+        "ly11-46799"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出《就業保險法》第40條修正草案",
+      "summary": "立法院議案頁列涂權吉等18人提出就業保險法第40條修正草案。此處僅記錄領銜提案及當時審議狀態。",
+      "occurredAt": "2026-04-24",
+      "officialId": "202110205630000",
+      "sourceIds": [
+        "r46832-ly-tu-employment"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110205630000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "under_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-tu-health-points-202411",
+      "memberIds": [
+        "ly11-46799"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢健保點值提升期程並取得衛福部書面答復",
+      "summary": "立法院附件保存涂權吉就健保點值達0.95的期程提出口頭質詢及衛福部答復。紀錄可證明監督與行政答復，不代表點值目標已完成。",
+      "occurredAt": "2024-11-14",
+      "officialId": null,
+      "sourceIds": [
+        "r46832-ly-tu-health"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024111426/02726410150102022002.pdf"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "government_response_recorded",
+      "resultStatus": "in_progress",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46832-r1",
+      "id": "p-tu-recall-20250726",
+      "memberIds": [
+        "ly11-46799"
+      ],
+      "provisionalCategory": "concern",
+      "title": "涂權吉罷免案投票結果為否決",
+      "summary": "中選會公告載明涂權吉罷免案理由與答辯，投票後中選會審定結果為否決。公告中的罷免理由與答辯由各方負責，投票結果不構成逐項事實認定。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "r46832-cec-tu-notice",
+        "r46832-cna-july-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/60315",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "涂權吉於官方罷免公告所附答辯書回應罷免理由。",
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    }
+  ],
+  "sources": [
+    {
+      "id": "r46832-ly-whistle-bill",
+      "title": "公益揭弊者保護法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110025210000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-04-26",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "民眾黨團提案、併案審查與審議進度。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-ly-whistle-talk",
+      "title": "公益揭弊者保護法黨團協商紀錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachmentCapp/download/2024121382_1.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-12-16",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "公益揭弊者保護法協商段落及黃國昌發言。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-ly-whistle-law",
+      "title": "公益揭弊者保護法三讀條文",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/BillThirdReadingPassesClause/download/resources/ppgb32100/D_202501240859320.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-12-27",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "三讀日期與完整條文。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-cna-huang-walk",
+      "title": "辦走讀爆衝突遭北檢列被告　黃國昌批民進黨追殺",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202509020087.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-09-02",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "活動衝突、他字案被告及黃國昌回應。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-pts-huang-walk",
+      "title": "民眾黨走讀活動爆衝突 北檢將黃國昌列被告偵辦",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/768519",
+      "sourceType": "news",
+      "publishedAt": "2025-09-02",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "警方受傷、北檢偵辦與各方回應。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-ly-lu-vocational",
+      "title": "技術及職業教育法第十七條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110132100000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-10-18",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人列呂玉玲等16人及審議進度。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-cna-july-result",
+      "title": "中選會公告25案罷免投票結果皆為否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "名單列呂玉玲、邱若華、涂權吉及否決結果。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-cna-lu-result",
+      "title": "罷免案開票　呂玉玲自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260152.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "呂玉玲宣布結果及回應。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-ly-chiu-metro",
+      "title": "大眾捷運法第十一條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110178910000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-19",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人列邱若華等20人及併案審查。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-cna-chiu-recall",
+      "title": "立委邱若華罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035019.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "官方公告所載罷免理由與答辯。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-ly-tu-employment",
+      "title": "就業保險法第四十條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110205630000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-24",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人列涂權吉等18人及審議狀態。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-ly-tu-health",
+      "title": "涂權吉口頭質詢健保點值之衛福部答復",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024111426/02726410150102022002.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-11-14",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "健保點值0.95期程質詢及衛福部逐項答復。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r46832-cec-tu-notice",
+      "title": "公告涂權吉罷免案投票日期、理由書與答辯書",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/60315",
+      "sourceType": "official",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "中選務字第1140001455號公告及附件。",
+      "lastVerifiedAt": "2026-09-28"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46836",
+  "primaryVersionId": "primary-research-20260928-46836-r1",
+  "independentVersionId": "independent-research-20260928-46836-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-wan-ai",
+      "primaryCandidateId": "p-wan-ai",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-wan-recall-c-wan-recall",
+      "primaryCandidateId": "p-wan-recall",
+      "independentCandidateId": "c-wan-recall",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lu-tax",
+      "primaryCandidateId": "p-lu-tax",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lu-recall-c-lu-recall",
+      "primaryCandidateId": "p-lu-recall",
+      "independentCandidateId": "c-lu-recall",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsu-engineer",
+      "primaryCandidateId": "p-hsu-engineer",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsu-recall",
+      "primaryCandidateId": "p-hsu-recall",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chiang-visit",
+      "primaryCandidateId": "p-chiang-visit",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chiang-recall",
+      "primaryCandidateId": "p-chiang-recall",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-wan-assets",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wan-assets",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-hsu-nomination",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hsu-nomination",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-chiang-election-case",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-chiang-election-case",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

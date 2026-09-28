@@ -1,13 +1,16 @@
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
 const root = 'data/research';
 const roster = JSON.parse(readFileSync(`${root}/ly11-2026.json`, 'utf8'));
 const batchFiles = readdirSync(root).filter(name => /^events-.*\.json$/.test(name)).sort();
 const batches = batchFiles.map(name => JSON.parse(readFileSync(`${root}/${name}`, 'utf8')));
+const workflowStatus = existsSync(`${root}/workflow/research-status-2026.json`) ? JSON.parse(readFileSync(`${root}/workflow/research-status-2026.json`, 'utf8')) : { defaultStatus: 'stale', members: [] };
+const workflowByMember = new Map(workflowStatus.members.map(item => [item.memberId, item]));
 const memberByName = new Map(roster.members.map(member => [member.name.replaceAll('　', '').replaceAll(' ', ''), member]));
 const sources = [];
 const sourceByUrl = new Map();
-const sourceIdMap = new Map();
+const sourceById = new Map();
+const batchSourceIdMaps = new WeakMap();
 const events = new Map();
 const participations = [];
 const reviews = [];
@@ -16,15 +19,18 @@ const normalizeName = value => value.replaceAll('　', '').replaceAll(' ', '').r
 const mergeSource = source => {
   const existing = sourceByUrl.get(source.url);
   if (existing) {
-    sourceIdMap.set(source.id, existing.id);
     if (source.lastVerifiedAt > existing.lastVerifiedAt) existing.lastVerifiedAt = source.lastVerifiedAt;
     return existing.id;
   }
-  const copy = { ...source };
-  sources.push(copy); sourceByUrl.set(copy.url, copy); sourceIdMap.set(copy.id, copy.id);
+  const copy = { ...source }; const baseId=copy.id; let suffix=2;
+  while(sourceById.has(copy.id) && sourceById.get(copy.id).url !== copy.url) copy.id=`${baseId}-${suffix++}`;
+  sources.push(copy); sourceByUrl.set(copy.url, copy); sourceById.set(copy.id,copy);
   return copy.id;
 };
-for (const batch of batches) for (const source of batch.sources) mergeSource(source);
+for (const batch of batches) {
+  const ids=new Map(); for (const source of batch.sources) ids.set(source.id,mergeSource(source));
+  batchSourceIdMaps.set(batch,ids);
+}
 
 const billId = event => event.sourceIds.map(id => {
   const source = batches.flatMap(batch => batch.sources).find(item => item.id === id);
@@ -39,13 +45,38 @@ const eventType = event => {
   return 'administrative_oversight';
 };
 const resultRank = new Map(['recorded','proposed','under_review','alleged','under_investigation','indicted','appealable','passed','implemented','completed','resolved','final'].map((value, index) => [value, index]));
+const roleType = claim => {
+  const allowed = new Set(['lead_proposer', 'co_proposer', 'cosigner', 'questioner', 'amendment_mover', 'budget_mover', 'negotiator', 'voter', 'coordinator', 'donor', 'subject', 'participant']);
+  if (allowed.has(claim)) return claim;
+  if (/促成|協調/.test(claim)) return 'coordinator';
+  if (/捐贈|捐款/.test(claim)) return 'donor';
+  if (/defendant|complainant|被告|被告發|申報義務人|被罷免人|罷免標的|言論發表者|肇事駕駛|訴訟原告/.test(claim)) return 'subject';
+  return 'participant';
+};
+const roleClaimsForMember = (candidate, memberId) => (candidate.roleClaims ?? []).flatMap(claim => {
+  if (typeof claim === 'string') return claim.trim() ? [claim] : [];
+  if (claim && typeof claim === 'object' && claim.memberId === memberId && typeof claim.role === 'string' && claim.role.trim()) return [claim.role];
+  return [];
+});
+const candidateCategory = candidate => {
+  if (candidate.provisionalCategory === 'contribution') return 'contribution';
+  if (['public_service', 'good_deed'].includes(candidate.provisionalCategory)) return 'good_deed';
+  if (candidate.provisionalCategory === 'anecdote') return 'anecdote';
+  return 'concern';
+};
 
 for (const batch of batches) {
+  const sourceIdMap=batchSourceIdMaps.get(batch);
   for (const member of batch.members) {
+    const workflow = workflowByMember.get(member.memberId);
     reviews.push({
       memberId: member.memberId, periodStart: batch.periodStart, reviewedAt: member.reviewedAt,
       categories: member.reviewedCategories, sourceTypes: member.reviewedSourceTypes,
-      status: 'complete', backgroundRecords: (member.backgroundRecords ?? []).map(record => ({ ...record, sourceIds: record.sourceIds.map(id => sourceIdMap.get(id)) })),
+      status: workflow?.status ?? workflowStatus.defaultStatus ?? 'stale',
+      primaryReviewedAt: workflow?.primaryReviewedAt ?? null,
+      independentReviewedAt: workflow?.independentReviewedAt ?? null,
+      completedAt: workflow?.completedAt ?? null,
+      backgroundRecords: (member.backgroundRecords ?? []).map(record => ({ ...record, sourceIds: record.sourceIds.map(id => sourceIdMap.get(id)) })),
     });
     for (const legacy of member.events) {
       const officialId = legacy.category === 'contribution' && eventType(legacy) === 'bill' ? billId(legacy) : null;
@@ -72,6 +103,92 @@ for (const batch of batches) {
         roleType: legacy.roleType, roleDescription: legacy.role, actionSummary: legacy.summary,
         mandateRelation: legacy.mandateRelation, sourceIds, voteChoice: null, voteChoiceLabel: null,
       });
+    }
+  }
+}
+
+// Promote only adjudicated workflow records. Search runs, rejected candidates and
+// unresolved comparisons remain in the private research layer.
+const workflowRoot = `${root}/workflow`;
+const manifestRoot = `${workflowRoot}/batches`;
+if (existsSync(manifestRoot)) {
+  for (const batchId of readdirSync(manifestRoot)) {
+    const manifestPath = `${manifestRoot}/${batchId}/manifest.json`;
+    const comparisonPath = `${workflowRoot}/comparisons/${batchId}.json`;
+    const adjudicationPath = `${workflowRoot}/adjudications/${batchId}.json`;
+    if (!existsSync(manifestPath) || !existsSync(comparisonPath) || !existsSync(adjudicationPath)) continue;
+    const manifest = JSON.parse(readFileSync(manifestPath, 'utf8'));
+    if (manifest.status !== 'complete' || manifest.memberIds.some(id => workflowByMember.get(id)?.status !== 'complete')) continue;
+    const recheckPath = `${workflowRoot}/source-rechecks/${batchId}.json`;
+    if (existsSync(recheckPath) && JSON.parse(readFileSync(recheckPath, 'utf8')).staleCount > 0) continue;
+    if (!manifest.primaryVersionId || !manifest.independentVersionId) continue;
+    const primaryPath = `${workflowRoot}/primary/${batchId}/${manifest.primaryVersionId}.json`;
+    const independentPath = `${workflowRoot}/independent/${batchId}/${manifest.independentVersionId}.json`;
+    if (!existsSync(primaryPath) || !existsSync(independentPath)) continue;
+    const primary = JSON.parse(readFileSync(primaryPath, 'utf8'));
+    const independent = JSON.parse(readFileSync(independentPath, 'utf8'));
+    const comparison = JSON.parse(readFileSync(comparisonPath, 'utf8'));
+    const adjudication = JSON.parse(readFileSync(adjudicationPath, 'utf8'));
+    const candidateById = new Map([...primary.candidates, ...independent.candidates].map(candidate => [candidate.id, candidate]));
+    const comparisonById = new Map(comparison.comparisons.map(item => [item.id, item]));
+    const workflowSourceById = new Map([...primary.sources, ...independent.sources, ...(adjudication.additionalSources ?? [])].map(source => [source.id, source]));
+
+    const recordCandidates = record => record.comparisonIds.flatMap(id => {
+      const item = comparisonById.get(id);
+      return item ? [item.primaryCandidateId, item.independentCandidateId].filter(Boolean).map(candidateId => candidateById.get(candidateId)).filter(Boolean) : [];
+    });
+    const recordSourceIds = (record, candidates) => [...new Set([...new Set([...candidates.flatMap(candidate => candidate.sourceIds ?? []), ...(record.additionalSourceIds ?? [])])]
+      .map(id => workflowSourceById.get(id))
+      .filter(Boolean)
+      .map(mergeSource))];
+
+    // Publish first so a later merge can safely target an event created in this batch.
+    for (const record of adjudication.records.filter(item => item.decision === 'publish')) {
+      const candidates = recordCandidates(record);
+      const preferred = candidates.find(candidate => candidate.track === 'primary') ?? candidates[0];
+      if (!preferred || !record.finalEventId) continue;
+      const sourceIds = recordSourceIds(record, candidates);
+      let event = events.get(record.finalEventId);
+      if (!event) {
+        const category = candidateCategory(preferred);
+        event = {
+          id: record.finalEventId, officialId: preferred.officialId ?? null,
+          type: eventType({ category, title: preferred.title }), category,
+          title: preferred.title, occurredAt: preferred.occurredAt, topic: preferred.title,
+          outcome: record.finalSummary ?? preferred.summary, processStatus: preferred.processStatus,
+          resultStatus: preferred.resultStatus, evidenceLevel: preferred.evidenceLevel,
+          visibility: 'public', personResponse: preferred.personResponse ?? null,
+          resolution: record.reason, sourceIds,
+        };
+        events.set(event.id, event);
+      } else {
+        event.sourceIds = [...new Set([...event.sourceIds, ...sourceIds])];
+        event.resolution ||= record.reason;
+      }
+      for (const memberId of [...new Set(candidates.flatMap(candidate => candidate.memberIds ?? []))]) {
+        const memberCandidates = candidates.filter(candidate => candidate.memberIds?.includes(memberId));
+        const claims = [...new Set(memberCandidates.flatMap(candidate => roleClaimsForMember(candidate, memberId)))];
+        const mappedRole = roleType(claims[0] ?? 'participant');
+        const participationId = `${event.id}:${memberId}:${mappedRole}`;
+        if (!participations.some(item => item.id === participationId)) participations.push({
+          id: participationId, eventId: event.id, memberId, roleType: mappedRole,
+          roleDescription: claims.join('；') || '事件關係人', actionSummary: record.finalSummary ?? preferred.summary,
+          mandateRelation: preferred.mandateRelation ?? 'current_term', sourceIds,
+          voteChoice: null, voteChoiceLabel: null,
+        });
+      }
+    }
+
+    for (const record of adjudication.records.filter(item => item.decision === 'merge')) {
+      const candidates = recordCandidates(record);
+      const event = events.get(record.finalEventId);
+      if (!event) throw new Error(`Adjudication merge target not found: ${record.finalEventId}`);
+      const sourceIds = recordSourceIds(record, candidates);
+      event.sourceIds = [...new Set([...event.sourceIds, ...sourceIds])];
+      event.resolution ||= record.reason;
+      for (const participation of participations.filter(item => item.eventId === event.id)) {
+        participation.sourceIds = [...new Set([...participation.sourceIds, ...sourceIds])];
+      }
     }
   }
 }

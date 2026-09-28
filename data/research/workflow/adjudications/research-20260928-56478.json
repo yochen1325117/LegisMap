@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-56478",
+  "primaryVersionId": "primary-research-20260928-56478-r1",
+  "independentVersionId": "independent-research-20260928-56478-r1",
+  "decidedAt": "2026-09-28",
+  "additionalSources": [],
+  "records": [
+    {
+      "id": "adjudication-research-56478-1",
+      "comparisonIds": ["comparison-p-li-transport-20260330"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院發言紀錄直接確認質詢內容；以監督行動及待書面回應呈現，不宣稱工程已完成。",
+      "finalEventId": "event-li-transport-resilience-2026",
+      "finalSummary": "李貞秀質詢蘇花安工程發包期程及花蓮災後村落道路抗災改善，並要求主管機關書面回應。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-2",
+      "comparisonIds": ["comparison-p-li-seat-ended-20260413-c-li-expulsion"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院正式議案、中選會公告、法院程序報導及本人回應足以確認黨籍除名與席次註銷；不延伸推論交換利益。",
+      "finalEventId": "event-li-seat-ended-2026",
+      "finalSummary": "李貞秀遭民眾黨除籍後，立法院依法註銷其不分區立委名籍；她否認以辭職交換利益，後續暫時救濟未獲准。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-3",
+      "comparisonIds": ["comparison-p-chiu-rural-school-20260213"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方關係文書確認黨團提案參與，另有具名質詢紀錄；維持審查中狀態。",
+      "finalEventId": "bill-202110192390000",
+      "finalSummary": "邱慧洳參與民眾黨團《偏遠地區學校教育發展條例》第21條修正提案，並質詢教育部研議時程；截至查閱日仍在審議程序。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-4",
+      "comparisonIds": ["comparison-p-hsu-ai-copyright-202608"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院發言紀錄直接確認具名質詢；只記錄監督與政策主張。",
+      "finalEventId": "event-hsu-ai-copyright-2026",
+      "finalSummary": "許忠信就AI研發資料使用、著作權合理使用與轉化性使用制度向中央研究院院長質詢。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-5",
+      "comparisonIds": ["comparison-p-hsu-indictment-20260707-c-hsu-indictment"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "兩軌實際引用同一個新聞發布者，尚缺檢察署直接文件或第二個獨立發布者，未達爭議公開門檻。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-6",
+      "comparisonIds": ["comparison-p-chen-highschool-20260825"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "議案頁可確認黨團提案，但尚未取得關係文書核對陳清龍個人簽署與精確角色，避免把黨團行動過度歸屬個人。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-7",
+      "comparisonIds": ["comparison-p-chen-housing-20260812"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "目前只能確認出席該議題質詢，沒有可定位的逐字內容可描述其具體行動。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-8",
+      "comparisonIds": ["comparison-c-li-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補及就職已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-9",
+      "comparisonIds": ["comparison-c-li-nationality"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "行政機關函文、立法院紀錄、多方新聞及本人回應可確認資格爭議的程序事實；明示沒有終局司法實體判決。",
+      "finalEventId": "event-li-nationality-dispute-2026",
+      "finalSummary": "內政部要求李貞秀提出放棄中國籍證明並函請立法院處理；李貞秀稱申請不獲受理並主張其唯一效忠中華民國。其席次因後續黨籍事件終止，國籍爭點未獲終局司法實體判決。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-10",
+      "comparisonIds": ["comparison-c-chiu-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補當選已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-11",
+      "comparisonIds": ["comparison-c-hsu-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補及就職已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-56478-12",
+      "comparisonIds": ["comparison-c-chen-succession"],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "遞補當選已由人物任職資料呈現，不另建立研究事件。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    }
+  ]
+}

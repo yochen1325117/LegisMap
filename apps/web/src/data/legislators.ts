@@ -20,7 +20,11 @@ export interface EventRecord {
   officialId?: string | null; type?: ResearchEventType; topic?: string; voteChoice?: VoteChoice | null; voteChoiceLabel?: string | null;
 }
 export interface BackgroundRecord { id: string; title: string; summary: string; role: string; sourceIds: string[] }
-export interface EventBatchMember { memberId: string; reviewedAt: string; reviewedCategories: EventCategory[]; reviewedSourceTypes: string[]; backgroundRecords?: BackgroundRecord[]; events: EventRecord[] }
+export interface EventBatchMember {
+  memberId: string; reviewedAt: string; reviewedCategories: EventCategory[]; reviewedSourceTypes: string[];
+  status: MemberResearchReview['status']; primaryReviewedAt: string | null; independentReviewedAt: string | null; completedAt: string | null;
+  backgroundRecords?: BackgroundRecord[]; events: EventRecord[];
+}
 export type ResearchEventType = 'bill' | 'budget_oversight' | 'questioning' | 'administrative_oversight' | 'local_coordination' | 'constitutional_duty' | 'named_vote' | 'public_service' | 'accountability' | 'profile';
 export type VoteChoice = 'for' | 'against' | 'abstain' | 'not_voting';
 export interface LegislativeEvent {
@@ -33,7 +37,9 @@ export interface MemberParticipation {
   mandateRelation: MandateRelation; sourceIds: string[]; voteChoice: VoteChoice | null; voteChoiceLabel: string | null;
 }
 export interface MemberResearchReview {
-  memberId: string; periodStart: string; reviewedAt: string; categories: EventCategory[]; sourceTypes: string[]; status: 'complete' | 'in_progress'; backgroundRecords: BackgroundRecord[];
+  memberId: string; periodStart: string; reviewedAt: string; categories: EventCategory[]; sourceTypes: string[];
+  status: 'not_started' | 'primary_in_progress' | 'awaiting_independent_review' | 'independent_in_progress' | 'awaiting_adjudication' | 'needs_followup' | 'complete' | 'stale';
+  primaryReviewedAt: string | null; independentReviewedAt: string | null; completedAt: string | null; backgroundRecords: BackgroundRecord[];
 }
 const research = sharedResearch as unknown as { sources: SourceRecord[]; events: LegislativeEvent[]; participations: MemberParticipation[]; memberReviews: MemberResearchReview[] };
 export const sharedEvents = new Map(research.events.map(event => [event.id, event]));
@@ -50,7 +56,9 @@ function resolveParticipation(participation: MemberParticipation): EventRecord {
 }
 export const eventMembers = new Map(research.memberReviews.map(review => {
   const events = research.participations.filter(item => item.memberId === review.memberId && sharedEvents.get(item.eventId)?.type !== 'named_vote').map(resolveParticipation);
-  return [review.memberId, { memberId: review.memberId, reviewedAt: review.reviewedAt, reviewedCategories: review.categories, reviewedSourceTypes: review.sourceTypes, backgroundRecords: review.backgroundRecords, events } satisfies EventBatchMember];
+  return [review.memberId, { memberId: review.memberId, reviewedAt: review.reviewedAt, reviewedCategories: review.categories, reviewedSourceTypes: review.sourceTypes,
+    status: review.status, primaryReviewedAt: review.primaryReviewedAt, independentReviewedAt: review.independentReviewedAt, completedAt: review.completedAt,
+    backgroundRecords: review.backgroundRecords, events } satisfies EventBatchMember];
 }));
 export function sourcesForEvent(event: EventRecord): SourceRecord[] {
   return event.sourceIds.map(id => eventSources.get(id)).filter((source): source is SourceRecord => Boolean(source));

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "party-list-zero-1-2026",
+  "primaryVersionId": "primary-party-list-zero-1-20260928-r1",
+  "independentVersionId": "independent-party-list-zero-1-20260928-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-liu-media-bargaining-202504",
+      "primaryCandidateId": "primary-liu-media-bargaining-202504",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-liu-offtopic-20250815",
+      "primaryCandidateId": "primary-liu-offtopic-20250815",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-hung-it-procurement-202606",
+      "primaryCandidateId": "primary-hung-it-procurement-202606",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-hung-civil-code-20260728",
+      "primaryCandidateId": "primary-hung-civil-code-20260728",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-tsai-income-tax-20260710",
+      "primaryCandidateId": "primary-tsai-income-tax-20260710",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-tsai-family-allegation-20260519-cand-tsai-allegations",
+      "primaryCandidateId": "primary-tsai-family-allegation-20260519",
+      "independentCandidateId": "cand-tsai-allegations",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wang-defense-tech-20260427",
+      "primaryCandidateId": "primary-wang-defense-tech-20260427",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wang-civil-code-20260728",
+      "primaryCandidateId": "primary-wang-civil-code-20260728",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-cand-liu-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-liu-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-cand-liu-workplace",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-liu-workplace",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-cand-hung-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-hung-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-cand-hung-renovation",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-hung-renovation",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-cand-tsai-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-tsai-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-cand-wang-succession",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-wang-succession",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

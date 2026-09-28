@@ -1,0 +1,635 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46765",
+  "versionId": "independent-research-20260928-46765-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:29:47.132Z",
+  "contentHash": "6750ca266fe17cbe1ade45a0b3d5e8bb583b4e1f8e832e33d851ea941eda2644",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46765",
+      "query": "何欣純 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ho-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46765",
+      "query": "何欣純 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ho-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46765",
+      "query": "罷免 選舉 政治獻金 詐欺 提告 判決 爭議 何欣純",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ho-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46765",
+      "query": "何欣純 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ho-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46765",
+      "query": "何欣純 回應 後續 不起訴 起訴 裁定 公告 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ho-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46842",
+      "query": "罷免 選舉 政治獻金 詐欺 提告 判決 爭議 蔡其昌",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 回應 後續 不起訴 起訴 裁定 公告 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-hsiupao-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-hsiupao-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46814",
+      "query": "罷免 選舉 政治獻金 詐欺 提告 判決 爭議 陳秀寳",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-hsiupao-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-hsiupao-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 回應 後續 不起訴 起訴 裁定 公告 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-hsiupao-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46818",
+      "query": "陳素月 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-suyue-fake-aide"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46818",
+      "query": "陳素月 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-suyue-fake-aide"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46818",
+      "query": "罷免 選舉 政治獻金 詐欺 提告 判決 爭議 陳素月",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-suyue-fake-aide"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46818",
+      "query": "陳素月 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-suyue-fake-aide"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46818",
+      "query": "陳素月 回應 後續 不起訴 起訴 裁定 公告 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-suyue-fake-aide"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-ho-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46765"
+      ],
+      "provisionalCategory": "罷免程序",
+      "title": "何欣純罷免案二階連署未送件而終止",
+      "summary": "針對何欣純的罷免提議進入補件及二階階段後，罷免團體宣布不送件；台中市選委會證實截止前未收到連署件，未進入投票。",
+      "occurredAt": "2025-06-06",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-first-stage",
+        "s-cna-recall-stop",
+        "s-cna-election-commission",
+        "s-newtalk-forgery"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202503130402.aspx",
+        "https://www.cna.com.tw/news/aipl/202506050343.aspx",
+        "https://www.cna.com.tw/news/aloc/202506060255.aspx",
+        "https://newtalk.tw/news/view/2025-06-27/978644"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46765",
+          "role": "罷免提議標的；非偽造連署案被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "尊重司法調查連署偽造案，盼儘速查明真相。",
+      "processStatus": "二階送件期限屆滿未送件",
+      "resultStatus": "罷免程序終止，未進入投票",
+      "evidenceLevel": "election_commission_statement_plus_news",
+      "publicationDecision": "publish_with_role_separation",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "c-tsai-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46842"
+      ],
+      "provisionalCategory": "罷免程序",
+      "title": "蔡其昌罷免案二階連署未送件而終止",
+      "summary": "針對蔡其昌的罷免提議進入補件及二階階段後，罷免團體宣布不送件；台中市選委會證實截止前未收到連署件，未進入投票。",
+      "occurredAt": "2025-06-06",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-first-stage",
+        "s-cna-recall-stop",
+        "s-cna-election-commission",
+        "s-newtalk-forgery"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202503130402.aspx",
+        "https://www.cna.com.tw/news/aipl/202506050343.aspx",
+        "https://www.cna.com.tw/news/aloc/202506060255.aspx",
+        "https://newtalk.tw/news/view/2025-06-27/978644"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46842",
+          "role": "罷免提議標的；非偽造連署案被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "表示相信台中人的智慧；對連署偽造案主張應依法查明。",
+      "processStatus": "二階送件期限屆滿未送件",
+      "resultStatus": "罷免程序終止，未進入投票",
+      "evidenceLevel": "election_commission_statement_plus_news",
+      "publicationDecision": "publish_with_role_separation",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "c-chen-hsiupao-complaint",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46814"
+      ],
+      "provisionalCategory": "選舉司法",
+      "title": "陳秀寳就焚化爐選舉言論提告意圖使人不當選",
+      "summary": "2024立委選舉期間，陳秀寳指阮厚爵就晶鼎焚化爐案散布不實言論，提出意圖使人不當選告訴；阮否認並稱為民眾發聲。未查得此告訴的偵查終結結果。",
+      "occurredAt": "2024-01-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-chen-complaint"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202401020102.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46814",
+          "role": "刑事告訴人及遭指摘候選人"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "檢察機關偵查終結處分或法院裁判",
+        "第二獨立來源確認後續程序"
+      ],
+      "personResponse": "稱對手造謠抹黑，提告後交由司法處理。",
+      "processStatus": "已知提出告訴，未查得後續處分",
+      "resultStatus": "未確認",
+      "evidenceLevel": "single_news_with_both_sides",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    },
+    {
+      "id": "c-chen-suyue-fake-aide",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46818"
+      ],
+      "provisionalCategory": "冒名詐欺",
+      "title": "前義工假冒陳素月助理詐騙遭起訴",
+      "summary": "彰檢起訴一名曾任陳素月辦公室義工的男子，指其假冒立委助理詐騙逾738萬元。被害人向陳素月求證後發現受騙並報案；無證據顯示陳素月或辦公室參與犯罪。",
+      "occurredAt": "2023-10-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-fake-aide"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202310190177.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46818",
+          "role": "姓名與辦公室身分遭冒用者；協助被害人查證，非被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "辦公室查證林男並非立委助理，使被害人確認受騙。",
+      "processStatus": "檢察官起訴冒名者",
+      "resultStatus": "冒名者遭起訴；陳素月無涉案指控",
+      "evidenceLevel": "direct_prosecution_reporting",
+      "publicationDecision": "publish_with_role_separation",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46765-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cna-recall-stop",
+      "title": "綠委罷免增4案不送件 累計6案未送、9件未截止",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506050343.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "蔡其昌、何欣純罷免團體宣布二階不送件"
+    },
+    {
+      "id": "s-cna-election-commission",
+      "title": "台中2綠委罷免連署 中市選委會：時間截止未送件",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202506060255.aspx",
+      "sourceType": "official_statement_reporting",
+      "publishedAt": "2025-06-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "台中市選委會證實截止前未收到蔡其昌、何欣純二階連署件"
+    },
+    {
+      "id": "s-cna-first-stage",
+      "title": "罷免案增藍委林沛祥進二階 綠委陳俊宇待補件",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202503130402.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-03-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "何欣純、蔡其昌罷免一階未達門檻後進入補件程序"
+    },
+    {
+      "id": "s-newtalk-forgery",
+      "title": "藍台中黨部不實連署案34人遭起訴 蔡其昌、何欣純兩苦主回應了",
+      "publisher": "Newtalk新聞",
+      "url": "https://newtalk.tw/news/view/2025-06-27/978644",
+      "sourceType": "news",
+      "publishedAt": "2025-06-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "檢方起訴連署偽造案及何、蔡回應；兩人為罷免標的非被告"
+    },
+    {
+      "id": "s-cna-chen-complaint",
+      "title": "陳秀寳提告意圖使人不當選 阮厚爵指為民眾發聲",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202401020102.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "陳秀寳針對焚化爐相關選舉言論提告及雙方說法"
+    },
+    {
+      "id": "s-cna-juan-indictment",
+      "title": "阮厚爵捲入祭祀公業弊案 涉收賄1208萬遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202409130342.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2024-09-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "阮厚爵另案起訴；不等同陳秀寳選舉言論告訴結果"
+    },
+    {
+      "id": "s-cna-fake-aide",
+      "title": "假立委助理誆土地重劃可獲暴利 詐逾738萬遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202310190177.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2023-10-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "彰檢起訴假冒陳素月助理的前義工；被害人向陳素月求證後報案"
+    },
+    {
+      "id": "s-ly-roster",
+      "title": "立法院第11屆立法委員名單",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
+      "sourceType": "official_database",
+      "publishedAt": "2024-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "四人第11屆立委身分與選區"
+    }
+  ]
+}

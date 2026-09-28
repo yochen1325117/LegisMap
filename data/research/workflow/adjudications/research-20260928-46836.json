@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46836",
+  "primaryVersionId": "primary-research-20260928-46836-r1",
+  "independentVersionId": "independent-research-20260928-46836-r1",
+  "decidedAt": "2026-09-28",
+  "additionalSources": [],
+  "records": [
+    {"id":"adjudication-46836-1","comparisonIds":["comparison-p-wan-ai"],"additionalSourceIds":[],"decision":"publish","reason":"官方會議資料確認萬美玲領銜提案及聯席審查程序；不宣稱當時已三讀。","finalEventId":"event-wan-ai-bill-2025","finalSummary":"萬美玲領銜提出人工智慧基本法草案，該版本於2025年8月4日進入聯席審查。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-2","comparisonIds":["comparison-p-wan-recall-c-wan-recall"],"additionalSourceIds":[],"decision":"publish","reason":"中選會資料與多方報導確認程序、答辯及否決結果；不據此判定罷免理由真偽。","finalEventId":"event-wan-recall-2025","finalSummary":"萬美玲罷免案於2025年7月26日投票，結果為否決；其正式答辯及公開回應隨來源保存。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-3","comparisonIds":["comparison-p-lu-tax"],"additionalSourceIds":[],"decision":"publish","reason":"官方議案頁確認魯明哲為領銜提案人及審議狀態。","finalEventId":"bill-203110155780000","finalSummary":"魯明哲領銜提出《所得稅法》修正草案；截至查閱日仍在審議程序。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-4","comparisonIds":["comparison-p-lu-recall-c-lu-recall"],"additionalSourceIds":[],"decision":"publish","reason":"中選會結果與正式答辯資料確認罷免案否決；不把投票結果當作逐項事實認定。","finalEventId":"event-lu-ming-che-recall-2025","finalSummary":"魯明哲罷免案於2025年7月26日投票，結果為否決；其正式答辯逐項回應罷免方主張。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-5","comparisonIds":["comparison-p-hsu-engineer"],"additionalSourceIds":[],"decision":"publish","reason":"官方議案頁確認徐欣瑩為領銜提案人及審議狀態。","finalEventId":"bill-203110177990000","finalSummary":"徐欣瑩領銜提出《技師法》修正草案；截至查閱日仍在審議程序。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-6","comparisonIds":["comparison-p-hsu-recall"],"additionalSourceIds":[],"decision":"publish","reason":"中選會審查結果及新聞可確認連署不足、不成立與本人回應。","finalEventId":"event-hsu-recall-petition-2025","finalSummary":"徐欣瑩罷免案因連署人數未達法定門檻而不成立；她表示會更謙卑傾聽民意。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-7","comparisonIds":["comparison-p-chiang-visit"],"additionalSourceIds":[],"decision":"publish","reason":"立法院官方紀錄確認江啟臣以副院長身分參與跨黨派訪美；不推定未被來源證實的外交成果。","finalEventId":"event-chiang-us-delegation-2025","finalSummary":"江啟臣以立法院副院長身分參與跨黨派訪美及國會交流。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-8","comparisonIds":["comparison-p-chiang-recall"],"additionalSourceIds":[],"decision":"publish","reason":"公告與新聞確認投票、答辯及否決結果；不把罷免理由當作官方事實認定。","finalEventId":"event-chiang-recall-2025","finalSummary":"江啟臣罷免案於2025年8月23日投票，結果為否決；其正式答辯說明問政與地方建設工作。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-9","comparisonIds":["comparison-c-wan-assets"],"additionalSourceIds":[],"decision":"reject","reason":"雖有兩家媒體與本人回應，仍缺監察院原始申報逐欄核對及正式查核結果，未達公開門檻。","finalEventId":null,"decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-10","comparisonIds":["comparison-c-hsu-nomination"],"additionalSourceIds":[],"decision":"reject","reason":"僅有單一新聞及當事人否認，沒有協調會原始紀錄或第二個獨立發布者。","finalEventId":null,"decidedBy":"adjudication-review","decidedAt":"2026-09-28"},
+    {"id":"adjudication-46836-11","comparisonIds":["comparison-c-chiang-election-case"],"additionalSourceIds":[],"decision":"publish","reason":"司法院正式新聞稿與中央社確認二審駁回確定及本人刑事部分不起訴；清楚區分團隊成員行為與江啟臣本人角色。","finalEventId":"event-chiang-election-lawsuit-2025","finalSummary":"江啟臣當選無效之訴二審駁回確定；法院認無證據證明其共同參與、授意或知情，其本人刑事部分亦因罪證不足不起訴。","decidedBy":"adjudication-review","decidedAt":"2026-09-28"}
+  ]
+}

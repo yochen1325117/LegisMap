@@ -1,0 +1,714 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46836",
+  "versionId": "independent-research-20260928-46836-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:24:04.324Z",
+  "contentHash": "149299beda9decc95aa55fde2f1495d2aa34532a4f9d08e059e62fc66a99d083",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wan-recall",
+        "c-wan-assets"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wan-recall",
+        "c-wan-assets"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46836",
+      "query": "罷免 選舉 政治獻金 財產 司法 判決 爭議 萬美玲",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wan-recall",
+        "c-wan-assets"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wan-recall",
+        "c-wan-assets"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 回應 後續 公告 調查 裁定 判決 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wan-recall",
+        "c-wan-assets"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46846",
+      "query": "罷免 選舉 政治獻金 財產 司法 判決 爭議 魯明哲",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 回應 後續 公告 調查 裁定 判決 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lu-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-nomination"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-nomination"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46797",
+      "query": "罷免 選舉 政治獻金 財產 司法 判決 爭議 徐欣瑩",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-nomination"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-nomination"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 回應 後續 公告 調查 裁定 判決 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-nomination"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiang-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiang-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46764",
+      "query": "罷免 選舉 政治獻金 財產 司法 判決 爭議 江啟臣",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiang-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiang-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 回應 後續 公告 調查 裁定 判決 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiang-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-wan-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46836"
+      ],
+      "provisionalCategory": "罷免",
+      "title": "萬美玲罷免案投票結果為否決",
+      "summary": "桃園第4選區萬美玲罷免案於2025年7月26日投票，中選會公告結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員桃園市第4選區罷免案",
+      "sourceIds": [
+        "s-cec-wan",
+        "s-cec-results",
+        "s-cna-results",
+        "s-cna-wan-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/60311",
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507210197.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46836",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "以正式答辯及公開說明回應罷免理由，主張罷免欠缺正當性。",
+      "processStatus": "中選會完成投票並公告",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "c-wan-assets",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46836"
+      ],
+      "provisionalCategory": "財產申報爭議",
+      "title": "萬美玲遭質疑未申報配偶海川建設持股",
+      "summary": "媒體依公開申報資料質疑萬美玲未列配偶海川建設持股；萬回應歷年財產申報均依法辦理。未查得監察院正式審查結果。",
+      "occurredAt": "2026-07-13",
+      "officialId": null,
+      "sourceIds": [
+        "s-cts-wan-assets",
+        "s-cna-wan-assets-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.cts.com.tw/cts/politics/202607/202607133054931.html",
+        "https://www.cna.com.tw/news/aipl/202607140077.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46836",
+          "role": "受質疑之申報義務人及回應者"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "監察院財產申報資料原件逐欄核對",
+        "監察院正式查核或裁罰結果"
+      ],
+      "personResponse": "表示擔任公職多年，財產申報一定依法辦理。",
+      "processStatus": "媒體質疑與本人回應；未見正式機關結果",
+      "resultStatus": "尚無違法或漏報之正式認定",
+      "evidenceLevel": "two_independent_publishers_with_response",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "c-lu-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46846"
+      ],
+      "provisionalCategory": "罷免",
+      "title": "魯明哲罷免案投票結果為否決",
+      "summary": "桃園第3選區魯明哲罷免案於2025年7月26日投票，中選會公告結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員桃園市第3選區罷免案",
+      "sourceIds": [
+        "s-cna-lu-reasons",
+        "s-cec-results",
+        "s-cna-results",
+        "s-cna-lu-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202507035016.aspx",
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507260196.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46846",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "在正式答辯書逐項回應，呼籲投不同意罷免。",
+      "processStatus": "中選會完成投票並公告",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "c-hsu-nomination",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46797"
+      ],
+      "provisionalCategory": "黨內提名爭議",
+      "title": "徐欣瑩否認協調場合拍桌及承諾不選縣長傳聞",
+      "summary": "新竹縣長黨內提名競逐期間，媒體報導徐欣瑩遭指協調時拍桌且曾承諾不選縣長；徐辦否認並稱與事實不符。",
+      "occurredAt": "2026-01-27",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-hsu"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202601270311.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46797",
+          "role": "傳聞涉及者及否認者"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "第二獨立發布者或協調會原始紀錄",
+        "可核實承諾內容的直接證據"
+      ],
+      "personResponse": "否認拍桌及曾承諾不選縣長，稱應回歸政策討論。",
+      "processStatus": "黨內提名傳聞，無正式調查程序",
+      "resultStatus": "無法獨立證實",
+      "evidenceLevel": "single_news_with_response",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    },
+    {
+      "id": "c-chiang-election-case",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46764"
+      ],
+      "provisionalCategory": "選舉司法",
+      "title": "江啟臣當選無效之訴二審駁回確定",
+      "summary": "對手主張江啟臣競選團隊成員以餐會行求不正利益而提起當選無效之訴；法院認無證據證明江共同參與、授意或知情，二審駁回上訴確定。江本人刑事部分先前亦因罪證不足不起訴。",
+      "occurredAt": "2025-06-18",
+      "officialId": "臺灣高等法院臺中分院114年度選上字第1號",
+      "sourceIds": [
+        "s-judicial-chiang",
+        "s-cna-chiang"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.judicial.gov.tw/tw/cp-1888-1345101-2d9ca-1.html",
+        "https://www.cna.com.tw/news/asoc/202506180162.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46764",
+          "role": "當選無效訴訟被上訴人；刑事部分獲不起訴"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "透過訴訟答辯否認參與、授意或知情。",
+      "processStatus": "當選無效民事二審終結；本人刑事部分不起訴",
+      "resultStatus": "上訴駁回確定，維持當選有效",
+      "evidenceLevel": "official_final_court_record",
+      "publicationDecision": "publish_with_role_separation",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46836-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cec-wan",
+      "title": "公告第11屆立法委員桃園市第4選舉區萬美玲罷免案",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/60311",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由、答辯及投票事項"
+    },
+    {
+      "id": "s-cec-results",
+      "title": "中央選舉委員會罷免投票結果公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "萬美玲、魯明哲罷免票數及否決結果"
+    },
+    {
+      "id": "s-cna-results",
+      "title": "中選會公告 25案罷免投票結果皆為否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會審查並公告萬美玲、魯明哲等罷免案否決"
+    },
+    {
+      "id": "s-cna-wan-response",
+      "title": "桃園罷團質疑擴權違憲 萬美玲稱大罷免無正當性",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507210197.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "萬美玲對罷免理由之回應"
+    },
+    {
+      "id": "s-cts-wan-assets",
+      "title": "未申報配偶「海川建設」？萬美玲遭疑「隱匿財產」無回應",
+      "publisher": "華視新聞",
+      "url": "https://news.cts.com.tw/cts/politics/202607/202607133054931.html",
+      "sourceType": "news",
+      "publishedAt": "2026-07-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "配偶持股與歷年財產申報質疑；截稿前未回應"
+    },
+    {
+      "id": "s-cna-wan-assets-response",
+      "title": "佀廣洋棄藍提名改無黨參選？萬美玲：尊重他決定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202607140077.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "萬美玲回應財產申報均依法辦理"
+    },
+    {
+      "id": "s-cna-lu-reasons",
+      "title": "立委魯明哲罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035016.aspx",
+      "sourceType": "official_document_republication",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會罷免理由及魯明哲答辯全文"
+    },
+    {
+      "id": "s-cna-lu-result",
+      "title": "桃園6立委罷免案皆否決 投票率逾55%",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260196.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "魯明哲同意66301、不同意105323，結果否決"
+    },
+    {
+      "id": "s-cna-hsu",
+      "title": "遭傳拍桌、曾承諾不選縣長等 徐欣瑩：與事實不符",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202601270311.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-01-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黨內協調傳聞與徐欣瑩完整否認"
+    },
+    {
+      "id": "s-judicial-chiang",
+      "title": "臺灣高等法院臺中分院114年度選上字第1號江啟臣當選無效事件判決新聞稿",
+      "publisher": "司法院／臺灣高等法院臺中分院",
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1345101-2d9ca-1.html",
+      "sourceType": "official_court_record",
+      "publishedAt": "2025-06-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二審認無證據證明江共同參與或知情，駁回上訴"
+    },
+    {
+      "id": "s-cna-chiang",
+      "title": "江啟臣遭控行賄挨告當選無效 二審判駁回確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202506180162.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "刑事不起訴、民事當選無效二審駁回確定及案件背景"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "new-taipei-north-2-2026",
+  "primaryVersionId": "primary-new-taipei-north-2-20260928-r1",
+  "independentVersionId": "independent-new-taipei-north-2-20260928-r1",
+  "decidedAt": "2026-09-28",
+  "records": [
+    {
+      "id": "adjudication-new-taipei-north-2-01",
+      "comparisonIds": [
+        "comparison-primary-event-nt-lind-youth-2025-ly11-46787"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有官方來源符合公開門檻。",
+      "finalEventId": "event-nt-lind-youth-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-02",
+      "comparisonIds": [
+        "comparison-primary-event-nt-hung-sports-2025-ly11-46794"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有官方來源符合公開門檻。",
+      "finalEventId": "event-nt-hung-sports-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-03",
+      "comparisonIds": [
+        "comparison-primary-event-nt-changh-gas-2025-ly11-46802"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有官方來源符合公開門檻。",
+      "finalEventId": "event-nt-changh-gas-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-04",
+      "comparisonIds": [
+        "comparison-primary-bill-202110126800000-ly11-46804"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有官方來源符合公開門檻。",
+      "finalEventId": "bill-202110126800000",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-05",
+      "comparisonIds": [
+        "comparison-primary-lin-recall-20250726",
+        "comparison-c-ldf-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方結果與獨立報導確認罷免未通過；另保存開票更正但不誤寫為改變結果。",
+      "finalEventId": "event-new-taipei-lind-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-06",
+      "comparisonIds": [
+        "comparison-primary-hung-recall-20250726"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "中選會結果與中央社可交叉確認罷免否決。",
+      "finalEventId": "event-new-taipei-hung-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-07",
+      "comparisonIds": [
+        "comparison-primary-changhunglu-recall-20250608-c-chl-recall",
+        "comparison-primary-changhunglu-recall-20250608-c-chl-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "兩軌確認二階截止未送件，合併為同一時間線。",
+      "finalEventId": "event-new-taipei-changhunglu-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-08",
+      "comparisonIds": [
+        "comparison-primary-changchihlun-recall-20250726",
+        "comparison-c-ccl-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "主流程已取得官方結果與中央社開票資料，補足獨立軌缺少的最終結果。",
+      "finalEventId": "event-new-taipei-changchihlun-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-09",
+      "comparisonIds": [
+        "comparison-c-ldf-election-day-post"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "缺少最終裁處與本人回應，不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-10",
+      "comparisonIds": [
+        "comparison-c-hmk-telecom",
+        "comparison-c-hmk-recall-speech"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "只有指控或告發階段，且缺少正式結案結果或第二獨立來源，不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-11",
+      "comparisonIds": [
+        "comparison-c-chl-scuffle"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "僅有單一新聞來源且沒有正式議事或懲處紀錄，不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-12",
+      "comparisonIds": [
+        "comparison-c-ccl-bribery"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "兩篇資料均來自同一發布者，尚缺正式不起訴處分或第二獨立發布者，不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-new-taipei-north-2-13",
+      "comparisonIds": [
+        "comparison-c-ccl-property"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "只有檢舉與本人否認，未取得監察院正式查核或裁處結果，不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    }
+  ],
+  "additionalSources": []
+}

@@ -1,0 +1,809 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46811",
+  "versionId": "primary-research-20260928-46811-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:36:20.372Z",
+  "contentHash": "9226b87768c2d394d2219392dffb693ddca319ef204e26d93d7344c2abae19fa",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46811-legislative",
+      "track": "primary",
+      "memberId": "ly11-46811",
+      "query": "郭國文 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-guo-account",
+        "p-guo-discipline"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46811-government",
+      "track": "primary",
+      "memberId": "ly11-46811",
+      "query": "郭國文 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46811-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46811",
+      "query": "郭國文 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46811-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46811",
+      "query": "郭國文 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-guo-relief"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46811-statements",
+      "track": "primary",
+      "memberId": "ly11-46811",
+      "query": "郭國文 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-guo-relief"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46815-legislative",
+      "track": "primary",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-child",
+        "p-chen-gas"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46815-government",
+      "track": "primary",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46815-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-assault-complaint"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46815-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-assault-complaint"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46815-statements",
+      "track": "primary",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46849-legislative",
+      "track": "primary",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lai-pingpu"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46849-government",
+      "track": "primary",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46849-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lai-election-acquittal"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46849-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lai-election-acquittal"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46849-statements",
+      "track": "primary",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46772-legislative",
+      "track": "primary",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lee-engineer",
+        "p-lee-rail-safety"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46772-government",
+      "track": "primary",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lee-rail-safety"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46772-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46772-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    },
+    {
+      "id": "primary-ly11-46772-statements",
+      "track": "primary",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46811-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-guo-account",
+      "memberIds": [
+        "ly11-46811"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒少投資儲蓄帳戶條例版本並納入併案三讀",
+      "summary": "立法院官方紀錄列郭國文等18人版本，2026年7月24日與黨團版本併案三讀；最終條文是併案結果，不全歸於單一委員。",
+      "occurredAt": "2026-07-24",
+      "officialId": "203110217830000",
+      "sourceIds": [
+        "s-guo-account"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110217830000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-guo-relief",
+      "memberIds": [
+        "ly11-46811"
+      ],
+      "provisionalCategory": "good_deed",
+      "title": "媒合宮廟捐款協助台南風災屋舍修繕",
+      "summary": "中央社報導郭國文與江肇國媒合台中宮廟捐助57.2萬元給台灣心義工團；款項來自宮廟，不記為郭國文個人捐款。",
+      "occurredAt": "2025-08-24",
+      "officialId": null,
+      "sourceIds": [
+        "s-guo-relief"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "recipient_confirmation_or_second_source"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aloc/202508240147.aspx"
+      ],
+      "roleClaims": [
+        "coordinator"
+      ],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "completed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-guo-discipline",
+      "memberIds": [
+        "ly11-46811"
+      ],
+      "provisionalCategory": "concern",
+      "title": "院會提案要求將郭國文移送紀律委員會",
+      "summary": "立法院討論事項文件記載部分委員因議事衝突提案將郭國文移送紀律委員會；目前未查得正式懲處結果，因此不把提案指控視為已認定事實。",
+      "occurredAt": "2024-07-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-guo-discipline"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "disciplinary_outcome",
+        "person_response"
+      ],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/SittingConsultationConclusionDownload/download/resources/ppgb32100/B202407121455470.pdf"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": null,
+      "processStatus": "alleged",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-chen-child",
+      "memberIds": [
+        "ly11-46815"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜兒少福利與權益保障法修正草案",
+      "summary": "立法院議案頁列陳亭妃等16人提案，2026年4月列入議案程序；所查來源未確認三讀。",
+      "occurredAt": "2026-04-10",
+      "officialId": "202110204640000",
+      "sourceIds": [
+        "s-chen-child"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110204640000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "proposed",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-chen-gas",
+      "memberIds": [
+        "ly11-46815"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜天然氣事業法修正版本並納入併案三讀",
+      "summary": "立法院官方頁列陳亭妃為提案人，該版本納入天然氣事業法第五十五條之一併案審查並三讀；最終條文不能全歸於她的版本。",
+      "occurredAt": "2025-12-05",
+      "officialId": "202110164860000",
+      "sourceIds": [
+        "s-chen-gas"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110164860000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-chen-assault-complaint",
+      "memberIds": [
+        "ly11-46815"
+      ],
+      "provisionalCategory": "concern",
+      "title": "就議場推擠受傷控告徐巧芯案遭發回續查",
+      "summary": "中央社報導陳亭妃控告徐巧芯傷害，北檢先不起訴，2026年3月高檢署撤銷並命續查。此為告訴程序，未認定任一方犯罪。",
+      "occurredAt": "2026-03-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-chen-assault"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "latest_disposition",
+        "direct_prosecutor_release"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202603190090.aspx"
+      ],
+      "roleClaims": [
+        "complainant"
+      ],
+      "personResponse": "陳亭妃主張議場推擠時遭踹傷；徐巧芯方面否認蓄意傷害。",
+      "processStatus": "under_investigation",
+      "resultStatus": "under_investigation"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-lai-pingpu",
+      "memberIds": [
+        "ly11-46849"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜平埔原住民族群身分法版本並納入三讀",
+      "summary": "立法院議案頁列賴惠員、徐富癸為提案人，版本與行政院及其他委員版本併案，2025年10月三讀。",
+      "occurredAt": "2025-10-17",
+      "officialId": "202110132140000",
+      "sourceIds": [
+        "s-lai-pingpu"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110132140000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-lai-election-acquittal",
+      "memberIds": [
+        "ly11-46849"
+      ],
+      "provisionalCategory": "concern",
+      "title": "違反選罷法案件獲判無罪確定",
+      "summary": "中央社報導賴惠員因2019年補選期間言論遭起訴，一審有罪，二審改判無罪，最高法院2023年駁回上訴而無罪確定；須保留完整程序，不能只呈現早期有罪判決。",
+      "occurredAt": "2023-02-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-lai-acquittal"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202302230069.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "賴惠員於二審前向陳筱諭認錯、道歉並和解。",
+      "processStatus": "closed",
+      "resultStatus": "resolved"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-lee-engineer",
+      "memberIds": [
+        "ly11-46772"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出技師法修正版本並納入併案三讀",
+      "summary": "立法院官方紀錄列李昆澤等19人版本，2025年12月16日與其他版本併案三讀；最終條文不能全歸於單一委員。",
+      "occurredAt": "2025-12-16",
+      "officialId": "203110177990000",
+      "sourceIds": [
+        "s-lee-engineer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110177990000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46811-r1",
+      "id": "p-lee-rail-safety",
+      "memberIds": [
+        "ly11-46772"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢臺鐵事故與逾期改善建議",
+      "summary": "立法院公報記載李昆澤質詢臺鐵2024至2026年調車及行車事故，並追問運安會超過三年未解除列管的改善建議；臺鐵董事長答稱近期陸續完成。此為監督與答詢紀錄，不宣稱改善已全部完成。",
+      "occurredAt": "2026-04-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-lee-rail"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/115/36/LCIDC01_1153601.pdf"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "personResponse": null,
+      "processStatus": "response_received",
+      "resultStatus": "ongoing"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-guo-account",
+      "title": "臺灣未來帳戶特別條例等併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110217830000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-07-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列郭國文等18人版本；115年7月24日三讀。"
+    },
+    {
+      "id": "s-guo-relief",
+      "title": "民代跨縣市媒合 台中宮廟捐款助台南風災重建",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202508240147.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "郭國文與江肇國媒合宮廟捐57.2萬元。"
+    },
+    {
+      "id": "s-guo-discipline",
+      "title": "第11屆第1會期院會討論事項",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingConsultationConclusionDownload/download/resources/ppgb32100/B202407121455470.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-07-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "記載提案將郭國文移送紀律委員會。"
+    },
+    {
+      "id": "s-chen-child",
+      "title": "兒童及少年福利與權益保障法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110204640000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-10",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人陳亭妃等16人及議案進度。"
+    },
+    {
+      "id": "s-chen-gas",
+      "title": "天然氣事業法第五十五條之一修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110164860000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人陳亭妃及併案三讀狀態。"
+    },
+    {
+      "id": "s-chen-assault",
+      "title": "徐巧芯被控踹傷陳亭妃不起訴 高檢署命北檢續查",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202603190090.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-03-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "告訴內容、不起訴及撤銷發回續查。"
+    },
+    {
+      "id": "s-lai-pingpu",
+      "title": "平埔原住民族群身分法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110132140000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-17",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人賴惠員、徐富癸及併案三讀。"
+    },
+    {
+      "id": "s-lai-acquittal",
+      "title": "立委賴惠員涉違反選罷法 獲判無罪確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202302230069.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-02-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "一二審及最高法院程序、無罪確定與回應。"
+    },
+    {
+      "id": "s-lee-engineer",
+      "title": "技師法第十一條條文修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110177990000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列李昆澤等19人版本；114年12月16日三讀。"
+    },
+    {
+      "id": "s-lee-rail",
+      "title": "立法院公報第115卷第36期委員會紀錄",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/115/36/LCIDC01_1153601.pdf",
+      "sourceType": "official",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "李昆澤質詢臺鐵事故與列管改善事項，約第27頁。"
+    }
+  ]
+}

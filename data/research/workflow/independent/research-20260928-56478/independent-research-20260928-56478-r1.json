@@ -1,0 +1,801 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-56478",
+  "versionId": "independent-research-20260928-56478-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:34:26.314Z",
+  "contentHash": "31ea1a19c94e2f79e0f18220c2fdef6a7c3d6e39cbe49a6d8072f07ee62fbb9c",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-succession",
+        "c-li-nationality",
+        "c-li-expulsion"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-succession",
+        "c-li-nationality",
+        "c-li-expulsion"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-56478",
+      "query": "立委 遞補 國籍 司法 起訴 政治獻金 爭議 李貞秀",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-succession",
+        "c-li-nationality",
+        "c-li-expulsion"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-succession",
+        "c-li-nationality",
+        "c-li-expulsion"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 回應 後續 裁定 判決 公告 調查結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-succession",
+        "c-li-nationality",
+        "c-li-expulsion"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-56438",
+      "query": "立委 遞補 國籍 司法 起訴 政治獻金 爭議 邱慧洳",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 回應 後續 裁定 判決 公告 調查結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chiu-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-56585",
+      "query": "許忠信 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-succession",
+        "c-hsu-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-56585",
+      "query": "許忠信 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-succession",
+        "c-hsu-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-56585",
+      "query": "立委 遞補 國籍 司法 起訴 政治獻金 爭議 許忠信",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-succession",
+        "c-hsu-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-56585",
+      "query": "許忠信 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-succession",
+        "c-hsu-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-56585",
+      "query": "許忠信 回應 後續 裁定 判決 公告 調查結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hsu-succession",
+        "c-hsu-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 site:cna.com.tw OR site:pts.org.tw OR site:udn.com OR site:news.cts.com.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-56458",
+      "query": "立委 遞補 國籍 司法 起訴 政治獻金 爭議 陳清龍",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 回應 後續 裁定 判決 公告 調查結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-li-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56478"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "李貞秀遞補第11屆不分區立法委員",
+      "summary": "中選會公告李貞秀遞補當選，2026年2月3日宣誓就職。",
+      "occurredAt": "2026-02-03",
+      "officialId": "中選會115年2月1日遞補公告",
+      "sourceIds": [
+        "s-cec-six",
+        "s-cna-six"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+        "https://www.cna.com.tw/news/aipl/202602010144.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56478",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會公告並宣誓就職",
+      "resultStatus": "遞補當選生效",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "c-li-nationality",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56478"
+      ],
+      "provisionalCategory": "任職資格爭議",
+      "title": "李貞秀中國國籍與立委資格爭議",
+      "summary": "內政部主張未收到其放棄中國籍證明並函請立院處理；李稱曾赴中國申請但公安不受理，主張其唯一效忠中華民國。爭議未在其失去黨籍前取得司法實體判決。",
+      "occurredAt": "2026-02-03",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-li-nationality",
+        "s-cna-li-gov",
+        "s-ly-li-record"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202602030091.aspx",
+        "https://www.cna.com.tw/news/aipl/202602260175.aspx",
+        "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd%21cec8c7cdcec7cdcbcbcb81cececacfcec8cfcec4cfcec7cac4cfcdcfca="
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56478",
+          "role": "資格受質疑的遞補立委及回應者"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "國籍及參選資格爭點的終局司法實體判決"
+      ],
+      "personResponse": "稱已赴中國申請放棄國籍但不獲受理，強調唯一效忠中華民國。",
+      "processStatus": "行政機關函請提出證明並於立院協商；未見終局實體判決",
+      "resultStatus": "後因另案遭政黨除籍而失去席次，國籍爭點未獲終局實體認定",
+      "evidenceLevel": "official_record_plus_multiple_news",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "c-li-expulsion",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56478"
+      ],
+      "provisionalCategory": "黨籍與任職異動",
+      "title": "李貞秀遭民眾黨開除黨籍並失去不分區席次",
+      "summary": "民眾黨中評會以違紀言論及辭職補償爭議決議除名。李否認以辭職交換利益；其後針對除籍及遞補所提暫時救濟分別遭法院駁回。",
+      "occurredAt": "2026-04-13",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-li-expulsion",
+        "s-cna-li-response",
+        "s-cna-li-court",
+        "s-cec-hsu"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202604130207.aspx",
+        "https://www.cna.com.tw/news/aipl/202604130290.aspx",
+        "https://www.cna.com.tw/news/asoc/202605070127.aspx",
+        "https://web.cec.gov.tw/central/article/62539"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56478",
+          "role": "遭除名黨員、失去不分區席次者及司法救濟聲請人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "否認辭職換利益；一度表示接受處分，後提暫時救濟。",
+      "processStatus": "黨籍除名生效；北院及北高行駁回暫時救濟，報導稱部分裁定可抗告",
+      "resultStatus": "立委名籍註銷，許忠信已公告遞補；暫時回復席次未獲准",
+      "evidenceLevel": "official_outcome_plus_court_reporting",
+      "publicationDecision": "publish_with_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "c-chiu-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56438"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "邱慧洳遞補第11屆不分區立法委員",
+      "summary": "中選會於2026年2月1日公告邱慧洳遞補當選。",
+      "occurredAt": "2026-02-01",
+      "officialId": "中選會115年2月1日遞補公告",
+      "sourceIds": [
+        "s-cec-six",
+        "s-cna-six"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+        "https://www.cna.com.tw/news/aipl/202602010144.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56438",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會依選罷法第73條公告",
+      "resultStatus": "遞補當選",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "c-hsu-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56585"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "許忠信遞補第11屆不分區立法委員",
+      "summary": "李貞秀喪失席次後，中選會公告許忠信遞補，並於2026年4月22日宣誓就職。",
+      "occurredAt": "2026-04-22",
+      "officialId": "中選務字第1150021651號",
+      "sourceIds": [
+        "s-cec-hsu",
+        "s-pts-hsu-office"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/62539",
+        "https://news.pts.org.tw/article/804946"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56585",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會公告並完成宣誓",
+      "resultStatus": "遞補當選生效",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "c-hsu-indictment",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56585"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "許忠信因「光電門神」言論遭加重誹謗起訴",
+      "summary": "北檢就2023年記者會言論依加重誹謗罪起訴許忠信。許表示尊重司法並將依程序處理；截至研究日僅為起訴階段，不代表有罪。",
+      "occurredAt": "2026-07-07",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-hsu-indictment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202607070062.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56585",
+          "role": "刑事案件被告；涉案言論發言人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "表示尊重司法，收到起訴書後依司法程序處理。",
+      "processStatus": "檢察官起訴，尚待法院審理",
+      "resultStatus": "未判決、未確定，不推定有罪",
+      "evidenceLevel": "direct_prosecution_reporting",
+      "publicationDecision": "publish_with_due_process",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    },
+    {
+      "id": "c-chen-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56458"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "陳清龍遞補第11屆不分區立法委員",
+      "summary": "中選會於2026年2月1日公告陳清龍遞補當選。",
+      "occurredAt": "2026-02-01",
+      "officialId": "中選會115年2月1日遞補公告",
+      "sourceIds": [
+        "s-cec-six",
+        "s-cna-six"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+        "https://www.cna.com.tw/news/aipl/202602010144.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56458",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會依選罷法第73條公告",
+      "resultStatus": "遞補當選",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-56478-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cec-six",
+      "title": "中央選舉委員會第11屆立法委員遞補當選人公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2026-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "公告列邱慧洳、陳清龍、李貞秀等六位遞補當選人"
+    },
+    {
+      "id": "s-cna-six",
+      "title": "中選會公告 李貞秀等6人遞補當選民眾黨不分區立委",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202602010144.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會依選罷法第73條公告遞補及國籍事項權責說明"
+    },
+    {
+      "id": "s-cna-li-nationality",
+      "title": "李貞秀：已放棄中國籍但不被受理 唯一效忠中華民國",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202602030091.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "李貞秀提出返中申請經過及效忠、退籍立場"
+    },
+    {
+      "id": "s-cna-li-gov",
+      "title": "拒絕李貞秀質詢？政院：只稱呼李女士答案應該很清楚",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202602260175.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "內政部稱三度函請提出放棄國籍證明而未收到"
+    },
+    {
+      "id": "s-ly-li-record",
+      "title": "立法院公報第115卷第17期黨團協商紀錄",
+      "publisher": "立法院",
+      "url": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd%21cec8c7cdcec7cdcbcbcb81cececacfcec8cfcec4cfcec7cac4cfcdcfca=",
+      "sourceType": "official_record",
+      "publishedAt": "2026-03-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "國籍、戶籍與候選資格爭議之正式議事紀錄"
+    },
+    {
+      "id": "s-cna-li-expulsion",
+      "title": "李貞秀遭民眾黨開除黨籍 喪失不分區立委資格",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202604130207.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-04-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中評會決議理由與喪失不分區席次效果"
+    },
+    {
+      "id": "s-cna-li-response",
+      "title": "李貞秀接受民眾黨開除黨籍處分不提訴訟 否認「辭職換利益」說法",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202604130290.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-04-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "李否認以辭職交換金錢，表示接受除籍處分"
+    },
+    {
+      "id": "s-cna-li-court",
+      "title": "民眾黨開除黨籍 李貞秀聲請定暫時狀態遭駁回",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202605070127.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-05-07",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "北院及北高行駁回暫時救濟聲請；裁定仍可抗告"
+    },
+    {
+      "id": "s-cec-hsu",
+      "title": "公告第11屆立法委員遞補當選人名單（許忠信）",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/62539",
+      "sourceType": "official_database",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選務字第1150021651號公告及附件"
+    },
+    {
+      "id": "s-pts-hsu-office",
+      "title": "遞補遭開除黨籍李貞秀 許忠信宣誓就職不分區立委",
+      "publisher": "公視新聞",
+      "url": "https://news.pts.org.tw/article/804946",
+      "sourceType": "news",
+      "publishedAt": "2026-04-22",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "許忠信宣誓就職及接替李貞秀席次"
+    },
+    {
+      "id": "s-cna-hsu-indictment",
+      "title": "涉影射賴勁麟光電門神 民眾黨立委許忠信遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202607070062.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2026-07-07",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "北檢依加重誹謗罪起訴及許忠信回應"
+    },
+    {
+      "id": "s-cec-ballot",
+      "title": "第11屆全國不分區及僑居國外國民立法委員選舉公報",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/9cdda387-4bb9-4939-8825-1d1a8cd66684.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2023-12-20",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "民眾黨不分區候選人名單及候選人資料"
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "independent",
+  "batchId": "new-taipei-north-1-2026",
+  "versionId": "independent-new-taipei-north-20260927-r1",
+  "performedBy": "codex-independent-new-taipei-north-review",
+  "researchedAt": "2026-09-27",
+  "lockedAt": "2026-09-27T15:38:27.309Z",
+  "contentHash": "6d527a567e38132a1be6e73c3be667d5d01cc001127ecdc944bb0ebcf00eb2e8",
+  "searchRuns": [
+    {
+      "id": "sr-ntn-001",
+      "track": "independent",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 中央社 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpj-vaccine",
+        "c-wpj-sex-rumor"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-002",
+      "track": "independent",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpj-vaccine",
+        "c-wpj-sex-rumor"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-003",
+      "track": "independent",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 疫苗採購 誹謗 選罷法 政治獻金 修法",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpj-vaccine",
+        "c-wpj-sex-rumor"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-004",
+      "track": "independent",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 吳秉叡 吳秉睿 WU PING-JUI 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpj-vaccine",
+        "c-wpj-sex-rumor"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-005",
+      "track": "independent",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 本人回應 撤告 起訴 無罪 上訴 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wpj-vaccine",
+        "c-wpj-sex-rumor"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-006",
+      "track": "independent",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wcm-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-007",
+      "track": "independent",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wcm-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-008",
+      "track": "independent",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 罷免 提議書 政治獻金 土城 三峽 法案",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wcm-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-009",
+      "track": "independent",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 吳琪銘 吴琪铭 WU CHI-MING 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wcm-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-010",
+      "track": "independent",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 本人回應 查對 偵查 起訴 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-wcm-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-011",
+      "track": "independent",
+      "memberId": "ly11-46863",
+      "query": "李坤城 中央社 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lkc-extortion",
+        "c-lkc-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-012",
+      "track": "independent",
+      "memberId": "ly11-46863",
+      "query": "李坤城 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lkc-extortion",
+        "c-lkc-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-013",
+      "track": "independent",
+      "memberId": "ly11-46863",
+      "query": "李坤城 敲竹槓 不實連署 罷免 政治獻金 法案",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lkc-extortion",
+        "c-lkc-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-014",
+      "track": "independent",
+      "memberId": "ly11-46863",
+      "query": "李坤城 李坤城 LEE KUN-CHENG 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lkc-extortion",
+        "c-lkc-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-015",
+      "track": "independent",
+      "memberId": "ly11-46863",
+      "query": "李坤城 本人回應 告發 起訴 無罪 上訴 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lkc-extortion",
+        "c-lkc-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-016",
+      "track": "independent",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 中央社 聯合報 TVBS 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsf-threat",
+        "c-lsf-lunch"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-017",
+      "track": "independent",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsf-threat",
+        "c-lsf-lunch"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-018",
+      "track": "independent",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 服務處恐嚇 百元便當 政治獻金 法案 社群",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsf-threat",
+        "c-lsf-lunch"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-019",
+      "track": "independent",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 林淑芬 LIN SHU-FEN 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsf-threat",
+        "c-lsf-lunch"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "sr-ntn-020",
+      "track": "independent",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 本人報案 澄清 起訴 後續結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lsf-threat",
+        "c-lsf-lunch"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-20260927-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-wpj-vaccine",
+      "memberIds": [
+        "ly11-46768"
+      ],
+      "provisionalCategory": "disinformation_and_judicial",
+      "title": "網路指吳秉叡干涉疫苗採購及收取回扣案",
+      "summary": "2021年網路流傳吳秉叡干涉BNT疫苗採購並可取得回扣。檢方認定相關內容不實；部分轉傳者道歉後吳秉叡撤告，另有一人遭加重誹謗起訴。吳秉叡是受指控及提告人，不是疫苗採購案被告。",
+      "occurredAt": "2022-06-09",
+      "sourceIds": [
+        "s-wpj-cna-vax"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202206090103.aspx"
+      ],
+      "roleClaims": [
+        "不實訊息指涉對象",
+        "告訴人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "四名網友道歉後，吳秉叡撤回告訴。",
+      "processStatus": "mixed_indictment_and_non_prosecution_of_posters",
+      "resultStatus": "one_poster_indicted_others_non_prosecuted",
+      "evidenceLevel": "prosecutorial_outcome_reported_by_wire_service",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-wpj-sex-rumor",
+      "memberIds": [
+        "ly11-46768"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "選舉期間「性侵女實習生」指控及選罷法訴訟",
+      "summary": "2023至2024選舉期間有人發布吳秉叡性侵女實習生等內容。檢方起訴相關人員；一、二審對主要被告判無罪，部分同案被告判刑。判決結果不等於證實原始性侵指控。",
+      "occurredAt": "2026-04-29",
+      "sourceIds": [
+        "s-wpj-udn-rumor"
+      ],
+      "canonicalSourceUrls": [
+        "https://udn.com/news/amp/story/7321/9473409"
+      ],
+      "roleClaims": [
+        "選舉言論指涉對象；非本案被告"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "高院判決全文與案號",
+        "是否上訴最高法院及確定結果"
+      ],
+      "personResponse": null,
+      "processStatus": "second_instance_judgment",
+      "resultStatus": "principal_defendant_acquitted_some_codefendant_convicted",
+      "evidenceLevel": "single_independent_news",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-wcm-recall",
+      "memberIds": [
+        "ly11-46771"
+      ],
+      "provisionalCategory": "election",
+      "title": "吳琪銘罷免提議程序",
+      "summary": "新北市選舉委員會會議紀錄載有第11屆新北市第10選區吳琪銘罷免案提議門檻及處理事項；目前蒐集來源不足以確認完整程序與最終結果。",
+      "occurredAt": "2025-10-01",
+      "sourceIds": [
+        "s-wcm-cec-minutes"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/726fce2e-629e-4d7b-bde4-d498449add51.pdf"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "中選會完整查對結果",
+        "是否進入投票及最終結果",
+        "本人答辯或回應"
+      ],
+      "personResponse": null,
+      "processStatus": "proposal_review",
+      "resultStatus": "unknown",
+      "evidenceLevel": "single_official_record",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-lkc-extortion",
+      "memberIds": [
+        "ly11-46863"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "王威元選舉期間指李坤城服務處向廠商「敲竹槓」案",
+      "summary": "王威元在2024立委選舉期間質疑李坤城服務處藉鄰損賠償敲竹槓。檢方依選罷法起訴王；法院一、二審均判王無罪，高院認為其以疑問方式評論且難認主觀明知不實。判決並未認定李坤城確有敲竹槓。",
+      "occurredAt": "2026-08-03",
+      "sourceIds": [
+        "s-lkc-cna-extortion",
+        "s-lkc-udn-extortion"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508070128.aspx",
+        "https://udn.com/vote2026/story/7321/9703565"
+      ],
+      "roleClaims": [
+        "選舉言論指涉對象；非刑事被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "second_instance_acquittal",
+      "resultStatus": "accused_speaker_acquitted_appeal_status_unknown",
+      "evidenceLevel": "two_independent_publishers_with_court_outcome",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-lkc-recall",
+      "memberIds": [
+        "ly11-46863"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "李坤城罷免案提議書查對與不實連署偵辦",
+      "summary": "李坤城接獲陳情後告發罷免連署疑似造假。中選會查對表列2,719份中1,631份合格；領銜人等人後遭搜索、交保。交保屬偵查強制處分，不代表有罪。",
+      "occurredAt": "2025-04-16",
+      "sourceIds": [
+        "s-lkc-cna-report",
+        "s-lkc-cec",
+        "s-lkc-cna-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202502180128.aspx",
+        "https://web.cec.gov.tw/api/file/baf8b548-28b2-4a7f-ba8d-be044e385e13.pdf",
+        "https://www.cna.com.tw/news/asoc/202504160004.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人",
+        "告發人；非被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "李坤城表示接獲民眾爆料，因疑有偽造文書與違法利用個資而赴新北地檢署告發。",
+      "processStatus": "investigation_of_third_parties",
+      "resultStatus": "search_and_bail_reported_no_final_judgment",
+      "evidenceLevel": "official_election_record_plus_two_wire_reports",
+      "publicationDecision": "publish_with_presumption_of_innocence"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-lsf-threat",
+      "memberIds": [
+        "ly11-46785"
+      ],
+      "provisionalCategory": "security_and_judicial",
+      "title": "有人下單要求外送員到林淑芬服務處開槍",
+      "summary": "2023年外送平台出現要求取槍並前往林淑芬服務處開槍的訂單；服務處報警後警方逮捕涉案人，新北檢依恐嚇危害安全罪起訴。林淑芬及其服務處是威脅對象。",
+      "occurredAt": "2023-09-05",
+      "sourceIds": [
+        "s-lsf-cna-threat"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202309050294.aspx"
+      ],
+      "roleClaims": [
+        "受威脅人／服務處報案方"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "林淑芬公開說明接獲民眾通知後，服務處立即報案。",
+      "processStatus": "third_party_indicted",
+      "resultStatus": "indictment_reported",
+      "evidenceLevel": "prosecutorial_outcome_reported_by_wire_service",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-20260927-r1",
+      "id": "c-lsf-lunch",
+      "memberIds": [
+        "ly11-46785"
+      ],
+      "provisionalCategory": "public_statement",
+      "title": "林淑芬評論立法院百元便當及後續澄清",
+      "summary": "林淑芬在經費稽核委員會批評立法院百元便當品質與採購制度，相關發言被簡化為「100元便當沒有尊嚴」後引發爭議。她澄清原意是要求檢討長期未調整的採購制度；立法院表示將檢討價格。",
+      "occurredAt": "2026-06-30",
+      "sourceIds": [
+        "s-lsf-tvbs-lunch",
+        "s-lsf-udn-lunch"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.tvbs.com.tw/life/3244978",
+        "https://money.udn.com/money/story/7307/9597817"
+      ],
+      "roleClaims": [
+        "發言人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "林淑芬表示「100元便當沒有尊嚴」不是其原意，訴求是正視採購制度與市場行情。",
+      "processStatus": "public_response_completed",
+      "resultStatus": "legislature_reported_procurement_review",
+      "evidenceLevel": "two_independent_publishers_with_response",
+      "publicationDecision": "publish"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-wpj-cna-vax",
+      "title": "指吳秉叡干涉疫苗採購案 網友被依加重誹謗起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202206090103.aspx",
+      "sourceType": "news",
+      "publishedAt": "2022-06-09",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "新北檢偵結、撤告與不起訴／起訴情形"
+    },
+    {
+      "id": "s-wpj-udn-rumor",
+      "title": "遭控買網軍抹黑吳秉叡「性侵女實習生」 二審仍判無罪",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/amp/story/7321/9473409",
+      "sourceType": "news",
+      "publishedAt": "2026-04-29",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "高院駁回檢方上訴、各被告判決結果"
+    },
+    {
+      "id": "s-wpj-ly-bill",
+      "title": "吳秉叡撤案拒當選罷法修法鬥爭工具 國民黨團譴責",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202407020292.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-02",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "選罷法提案撤案與雙方說法"
+    },
+    {
+      "id": "s-wcm-cec-minutes",
+      "title": "新北市選舉委員會第118次委員會議紀錄",
+      "publisher": "新北市選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/726fce2e-629e-4d7b-bde4-d498449add51.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-10-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "吳琪銘罷免案提議門檻及處理紀錄"
+    },
+    {
+      "id": "s-wcm-ly",
+      "title": "吳琪銘委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/EngPages/List.aspx?nodeid=37427",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "官方委員資料"
+    },
+    {
+      "id": "s-lkc-ly",
+      "title": "李坤城委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46863",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "官方委員資料"
+    },
+    {
+      "id": "s-lkc-cna-extortion",
+      "title": "指李坤城向廠商敲竹槓 議員王威元涉違選罷法遭訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508070128.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-07",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "新北檢起訴理由與廠商說法"
+    },
+    {
+      "id": "s-lkc-udn-extortion",
+      "title": "爆料李坤城「敲竹槓」挨告誹謗 王威元二審仍獲無罪",
+      "publisher": "聯合報",
+      "url": "https://udn.com/vote2026/story/7321/9703565",
+      "sourceType": "news",
+      "publishedAt": "2026-08-03",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "高院駁回上訴、無罪理由"
+    },
+    {
+      "id": "s-lkc-cna-report",
+      "title": "李坤城接獲陳情指罷免連署造假 赴新北檢按鈴提告",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202502180128.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-02-18",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "本人告發內容與回應"
+    },
+    {
+      "id": "s-lkc-cec",
+      "title": "第11屆立法委員新北市第3選舉區李坤城罷免案提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/baf8b548-28b2-4a7f-ba8d-be044e385e13.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-04-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "提議總數、合格與不合格分類"
+    },
+    {
+      "id": "s-lkc-cna-recall",
+      "title": "罷免李坤城領銜人宋建樑涉不實連署 交保後離開",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202504160004.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-04-16",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "搜索、複訊與交保；未判定有罪"
+    },
+    {
+      "id": "s-lsf-cna-threat",
+      "title": "下單要外送員去林淑芬服務處開槍 犯嫌遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202309050294.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-09-05",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "服務處報案及新北檢起訴"
+    },
+    {
+      "id": "s-lsf-tvbs-lunch",
+      "title": "影音／立院便當「拿去換行政院」？林淑芬：採購制度該檢討",
+      "publisher": "TVBS",
+      "url": "https://news.tvbs.com.tw/life/3244978",
+      "sourceType": "news",
+      "publishedAt": "2026-06-30",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "原發言、本人澄清及立法院回應"
+    },
+    {
+      "id": "s-lsf-udn-lunch",
+      "title": "百元便當引熱議 林淑芬：盼立院正視調整採購制度",
+      "publisher": "經濟日報",
+      "url": "https://money.udn.com/money/story/7307/9597817",
+      "sourceType": "news",
+      "publishedAt": "2026-06-30",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "本人社群澄清及各方回應"
+    }
+  ]
+}

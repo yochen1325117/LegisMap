@@ -1,0 +1,788 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "new-taipei-north-3-2026",
+  "versionId": "primary-new-taipei-north-3-20260928-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:17:09.896Z",
+  "contentHash": "bed67641ae7725d049f9aff03c2ef7fe37d23c0356b93033c1d9169379d864d2",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46837-legislative",
+      "track": "primary",
+      "memberId": "ly11-46837",
+      "query": "葉元之 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-yeh-ai-2025-ly11-46837"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46837-government",
+      "track": "primary",
+      "memberId": "ly11-46837",
+      "query": "葉元之 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46837-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46837",
+      "query": "葉元之 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ye-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46837-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46837",
+      "query": "葉元之 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ye-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46837-statements",
+      "track": "primary",
+      "memberId": "ly11-46837",
+      "query": "葉元之 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46839-legislative",
+      "track": "primary",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-bill-202110123870000-ly11-46839"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46839-government",
+      "track": "primary",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46839-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-liao-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46839-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-liao-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46839-statements",
+      "track": "primary",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46857-legislative",
+      "track": "primary",
+      "memberId": "ly11-46857",
+      "query": "羅明才 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-bill-203110153820000-ly11-46857"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46857-government",
+      "track": "primary",
+      "memberId": "ly11-46857",
+      "query": "羅明才 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46857-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46857",
+      "query": "羅明才 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-luo-recall-20250823"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46857-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46857",
+      "query": "羅明才 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-luo-recall-20250823"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46857-statements",
+      "track": "primary",
+      "memberId": "ly11-46857",
+      "query": "羅明才 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46860-legislative",
+      "track": "primary",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-su-childcare-2025-ly11-46860"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46860-government",
+      "track": "primary",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 行政機關年度公開資料 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46860-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 司法、監督與選舉紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-su-recall-ended-20250605"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46860-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-su-recall-ended-20250605"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-46860-statements",
+      "track": "primary",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 本人、政黨與公益組織聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-event-nt-yeh-ai-2025-ly11-46837",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46837"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出人工智慧基本法草案",
+      "summary": "立法院議案頁列葉元之等18人提出《人工智慧基本法》草案；與其他版本併案後於114年12月23日三讀。不能把最終條文全歸於單一版本。",
+      "occurredAt": "2025-12-23",
+      "officialId": null,
+      "sourceIds": [
+        "nt-yeh-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110174270000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-bill-202110123870000-ly11-46839",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46839"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒少福利與權益保障法修正草案",
+      "summary": "立法院議案頁列廖先翔等17人提出《兒童及少年福利與權益保障法》第100條修正草案。",
+      "occurredAt": "2025-05-09",
+      "officialId": "202110123870000",
+      "sourceIds": [
+        "nt-liao-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110123870000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-bill-203110153820000-ly11-46857",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46857"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出貨物稅條例修正草案",
+      "summary": "立法院議案頁列羅明才等19人提出《貨物稅條例》第12條之3修正草案；與其他版本併案審查，最後條文不能全歸於其提案。",
+      "occurredAt": "2025-12-26",
+      "officialId": "203110153820000",
+      "sourceIds": [
+        "nt-luo-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110153820000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-event-nt-su-childcare-2025-ly11-46860",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46860"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒童托育服務法草案",
+      "summary": "立法院議案頁列蘇巧慧等16人提出《兒童托育服務法》草案；此為提案，不推定已成為法律。日期為議案頁所列院會進度日期。",
+      "occurredAt": "2025-05-23",
+      "officialId": null,
+      "sourceIds": [
+        "nt-su-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110129230000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-event-nt-su-spring-2025-ly11-46860",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46860"
+      ],
+      "provisionalCategory": "anecdote",
+      "title": "分送春聯並決定加印",
+      "summary": "中央社報導，蘇巧慧以新北市黨部主委身分到中和、汐止等地分送春聯，並表示將加印前總統蔡英文春聯。",
+      "occurredAt": "2025-01-12",
+      "officialId": null,
+      "sourceIds": [
+        "nt-su-spring"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=248074"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-ye-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46837"
+      ],
+      "provisionalCategory": "concern",
+      "title": "葉元之罷免案投票結果為否決",
+      "summary": "官方結果與中央社均確認罷免未通過；不同意票比同意票多3,560票。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "nt3-cec-july-results",
+        "nt3-cna-july-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/tpcec/article/60789",
+        "https://www.cna.com.tw/news/aipl/202507260208.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-liao-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46839"
+      ],
+      "provisionalCategory": "concern",
+      "title": "廖先翔罷免案投票結果為否決",
+      "summary": "官方結果與中央社均確認罷免未通過。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "nt3-cec-july-results",
+        "nt3-cna-july-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/tpcec/article/60789",
+        "https://www.cna.com.tw/news/aipl/202507260208.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-luo-recall-20250823",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46857"
+      ],
+      "provisionalCategory": "concern",
+      "title": "羅明才罷免案投票結果為否決",
+      "summary": "中選會公告與中央社均確認羅明才罷免案否決。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "nt3-cec-luo-result",
+        "nt3-cna-luo-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/90c5af62-e67e-4691-ba2e-d4afb4090747.pdf",
+        "https://www.cna.com.tw/news/aipl/202508290199.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "primary-su-recall-ended-20250605",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46860"
+      ],
+      "provisionalCategory": "concern",
+      "title": "罷免案第二階段未送件而停止",
+      "summary": "罷免案通過補提查對後，因第二階段連署未達標而未送件，未進入投票。蘇巧慧為罷免標的。",
+      "occurredAt": "2025-06-05",
+      "officialId": null,
+      "sourceIds": [
+        "nt3-cec-su-check",
+        "nt3-rti-su-ended"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cec.gov.tw/api/file/46f7b321-1416-41fe-a558-e22615aa4773.pdf",
+        "https://www.rti.org.tw/news/view/id/2252344"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-3-20260928-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "nt-yeh-bill",
+      "title": "人工智慧基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110174270000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "葉元之等18人提案；審議進度列114年12月23日三讀",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-liao-bill",
+      "title": "兒童及少年福利與權益保障法第一百條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110123870000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "廖先翔等17人提案；114年5月9日議案進度",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-luo-bill",
+      "title": "貨物稅條例第十二條之三條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110153820000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "關聯議案列羅明才等19人；審議進度列114年12月26日咨請公布",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-su-bill",
+      "title": "兒童托育服務法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110129230000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "蘇巧慧等16人提案及議案進度欄",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-su-spring",
+      "title": "蘇巧慧：蔡英文春聯人氣高 新北黨部決加印發送",
+      "publisher": "中央通訊社",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=248074",
+      "sourceType": "news",
+      "publishedAt": "2025-01-12",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "新北黨部分送與加印春聯段落；立法院轉載中央社報導",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt3-cec-july-results",
+      "title": "第11屆立法委員罷免案結果總表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/tpcec/article/60789",
+      "sourceType": "official",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "葉元之、廖先翔罷免結果附件。"
+    },
+    {
+      "id": "nt3-cna-july-results",
+      "title": "新北5立委罷免案都否決 葉元之以3560票差距過關",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260208.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "新北罷免開票結果。"
+    },
+    {
+      "id": "nt3-cec-luo-result",
+      "title": "公告第11屆立法委員罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/90c5af62-e67e-4691-ba2e-d4afb4090747.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-08-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "新北市第11選舉區羅明才罷免投票結果。"
+    },
+    {
+      "id": "nt3-cna-luo-result",
+      "title": "中選會公告 核三重啟公投不通過7藍委罷免案均否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508290199.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會審定羅明才等7案否決。"
+    },
+    {
+      "id": "nt3-cec-su-check",
+      "title": "蘇巧慧罷免案補提提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://www.cec.gov.tw/api/file/46f7b321-1416-41fe-a558-e22615aa4773.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-03-28",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "補提提議人名冊查對結果。"
+    },
+    {
+      "id": "nt3-rti-su-ended",
+      "title": "蘇巧慧、吳琪銘罷免連署未達標 罷團：二階不送件",
+      "publisher": "中央廣播電臺",
+      "url": "https://www.rti.org.tw/news/view/id/2252344",
+      "sourceType": "news",
+      "publishedAt": "2025-06-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二階連署未達標並決議不送件。"
+    }
+  ]
+}

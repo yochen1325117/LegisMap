@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46811",
+  "primaryVersionId": "primary-research-20260928-46811-r1",
+  "independentVersionId": "independent-research-20260928-46811-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-guo-account",
+      "primaryCandidateId": "p-guo-account",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-guo-relief",
+      "primaryCandidateId": "p-guo-relief",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-guo-discipline",
+      "primaryCandidateId": "p-guo-discipline",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chen-child",
+      "primaryCandidateId": "p-chen-child",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chen-gas",
+      "primaryCandidateId": "p-chen-gas",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chen-assault-complaint",
+      "primaryCandidateId": "p-chen-assault-complaint",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lai-pingpu",
+      "primaryCandidateId": "p-lai-pingpu",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lai-election-acquittal-c-lai-election-case",
+      "primaryCandidateId": "p-lai-election-acquittal",
+      "independentCandidateId": "c-lai-election-case",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lee-engineer",
+      "primaryCandidateId": "p-lee-engineer",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lee-rail-safety",
+      "primaryCandidateId": "p-lee-rail-safety",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-kuo-complaint",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-kuo-complaint",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-chen-thesis",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-chen-thesis",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-li-election",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-li-election",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

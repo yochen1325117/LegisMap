@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46832",
+  "primaryVersionId": "primary-research-20260928-46832-r1",
+  "independentVersionId": "independent-research-20260928-46832-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-huang-whistleblower-20241227",
+      "primaryCandidateId": "p-huang-whistleblower-20241227",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-huang-walk-20250902",
+      "primaryCandidateId": "p-huang-walk-20250902",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lu-vocational-202410",
+      "primaryCandidateId": "p-lu-vocational-202410",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lu-recall-20250726-c-lu-recall",
+      "primaryCandidateId": "p-lu-recall-20250726",
+      "independentCandidateId": "c-lu-recall",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chiu-metro-202512",
+      "primaryCandidateId": "p-chiu-metro-202512",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-chiu-recall-20250726-c-chiu-recall",
+      "primaryCandidateId": "p-chiu-recall-20250726",
+      "independentCandidateId": "c-chiu-recall",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-tu-employment-insurance-202604",
+      "primaryCandidateId": "p-tu-employment-insurance-202604",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-tu-health-points-202411",
+      "primaryCandidateId": "p-tu-health-points-202411",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-tu-recall-20250726-c-tu-recall",
+      "primaryCandidateId": "p-tu-recall-20250726",
+      "independentCandidateId": "c-tu-recall",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-huang-mirror",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-huang-mirror",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-tu-defamation",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-tu-defamation",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

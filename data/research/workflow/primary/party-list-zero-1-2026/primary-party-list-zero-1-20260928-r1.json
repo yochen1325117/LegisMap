@@ -1,0 +1,735 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "party-list-zero-1-2026",
+  "versionId": "primary-party-list-zero-1-20260928-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:29:02.776Z",
+  "contentHash": "0da564eb8b0ab81064306d0b35678a47087688d32e66a04afa2520db0fe91334",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-77699-legislative",
+      "track": "primary",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-liu-media-bargaining-202504"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-77699-government",
+      "track": "primary",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-77699-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-liu-offtopic-20250815"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-77699-independent_news",
+      "track": "primary",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-liu-offtopic-20250815"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-77699-statements",
+      "track": "primary",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56378-legislative",
+      "track": "primary",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-hung-civil-code-20260728"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56378-government",
+      "track": "primary",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-hung-it-procurement-202606"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56378-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56378-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-hung-it-procurement-202606"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56378-statements",
+      "track": "primary",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56398-legislative",
+      "track": "primary",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-tsai-income-tax-20260710"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56398-government",
+      "track": "primary",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56398-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-tsai-family-allegation-20260519"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56398-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-tsai-family-allegation-20260519"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56398-statements",
+      "track": "primary",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-tsai-family-allegation-20260519"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56418-legislative",
+      "track": "primary",
+      "memberId": "ly11-56418",
+      "query": "王安祥 立法院提案、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wang-civil-code-20260728"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56418-government",
+      "track": "primary",
+      "memberId": "ly11-56418",
+      "query": "王安祥 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wang-defense-tech-20260427"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56418-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56418",
+      "query": "王安祥 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56418-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56418",
+      "query": "王安祥 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-ly11-56418-statements",
+      "track": "primary",
+      "memberId": "ly11-56418",
+      "query": "王安祥 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-liu-media-bargaining-202504",
+      "track": "primary",
+      "memberIds": [
+        "ly11-77699"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "以書面質詢追問新聞議價與媒體基金治理",
+      "summary": "立法院公報收錄劉書彬就新聞議價制度提出書面質詢，詢問媒體發展基金去行政化、獨立第三方管理及平台反報復條款。紀錄可證明其質詢行動，不代表制度已採納或完成。",
+      "occurredAt": "2025-04-30",
+      "officialId": null,
+      "sourceIds": [
+        "plz1-ly-liu-media-question"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/45/LCIDC01_1144501.pdf"
+      ],
+      "roleClaims": [
+        "written_questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "recorded",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-liu-offtopic-20250815",
+      "track": "primary",
+      "memberIds": [
+        "ly11-77699"
+      ],
+      "provisionalCategory": "concern",
+      "title": "打詐專報質詢能源議題遭議長提醒回到主題",
+      "summary": "中央社報導，在行政院打詐專案報告質詢中，劉書彬轉問能源議題，立法院長韓國瑜當場提醒專報題目與質詢內容不符；劉書彬表示尊重裁示後仍短暫續問能源。此為議事程序爭議，不涉及違法認定。",
+      "occurredAt": "2025-08-15",
+      "officialId": null,
+      "sourceIds": [
+        "plz1-cna-liu-offtopic"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508150122.aspx"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "需補同場官方院會影音或公報作直接程序紀錄"
+      ],
+      "personResponse": "劉書彬當場表示尊重主席裁示。",
+      "processStatus": "documented_claim",
+      "resultStatus": "recorded",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-hung-it-procurement-202606",
+      "track": "primary",
+      "memberIds": [
+        "ly11-56378"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢政府資訊服務採購制度改革",
+      "summary": "立法院發言紀錄與公報收錄洪毓祥就政府資訊服務採購與一般工程採購差異提出質詢，要求研議資訊服務專章及公開可揭露資訊；行政院長答覆將請工程會研究。這是質詢與行政回應，尚非完成改革。",
+      "occurredAt": "2026-06-02",
+      "officialId": null,
+      "sourceIds": [
+        "plz1-ivod-hung-procurement",
+        "plz1-ly-hung-procurement-gazette"
+      ],
+      "canonicalSourceUrls": [
+        "https://ivod.ly.gov.tw/Demand/Speech/168843",
+        "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/115/36/LCIDC01_1153601.pdf"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "government_response_recorded",
+      "resultStatus": "in_progress",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-hung-civil-code-20260728",
+      "track": "primary",
+      "memberIds": [
+        "ly11-56378"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "連署《民法》第1223條修正草案",
+      "summary": "立法院議案頁列洪毓祥為林思銘等16人版本的連署人；併案於2026年7月28日三讀。僅記錄連署角色，不將三讀結果歸為其個人成果。",
+      "occurredAt": "2026-07-28",
+      "officialId": "202110204670000",
+      "sourceIds": [
+        "plz1-ly-hung-civil-code"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110204670000/details"
+      ],
+      "roleClaims": [
+        "cosigner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "third_reading_passed",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-tsai-income-tax-20260710",
+      "track": "primary",
+      "memberIds": [
+        "ly11-56398"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出《所得稅法》第17條及第126條修正草案",
+      "summary": "立法院議案頁列蔡春綢等18人提出所得稅法修正草案，2026年7月14日交付財政委員會審查。此處記錄領銜提案與審議階段，不宣稱已通過。",
+      "occurredAt": "2026-07-10",
+      "officialId": "202110222890000",
+      "sourceIds": [
+        "plz1-ly-tsai-income-tax"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110222890000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-tsai-family-allegation-20260519",
+      "track": "primary",
+      "memberIds": [
+        "ly11-56398"
+      ],
+      "provisionalCategory": "concern",
+      "title": "遭質疑與家族地方勢力共用服務處",
+      "summary": "中央社報導時代力量質疑蔡春綢與其家族地方服務處及協會地址關係；蔡春綢回應否認「黑金」指控、譴責暴力，並稱相關案件應由司法釐清。現階段只有一個獨立新聞發布者，未達爭議公開門檻。",
+      "occurredAt": "2026-05-19",
+      "officialId": null,
+      "sourceIds": [
+        "plz1-cna-tsai-family"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202605190122.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "需補正式司法文件或第二個獨立發布者確認核心事實"
+      ],
+      "personResponse": "蔡春綢否認黑金指控，表示自己長期任教及投入公益，並稱暴力案件已進司法程序。",
+      "processStatus": "allegation_reported",
+      "resultStatus": "unresolved",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-wang-defense-tech-20260427",
+      "track": "primary",
+      "memberIds": [
+        "ly11-56418"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "就新興科技投入不對稱作戰效能質詢國防部",
+      "summary": "立法院IVOD記錄王安祥於外交及國防委員會，針對國防部創新小組運用新興科技於不對稱作戰的效能與後續發展質詢。此處只記錄具名質詢，未推定政策成果。",
+      "occurredAt": "2026-04-27",
+      "officialId": null,
+      "sourceIds": [
+        "plz1-ivod-wang-defense-tech"
+      ],
+      "canonicalSourceUrls": [
+        "https://ivod.ly.gov.tw/Play/Clip/1M/168857"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "recorded",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "primary-wang-civil-code-20260728",
+      "track": "primary",
+      "memberIds": [
+        "ly11-56418"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "參與民眾黨團《民法》第1223條修正提案",
+      "summary": "立法院議案頁列台灣民眾黨黨團提案人包含王安祥；併案於2026年7月28日三讀。須在後續比對確認個人角色究竟為黨團提案代表或共同提案，避免將黨團行動過度歸為個人成果。",
+      "occurredAt": "2026-07-28",
+      "officialId": "202110209260000",
+      "sourceIds": [
+        "plz1-ly-wang-civil-code"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110209260000/details"
+      ],
+      "roleClaims": [
+        "party_group_proposer"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "需以關係文書確認王安祥個人簽署及精確角色"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading_passed",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-party-list-zero-1-20260928-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "plz1-ly-liu-media-question",
+      "title": "立法院公報第114卷第45期委員會紀錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/45/LCIDC01_1144501.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-04-30",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "「委員劉書彬書面質詢」段落；媒體基金管理與反報復條款兩題。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-cna-liu-offtopic",
+      "title": "打詐專報劉書彬質詢談能源　韓國瑜提醒名不符實",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508150122.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "韓國瑜提醒質詢回到打詐專報主題及劉書彬回應段落。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-ivod-hung-procurement",
+      "title": "洪毓祥院會質詢發言紀錄",
+      "publisher": "立法院IVOD",
+      "url": "https://ivod.ly.gov.tw/Demand/Speech/168843",
+      "sourceType": "official",
+      "publishedAt": "2026-06-02",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "16:18起資訊服務採購專章、ART/MOU公開與整合資訊窗口質詢。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-ly-hung-procurement-gazette",
+      "title": "立法院公報第115卷第36期委員會紀錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/115/36/LCIDC01_1153601.pdf",
+      "sourceType": "official",
+      "publishedAt": "2026-06-01",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "洪毓祥書面質詢：資訊服務採購制度改革及工程會準備。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-ly-hung-civil-code",
+      "title": "民法第一千二百二十三條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110204670000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-03-27",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人林思銘、邱鎮軍；連署人列洪毓祥；審議進度列115/07/28三讀。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-ly-tsai-income-tax",
+      "title": "所得稅法第十七條及第一百二十六條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110222890000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-07-10",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "議案標題列蔡春綢等18人；審議進度列115/07/14交付財政委員會。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-cna-tsai-family",
+      "title": "時力質疑黑金家族入國會　蔡春綢：我黑了什麼",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202605190122.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-19",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "時代力量指控、服務處地址說法及蔡春綢完整回應段落。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-ivod-wang-defense-tech",
+      "title": "王安祥委員質詢片段：新興科技與不對稱作戰",
+      "publisher": "立法院IVOD",
+      "url": "https://ivod.ly.gov.tw/Play/Clip/1M/168857",
+      "sourceType": "official",
+      "publishedAt": "2026-04-27",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "外交及國防委員會第13次全體委員會；10:29:45至10:38:50。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "plz1-ly-wang-civil-code",
+      "title": "民法第一千二百二十三條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110209260000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-17",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "台灣民眾黨黨團提案人列王安祥；審議進度列115/07/28三讀。",
+      "lastVerifiedAt": "2026-09-28"
+    }
+  ]
+}

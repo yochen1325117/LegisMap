@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "party-list-zero-1-2026",
+  "memberIds": [
+    "ly11-77699",
+    "ly11-56378",
+    "ly11-56398",
+    "ly11-56418"
+  ],
+  "periodStart": "2021-09-28",
+  "periodEnd": "2026-09-28",
+  "baselineCommit": "b8e05ece9b51b4f9477a3ca40cb89b573a24c99f",
+  "primaryVersionId": "primary-party-list-zero-1-20260928-r1",
+  "independentVersionId": "independent-party-list-zero-1-20260928-r1",
+  "status": "complete"
+}

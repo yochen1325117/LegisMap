@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "new-taipei-north-1-2026",
+  "primaryVersionId": "primary-new-taipei-north-20260927-r1",
+  "independentVersionId": "independent-new-taipei-north-20260927-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-bill-202110163830000-ly11-46768",
+      "primaryCandidateId": "primary-bill-202110163830000-ly11-46768",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-nt-wuq-sports-2025-ly11-46771",
+      "primaryCandidateId": "primary-event-nt-wuq-sports-2025-ly11-46771",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-nt-li-finance-2025-ly11-46863",
+      "primaryCandidateId": "primary-event-nt-li-finance-2025-ly11-46863",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-nt-lins-childcare-2025-ly11-46785",
+      "primaryCandidateId": "primary-event-nt-lins-childcare-2025-ly11-46785",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wub-finance-question-20240520",
+      "primaryCandidateId": "primary-wub-finance-question-20240520",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wuq-interior-question-20240408",
+      "primaryCandidateId": "primary-wuq-interior-question-20240408",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-li-recall-ended-20250623",
+      "primaryCandidateId": "primary-li-recall-ended-20250623",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-lins-doctor-platform-20250707",
+      "primaryCandidateId": "primary-lins-doctor-platform-20250707",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-wpj-vaccine",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wpj-vaccine",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-wpj-sex-rumor",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wpj-sex-rumor",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-wcm-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wcm-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lkc-extortion",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lkc-extortion",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lkc-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lkc-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lsf-threat",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lsf-threat",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lsf-lunch",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lsf-lunch",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

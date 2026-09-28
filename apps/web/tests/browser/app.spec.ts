@@ -147,15 +147,19 @@ test('Keelung profile shows four sourced research categories after reload', asyn
 
 test('Taipei profiles load sourced events and explain empty categories', async ({ page }) => {
   await page.goto('/legislator/ly11-46766');
-  await expect(page.getByRole('heading', { name: '吳沛憶' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '吳沛憶', exact: true })).toBeVisible();
+  await expect(page.getByText(/雙軌查核完成：2026-09-27/)).toBeVisible();
   await expect(page.getByRole('heading', { name: '運動基金協助小學空手道隊' })).toBeVisible();
   await expect(page.getByRole('link', { name: /中央通訊社・吳沛憶捐選舉補助款設運動基金/ })).toHaveAttribute('href', /cna\.com\.tw/);
+  await page.goto('/legislator/ly11-46769');
+  await expect(page.getByRole('heading', { name: '在校外租屋貼文下宣傳「新宿舍運動」引發爭議' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中國時報/ })).toHaveAttribute('href', /chinatimes\.com/);
   await page.goto('/legislator/ly11-46859');
-  await expect(page.getByRole('heading', { name: '羅智強' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '羅智強', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: '提出立法委員行為法修正草案' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(3);
+  await expect(page.getByText(/截至 .* 尚無已核實資料。/).first()).toBeVisible();
   await page.reload();
-  await expect(page.getByRole('heading', { name: '羅智強' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '羅智強', exact: true })).toBeVisible();
 });
 
 test('New Taipei county and profile retain sourced events after reload', async ({ page }) => {
@@ -168,13 +172,24 @@ test('New Taipei county and profile retain sourced events after reload', async (
   await expect(page.getByRole('link', { name: /立法院・兒童托育服務法草案/ })).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
   await page.reload();
   await expect(page.getByRole('heading', { name: '蘇巧慧' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
+});
+
+test('completed New Taipei review exposes adjudicated events and sources', async ({ page }) => {
+  await page.goto('/legislator/ly11-46785');
+  await expect(page.getByRole('heading', { name: '林淑芬', exact: true })).toBeVisible();
+  await expect(page.getByText(/雙軌查核完成：2026-09-27/)).toBeVisible();
+  await expect(page.getByRole('heading', { name: '質詢醫師懲戒與醫師查詢平台進度' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /立法院議事轉播IVOD/ })).toHaveAttribute('href', /ivod\.ly\.gov\.tw/);
+  await page.goto('/legislator/ly11-46863');
+  await expect(page.getByRole('heading', { name: '罷免案第二階段未送件而停止' })).toBeVisible();
+  await expect(page.getByRole('link', { name: /中央選舉委員會/ }).first()).toHaveAttribute('href', /cec\.gov\.tw/);
 });
 
 test('Taoyuan profiles show multiple events in a category and preserve links after reload', async ({ page }) => {
   await page.goto('/legislator/ly11-46836');
   await expect(page.getByRole('heading', { name: '萬美玲' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await page.goto('/legislator/ly11-46757');
   await expect(page.getByRole('heading', { name: '試用期八成薪條文引起爭議後刪除' })).toBeVisible();
   await page.reload();
@@ -188,7 +203,7 @@ test('Hsinchu County profiles show sources and reload correctly', async ({ page 
   await expect(page.getByRole('heading', { name: '罷免理由與答辯中的問政爭議' })).toBeVisible();
   await expect(page.getByRole('link', { name: /中央選舉委員會・第11屆立法委員新竹縣第2選舉區林思銘罷免案公告內容/ })).toHaveAttribute('href', /web\.cec\.gov\.tw/);
   await page.goto('/legislator/ly11-46797');
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '徐欣瑩' })).toBeVisible();
 });
@@ -201,7 +216,7 @@ test('Hsinchu City profile shows multiple sourced proposals and controversy stat
   await expect(page.getByRole('heading', { name: '借款民事訴訟二審判返還1357萬餘元' })).toBeVisible();
   await expect(page.getByRole('link', { name: /立法院・核子反應器設施管制法/ })).toHaveAttribute('href', /ppg\.ly\.gov\.tw/);
   await expect(page.getByRole('link', { name: /中央通訊社・鄭正鈐為選舉借款未還/ })).toHaveAttribute('href', /cna\.com\.tw/);
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(2);
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '鄭正鈐' })).toBeVisible();
 });
@@ -218,7 +233,7 @@ test('Miaoli profiles show sourced events and preserve direct URLs after reload'
   await expect(page.getByRole('link', { name: /中央通訊社・陳超明、徐永明等涉貪案無罪/ })).toHaveAttribute('href', /cna\.com\.tw/);
   await page.reload();
   await expect(page.getByRole('heading', { name: '陳超明' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。')).toHaveCount(2);
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
 });
 
 test('Taichung profiles show sourced events and current case status after reload', async ({ page }) => {
@@ -239,7 +254,7 @@ test('Changhua profiles show sourced deeds and preserve direct URLs after reload
   await expect(page.getByRole('heading', { name: '以家族基金會名義捐贈彰化家扶年菜' })).toBeVisible();
   await expect(page.getByRole('link', { name: /彰化家扶中心/ })).toHaveAttribute('href', /ccf\.org\.tw/);
   await page.goto('/legislator/ly11-46818');
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出老年農民福利津貼修正草案' })).toBeVisible();
 });
@@ -259,7 +274,7 @@ test('Nantou profiles distinguish accusations and recall outcomes after reload',
 test('Yilan profile shows four sourced categories and the prior-term caveat', async ({ page }) => {
   await page.goto('/legislator/ly11-46816');
   await expect(page.getByRole('heading', { name: '陳俊宇' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await expect(page.getByRole('heading', { name: '楊桃集貨場住宅使用爭議再受質疑' })).toBeVisible();
   await expect(page.getByText(/第11屆立委任期前/)).toBeVisible();
   await expect(page.getByRole('link', { name: /菱傳媒/ })).toHaveAttribute('href', /rwnews\.tw/);
@@ -286,7 +301,7 @@ test('Yunlin profiles retain sourced events after direct load and reload', async
   await expect(page.getByRole('heading', { name: '提出土石採取法第36條修正草案' })).toBeVisible();
   await page.goto('/legislator/ly11-46841');
   await expect(page.getByRole('heading', { name: '劉建國' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
 });
 
 test('Chiayi City profile shows sourced donation and qualified dispute after reload', async ({ page }) => {
@@ -305,7 +320,7 @@ test('Chiayi County profiles show directly sourced events after reload', async (
   await expect(page.getByRole('heading', { name: '提出安樂死法草案並促請排審' })).toBeVisible();
   await expect(page.getByRole('link', { name: /立法院/ }).first()).toHaveAttribute('href', /ly\.gov\.tw/);
   await page.reload();
-  await expect(page.getByText('截至 2026-09-19 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await page.goto('/legislator/ly11-46843');
   await expect(page.getByRole('heading', { name: '蔡易餘' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '財劃法審查推擠與陳永康受傷爭議' })).toBeVisible();
@@ -368,7 +383,7 @@ test('Penghu profile keeps current status alongside retirement announcement', as
   await page.goto('/legislator/ly11-46834');
   await expect(page.getByRole('heading', { name: '楊曜' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '提出勞工保險條例修正草案' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-20 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await expect(page.getByText(/現任/).first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出兒少福利與權益保障法修正草案' })).toBeVisible();
@@ -378,7 +393,7 @@ test('Kinmen profile shows qualified allegation and current status after reload'
   await page.goto('/legislator/ly11-46813');
   await expect(page.getByRole('heading', { name: '陳玉珍' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '中華電信人事介入指控遭告發' })).toBeVisible();
-  await expect(page.getByText('截至 2026-09-20 尚無已核實資料。').first()).toBeVisible();
+  await expect(page.getByText('此分類仍在重新複核。').first()).toBeVisible();
   await expect(page.getByText(/現任/).first()).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading', { name: '提出離島建設條例第10條等條文修正草案' })).toBeVisible();

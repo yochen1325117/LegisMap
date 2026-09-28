@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "taipei-2026",
+  "primaryVersionId": "primary-taipei-20260927-r3",
+  "independentVersionId": "independent-taipei-20260927-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-event-taipei-wang-finance-2025-ly11-46758",
+      "primaryCandidateId": "primary-event-taipei-wang-finance-2025-ly11-46758",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-wang-music-2025-ly11-46758",
+      "primaryCandidateId": "primary-event-taipei-wang-music-2025-ly11-46758",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-hung-employment-2025-ly11-46762",
+      "primaryCandidateId": "primary-event-taipei-hung-employment-2025-ly11-46762",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-hung-apology-2024-ly11-46762",
+      "primaryCandidateId": "primary-event-taipei-hung-apology-2024-ly11-46762",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-wupeiyi-proposal-2024-ly11-46766",
+      "primaryCandidateId": "primary-event-taipei-wupeiyi-proposal-2024-ly11-46766",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-wupeiyi-sports-2025-ly11-46766",
+      "primaryCandidateId": "primary-event-taipei-wupeiyi-sports-2025-ly11-46766",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-wupeiyi-civil-2025-ly11-46766-c-wpy-chen",
+      "primaryCandidateId": "primary-event-taipei-wupeiyi-civil-2025-ly11-46766",
+      "independentCandidateId": "c-wpy-chen",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-wusiya-interpellation-2025-ly11-46769",
+      "primaryCandidateId": "primary-event-taipei-wusiya-interpellation-2025-ly11-46769",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-li-finance-2025-ly11-46773",
+      "primaryCandidateId": "primary-event-taipei-li-finance-2025-ly11-46773",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-li-property-2025-ly11-46773-c-lyh-property",
+      "primaryCandidateId": "primary-event-taipei-li-property-2025-ly11-46773",
+      "independentCandidateId": "c-lyh-property",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-hsu-military-2024-ly11-46796",
+      "primaryCandidateId": "primary-event-taipei-hsu-military-2024-ly11-46796",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-hsu-apology-2025-ly11-46796",
+      "primaryCandidateId": "primary-event-taipei-hsu-apology-2025-ly11-46796",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-lai-convener-2025-ly11-46848",
+      "primaryCandidateId": "primary-event-taipei-lai-convener-2025-ly11-46848",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-lai-crash-2024-ly11-46848-c-lsb-crash",
+      "primaryCandidateId": "primary-event-taipei-lai-crash-2024-ly11-46848",
+      "independentCandidateId": "c-lsb-crash",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-event-taipei-luo-conduct-2025-ly11-46859",
+      "primaryCandidateId": "primary-event-taipei-luo-conduct-2025-ly11-46859",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wusiya-dorm-post-20260831",
+      "primaryCandidateId": "primary-wusiya-dorm-post-20260831",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wang-shijian-ho-civil-20250729",
+      "primaryCandidateId": "primary-wang-shijian-ho-civil-20250729",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wang-hungwei-pan-civil-20260224",
+      "primaryCandidateId": "primary-wang-hungwei-pan-civil-20260224",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wusiya-trade-pact-nonprosecution-20250405-c-wsy-trade",
+      "primaryCandidateId": "primary-wusiya-trade-pact-nonprosecution-20250405",
+      "independentCandidateId": "c-wsy-trade",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-li-property-investigation-20260401",
+      "primaryCandidateId": "primary-li-property-investigation-20260401",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-hsu-defamation-nonprosecution-20250919",
+      "primaryCandidateId": "primary-hsu-defamation-nonprosecution-20250919",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-hsu-chen-injury-investigation-20260319",
+      "primaryCandidateId": "primary-hsu-chen-injury-investigation-20260319",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-wupeiyi-rice-donation-20251017",
+      "primaryCandidateId": "primary-wupeiyi-rice-donation-20251017",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-primary-luo-book-funds-20250504",
+      "primaryCandidateId": "primary-luo-book-funds-20250504",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-wsk-defamation",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wsk-defamation",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-whw-pan",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-whw-pan",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-whw-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-whw-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-wsy-recall-fraud",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wsy-recall-fraud",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-hch-family-fraud",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hch-family-fraud",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-hch-leak",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hch-leak",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-hch-election",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hch-election",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lcq-donation",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lcq-donation",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46811",
+  "versionId": "independent-research-20260928-46811-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:36:37.370Z",
+  "contentHash": "649cd284d18c7773aeabccf2b1ec52d0a145024580298898fcb72caf5181c5d0",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46811",
+      "query": "郭國文 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-kuo-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46811",
+      "query": "郭國文 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-kuo-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46811",
+      "query": "選舉 政治獻金 論文 司法 提告 判決 爭議 郭國文",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-kuo-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46811",
+      "query": "郭國文 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-kuo-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46811",
+      "query": "郭國文 回應 後續 不起訴 起訴 裁定 判決 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-kuo-complaint"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-thesis"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-thesis"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46815",
+      "query": "選舉 政治獻金 論文 司法 提告 判決 爭議 陳亭妃",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-thesis"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-thesis"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46815",
+      "query": "陳亭妃 回應 後續 不起訴 起訴 裁定 判決 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen-thesis"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lai-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lai-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46849",
+      "query": "選舉 政治獻金 論文 司法 提告 判決 爭議 賴惠員",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lai-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lai-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46849",
+      "query": "賴惠員 回應 後續 不起訴 起訴 裁定 判決 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lai-election-case"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 site:cna.com.tw OR site:pts.org.tw OR site:udn.com 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 site:cec.gov.tw OR site:ly.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46772",
+      "query": "選舉 政治獻金 論文 司法 提告 判決 爭議 李昆澤",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46772",
+      "query": "李昆澤 回應 後續 不起訴 起訴 裁定 判決 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-li-election"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-kuo-complaint",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46811"
+      ],
+      "provisionalCategory": "選舉司法",
+      "title": "郭國文就選舉文宣與論文指控提告",
+      "summary": "2023立委選舉期間，郭國文指對手陳昆和文宣及其胞兄論文指控為不實黑函，提出告訴；陳昆和否認並稱文宣言之有物。未查得偵查終結結果。",
+      "occurredAt": "2023-10-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-kuo",
+        "s-pts-kuo"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aloc/202310230141.aspx",
+        "https://news.pts.org.tw/article/663061"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46811",
+          "role": "刑事告訴人及遭指摘候選人"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "檢察機關偵查終結處分或法院裁判"
+      ],
+      "personResponse": "稱內容是不實選舉黑函，已備妥證據提告。",
+      "processStatus": "已提出告訴，未查得後續司法結果",
+      "resultStatus": "未確認",
+      "evidenceLevel": "two_independent_publishers_with_both_sides",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "c-chen-thesis",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46815"
+      ],
+      "provisionalCategory": "學術倫理與訴訟",
+      "title": "陳亭妃論文抄襲指控衍生民刑事訴訟",
+      "summary": "陳亭妃就兩人公開質疑博士論文抄襲提告；刑事部分獲不起訴，民事求償於2026年4月一審遭駁回，仍可上訴。陳稱校方未撤銷學位並已修正引註格式。",
+      "occurredAt": "2026-04-15",
+      "officialId": null,
+      "sourceIds": [
+        "s-tvbs-chen",
+        "s-mirror-chen",
+        "s-crntt-chen-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.tvbs.com.tw/politics/3178965",
+        "https://www.mirrormedia.mg/external/mirrordaily_11863",
+        "https://hk.crntt.com/doc/93_4030_160147793_2_0723120611.html"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46815",
+          "role": "遭論文指控者、刑事告訴人及民事原告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "否認抄襲，稱研究資料為自行調查，校方未撤銷學位且已修正引用格式。",
+      "processStatus": "刑事不起訴；民事一審駁回，可上訴",
+      "resultStatus": "刑事被告未起訴；民事一審陳亭妃敗訴，尚非確定結果",
+      "evidenceLevel": "multiple_independent_court_reporting",
+      "publicationDecision": "publish_with_appeal_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "c-lai-election-case",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46849"
+      ],
+      "provisionalCategory": "選舉司法",
+      "title": "賴惠員違反選罷法案無罪確定",
+      "summary": "賴惠員因2019立委補選評論遭控傳播不實，一審有罪、二審改判無罪；最高法院於2023年駁回檢方上訴，刑事無罪確定。相關民事判賠20萬元另已確定。",
+      "occurredAt": "2023-02-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-lai"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202302230069.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46849",
+          "role": "刑事被告及民事被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "二審前向陳筱諭認錯並和解，請求無罪判決。",
+      "processStatus": "刑事最高法院程序終結；民事亦確定",
+      "resultStatus": "刑事無罪確定；民事賠償20萬元確定",
+      "evidenceLevel": "direct_final_court_reporting",
+      "publicationDecision": "publish_with_process_distinction",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    },
+    {
+      "id": "c-li-election",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46772"
+      ],
+      "provisionalCategory": "選舉結果",
+      "title": "李昆澤當選第11屆高雄市第5選區立法委員",
+      "summary": "李昆澤於2024年1月13日自行宣布當選，中選會後續公告其為高雄市第5選區當選人。",
+      "occurredAt": "2024-01-13",
+      "officialId": "第11屆立法委員高雄市第5選區選舉",
+      "sourceIds": [
+        "s-cna-li-win",
+        "s-cna-cec-list"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202401130195.aspx",
+        "https://www.cna.com.tw/news/aipl/202401190142.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46772",
+          "role": "候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "自行宣布當選並感謝選民支持。",
+      "processStatus": "中選會公告當選名單",
+      "resultStatus": "當選第11屆立法委員",
+      "evidenceLevel": "official_statement_plus_news",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46811-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cna-kuo",
+      "title": "遭黑函攻擊郭國文提告 陳昆和文宣有簽名",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202310230141.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-10-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "郭國文提告及陳昆和回應"
+    },
+    {
+      "id": "s-pts-kuo",
+      "title": "陳昆和胞兄告發論文涉造假 郭國文反批選舉造謠",
+      "publisher": "公視新聞",
+      "url": "https://news.pts.org.tw/article/663061",
+      "sourceType": "news",
+      "publishedAt": "2023-10-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第二發布者記載論文指控、郭提告與雙方說法"
+    },
+    {
+      "id": "s-tvbs-chen",
+      "title": "藍營2人質疑陳亭妃論文25%相似抄襲遭告 一審法官判免賠",
+      "publisher": "TVBS新聞",
+      "url": "https://news.tvbs.com.tw/politics/3178965",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "台北地院一審駁回陳亭妃民事求償，可上訴"
+    },
+    {
+      "id": "s-mirror-chen",
+      "title": "遭控論文抄襲怒告卻獲不起訴 陳亭妃：檢方認為可受公評",
+      "publisher": "鏡週刊／鏡報",
+      "url": "https://www.mirrormedia.mg/external/mirrordaily_11863",
+      "sourceType": "news",
+      "publishedAt": "2025-07-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "刑事告訴不起訴及陳亭妃說明"
+    },
+    {
+      "id": "s-crntt-chen-response",
+      "title": "博士論文遭質疑 陳亭妃：選舉到就烏賊戰",
+      "publisher": "中評社",
+      "url": "https://hk.crntt.com/doc/93_4030_160147793_2_0723120611.html",
+      "sourceType": "news",
+      "publishedAt": "2025-07-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "陳亭妃稱校方未撤銷學位、已修正引用格式"
+    },
+    {
+      "id": "s-cna-lai",
+      "title": "立委賴惠員涉違反選罷法 獲判無罪確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202302230069.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2023-02-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "最高法院駁回檢方上訴，選罷法刑事無罪確定；民事判賠20萬元確定"
+    },
+    {
+      "id": "s-cna-li-win",
+      "title": "高雄市第5選區立委 李昆澤自行宣布當選",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202401130195.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "李昆澤宣布當選"
+    },
+    {
+      "id": "s-cna-cec-list",
+      "title": "區域、不分區立委當選名單一次看 中選會公告第11屆選舉結果",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202401190142.aspx",
+      "sourceType": "official_statement_reporting",
+      "publishedAt": "2024-01-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會公告高雄市當選人包括李昆澤"
+    }
+  ]
+}

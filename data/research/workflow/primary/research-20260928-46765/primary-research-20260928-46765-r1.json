@@ -1,0 +1,662 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46765",
+  "versionId": "primary-research-20260928-46765-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:29:29.322Z",
+  "contentHash": "a9c855a18bd3f95826d4f2aabd8aa37e0c6ec877f4fedad600a5a461054ff0f4",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46765-legislative",
+      "track": "primary",
+      "memberId": "ly11-46765",
+      "query": "何欣純 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ho-sports"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46765-government",
+      "track": "primary",
+      "memberId": "ly11-46765",
+      "query": "何欣純 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46765-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46765",
+      "query": "何欣純 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46765-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46765",
+      "query": "何欣純 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ho-sports"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46765-statements",
+      "track": "primary",
+      "memberId": "ly11-46765",
+      "query": "何欣純 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46842-legislative",
+      "track": "primary",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tsai-platform"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46842-government",
+      "track": "primary",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tsai-platform"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46842-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46842-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tsai-platform"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46842-statements",
+      "track": "primary",
+      "memberId": "ly11-46842",
+      "query": "蔡其昌 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46814-legislative",
+      "track": "primary",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsiupao-gas"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46814-government",
+      "track": "primary",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46814-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsiupao-election-complaint"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46814-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsiupao-election-complaint"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46814-statements",
+      "track": "primary",
+      "memberId": "ly11-46814",
+      "query": "陳秀寳 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46818-legislative",
+      "track": "primary",
+      "memberId": "ly11-46818",
+      "query": "陳素月 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-suyueh-osh"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46818-government",
+      "track": "primary",
+      "memberId": "ly11-46818",
+      "query": "陳素月 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46818-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46818",
+      "query": "陳素月 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-suyueh-volunteer-fraud"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46818-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46818",
+      "query": "陳素月 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-suyueh-volunteer-fraud"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    },
+    {
+      "id": "primary-ly11-46818-statements",
+      "track": "primary",
+      "memberId": "ly11-46818",
+      "query": "陳素月 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46765-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46765-r1",
+      "id": "p-ho-sports",
+      "memberIds": [
+        "ly11-46765"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜國民體育法修正草案並納入併案三讀",
+      "summary": "何欣純領銜版本主張補強國家隊與學生運動員保險及短期失能後續照顧；立法院官方紀錄顯示該版本與其他版本併案，2024年7月15日三讀。最終條文是併案審查結果，不將全部內容歸為單一委員成果。",
+      "occurredAt": "2024-07-15",
+      "officialId": "203110061600000",
+      "sourceIds": [
+        "s-ho-sports-official",
+        "s-ho-sports-cna"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110061600000/details",
+        "https://www.cna.com.tw/news/aipl/202403290106.aspx"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46765-r1",
+      "id": "p-tsai-platform",
+      "memberIds": [
+        "ly11-46842"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜網際網路平臺廣告管理法草案",
+      "summary": "立法院議案頁列蔡其昌等人為提案人，草案要求平台廣告揭露委託刊播者、出資者與AI生成等資訊；2025年10月交付交通委員會審查，尚未以所查來源確認三讀。",
+      "occurredAt": "2025-10-17",
+      "officialId": "202110164350000",
+      "sourceIds": [
+        "s-tsai-platform-official",
+        "s-tsai-platform-cna"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110164350000/details",
+        "https://www.cna.com.tw/news/aipl/202510170102.aspx"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46765-r1",
+      "id": "p-hsiupao-gas",
+      "memberIds": [
+        "ly11-46814"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜天然氣事業法第五十五條之一修正草案",
+      "summary": "立法院議案頁列陳秀寳、邱志偉、王義川為提案人，2025年11月4日交付經濟委員會審查；僅記錄她的共同提案角色，不把其他版本或後續併案結果全部歸於此版本。",
+      "occurredAt": "2025-11-04",
+      "officialId": "202110168050000",
+      "sourceIds": [
+        "s-hsiupao-gas-official"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110168050000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46765-r1",
+      "id": "p-hsiupao-election-complaint",
+      "memberIds": [
+        "ly11-46814"
+      ],
+      "provisionalCategory": "concern",
+      "title": "就選舉文宣指控對手涉嫌散播不實提出告訴",
+      "summary": "中央社報導陳秀寳陣營於2024年1月就對手文宣內容赴彰化地檢署提告；目前僅找到提出告訴當時的報導，未確認偵查或裁判後續，故保留在候選層並待補正式程序結果。",
+      "occurredAt": "2024-01-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-hsiupao-election-cna"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "official_case_status",
+        "subsequent_disposition"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202401020102.aspx"
+      ],
+      "roleClaims": [
+        "complainant"
+      ],
+      "personResponse": "陳秀寳陣營表示文宣內容不實並提出告訴；對手否認相關指控。",
+      "processStatus": "alleged",
+      "resultStatus": "under_investigation"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46765-r1",
+      "id": "p-suyueh-osh",
+      "memberIds": [
+        "ly11-46818"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜職業安全衛生法部分條文修正草案",
+      "summary": "立法院議案頁列陳素月、賴瑞隆、伍麗華為提案人，草案於2025年11月4日交付社福及衛環委員會審查；本紀錄只呈現提案與程序狀態。",
+      "occurredAt": "2025-11-04",
+      "officialId": "202110167350000",
+      "sourceIds": [
+        "s-suyueh-osh-official"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110167350000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46765-r1",
+      "id": "p-suyueh-volunteer-fraud",
+      "memberIds": [
+        "ly11-46818"
+      ],
+      "provisionalCategory": "concern",
+      "title": "曾任辦公室義工者冒稱立委助理詐欺遭起訴",
+      "summary": "彰化地檢署資訊經中央社報導，一名曾在陳素月辦公室擔任義工者冒稱立委助理並偽造帳號對話，因詐欺遭起訴。報導未指陳素月參與，若公開必須明確避免將第三人犯罪歸責於委員本人。",
+      "occurredAt": "2023-10-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-suyueh-volunteer-cna"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_official_release",
+        "publication_scope_review"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202310190177.aspx"
+      ],
+      "roleClaims": [
+        "identity_misused"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-ho-sports-official",
+      "title": "國民體育法修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110061600000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-07-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列何欣純等20人版本；審議進度列113年7月15日三讀。"
+    },
+    {
+      "id": "s-ho-sports-cna",
+      "title": "綠委修法 國手比賽致短期失能要給後續醫療照顧",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202403290106.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-03-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "何欣純說明提案內容、選手保險與後續醫療照顧段落。"
+    },
+    {
+      "id": "s-tsai-platform-official",
+      "title": "網際網路平臺廣告管理法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110164350000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-17",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列蔡其昌等6人；交付交通委員會審查。"
+    },
+    {
+      "id": "s-tsai-platform-cna",
+      "title": "綠委提網際網路平台廣告管理法草案 付委審查",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202510170102.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-17",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "草案目的、規範內容與交付交通委員會審查。"
+    },
+    {
+      "id": "s-hsiupao-gas-official",
+      "title": "天然氣事業法第五十五條之一條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110168050000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列陳秀寳、邱志偉、王義川；114年11月4日交付審查。"
+    },
+    {
+      "id": "s-hsiupao-election-cna",
+      "title": "陳秀寳控阮厚爵散播不實提告 阮陣營反控抹黑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202401020102.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "雙方就選舉文宣的主張及陳秀寳陣營赴地檢署提告。"
+    },
+    {
+      "id": "s-suyueh-osh-official",
+      "title": "職業安全衛生法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110167350000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列陳素月、賴瑞隆、伍麗華；114年11月4日交付審查。"
+    },
+    {
+      "id": "s-suyueh-volunteer-cna",
+      "title": "假立委助理誆土地重劃可獲暴利 詐逾738萬遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202310190177.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-10-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "彰檢起訴資訊；被告曾任義工、冒稱助理並偽造帳號，未指陳素月涉案。"
+    }
+  ]
+}

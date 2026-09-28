@@ -1,0 +1,763 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "new-taipei-north-1-2026",
+  "versionId": "primary-new-taipei-north-20260927-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-27",
+  "lockedAt": "2026-09-27T15:35:12.799Z",
+  "contentHash": "7c8d883e3ed6e44eed49df9c4618a06ab1e21fe1070eae81ad66bbec1895dd23",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46768-legislative",
+      "track": "primary",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 立法院提案、議事錄、質詢 2021-09-27..2026-09-27",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-bill-202110163830000-ly11-46768",
+        "primary-wub-finance-question-20240520"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46768-government",
+      "track": "primary",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 行政機關與年度分段公開資料 2021-09-27..2026-09-27",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46768-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 司法、監督與選舉機關紀錄 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46768-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 中央社等具採訪制度媒體 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wub-finance-question-20240520"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46768-statements",
+      "track": "primary",
+      "memberId": "ly11-46768",
+      "query": "吳秉叡 本人、政黨及公益組織具名聲明 2021-09-27..2026-09-27",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46771-legislative",
+      "track": "primary",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 立法院提案、議事錄、質詢 2021-09-27..2026-09-27",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-wuq-sports-2025-ly11-46771",
+        "primary-wuq-interior-question-20240408"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46771-government",
+      "track": "primary",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 行政機關與年度分段公開資料 2021-09-27..2026-09-27",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46771-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 司法、監督與選舉機關紀錄 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46771-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 中央社等具採訪制度媒體 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46771-statements",
+      "track": "primary",
+      "memberId": "ly11-46771",
+      "query": "吳琪銘 本人、政黨及公益組織具名聲明 2021-09-27..2026-09-27",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46863-legislative",
+      "track": "primary",
+      "memberId": "ly11-46863",
+      "query": "李坤城 立法院提案、議事錄、質詢 2021-09-27..2026-09-27",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-li-finance-2025-ly11-46863"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46863-government",
+      "track": "primary",
+      "memberId": "ly11-46863",
+      "query": "李坤城 行政機關與年度分段公開資料 2021-09-27..2026-09-27",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46863-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46863",
+      "query": "李坤城 司法、監督與選舉機關紀錄 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-li-recall-ended-20250623"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46863-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46863",
+      "query": "李坤城 中央社等具採訪制度媒體 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-li-recall-ended-20250623"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46863-statements",
+      "track": "primary",
+      "memberId": "ly11-46863",
+      "query": "李坤城 本人、政黨及公益組織具名聲明 2021-09-27..2026-09-27",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46785-legislative",
+      "track": "primary",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 立法院提案、議事錄、質詢 2021-09-27..2026-09-27",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-event-nt-lins-childcare-2025-ly11-46785",
+        "primary-lins-doctor-platform-20250707"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46785-government",
+      "track": "primary",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 行政機關與年度分段公開資料 2021-09-27..2026-09-27",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46785-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 司法、監督與選舉機關紀錄 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46785-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 中央社等具採訪制度媒體 2021-09-27..2026-09-27",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lins-doctor-platform-20250707"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46785-statements",
+      "track": "primary",
+      "memberId": "ly11-46785",
+      "query": "林淑芬 本人、政黨及公益組織具名聲明 2021-09-27..2026-09-27",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-bill-202110163830000-ly11-46768",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46768"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出金融機構合併法修正草案",
+      "summary": "立法院議案頁列吳秉叡等22人提出《金融機構合併法》第12條及第15條修正草案；日期是議案頁所列的院會進度日期，不代表修法已通過。",
+      "occurredAt": "2025-10-14",
+      "officialId": "202110163830000",
+      "sourceIds": [
+        "nt-wub-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110163830000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-event-nt-wuq-sports-2025-ly11-46771",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46771"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出運動部組織法草案",
+      "summary": "立法院議案頁列吳琪銘等16人提出《運動部組織法》草案。該議案與其他版本併案審議，不能將最後通過條文全歸於單一提案人。",
+      "occurredAt": "2025-01-23",
+      "officialId": null,
+      "sourceIds": [
+        "nt-wuq-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110083570000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-event-nt-li-finance-2025-ly11-46863",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46863"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "財政委員會質詢",
+      "summary": "立法院財政委員會議事頁列李坤城於114年11月12日會議質詢；僅確認質詢行為，不推定政策因此改變。",
+      "occurredAt": "2025-11-12",
+      "officialId": null,
+      "sourceIds": [
+        "nt-li-finance"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025110659/details?meetingDate=114%2F11%2F12&meetingTime=09%3A00~17%3A30"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "id": "primary-event-nt-lins-childcare-2025-ly11-46785",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46785"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒童托育服務法草案",
+      "summary": "立法院第11屆第3會期第13次院會報告事項第84案列林淑芬等25人擬具《兒童托育服務法》草案。",
+      "occurredAt": "2025-05-23",
+      "officialId": null,
+      "sourceIds": [
+        "nt-lins-bill"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025052177/details?meetingDate=114%2F05%2F23"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1"
+    },
+    {
+      "track": "primary",
+      "officialId": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202405200286.aspx",
+        "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024122651/PPGB60500_2100_20988_1140106_0002.pdf"
+      ],
+      "missingEvidence": [],
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1",
+      "id": "primary-wub-finance-question-20240520",
+      "memberIds": [
+        "ly11-46768"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "就財政收支劃分法修法進度提出質詢",
+      "summary": "吳秉叡在財政委員會質詢財政收支劃分法修法，要求行政院提出對案並表示不宜倉促通過；此處只記錄質詢及其主張，不推定政策因此改變。",
+      "occurredAt": "2024-05-20",
+      "sourceIds": [
+        "nt-primary-wub-finance-cna",
+        "nt-primary-wub-finance-ppg"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "officialId": null,
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2024040249/details?meetingDate=113%2F04%2F08"
+      ],
+      "missingEvidence": [],
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1",
+      "id": "primary-wuq-interior-question-20240408",
+      "memberIds": [
+        "ly11-46771"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "就客家與陸委會業務及預算解凍案質詢",
+      "summary": "內政委員會議事頁列吳琪銘擔任召集人，並於客委會業務報告、預算解凍案及陸委會報告中質詢；來源可確認議程與質詢時段。",
+      "occurredAt": "2024-04-08",
+      "sourceIds": [
+        "nt-primary-wuq-question-ppg"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "officialId": null,
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/59957",
+        "https://www.cna.com.tw/news/aipl/202506230274.aspx"
+      ],
+      "missingEvidence": [],
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1",
+      "id": "primary-li-recall-ended-20250623",
+      "memberIds": [
+        "ly11-46863"
+      ],
+      "provisionalCategory": "concern",
+      "title": "罷免案第二階段未送件而停止",
+      "summary": "中選會留有李坤城罷免案官方專頁；中央社報導領銜人於第二階段截止日決定不送件，因此該案未進入投票。李坤城為罷免標的，不是偽造案被告。",
+      "occurredAt": "2025-06-23",
+      "sourceIds": [
+        "nt-primary-li-recall-cec",
+        "nt-primary-li-recall-cna"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "personResponse": "李坤城表示感謝選區民眾支持，並再次質疑前階段連署造假。",
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "officialId": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202507070169.aspx",
+        "https://ivod.ly.gov.tw/Demand/Speech/163323",
+        "https://news.pts.org.tw/article/759690"
+      ],
+      "missingEvidence": [],
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-new-taipei-north-20260927-r1",
+      "id": "primary-lins-doctor-platform-20250707",
+      "memberIds": [
+        "ly11-46785"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢醫師懲戒與醫師查詢平台進度",
+      "summary": "林淑芬在衛環委員會質詢衛福部對涉性侵醫師的行政懲戒與查詢平台進度，要求改善醫事人員資訊揭露；立法院逐字紀錄、公視與中央社可交叉確認質詢內容，衛福部回應平台最快於2025年8月公布。",
+      "occurredAt": "2025-07-07",
+      "sourceIds": [
+        "nt-primary-lins-doctor-cna",
+        "nt-primary-lins-doctor-ivod",
+        "nt-primary-lins-doctor-pts"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "recorded",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    }
+  ],
+  "sources": [
+    {
+      "id": "nt-wub-bill",
+      "title": "金融機構合併法第十二條及第十五條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110163830000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、吳秉叡等22人、提案人與審議進度欄",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-wuq-bill",
+      "title": "運動部組織法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110083570000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議案名稱、吳琪銘等16人及三讀進度欄",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-li-finance",
+      "title": "第11屆第4會期財政委員會會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025110659/details?meetingDate=114%2F11%2F12&meetingTime=09%3A00~17%3A30",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114年11月12日議程與委員發言片段：李坤城10:31–10:43",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-lins-bill",
+      "title": "第11屆第3會期第13次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025052177/details?meetingDate=114%2F05%2F23",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "報告事項第84案：林淑芬等25人擬具兒童托育服務法草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "nt-primary-wub-finance-cna",
+      "title": "立院初審財劃法修法 藍委允諾一定會充分討論",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202405200286.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-20",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導吳秉叡質詢行政院提出財劃法對案並反對倉促通過。"
+    },
+    {
+      "id": "nt-primary-wub-finance-ppg",
+      "title": "立法院第11屆第2會期財政委員會第14次全體委員會議議事錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024122651/PPGB60500_2100_20988_1140106_0002.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-12-30",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "議事錄列吳秉叡提出質詢及行政機關答復。"
+    },
+    {
+      "id": "nt-primary-wuq-question-ppg",
+      "title": "立法院第11屆第1會期內政委員會第10次全體委員會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2024040249/details?meetingDate=113%2F04%2F08",
+      "sourceType": "official",
+      "publishedAt": "2024-04-08",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "議事頁列吳琪銘質詢時段及召集人身分。"
+    },
+    {
+      "id": "nt-primary-li-recall-cec",
+      "title": "李坤城罷免案",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/59957",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "官方罷免案專頁與程序資料。"
+    },
+    {
+      "id": "nt-primary-li-recall-cna",
+      "title": "罷團不送2階連署書 李坤城：偽造無法送件",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506230274.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-23",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導第二階段截止未送件及李坤城回應。"
+    },
+    {
+      "id": "nt-primary-lins-doctor-cna",
+      "title": "林淑芬質疑查詢不到狼醫是包庇 邱泰源反擊場面火爆",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507070169.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-07",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導林淑芬質詢醫師懲戒及查詢平台進度。"
+    },
+    {
+      "id": "nt-primary-lins-doctor-ivod",
+      "title": "林淑芬委員質詢逐字紀錄",
+      "publisher": "立法院議事轉播IVOD",
+      "url": "https://ivod.ly.gov.tw/Demand/Speech/163323",
+      "sourceType": "official",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "逐字稿記錄林淑芬就醫事人員查詢系統與狼醫資訊平台質詢。"
+    },
+    {
+      "id": "nt-primary-lins-doctor-pts",
+      "title": "擬設「狼醫查詢平台」遭批跳票 衛福部：最快8月公布",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/759690",
+      "sourceType": "news",
+      "publishedAt": "2025-07-07",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導質詢內容及衛福部回應。"
+    }
+  ]
+}

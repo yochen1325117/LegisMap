@@ -1,0 +1,193 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "new-taipei-north-1-2026",
+  "primaryVersionId": "primary-new-taipei-north-20260927-r1",
+  "independentVersionId": "independent-new-taipei-north-20260927-r1",
+  "decidedAt": "2026-09-27",
+  "records": [
+    {
+      "id": "adjudication-new-taipei-north-1-01",
+      "comparisonIds": [
+        "comparison-primary-bill-202110163830000-ly11-46768"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案來源可直接確認提案角色與程序，維持既有發布。",
+      "finalEventId": "bill-202110163830000",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-02",
+      "comparisonIds": [
+        "comparison-primary-event-nt-wuq-sports-2025-ly11-46771"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案來源可直接確認提案角色與程序，維持既有發布。",
+      "finalEventId": "event-nt-wuq-sports-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-03",
+      "comparisonIds": [
+        "comparison-primary-event-nt-li-finance-2025-ly11-46863"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議事頁可直接確認質詢時段，維持既有發布。",
+      "finalEventId": "event-nt-li-finance-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-04",
+      "comparisonIds": [
+        "comparison-primary-event-nt-lins-childcare-2025-ly11-46785"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方院會紀錄可直接確認提案角色，維持既有發布。",
+      "finalEventId": "event-nt-lins-childcare-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-05",
+      "comparisonIds": [
+        "comparison-primary-wub-finance-question-20240520"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院議事紀錄與中央社可交叉確認質詢內容；僅描述質詢，不推定政策因果。",
+      "finalEventId": "event-new-taipei-wub-finance-question-2024",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-06",
+      "comparisonIds": [
+        "comparison-primary-wuq-interior-question-20240408"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議事頁可直接確認議程、召集人及質詢時段。",
+      "finalEventId": "event-new-taipei-wuq-interior-question-2024",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-07",
+      "comparisonIds": [
+        "comparison-primary-li-recall-ended-20250623",
+        "comparison-c-lkc-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "兩軌分別找到罷免提議查對、偵辦與第二階段未送件；合併為同一時間線，明確標示李坤城是罷免標的及告發人。",
+      "finalEventId": "event-new-taipei-li-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-08",
+      "comparisonIds": [
+        "comparison-primary-lins-doctor-platform-20250707"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院逐字紀錄、公視與中央社可交叉確認質詢及行政機關回應。",
+      "finalEventId": "event-new-taipei-lins-doctor-platform-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-09",
+      "comparisonIds": [
+        "comparison-c-wpj-vaccine"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "本批補查後仍未取得符合爭議事件門檻的正式紀錄或第二個獨立發布者，因此保留研究紀錄但不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-10",
+      "comparisonIds": [
+        "comparison-c-wpj-sex-rumor"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "本批補查後仍未取得符合爭議事件門檻的正式紀錄或第二個獨立發布者，因此保留研究紀錄但不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-11",
+      "comparisonIds": [
+        "comparison-c-wcm-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "本批補查後仍未取得符合爭議事件門檻的正式紀錄或第二個獨立發布者，因此保留研究紀錄但不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-12",
+      "comparisonIds": [
+        "comparison-c-lkc-extortion"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "兩個獨立發布者可核對二審結果；文字須明示判決未認定李坤城確有敲竹槓。",
+      "finalEventId": "event-new-taipei-li-extortion-speech-case-2026",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-13",
+      "comparisonIds": [
+        "comparison-c-lsf-threat"
+      ],
+      "additionalSourceIds": [
+        "adjudication-lsf-threat-pts"
+      ],
+      "decision": "publish",
+      "reason": "中央社與公視可交叉確認恐嚇內容、警方處理及林淑芬為威脅對象；起訴階段依中央社報導表述，不推定被告有罪。",
+      "finalEventId": "event-new-taipei-lins-service-office-threat-2023",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-new-taipei-north-1-14",
+      "comparisonIds": [
+        "comparison-c-lsf-lunch"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "兩個獨立發布者可核對原發言、本人澄清及立法院後續檢討。",
+      "finalEventId": "event-new-taipei-lins-lunch-procurement-2026",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    }
+  ],
+  "additionalSources": [
+    {
+      "id": "adjudication-lsf-threat-pts",
+      "title": "要求外送至林淑芬服務處開槍 嫌稱開玩笑依恐嚇移送",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/647862",
+      "sourceType": "news",
+      "publishedAt": "2023-07-24",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導外送平台恐嚇內容、警方逮捕及依恐嚇罪嫌移送。"
+    }
+  ]
+}

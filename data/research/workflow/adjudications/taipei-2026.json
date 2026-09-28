@@ -1,0 +1,435 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "taipei-2026",
+  "primaryVersionId": "primary-taipei-20260927-r3",
+  "independentVersionId": "independent-taipei-20260927-r1",
+  "decidedAt": "2026-09-27",
+  "records": [
+    {
+      "id": "adjudication-taipei-01",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-wang-finance-2025-ly11-46758"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-wang-finance-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-02",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-wang-music-2025-ly11-46758"
+      ],
+      "additionalSourceIds": [
+        "adjudication-wang-music-tvbs",
+        "adjudication-wang-music-ftv"
+      ],
+      "decision": "publish",
+      "reason": "中央社、TVBS及民視可交叉確認改編事件與人物回應，作為人物側寫保留，不描述為立法成果。",
+      "finalEventId": "event-taipei-wang-music-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-03",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-hung-employment-2025-ly11-46762"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-hung-employment-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-04",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-hung-apology-2024-ly11-46762"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-hung-apology-2024",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-05",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-wupeiyi-proposal-2024-ly11-46766"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-wupeiyi-proposal-2024",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-06",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-wupeiyi-sports-2025-ly11-46766"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-wupeiyi-sports-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-07",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-wupeiyi-civil-2025-ly11-46766-c-wpy-chen"
+      ],
+      "additionalSourceIds": [],
+      "decision": "merge",
+      "reason": "兩軌描述同一事件，但分類、角色或程序欄位不同；採保守程序狀態並合併來源。",
+      "finalEventId": "event-taipei-wupeiyi-civil-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-08",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-wusiya-interpellation-2025-ly11-46769"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-wusiya-interpellation-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-09",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-li-finance-2025-ly11-46773"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-li-finance-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-10",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-li-property-2025-ly11-46773-c-lyh-property"
+      ],
+      "additionalSourceIds": [],
+      "decision": "merge",
+      "reason": "兩軌描述同一事件，但分類、角色或程序欄位不同；採保守程序狀態並合併來源。",
+      "finalEventId": "event-taipei-li-property-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-11",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-hsu-military-2024-ly11-46796"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-hsu-military-2024",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-12",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-hsu-apology-2025-ly11-46796"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-hsu-apology-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-13",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-lai-convener-2025-ly11-46848"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-lai-convener-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-14",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-lai-crash-2024-ly11-46848-c-lsb-crash"
+      ],
+      "additionalSourceIds": [],
+      "decision": "merge",
+      "reason": "兩軌描述同一事件，但分類、角色或程序欄位不同；採保守程序狀態並合併來源。",
+      "finalEventId": "event-taipei-lai-crash-2024",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-15",
+      "comparisonIds": [
+        "comparison-primary-event-taipei-luo-conduct-2025-ly11-46859"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "既有公開事件來源與人物角色符合門檻，獨立軌未發現不一致證據，維持發布。",
+      "finalEventId": "event-taipei-luo-conduct-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-16",
+      "comparisonIds": [
+        "comparison-primary-wusiya-dorm-post-20260831"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalEventId": "event-taipei-wusiya-dorm-post-2026",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-17",
+      "comparisonIds": [
+        "comparison-primary-wang-shijian-ho-civil-20250729"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalSummary": "何志偉不滿王世堅等人將其與黑道連結而提起民事求償；中央社與 TVBS 均報導高院二審仍判何志偉敗訴。",
+      "finalEventId": "event-taipei-wang-ho-civil-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-18",
+      "comparisonIds": [
+        "comparison-primary-wang-hungwei-pan-civil-20260224"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalEventId": "event-taipei-hung-pan-civil-2026",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-19",
+      "comparisonIds": [
+        "comparison-primary-wusiya-trade-pact-nonprosecution-20250405-c-wsy-trade"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "僅找到中央社及其轉載內容，未取得正式不起訴處分或真正獨立的第二發布者，未達爭議事件公開門檻。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-20",
+      "comparisonIds": [
+        "comparison-primary-li-property-investigation-20260401"
+      ],
+      "additionalSourceIds": [],
+      "decision": "merge",
+      "reason": "與另一軌或既有公開事件屬同一事件時間線，合併來源與程序更新，避免重複計數。",
+      "finalEventId": "event-taipei-li-property-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-21",
+      "comparisonIds": [
+        "comparison-primary-hsu-defamation-nonprosecution-20250919"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalSummary": "徐巧芯因指稱溫朗東裝瘋逃兵等言論遭告誹謗；中央社與 TVBS 均報導檢方作成不起訴處分。",
+      "finalEventId": "event-taipei-hsu-wen-nonprosecution-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-22",
+      "comparisonIds": [
+        "comparison-primary-hsu-chen-injury-investigation-20260319"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "僅找到單一通訊社對發回續查的報導，未取得正式再議處分或獨立第二來源，暫不公開。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-23",
+      "comparisonIds": [
+        "comparison-primary-wupeiyi-rice-donation-20251017"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalEventId": "event-taipei-wupeiyi-rice-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-24",
+      "comparisonIds": [
+        "comparison-primary-luo-book-funds-20250504"
+      ],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "款項用於政黨政治及反罷免活動，不屬公益或公共服務。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-25",
+      "comparisonIds": [
+        "comparison-c-wsk-defamation"
+      ],
+      "additionalSourceIds": [],
+      "decision": "merge",
+      "reason": "與另一軌或既有公開事件屬同一事件時間線，合併來源與程序更新，避免重複計數。",
+      "finalEventId": "event-taipei-wang-ho-civil-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-26",
+      "comparisonIds": [
+        "comparison-c-whw-pan"
+      ],
+      "additionalSourceIds": [],
+      "decision": "merge",
+      "reason": "與另一軌或既有公開事件屬同一事件時間線，合併來源與程序更新，避免重複計數。",
+      "finalEventId": "event-taipei-hung-pan-civil-2026",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-27",
+      "comparisonIds": [
+        "comparison-c-whw-recall"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalEventId": "event-taipei-hung-recall-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-28",
+      "comparisonIds": [
+        "comparison-c-wsy-recall-fraud"
+      ],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "來源、人物角色及程序狀態達公開門檻；以裁決後的中性文字進入發布準備。",
+      "finalEventId": "event-taipei-recall-petition-forgery-2025",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-29",
+      "comparisonIds": [
+        "comparison-c-hch-family-fraud"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "親屬遭起訴不能歸責委員本人，且未取得對委員本人告發案的正式偵結結果。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-30",
+      "comparisonIds": [
+        "comparison-c-hch-leak"
+      ],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "沒有直接來源，亦無正式案件狀態或文件密等證據，不符合公開門檻。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-31",
+      "comparisonIds": [
+        "comparison-c-hch-election"
+      ],
+      "additionalSourceIds": [],
+      "decision": "out_of_scope",
+      "reason": "處分對象為選區里長，委員並非被告或處分對象，未建立足夠的個人行為關聯。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    },
+    {
+      "id": "adjudication-taipei-32",
+      "comparisonIds": [
+        "comparison-c-lcq-donation"
+      ],
+      "additionalSourceIds": [
+        "adjudication-luo-donation-cna"
+      ],
+      "decision": "publish",
+      "reason": "聯合報及中央社分別報導北院一審結果與雙方主張；文字限於名譽訴訟結果，不推定政治獻金違法。",
+      "finalEventId": "event-taipei-luo-political-donation-litigation-2026",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-27"
+    }
+  ],
+  "additionalSources": [
+    {
+      "id": "adjudication-wang-music-tvbs",
+      "title": "王世堅金句成神曲「沒出息」橫掃兩岸！創作人王搏：看到努力生活的疲憊",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/entertainment/3027805",
+      "sourceType": "news",
+      "publishedAt": "2025-10-27",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導確認質詢片段改編、創作者及傳播情況。"
+    },
+    {
+      "id": "adjudication-wang-music-ftv",
+      "title": "王世堅質詢神曲《沒出息》暴紅國際！5種版本一次看",
+      "publisher": "民視新聞網",
+      "url": "https://www.ftvnews.com.tw/news/detail/2025A19W0078",
+      "sourceType": "news",
+      "publishedAt": "2025-10-19",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導確認原質詢片段與歌曲改編傳播。"
+    },
+    {
+      "id": "adjudication-luo-donation-cna",
+      "title": "簡舒培指政治獻金轉到自家基金會　羅智強求償敗訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202608190195.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "北院一審駁回羅智強求償、雙方主張及判決尚可上訴。"
+    }
+  ]
+}

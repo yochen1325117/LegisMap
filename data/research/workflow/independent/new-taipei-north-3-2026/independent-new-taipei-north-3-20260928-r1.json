@@ -1,0 +1,923 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "independent",
+  "batchId": "new-taipei-north-3-2026",
+  "versionId": "independent-new-taipei-north-3-20260928-r1",
+  "performedBy": "codex-independent-new-taipei-north-3-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:20:42.459Z",
+  "contentHash": "c7987944862d89cdedc42699905c7b9c34a340c5b5e198c9e2e0bb0789c9b338",
+  "searchRuns": [
+    {
+      "id": "sr-ntn3-001",
+      "track": "independent",
+      "memberId": "ly11-46837",
+      "query": "葉元之 中央社 聯合報 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yyc-recall",
+        "c-yyc-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-002",
+      "track": "independent",
+      "memberId": "ly11-46837",
+      "query": "葉元之 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yyc-recall",
+        "c-yyc-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-003",
+      "track": "independent",
+      "memberId": "ly11-46837",
+      "query": "葉元之 罷免 助理 機密預算 選罷法 誹謗",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yyc-recall",
+        "c-yyc-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-004",
+      "track": "independent",
+      "memberId": "ly11-46837",
+      "query": "葉元之 葉元之 YEH YUAN-CHIH 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yyc-recall",
+        "c-yyc-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-005",
+      "track": "independent",
+      "memberId": "ly11-46837",
+      "query": "葉元之 本人答辯 不起訴 開票 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yyc-recall",
+        "c-yyc-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-006",
+      "track": "independent",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 中央社 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lhh-property",
+        "c-lhh-occupation",
+        "c-lhh-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-007",
+      "track": "independent",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 立法院 士林地檢 司法院 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lhh-property",
+        "c-lhh-occupation",
+        "c-lhh-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-008",
+      "track": "independent",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 違建 竊佔國有地 停車場 罷免 政治獻金",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lhh-property",
+        "c-lhh-occupation",
+        "c-lhh-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-009",
+      "track": "independent",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 廖先翔 LIAO HSIEN-HSIANG 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lhh-property",
+        "c-lhh-occupation",
+        "c-lhh-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-010",
+      "track": "independent",
+      "memberId": "ly11-46839",
+      "query": "廖先翔 本人道歉 不起訴 判決 上訴 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lhh-property",
+        "c-lhh-occupation",
+        "c-lhh-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-011",
+      "track": "independent",
+      "memberId": "ly11-46857",
+      "query": "羅明才 中央社 公視 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lmt-staff-forgery",
+        "c-lmt-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-012",
+      "track": "independent",
+      "memberId": "ly11-46857",
+      "query": "羅明才 立法院 北檢 司法院 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lmt-staff-forgery",
+        "c-lmt-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-013",
+      "track": "independent",
+      "memberId": "ly11-46857",
+      "query": "羅明才 服務處 偽造罷免提議書 罷免 訪中 財產",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lmt-staff-forgery",
+        "c-lmt-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-014",
+      "track": "independent",
+      "memberId": "ly11-46857",
+      "query": "羅明才 羅明才 LO MING-TSAI 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lmt-staff-forgery",
+        "c-lmt-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-015",
+      "track": "independent",
+      "memberId": "ly11-46857",
+      "query": "羅明才 本人答辯 羈押 起訴 判決 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lmt-staff-forgery",
+        "c-lmt-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-016",
+      "track": "independent",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 中央社 公視 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-sch-recall-forgery",
+        "c-sch-contract"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-017",
+      "track": "independent",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 立法院 新北地檢 司法院 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-sch-recall-forgery",
+        "c-sch-contract"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-018",
+      "track": "independent",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 罷免 不實連署 政府標案 利益迴避 政治獻金",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-sch-recall-forgery",
+        "c-sch-contract"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-019",
+      "track": "independent",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 蘇巧慧 SU CHIAO-HUI 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-sch-recall-forgery",
+        "c-sch-contract"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    },
+    {
+      "id": "sr-ntn3-020",
+      "track": "independent",
+      "memberId": "ly11-46860",
+      "query": "蘇巧慧 本人回應 搜索 起訴 二階不送件 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-sch-recall-forgery",
+        "c-sch-contract"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-3-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-yyc-recall",
+      "memberIds": [
+        "ly11-46837"
+      ],
+      "provisionalCategory": "election",
+      "title": "葉元之罷免案未通過",
+      "summary": "新北市第7選區葉元之罷免案進入投票，葉元之以答辯反駁罷免理由，最終未通過。",
+      "occurredAt": "2025-07-26",
+      "sourceIds": [
+        "s-yyc-cec",
+        "s-yyc-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://bulletin.cec.gov.tw/",
+        "https://www.cna.com.tw/news/aipl/202507120118.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "葉元之稱罷免理由無中生有，呼籲投不同意票。",
+      "processStatus": "vote_completed",
+      "resultStatus": "recall_failed",
+      "evidenceLevel": "official_election_document_plus_wire_service",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-yyc-speech",
+      "memberIds": [
+        "ly11-46837"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "葉元之指罷團公園借身分證遭告獲不起訴",
+      "summary": "葉元之於政論節目指罷團以不正方式取得身分證件，遭領銜人史書華告發違反選罷法及誹謗；檢方不起訴。",
+      "occurredAt": "2026-04-16",
+      "sourceIds": [
+        "s-yyc-udn-np"
+      ],
+      "canonicalSourceUrls": [
+        "https://udn.com/news/story/7321/9445278"
+      ],
+      "roleClaims": [
+        "言論發表者",
+        "被告發人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "non_prosecution",
+      "resultStatus": "not_prosecuted",
+      "evidenceLevel": "prosecutorial_outcome_reported_by_independent_news",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-lhh-property",
+      "memberIds": [
+        "ly11-46839"
+      ],
+      "provisionalCategory": "land_use",
+      "title": "廖先翔家族汐止住處違建及行政裁罰",
+      "summary": "新北市府聯合會勘認定廖家汐止住處有違建及農地未作農用情形，要求改善並就拆後水泥塊未清除裁罰6萬元。",
+      "occurredAt": "2023-12-11",
+      "sourceIds": [
+        "s-lhh-cna-house",
+        "s-lhh-cna-fine"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202311020165.aspx",
+        "https://www.cna.com.tw/news/aloc/202312110336.aspx"
+      ],
+      "roleClaims": [
+        "房地關係人／家族成員"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "廖先翔承認家人便宜行事違規，稱將補正、拆除且不對行政裁罰異議。",
+      "processStatus": "administrative_enforcement",
+      "resultStatus": "demolition_and_fine_reported",
+      "evidenceLevel": "two_wire_reports_citing_local_government",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-lhh-occupation",
+      "memberIds": [
+        "ly11-46839"
+      ],
+      "provisionalCategory": "judicial",
+      "title": "廖先翔被控竊佔國有地建莊園獲不起訴",
+      "summary": "士檢偵查後認廖先翔及父親就莊園、水池竊佔國有地部分罪嫌不足，作成不起訴。父親另涉4筆國有地停車場案一審判刑8月，該另案被告不是廖先翔。",
+      "occurredAt": "2025-08-13",
+      "sourceIds": [
+        "s-lhh-cna-np",
+        "s-lhh-cna-father"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508130328.aspx",
+        "https://www.cna.com.tw/news/asoc/202606290286.aspx"
+      ],
+      "roleClaims": [
+        "莊園案被告發人；父親另案非本人案件"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "member_non_prosecution_relative_separate_first_instance_conviction",
+      "resultStatus": "member_not_prosecuted",
+      "evidenceLevel": "two_wire_reports_with_role_separation",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-lhh-recall",
+      "memberIds": [
+        "ly11-46839"
+      ],
+      "provisionalCategory": "election",
+      "title": "廖先翔罷免案未通過",
+      "summary": "中選會公告罷免理由及答辯，2025年7月26日投票後罷免未通過。",
+      "occurredAt": "2025-07-26",
+      "sourceIds": [
+        "s-lhh-cec",
+        "s-lhh-udn-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://bulletin.cec.gov.tw/",
+        "https://udn.com/news/story/6656/8898377"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "答辯主張罷免理由不實並說明選區服務與政策立場。",
+      "processStatus": "vote_completed",
+      "resultStatus": "recall_failed",
+      "evidenceLevel": "official_document_plus_independent_news",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-lmt-staff-forgery",
+      "memberIds": [
+        "ly11-46857"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "羅明才服務處人員偽造罷免陳乃瑜提議書案",
+      "summary": "羅明才新店服務處前主任等人涉偽造罷免提議書，遭羈押、起訴後認罪，一審分別判刑並宣告緩刑。現有來源未指羅明才本人遭起訴。",
+      "occurredAt": "2026-05-01",
+      "sourceIds": [
+        "s-lmt-cna-case",
+        "s-lmt-udn-judgment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202507080219.aspx",
+        "https://udn.com/news/story/7321/9525594"
+      ],
+      "roleClaims": [
+        "涉案人員所屬服務處立委；非被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "first_instance_conviction_of_former_staff",
+      "resultStatus": "suspended_sentences_for_staff",
+      "evidenceLevel": "two_independent_publishers_with_court_outcome",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-lmt-recall",
+      "memberIds": [
+        "ly11-46857"
+      ],
+      "provisionalCategory": "election",
+      "title": "羅明才罷免案進入8月23日投票",
+      "summary": "中選會公告新北市第11選區羅明才罷免案於2025年8月23日投票；本批來源未捕捉正式最終票數。",
+      "occurredAt": "2025-08-23",
+      "sourceIds": [
+        "s-lmt-cec",
+        "s-lmt-cna-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://bulletin.cec.gov.tw/",
+        "https://www.cna.com.tw/news/aipl/202507315006.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "中選會正式開票結果或罷免結果公告"
+      ],
+      "personResponse": "羅明才請選民投不同意罷免，並回應訪中是為對話降風險。",
+      "processStatus": "vote_announced",
+      "resultStatus": "final_result_not_captured",
+      "evidenceLevel": "official_announcement_plus_wire_service",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-sch-recall-forgery",
+      "memberIds": [
+        "ly11-46860"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "蘇巧慧罷免提議書不實連署偵辦及二階未送件",
+      "summary": "蘇巧慧接獲未連署者收到查詢單後質疑名冊造假；檢調搜索相關黨部與罷團人員。罷免團體最後二階不送件，未進入投票。蘇巧慧是罷免標的與告發關係人，非被告。",
+      "occurredAt": "2025-06-05",
+      "sourceIds": [
+        "s-sch-cec-check",
+        "s-sch-cna-search",
+        "s-sch-cna-end"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cec.gov.tw/api/file/46f7b321-1416-41fe-a558-e22615aa4773.pdf",
+        "https://www.cna.com.tw/news/asoc/202504150315.aspx",
+        "https://www.cna.com.tw/news/aipl/202506050319.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人／疑似偽造名冊事件關係人；非被告"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "蘇巧慧陣營質疑偽造連署；二階不送件後以歷年問政表現回應。",
+      "processStatus": "third_party_investigation_recall_terminated",
+      "resultStatus": "second_stage_not_submitted",
+      "evidenceLevel": "official_check_record_plus_two_wire_reports",
+      "publicationDecision": "publish_with_role_clarification"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-3-20260928-r1",
+      "id": "c-sch-contract",
+      "memberIds": [
+        "ly11-46860"
+      ],
+      "provisionalCategory": "conflict_of_interest_allegation",
+      "title": "民眾黨質疑蘇巧慧關係人士取得標案與補助",
+      "summary": "民眾黨質疑蘇巧慧家族基金會董事或胞妹相關企業取得政府限制性標案、補助，可能涉及利益迴避；蘇巧慧競辦否認並表示如有違法可告發。尚無正式調查或裁處支持指控。",
+      "occurredAt": "2026-06-22",
+      "sourceIds": [
+        "s-sch-cna-contract1",
+        "s-sch-cna-contract2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202605210205.aspx",
+        "https://www.cna.com.tw/news/aipl/202606220121.aspx"
+      ],
+      "roleClaims": [
+        "遭政治指控之立委；未見正式案件身分"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "採購與補助原始文件",
+        "公職人員利益衝突迴避法主管機關認定",
+        "是否提出正式告發及結果"
+      ],
+      "personResponse": "競辦稱質疑是冷飯冷炒，否認關係人身分構成違法，並表示若認為違法可依法告發。",
+      "processStatus": "public_allegation",
+      "resultStatus": "no_official_finding_located",
+      "evidenceLevel": "two_reports_of_same_political_allegation_with_response",
+      "publicationDecision": "hold"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-yyc-cec",
+      "title": "第11屆立法委員新北市第7選舉區葉元之罷免案公告內容",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/03%E6%96%B0%E5%8C%97%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E7%AC%AC11%E5%B1%86%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%EF%BC%88%E6%96%B0%E5%8C%97%E5%B8%82%E7%AC%AC7%E9%81%B8%E8%88%89%E5%8D%80%EF%BC%89%E8%91%89%E5%85%83%E4%B9%8B%E7%BD%B7%E5%85%8D%E6%A1%88%E5%85%AC%E5%91%8A%E5%85%A7%E5%AE%B9%EF%BC%88%E6%9D%BF%E6%A9%8B%E5%8D%80%E4%B9%9D%E5%A6%82%E9%87%8C%E7%AD%8961%E9%87%8C%EF%BC%89.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由與答辯全文"
+    },
+    {
+      "id": "s-yyc-cna",
+      "title": "罷免葉元之攻防激烈 侯友宜領軍拚不同意票",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507120118.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第三階段罷免攻防與雙方說法"
+    },
+    {
+      "id": "s-yyc-udn-np",
+      "title": "罷免團體公園借身分證？史書華告葉元之不起訴",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/7321/9445278",
+      "sourceType": "news",
+      "publishedAt": "2026-04-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "檢方不起訴結果及爭議言論"
+    },
+    {
+      "id": "s-lhh-cna-house",
+      "title": "廖先翔家族汐止住處 新北市府認定違建將排拆",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202311020165.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-11-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "市府會勘認定及本人回應"
+    },
+    {
+      "id": "s-lhh-cna-fine",
+      "title": "廖先翔家人違建拆後水泥塊未清除 新北：罰6萬",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202312110336.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-12-11",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "行政裁罰與改善情形"
+    },
+    {
+      "id": "s-lhh-cna-np",
+      "title": "廖先翔被控竊佔國有地蓋莊園 士檢不起訴處分",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508130328.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "廖先翔及父親不起訴處分"
+    },
+    {
+      "id": "s-lhh-cna-father",
+      "title": "立委廖先翔父親涉竊佔4筆國有地 士院一審判刑8月",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202606290286.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-06-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "父親另案一審判決，非廖先翔本人"
+    },
+    {
+      "id": "s-lhh-cec",
+      "title": "第11屆立法委員新北市第12選舉區廖先翔罷免案公告內容",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/03%E6%96%B0%E5%8C%97%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E7%AC%AC11%E5%B1%86%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%EF%BC%88%E6%96%B0%E5%8C%97%E5%B8%82%E7%AC%AC12%E9%81%B8%E8%88%89%E5%8D%80%EF%BC%89%E5%BB%96%E5%85%88%E7%BF%94%E7%BD%B7%E5%85%8D%E6%A1%88%E5%85%AC%E5%91%8A%E5%85%A7%E5%AE%B9%EF%BC%88%E9%87%91%E5%B1%B1%E5%8D%80%E3%80%81%E8%90%AC%E9%87%8C%E5%8D%80%E3%80%81%E6%B1%90%E6%AD%A2%E5%8D%80%E3%80%81%E5%B9%B3%E6%BA%AA%E5%8D%80%E3%80%81%E7%91%9E%E8%8A%B3%E5%8D%80%E3%80%81%E9%9B%99%E6%BA%AA%E5%8D%80%E3%80%81%E8%B2%A2%E5%AF%AE%E5%8D%80%EF%BC%89.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由與答辯"
+    },
+    {
+      "id": "s-lhh-udn-result",
+      "title": "罷免開票結果 廖先翔挺過罷免考驗",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/6656/8898377",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免未通過結果"
+    },
+    {
+      "id": "s-lmt-cna-case",
+      "title": "羅明才服務處2人涉偽造罷免提議遭押 抗告被駁確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202507080219.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "服務處人員羈押與交保，非羅明才本人"
+    },
+    {
+      "id": "s-lmt-udn-judgment",
+      "title": "羅明才前助理連署罷免案造假 3人認罪全判緩刑",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/7321/9525594",
+      "sourceType": "news",
+      "publishedAt": "2026-05-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "北院一審判決與認罪"
+    },
+    {
+      "id": "s-lmt-cec",
+      "title": "第11屆立法委員新北市第11選舉區羅明才罷免公告內容",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/03%E6%96%B0%E5%8C%97%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E7%AC%AC11%E5%B1%86%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%EF%BC%88%E6%96%B0%E5%8C%97%E5%B8%82%E7%AC%AC11%E9%81%B8%E8%88%89%E5%8D%80%EF%BC%89%E7%BE%85%E6%98%8E%E6%89%8D%E7%BD%B7%E5%85%8D%E6%A1%88%E5%85%AC%E5%91%8A%E5%85%A7%E5%AE%B9%28%E6%96%B0%E5%BA%97%E5%8D%80%E3%80%81%E6%B7%B1%E5%9D%91%E5%8D%80%E3%80%81%E7%9F%B3%E7%A2%87%E5%8D%80%E3%80%81%E5%9D%AA%E6%9E%97%E5%8D%80%E3%80%81%E7%83%8F%E4%BE%86%E5%8D%80%29.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "理由與答辯"
+    },
+    {
+      "id": "s-lmt-cna-recall",
+      "title": "立委羅明才罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507315006.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "投票日期及雙方全文"
+    },
+    {
+      "id": "s-sch-cec-check",
+      "title": "蘇巧慧罷免案補提提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://www.cec.gov.tw/api/file/46f7b321-1416-41fe-a558-e22615aa4773.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-03-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "補提名冊查對"
+    },
+    {
+      "id": "s-sch-cna-search",
+      "title": "罷免涉不實連署 檢搜索國民黨板橋、三重黨部等30處",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202504150315.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-04-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "搜索約談及角色"
+    },
+    {
+      "id": "s-sch-cna-end",
+      "title": "蘇巧慧、吳琪銘罷免案 罷團：2階不送件",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506050319.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二階不送件及服務處回應"
+    },
+    {
+      "id": "s-sch-cna-contract1",
+      "title": "白營質疑關係人士搶標案 蘇巧慧競辦：冷飯冷炒",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202605210205.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "標案指控與競辦回應"
+    },
+    {
+      "id": "s-sch-cna-contract2",
+      "title": "白再控違反利益迴避 蘇巧慧競辦：若有違法可告發",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202606220121.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-06-22",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "補助指控與本人陣營回應"
+    }
+  ]
+}

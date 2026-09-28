@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46765",
+  "primaryVersionId": "primary-research-20260928-46765-r1",
+  "independentVersionId": "independent-research-20260928-46765-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-ho-sports",
+      "primaryCandidateId": "p-ho-sports",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-tsai-platform",
+      "primaryCandidateId": "p-tsai-platform",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsiupao-gas",
+      "primaryCandidateId": "p-hsiupao-gas",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsiupao-election-complaint-c-chen-hsiupao-complaint",
+      "primaryCandidateId": "p-hsiupao-election-complaint",
+      "independentCandidateId": "c-chen-hsiupao-complaint",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-suyueh-osh",
+      "primaryCandidateId": "p-suyueh-osh",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-suyueh-volunteer-fraud-c-chen-suyue-fake-aide",
+      "primaryCandidateId": "p-suyueh-volunteer-fraud",
+      "independentCandidateId": "c-chen-suyue-fake-aide",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-ho-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-ho-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-tsai-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-tsai-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

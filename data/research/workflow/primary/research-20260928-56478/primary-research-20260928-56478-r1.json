@@ -1,0 +1,725 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-56478",
+  "versionId": "primary-research-20260928-56478-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:34:11.721Z",
+  "contentHash": "98c0fbb95ebeaf14383fdc2985fc0e7b991d67cfd339d90e4ef4faaac533e3f0",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-56478-legislative",
+      "track": "primary",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-li-transport-20260330"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56478-government",
+      "track": "primary",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-li-transport-20260330"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56478-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-li-seat-ended-20260413"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56478-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-li-seat-ended-20260413"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56478-statements",
+      "track": "primary",
+      "memberId": "ly11-56478",
+      "query": "李貞秀 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-li-seat-ended-20260413"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56438-legislative",
+      "track": "primary",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-rural-school-20260213"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56438-government",
+      "track": "primary",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-rural-school-20260213"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56438-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56438-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-rural-school-20260213"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56438-statements",
+      "track": "primary",
+      "memberId": "ly11-56438",
+      "query": "邱慧洳 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56585-legislative",
+      "track": "primary",
+      "memberId": "ly11-56585",
+      "query": "許忠信 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-ai-copyright-202608"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56585-government",
+      "track": "primary",
+      "memberId": "ly11-56585",
+      "query": "許忠信 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56585-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56585",
+      "query": "許忠信 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-indictment-20260707"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56585-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56585",
+      "query": "許忠信 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-indictment-20260707"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56585-statements",
+      "track": "primary",
+      "memberId": "ly11-56585",
+      "query": "許忠信 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56458-legislative",
+      "track": "primary",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-highschool-20260825"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56458-government",
+      "track": "primary",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-housing-20260812"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56458-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56458-independent_news",
+      "track": "primary",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 中央社、公視及具採訪制度媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-housing-20260812"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    },
+    {
+      "id": "primary-ly11-56458-statements",
+      "track": "primary",
+      "memberId": "ly11-56458",
+      "query": "陳清龍 本人、政黨、公益組織與當事人回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-56478-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-li-transport-20260330",
+      "memberIds": [
+        "ly11-56478"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢蘇花安與花東道路防災韌性",
+      "summary": "立法院發言紀錄顯示，李貞秀要求交通部說明蘇花安工程發包期程，並要求內政部把花蓮災後村落道路抗災能力納入改善。這是具名質詢及要求書面回應，不代表工程已完成。",
+      "occurredAt": "2026-03-30",
+      "officialId": null,
+      "sourceIds": [
+        "r56478-ivod-li-transport"
+      ],
+      "canonicalSourceUrls": [
+        "https://ivod.ly.gov.tw/Demand/Speech/168401"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "written_response_requested",
+      "resultStatus": "in_progress",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-li-seat-ended-20260413",
+      "memberIds": [
+        "ly11-56478"
+      ],
+      "provisionalCategory": "concern",
+      "title": "遭民眾黨除籍後依法喪失不分區立委資格",
+      "summary": "立法院議案資料與中央社均記載，李貞秀於2026年4月13日喪失民眾黨黨籍，立法院依選罷法註銷其不分區立委名籍。李貞秀表示接受除籍處分、不提訴訟，並否認以辭職交換利益。此事件與先前國籍及候選資格爭議分開記錄。",
+      "occurredAt": "2026-04-13",
+      "officialId": "901110208250000",
+      "sourceIds": [
+        "r56478-ly-li-seat",
+        "r56478-cna-li-seat",
+        "r56478-cna-li-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/901110208250000/details",
+        "https://www.cna.com.tw/news/aipl/202604130274.aspx",
+        "https://www.cna.com.tw/news/aipl/202604130290.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "李貞秀表示接受開除黨籍處分、不提訴訟，並否認辭職換取利益。",
+      "processStatus": "closed",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-chiu-rural-school-20260213",
+      "memberIds": [
+        "ly11-56438"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "參與偏遠地區校護與教練久任獎金修法",
+      "summary": "立法院關係文書列邱慧洳為民眾黨團《偏遠地區學校教育發展條例》第21條修正草案提案人之一，主張把教練及護理人員納入久任獎金與年資併計。其後質詢教育部要求提出研議時程；目前僅記錄提案及質詢，未宣稱已通過。",
+      "occurredAt": "2026-02-13",
+      "officialId": "202110192390000",
+      "sourceIds": [
+        "r56478-ly-chiu-rural",
+        "r56478-reporter-chiu"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/05/01/LCEWA01_110501_00022.pdf",
+        "https://lawmaker.twreporter.org/congress/a/168170"
+      ],
+      "roleClaims": [
+        "party_group_proposer",
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "under_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-hsu-ai-copyright-202608",
+      "memberIds": [
+        "ly11-56585"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢AI研發與著作權合理使用制度",
+      "summary": "立法院發言紀錄顯示，許忠信就AI研發所需資料、著作權合理使用與轉化性使用制度向中央研究院院長質詢。此處記錄其監督與政策主張，未宣稱法律已修正。",
+      "occurredAt": "2026-08-11",
+      "officialId": null,
+      "sourceIds": [
+        "r56478-ivod-hsu-ai"
+      ],
+      "canonicalSourceUrls": [
+        "https://ivod.ly.gov.tw/Demand/Speech/170590"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "recorded",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-hsu-indictment-20260707",
+      "memberIds": [
+        "ly11-56585"
+      ],
+      "provisionalCategory": "concern",
+      "title": "因影射賴勁麟為光電門神遭起訴",
+      "summary": "中央社報導，許忠信因2023年記者會發言涉及影射賴勁麟為光電門神，於2026年7月遭檢方起訴。起訴不是有罪判決；目前尚缺可直接定位的檢方新聞稿或第二獨立發布者，暫不公開。",
+      "occurredAt": "2026-07-07",
+      "officialId": null,
+      "sourceIds": [
+        "r56478-cna-hsu-indictment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202607070062.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "需補檢察署起訴新聞稿或第二個獨立發布者",
+        "需補許忠信本人回應及後續審判狀態"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "indicted",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-chen-highschool-20260825",
+      "memberIds": [
+        "ly11-56458"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "參與民眾黨團《高級中等教育法》修正提案",
+      "summary": "立法院議案頁列陳清龍為民眾黨團提案人之一，相關修正案於2026年8月25日三讀、9月18日咨請公布。後續仍須在比對階段確認其個人簽署角色，避免把黨團行動全數歸為個人成果。",
+      "occurredAt": "2026-08-25",
+      "officialId": "202110201670000",
+      "sourceIds": [
+        "r56478-ly-chen-highschool"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/202110201670000/details"
+      ],
+      "roleClaims": [
+        "party_group_proposer"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "需以關係文書核對陳清龍個人簽署及精確角色"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading_passed",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": null
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-56478-r1",
+      "id": "p-chen-housing-20260812",
+      "memberIds": [
+        "ly11-56458"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "就新青安3.0與社會住宅政策提出質詢",
+      "summary": "立法院IVOD委員頁列陳清龍於內政委員會的青年安心成家購屋優惠貸款3.0與社宅政策專題會議質詢。頁面可確認時間與議題，但尚未取得可定位的逐字發言內容，暫列待補證據。",
+      "occurredAt": "2026-08-12",
+      "officialId": null,
+      "sourceIds": [
+        "r56478-ivod-chen-list"
+      ],
+      "canonicalSourceUrls": [
+        "https://ivod.ly.gov.tw/Demand/ListLgltVideo/7241"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "需補該場發言片段或公報頁碼以描述具體提問內容"
+      ],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "recorded",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "r56478-ivod-li-transport",
+      "title": "李貞秀委員交通與花東防災質詢發言紀錄",
+      "publisher": "立法院IVOD",
+      "url": "https://ivod.ly.gov.tw/Demand/Speech/168401",
+      "sourceType": "official",
+      "publishedAt": "2026-03-30",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "11:06起蘇花安、花東道路及馬太鞍溪災後重建質詢。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-ly-li-seat",
+      "title": "李貞秀喪失黨籍並註銷立委名籍函",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/901110208250000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-24",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "案由記載115年4月13日依選罷法第73條第2項註銷名籍。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-cna-li-seat",
+      "title": "李貞秀遭民眾黨除籍　中選會函請立法院註銷立委名籍",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202604130274.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-04-13",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "中選會函請註銷及選罷法程序段落。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-cna-li-response",
+      "title": "李貞秀接受民眾黨開除黨籍處分不提訴訟",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202604130290.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-04-13",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "李貞秀接受處分、不提訴訟及否認利益交換的聲明。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-ly-chiu-rural",
+      "title": "偏遠地區學校教育發展條例第二十一條修正草案關係文書",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/05/01/LCEWA01_110501_00022.pdf",
+      "sourceType": "official",
+      "publishedAt": "2026-02-13",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "案號202110192390000；提案人列邱慧洳、陳清龍、王安祥。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-reporter-chiu",
+      "title": "邱慧洳：報告教育部業務概況／審查教師法",
+      "publisher": "報導者觀測站",
+      "url": "https://lawmaker.twreporter.org/congress/a/168170",
+      "sourceType": "news",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "校護久任獎金修法與要求教育部研議時程段落。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-ivod-hsu-ai",
+      "title": "許忠信委員AI研發與著作權質詢發言紀錄",
+      "publisher": "立法院IVOD",
+      "url": "https://ivod.ly.gov.tw/Demand/Speech/170590",
+      "sourceType": "official",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "11:23起AI研發、資料利用、fair use與transformative use質詢。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-cna-hsu-indictment",
+      "title": "涉影射賴勁麟光電門神　民眾黨立委許忠信遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202607070062.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-07",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "起訴所涉2023年12月11日記者會發言與程序狀態。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-ly-chen-highschool",
+      "title": "高級中等教育法第二條及第五十八條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/202110201670000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-02-13",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人列民眾黨團、蔡春綢、陳清龍、王安祥、邱慧洳；115/08/25三讀。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "r56478-ivod-chen-list",
+      "title": "陳清龍委員質詢片段列表",
+      "publisher": "立法院IVOD",
+      "url": "https://ivod.ly.gov.tw/Demand/ListLgltVideo/7241",
+      "sourceType": "official",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "115/08/12內政委員會青安3.0與社宅政策專題會議之陳清龍質詢項目。",
+      "lastVerifiedAt": "2026-09-28"
+    }
+  ]
+}

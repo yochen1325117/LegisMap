@@ -1,0 +1,1967 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "taipei-2026",
+  "versionId": "primary-taipei-20260927-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-27",
+  "lockedAt": "2026-09-27T15:03:10.385Z",
+  "contentHash": "3f87c719a3b93121cb21b751e743e1ded5c5b6825930cbc1ab069ab518f49ab8",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46758-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46758",
+      "query": "王世堅 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wang-shijian-ho-civil-20250729"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46758-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46758",
+      "query": "site:ppg.ly.gov.tw 王世堅 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46762-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wang-hungwei-pan-civil-20260224"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46762-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46762",
+      "query": "site:ppg.ly.gov.tw 王鴻薇 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46766-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46766-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46766",
+      "query": "site:ppg.ly.gov.tw 吳沛憶 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46769-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wusiya-dorm-post-20260831",
+        "primary-wusiya-trade-pact-nonprosecution-20250405"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46769-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46769",
+      "query": "site:ppg.ly.gov.tw 吳思瑤 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46773-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-li-property-investigation-20260401"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46773-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46773",
+      "query": "site:ppg.ly.gov.tw 李彥秀 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46796-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-hsu-defamation-nonprosecution-20250919",
+        "primary-hsu-chen-injury-investigation-20260319"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46796-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46796",
+      "query": "site:ppg.ly.gov.tw 徐巧芯 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46848-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46848-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46848",
+      "query": "site:ppg.ly.gov.tw 賴士葆 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46859-accountability-news",
+      "track": "primary",
+      "memberId": "ly11-46859",
+      "query": "羅智強 立委 爭議 澄清 道歉 起訴 判決 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46859-legislative-work",
+      "track": "primary",
+      "memberId": "ly11-46859",
+      "query": "site:ppg.ly.gov.tw 羅智強 提案 質詢 預算 第11屆",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46758-government",
+      "track": "primary",
+      "memberId": "ly11-46758",
+      "query": "site:gov.tw 王世堅 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46762-government",
+      "track": "primary",
+      "memberId": "ly11-46762",
+      "query": "site:gov.tw 王鴻薇 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46766-government",
+      "track": "primary",
+      "memberId": "ly11-46766",
+      "query": "site:gov.tw 吳沛憶 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46769-government",
+      "track": "primary",
+      "memberId": "ly11-46769",
+      "query": "site:gov.tw 吳思瑤 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46773-government",
+      "track": "primary",
+      "memberId": "ly11-46773",
+      "query": "site:gov.tw 李彥秀 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46796-government",
+      "track": "primary",
+      "memberId": "ly11-46796",
+      "query": "site:gov.tw 徐巧芯 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46848-government",
+      "track": "primary",
+      "memberId": "ly11-46848",
+      "query": "site:gov.tw 賴士葆 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46859-government",
+      "track": "primary",
+      "memberId": "ly11-46859",
+      "query": "site:gov.tw 羅智強 2022..2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46758-public-service",
+      "track": "primary",
+      "memberId": "ly11-46758",
+      "query": "王世堅 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46758-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46758",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 王世堅 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46758-statements",
+      "track": "primary",
+      "memberId": "ly11-46758",
+      "query": "site:ly.gov.tw 王世堅 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46762-public-service",
+      "track": "primary",
+      "memberId": "ly11-46762",
+      "query": "王鴻薇 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46762-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46762",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 王鴻薇 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46762-statements",
+      "track": "primary",
+      "memberId": "ly11-46762",
+      "query": "site:ly.gov.tw 王鴻薇 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46766-public-service",
+      "track": "primary",
+      "memberId": "ly11-46766",
+      "query": "吳沛憶 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wupeiyi-rice-donation-20251017"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46766-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46766",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 吳沛憶 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46766-statements",
+      "track": "primary",
+      "memberId": "ly11-46766",
+      "query": "site:ly.gov.tw 吳沛憶 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46769-public-service",
+      "track": "primary",
+      "memberId": "ly11-46769",
+      "query": "吳思瑤 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46769-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46769",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 吳思瑤 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46769-statements",
+      "track": "primary",
+      "memberId": "ly11-46769",
+      "query": "site:ly.gov.tw 吳思瑤 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46773-public-service",
+      "track": "primary",
+      "memberId": "ly11-46773",
+      "query": "李彥秀 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46773-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46773",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 李彥秀 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46773-statements",
+      "track": "primary",
+      "memberId": "ly11-46773",
+      "query": "site:ly.gov.tw 李彥秀 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46796-public-service",
+      "track": "primary",
+      "memberId": "ly11-46796",
+      "query": "徐巧芯 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46796-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46796",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 徐巧芯 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46796-statements",
+      "track": "primary",
+      "memberId": "ly11-46796",
+      "query": "site:ly.gov.tw 徐巧芯 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46848-public-service",
+      "track": "primary",
+      "memberId": "ly11-46848",
+      "query": "賴士葆 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46848-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46848",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 賴士葆 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46848-statements",
+      "track": "primary",
+      "memberId": "ly11-46848",
+      "query": "site:ly.gov.tw 賴士葆 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46859-public-service",
+      "track": "primary",
+      "memberId": "ly11-46859",
+      "query": "羅智強 公益 捐贈 募款 公共服務 2022 2023 2024 2025 2026",
+      "queryFamily": "public_service",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-luo-book-funds-20250504"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46859-oversight-judicial",
+      "track": "primary",
+      "memberId": "ly11-46859",
+      "query": "site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw 羅智強 2022 2023 2024 2025 2026",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-ly11-46859-statements",
+      "track": "primary",
+      "memberId": "ly11-46859",
+      "query": "site:ly.gov.tw 羅智強 回應 澄清 聲明 2022 2023 2024 2025 2026",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-27",
+      "periodEnd": "2026-09-27",
+      "searchedAt": "2026-09-27",
+      "resultCountReviewed": 5,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-taipei-20260927-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-event-taipei-wang-finance-2025-ly11-46758",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46758"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "就疫情防備措施質詢",
+      "summary": "立法院財政委員會就疫情再起與快篩、疫苗、藥品準備舉行專題報告；議事頁列王世堅於會中質詢。紀錄可確認其監督行為，不代表相關措施因質詢而改變。",
+      "occurredAt": "2025-06-05",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-finance-20250605"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025052940/details?meetingDate=114%2F06%2F05"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-wang-music-2025-ly11-46758",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46758"
+      ],
+      "provisionalCategory": "anecdote",
+      "title": "過往質詢金句被改編成歌曲",
+      "summary": "中央社報導，王世堅過往質詢中的『沒出息』片段被改編成歌曲；王世堅受訪談及此事。日期為報導發表日，原質詢並非發生於當日。",
+      "occurredAt": "2025-12-03",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-wang-music"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202512030183.aspx"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-hung-employment-2025-ly11-46762",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46762"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出就業服務法修正草案",
+      "summary": "立法院院會議事頁列王鴻薇等 22 人擬具《就業服務法》第 55 條修正草案，進入報告事項；此為提案紀錄，不代表已完成修法。",
+      "occurredAt": "2025-01-17",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-plenary-20250117"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025011544/details?meetingDate=114%2F01%2F17"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-hung-apology-2024-ly11-46762",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46762"
+      ],
+      "provisionalCategory": "concern",
+      "title": "餐敘爆料波及女醫師後致歉",
+      "summary": "王鴻薇質疑陳時中與王必勝參加的餐敘並影射與會女性身分；餐敘相關人士澄清為醫界聚會後，王鴻薇向受波及的女醫師致歉。",
+      "occurredAt": "2024-11-13",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-hung-apology",
+        "taipei-hung-apology-2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/firstnews/202411130089.aspx",
+        "https://news.cts.com.tw/cts/politics/202411/202411132401618.html"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "王鴻薇表示向女醫師致歉，但仍主張可以監督陳時中與王必勝。",
+      "processStatus": "resolved",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-wupeiyi-proposal-2024-ly11-46766",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46766"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒少性剝削防制條例修正草案",
+      "summary": "立法院院會報告事項列吳沛憶等 21 人擬具《兒童及少年性剝削防制條例》部分條文修正草案；僅記錄提案，未推定法案已通過。",
+      "occurredAt": "2024-05-03",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-plenary-20240503"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2024050179/details?meetingDate=113%2F05%2F03"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-wupeiyi-sports-2025-ly11-46766",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46766"
+      ],
+      "provisionalCategory": "good_deed",
+      "title": "運動基金協助小學空手道隊",
+      "summary": "吳沛憶於 2024 年宣布將選舉補助款結餘設立基層運動基金；2025 年報導記錄基金協助北市大附小空手道隊更換練習用具。",
+      "occurredAt": "2025-06-19",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-sports-fund",
+        "taipei-sports-followup"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202404180183.aspx",
+        "https://www.ftvnews.com.tw/news/detail/2025620W0614"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-wupeiyi-civil-2025-ly11-46766",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46766"
+      ],
+      "provisionalCategory": "concern",
+      "title": "與陳玉珍言論爭議的一審民事判決",
+      "summary": "臺北地院就吳沛憶指陳玉珍『求碰瓷』的言論，於一審判吳沛憶賠償新臺幣 5 萬元。報導指出判決可上訴，不能寫作確定判決。",
+      "occurredAt": "2025-08-15",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-wupeiyi-judgment",
+        "taipei-wupeiyi-judgment-2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508150323.aspx",
+        "https://udn.com/news/story/7321/8942207"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "吳沛憶表示將與律師討論是否上訴。",
+      "processStatus": "judgment_appealable",
+      "resultStatus": "appealable",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-wusiya-interpellation-2025-ly11-46769",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46769"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "院會施政報告質詢",
+      "summary": "立法院第 11 屆第 3 會期院會議事頁記錄吳思瑤在行政院施政方針與施政報告質詢時段發言。來源可核對質詢時間，不據此推定政策成果。",
+      "occurredAt": "2025-02-25",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-plenary-20250225"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025022158/details?meetingDate=114%2F02%2F25"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-li-finance-2025-ly11-46773",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46773"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "就疫情防備措施質詢",
+      "summary": "立法院財政委員會就疫情再起與防疫物資準備舉行專題報告，議事頁列李彥秀於會中質詢。此為監督紀錄，不推定政策因而改變。",
+      "occurredAt": "2025-06-05",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-finance-20250605"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025052940/details?meetingDate=114%2F06%2F05"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-li-property-2025-ly11-46773",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46773"
+      ],
+      "provisionalCategory": "concern",
+      "title": "早年美國房產申報爭議",
+      "summary": "公視報導監察院對李彥秀美國房產申報立案查核；李彥秀表示早年一筆房產疏未申報並致歉。監察院公開申報表另可核對其美國房地售出註記。此處不推定監察院裁罰結果。",
+      "occurredAt": "2025-02-13",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-li-declaration",
+        "taipei-li-property"
+      ],
+      "canonicalSourceUrls": [
+        "https://www-ws.cy.gov.tw/Download.ashx?icon=..pdf&n=44CQ5buJ5pS%2F5bCI5YiK56ysMjk55pyf44CRLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMS9yZWxmaWxlLzg4NjEvMzY5ODYvOWMwMzA0ZGItNWM1Zi00YzE0LTgzOTQtZmYwZjNmYmMyM2MwLnBkZg%3D%3D",
+        "https://news.pts.org.tw/article/737605"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "李彥秀稱早年對法規不清楚，對疏未申報致歉，表示依法配合查核。",
+      "processStatus": "investigation",
+      "resultStatus": "under_investigation",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-hsu-military-2024-ly11-46796",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出軍人權益事件處理法草案",
+      "summary": "立法院議案關係文書列徐巧芯等 20 人提出《軍人權益事件處理法》草案，理由聚焦軍人申訴救濟程序分散的問題；提案不等於法案已通過。",
+      "occurredAt": "2024-05-14",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-military-draft"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024050190/PPGB60500_4100_20642_1130514_0011.pdf"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-hsu-apology-2025-ly11-46796",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "concern",
+      "title": "質詢資料誤植同名外交部文官",
+      "summary": "徐巧芯在前一日質詢資料中誤用與涉共諜案被調查者同名的外交部文官照片與職稱；她於 4 月 10 日承認誤植並向文官及其家人致歉。不可將無關文官寫作涉案人。",
+      "occurredAt": "2025-04-10",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-hsu-apology",
+        "taipei-hsu-apology-2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202504100207.aspx",
+        "https://news.pts.org.tw/article/746429"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "徐巧芯說因同名同姓造成資料誤植，對當事人與家人表達歉意。",
+      "processStatus": "resolved",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-lai-convener-2025-ly11-46848",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46848"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "召集疫情防備專題報告",
+      "summary": "立法院財政委員會議事頁列賴士葆為召集人，邀請審計部及衛生福利部就疫情再起、防疫物資與醫療措施報告並備質詢。",
+      "occurredAt": "2025-06-05",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-finance-20250605"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025052940/details?meetingDate=114%2F06%2F05"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "completed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-lai-crash-2024-ly11-46848",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46848"
+      ],
+      "provisionalCategory": "concern",
+      "title": "駕車碰撞兩名行人",
+      "summary": "賴士葆駕車轉彎時碰撞行人穿越道上的兩名行人；警方排除酒駕。他隔日公開致歉，後續報導指出與兩名傷者和解。",
+      "occurredAt": "2024-07-09",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-lai-crash",
+        "taipei-lai-response",
+        "taipei-lai-settlement",
+        "taipei-lai-crash-pts"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202407100039.aspx",
+        "https://www.cna.com.tw/news/aipl/202407100041.aspx",
+        "https://www.cna.com.tw/news/asoc/202503270068.aspx",
+        "https://news.pts.org.tw/article/704193"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "賴士葆表示因視線死角未注意行人，向傷者致歉並承諾負責。",
+      "processStatus": "resolved",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-event-taipei-luo-conduct-2025-ly11-46859",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46859"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出立法委員行為法修正草案",
+      "summary": "立法院院會議事頁列羅智強等 16 人擬具《立法委員行為法》第 7 條修正草案；此為提案紀錄，未將提案視為已生效法律。",
+      "occurredAt": "2025-02-25",
+      "officialId": null,
+      "sourceIds": [
+        "taipei-plenary-20250225"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025022158/details?meetingDate=114%2F02%2F25"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "documented",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-wusiya-dorm-post-20260831",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46769"
+      ],
+      "provisionalCategory": "concern",
+      "title": "在校外租屋貼文下宣傳「新宿舍運動」引發爭議",
+      "summary": "吳思瑤在學生住宿開箱貼文下將住宿環境連結到她推動的新宿舍運動；學生表示不希望貼文涉及政治宣傳，並澄清照片為學校附近私人租屋而非校內宿舍。",
+      "occurredAt": "2026-08-31",
+      "officialId": null,
+      "sourceIds": [
+        "primary-wusiya-dorm-chinatimes",
+        "primary-wusiya-dorm-tvbs",
+        "primary-wusiya-dorm-newtalk"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.chinatimes.com/realtimenews/20260831002168-260407?chdtv",
+        "https://news.tvbs.com.tw/politics/4015738",
+        "https://newtalk.tw/news/view/2026-09-01/1057016"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "吳思瑤後續表示，學生遭出征不是政策推動本意，也不希望事件失焦或造成對立。",
+      "processStatus": "reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-wang-shijian-ho-civil-20250729",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46758"
+      ],
+      "provisionalCategory": "concern",
+      "title": "何志偉提民事求償案二審仍敗訴",
+      "summary": "何志偉不滿王世堅等人將其與黑道連結而提起民事求償；中央社報導高院二審仍判何志偉敗訴。現階段僅有單一新聞來源，需補正式裁判或另一獨立來源。",
+      "occurredAt": "2025-07-29",
+      "officialId": null,
+      "sourceIds": [
+        "primary-wang-shijian-ho-civil-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202507290159.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "resolved",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-wang-hungwei-pan-civil-20260224",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46762"
+      ],
+      "provisionalCategory": "concern",
+      "title": "潘孟安豪宅言論民事案由最高法院發回",
+      "summary": "王鴻薇因評論潘孟安居住廠商房產遭民事求償；最高法院廢棄二審判決並發回高院，尚無確定結果。",
+      "occurredAt": "2026-02-24",
+      "officialId": null,
+      "sourceIds": [
+        "primary-wang-hungwei-pan-civil-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602240073.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "appeal",
+      "resultStatus": "appeal",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-wusiya-trade-pact-nonprosecution-20250405",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46769"
+      ],
+      "provisionalCategory": "concern",
+      "title": "服貿言論遭告後獲不起訴",
+      "summary": "吳思瑤因稱藍白將重啟服貿等言論遭提告，中央社報導檢方作成不起訴處分。需補正式處分或第二獨立來源後才可發布。",
+      "occurredAt": "2025-04-05",
+      "officialId": null,
+      "sourceIds": [
+        "primary-wusiya-trade-pact-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202504050060.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-li-property-investigation-20260401",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46773"
+      ],
+      "provisionalCategory": "concern",
+      "title": "美國房產相關告發不起訴遭撤銷續查",
+      "summary": "高嘉瑜就李彥秀美國房產提出告發，士檢原不起訴後由高檢署撤銷並發回續查；案件仍在偵查程序，不推定違法。",
+      "occurredAt": "2026-04-01",
+      "officialId": null,
+      "sourceIds": [
+        "primary-li-property-followup-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202604010131.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "investigation",
+      "resultStatus": "under_investigation",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-hsu-defamation-nonprosecution-20250919",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "concern",
+      "title": "指稱溫朗東逃兵等言論獲不起訴",
+      "summary": "徐巧芯因指稱溫朗東裝瘋逃兵等言論遭告誹謗，中央社報導檢方作成不起訴。需補正式處分或第二獨立來源。",
+      "occurredAt": "2025-09-19",
+      "officialId": null,
+      "sourceIds": [
+        "primary-hsu-defamation-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202509190062.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-hsu-chen-injury-investigation-20260319",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46796"
+      ],
+      "provisionalCategory": "concern",
+      "title": "議場推擠傷害告訴遭發回續查",
+      "summary": "陳亭妃指控徐巧芯在議場攻防中出腳造成受傷；北檢不起訴後，高檢署認偵查不完備而撤銷並發回續查。案件仍在偵查，不推定犯罪成立。",
+      "occurredAt": "2026-03-19",
+      "officialId": null,
+      "sourceIds": [
+        "primary-hsu-chen-injury-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202603190090.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "investigation",
+      "resultStatus": "under_investigation",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-wupeiyi-rice-donation-20251017",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46766"
+      ],
+      "provisionalCategory": "public_service",
+      "title": "參與白米捐贈公益活動",
+      "summary": "臺北市會計師公會活動頁記錄吳沛憶參與白米捐贈活動；資料尚未釐清其角色是共同主辦、媒合或個人捐贈，也缺少獨立來源。",
+      "occurredAt": "2025-10-17",
+      "officialId": null,
+      "sourceIds": [
+        "primary-wupeiyi-rice-cpa"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.roccpa.org.tw/%28X%281%29S%28i5zrqpmx1ykwa1ppv15g3vrg%29%29/news/more_nomal?id=5e5d780fd9544bd8b5264c10158e3556"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式原始紀錄或第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-taipei-20260927-r1"
+    },
+    {
+      "id": "primary-luo-book-funds-20250504",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46859"
+      ],
+      "provisionalCategory": "public_service",
+      "title": "以新書款支援同黨立委反罷免",
+      "summary": "中央社報導羅智強宣布以新書款支援同黨新科立委反罷免。該用途屬政黨政治活動，不符合公益與公共服務收錄範圍。",
+      "occurredAt": "2025-05-04",
+      "officialId": null,
+      "sourceIds": [
+        "primary-luo-book-funds-cna"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202505040109.aspx"
+      ],
+      "roleClaims": [
+        "donor"
+      ],
+      "status": "out_of_scope",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "attributed_claim",
+      "publicationDecision": "out_of_scope",
+      "possibleDuplicateOf": null,
+      "rejectionReason": "款項用於政黨政治與反罷免活動，不屬公益或公共服務。",
+      "versionId": "primary-taipei-20260927-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "taipei-finance-20250605",
+      "title": "立法院第11屆第3會期財政委員會第16次全體委員會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025052940/details?meetingDate=114%2F06%2F05",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "議程與委員發言片段：賴士葆 10:33–10:43、李彥秀 10:52–11:02、王世堅 12:11–12:21",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-wang-music",
+      "title": "被國台辦指『沒出息』 王世堅反擊：睜眼說瞎話",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202512030183.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-12-03",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "開頭：王世堅過往質詢金句被改編成歌曲及本人回應",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-plenary-20250117",
+      "title": "第11屆第2會期第18次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025011544/details?meetingDate=114%2F01%2F17",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114 年 1 月 17 日報告事項第 3 案：王鴻薇等 22 人擬具就業服務法第五十五條條文修正草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-hung-apology",
+      "title": "王鴻薇為爆料致歉 陳時中盼未來謹言慎行",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/firstnews/202411130089.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-11-13",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "醫界餐敘與王鴻薇向女醫師致歉段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-hung-apology-2",
+      "title": "爆陳時中餐敘『美女相陪』 王鴻薇發文：向女醫師致歉",
+      "publisher": "華視新聞網",
+      "url": "https://news.cts.com.tw/cts/politics/202411/202411132401618.html",
+      "sourceType": "news",
+      "publishedAt": "2024-11-13",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "餐敘性質澄清及王鴻薇道歉段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-plenary-20240503",
+      "title": "第11屆第1會期第12次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2024050179/details?meetingDate=113%2F05%2F03",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "報告事項第 10 案：吳沛憶等 21 人擬具兒童及少年性剝削防制條例部分條文修正草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-sports-fund",
+      "title": "吳沛憶捐選舉補助款設運動基金 促體育發展向下扎根",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202404180183.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-04-18",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "記者會宣布捐出選舉補助款結餘，設中正萬華基層運動發展基金",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-sports-followup",
+      "title": "捐選舉補助款設運發基金 吳沛憶助小學空手道隊升級訓練裝備",
+      "publisher": "民視新聞網",
+      "url": "https://www.ftvnews.com.tw/news/detail/2025620W0614",
+      "sourceType": "news",
+      "publishedAt": "2025-06-20",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "北市大附小空手道隊獲運動基金協助更換練習用具段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-wupeiyi-judgment",
+      "title": "遭陳玉珍求償法院判賠5萬 吳沛憶擬討論上訴否",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508150323.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "台北地院一審判決與吳沛憶擬討論上訴段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-wupeiyi-judgment-2",
+      "title": "諷陳玉珍『脫衣求碰瓷』 吳沛憶要賠5萬元法院判決理由曝光",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/story/7321/8942207",
+      "sourceType": "news",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "台北地院判決理由與可上訴說明",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-plenary-20250225",
+      "title": "第11屆第3會期第2次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025022158/details?meetingDate=114%2F02%2F25",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "114 年 2 月 25 日委員發言片段：吳思瑤 14:30–14:46、王鴻薇 15:45–16:16；報告事項羅智強等 16 人提立法委員行為法修正草案",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-li-declaration",
+      "title": "公職人員變動財產申報表",
+      "publisher": "監察院",
+      "url": "https://www-ws.cy.gov.tw/Download.ashx?icon=..pdf&n=44CQ5buJ5pS%2F5bCI5YiK56ysMjk55pyf44CRLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMS9yZWxmaWxlLzg4NjEvMzY5ODYvOWMwMzA0ZGItNWM1Zi00YzE0LTgzOTQtZmYwZjNmYmMyM2MwLnBkZg%3D%3D",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "申報人李彥秀；美國房地 113 年 5 月 13 日售出之註記",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-li-property",
+      "title": "監察院立案查美國房產 李彥秀：坦蕩並依法配合",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/737605",
+      "sourceType": "news",
+      "publishedAt": "2025-02-13",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "監察院立案查核、李彥秀承認早年一筆房產疏未申報及其說明",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-military-draft",
+      "title": "軍人權益事件處理法草案議案關係文書",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024050190/PPGB60500_4100_20642_1130514_0011.pdf",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "第 1 頁案由：徐巧芯等 20 人擬具草案及提案理由",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-hsu-apology",
+      "title": "指外交部人員涉共諜 徐巧芯鞠躬致歉：同名誤植",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202504100207.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-04-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "4 月 10 日立法院質詢前致歉及同名誤植說明",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-hsu-apology-2",
+      "title": "公部門頻傳涉共諜案 政院擬修《兩岸條例》防範",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/746429",
+      "sourceType": "news",
+      "publishedAt": "2025-04-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "徐巧芯誤植同名文官照片並鞠躬致歉段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-lai-crash",
+      "title": "賴士葆駕車轉彎撞傷2行人 警排除酒駕",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202407100039.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "2024 年 7 月 9 日晚間車禍、警方排除酒駕段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-lai-response",
+      "title": "賴士葆駕車撞傷行人 兩度鞠躬致歉",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202407100041.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "賴士葆道歉與承諾負責段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-lai-settlement",
+      "title": "賴士葆撞傷2女和解 行人控警方洩密、員警被訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202503270068.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-03-27",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "首段：兩名受傷行人與賴士葆和解",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "taipei-lai-crash-pts",
+      "title": "立委賴士葆開車未停讓行人 撞倒斑馬線上2女子",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/704193",
+      "sourceType": "news",
+      "publishedAt": "2024-07-10",
+      "accessedAt": "2026-09-19",
+      "evidenceLocator": "事故經過與兩度鞠躬致歉段落",
+      "lastVerifiedAt": "2026-09-19"
+    },
+    {
+      "id": "primary-wusiya-dorm-chinatimes",
+      "title": "又一綠委翻車！吳思瑤炫宿舍政績 大學生打臉：這是租屋",
+      "publisher": "中國時報",
+      "url": "https://www.chinatimes.com/realtimenews/20260831002168-260407?chdtv",
+      "sourceType": "news",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導記錄留言、學生澄清及網路反應"
+    },
+    {
+      "id": "primary-wusiya-dorm-tvbs",
+      "title": "學生住宿開箱貼文相關報導",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/politics/4015738",
+      "sourceType": "news",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導記錄學生澄清為校外租屋"
+    },
+    {
+      "id": "primary-wusiya-dorm-newtalk",
+      "title": "宣傳宿舍政績惹議！學生遭出征關版 吳思瑤：這不是政策推動本意",
+      "publisher": "Newtalk新聞",
+      "url": "https://newtalk.tw/news/view/2026-09-01/1057016",
+      "sourceType": "news",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "吳思瑤後續回應"
+    },
+    {
+      "id": "primary-wang-shijian-ho-civil-cna",
+      "title": "不滿王世堅莊瑞雄指與黑道有關　何志偉求償仍敗訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202507290159.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-29",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導說明高院二審駁回何志偉對王世堅的損害賠償請求；仍須補正式裁判或第二來源。"
+    },
+    {
+      "id": "primary-wang-hungwei-pan-civil-cna",
+      "title": "王鴻薇爆潘孟安住廠商豪宅判賠50萬　最高院判發回",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202602240073.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "第291至303行：最高法院廢棄原判決並發回高院，案件尚未確定。"
+    },
+    {
+      "id": "primary-wusiya-trade-pact-cna",
+      "title": "指藍白重啟服貿 吳思瑤、王定宇獲不起訴處分",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202504050060.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-04-05",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導檢方就加重誹謗等告訴作成不起訴；須補正式處分或第二來源。"
+    },
+    {
+      "id": "primary-li-property-followup-cna",
+      "title": "高嘉瑜控李彥秀在美置產不起訴　高檢撤銷發回續查",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202604010131.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導高檢署撤銷不起訴並發回續查；不得寫成起訴或有罪。"
+    },
+    {
+      "id": "primary-hsu-defamation-cna",
+      "title": "指溫朗東裝瘋逃兵等遭提告誹謗　徐巧芯獲不起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202509190062.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-09-19",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "報導台北地檢署作成不起訴；須補正式處分或第二來源。"
+    },
+    {
+      "id": "primary-hsu-chen-injury-cna",
+      "title": "徐巧芯被控踹傷陳亭妃不起訴　高檢署命北檢續查",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202603190090.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-03-19",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "第280至289行：高檢署撤銷不起訴並命續查，程序仍在偵查。"
+    },
+    {
+      "id": "primary-wupeiyi-rice-cpa",
+      "title": "臺北市會計師公會公益捐贈活動",
+      "publisher": "臺北市會計師公會",
+      "url": "https://www.roccpa.org.tw/%28X%281%29S%28i5zrqpmx1ykwa1ppv15g3vrg%29%29/news/more_nomal?id=5e5d780fd9544bd8b5264c10158e3556",
+      "sourceType": "organization",
+      "publishedAt": null,
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "活動頁記錄共同舉辦白米捐贈；未證明白米由委員個人出資。"
+    },
+    {
+      "id": "primary-luo-book-funds-cna",
+      "title": "羅智強捐總新書款800萬 助新科藍委每人50萬反惡罷",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202505040109.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-04",
+      "accessedAt": "2026-09-27",
+      "lastVerifiedAt": "2026-09-27",
+      "evidenceLocator": "款項用途為支援同黨立委反罷免，依研究規範不列公益與公共服務。"
+    }
+  ]
+}

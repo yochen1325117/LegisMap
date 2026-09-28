@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46828",
+  "primaryVersionId": "primary-research-20260928-46828-r1",
+  "independentVersionId": "independent-research-20260928-46828-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-huang-regenerative",
+      "primaryCandidateId": "p-huang-regenerative",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsieh-assisted",
+      "primaryCandidateId": "p-hsieh-assisted",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-hsieh-recall",
+      "primaryCandidateId": "p-hsieh-recall",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-liu-funeral",
+      "primaryCandidateId": "p-liu-funeral",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-liu-constitutional-c-liu-constitutional",
+      "primaryCandidateId": "p-liu-constitutional",
+      "independentCandidateId": "c-liu-constitutional",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lin-telecom",
+      "primaryCandidateId": "p-lin-telecom",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lin-youth",
+      "primaryCandidateId": "p-lin-youth",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-p-lin-recall-fraud",
+      "primaryCandidateId": "p-lin-recall-fraud",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-huang-election",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-huang-election",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-hsieh-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hsieh-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    },
+    {
+      "id": "comparison-c-lin-recall-forgery",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lin-recall-forgery",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-28"
+    }
+  ]
+}

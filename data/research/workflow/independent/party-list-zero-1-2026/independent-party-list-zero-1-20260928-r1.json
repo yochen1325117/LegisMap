@@ -1,0 +1,805 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "party-list-zero-1-2026",
+  "versionId": "independent-party-list-zero-1-20260928-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:29:25.660Z",
+  "contentHash": "95f4dd893e5e8f4b7fcffc74b7c5e3a8e53b7309d19244ca4e1316d26ef33ea2",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 site:cna.com.tw OR site:udn.com OR site:pts.org.tw OR site:news.cts.com.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-liu-succession",
+        "cand-liu-workplace"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 site:ly.gov.tw OR site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-liu-succession",
+        "cand-liu-workplace"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-77699",
+      "query": "立委 遞補 政治獻金 司法 爭議 職場 服務處 劉書彬",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-liu-succession",
+        "cand-liu-workplace"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-liu-succession",
+        "cand-liu-workplace"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-77699",
+      "query": "劉書彬 回應 後續 調查 結果 判決 公告",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-liu-succession",
+        "cand-liu-workplace"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 site:cna.com.tw OR site:udn.com OR site:pts.org.tw OR site:news.cts.com.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-hung-succession",
+        "cand-hung-renovation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 site:ly.gov.tw OR site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-hung-succession",
+        "cand-hung-renovation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-56378",
+      "query": "立委 遞補 政治獻金 司法 爭議 職場 服務處 洪毓祥",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-hung-succession",
+        "cand-hung-renovation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-hung-succession",
+        "cand-hung-renovation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-56378",
+      "query": "洪毓祥 回應 後續 調查 結果 判決 公告",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-hung-succession",
+        "cand-hung-renovation"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 site:cna.com.tw OR site:udn.com OR site:pts.org.tw OR site:news.cts.com.tw 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-tsai-succession",
+        "cand-tsai-allegations"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 site:ly.gov.tw OR site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-tsai-succession",
+        "cand-tsai-allegations"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-56398",
+      "query": "立委 遞補 政治獻金 司法 爭議 職場 服務處 蔡春綢",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-tsai-succession",
+        "cand-tsai-allegations"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-tsai-succession",
+        "cand-tsai-allegations"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-56398",
+      "query": "蔡春綢 回應 後續 調查 結果 判決 公告",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-tsai-succession",
+        "cand-tsai-allegations"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-56418",
+      "query": "王安祥 site:cna.com.tw OR site:udn.com OR site:pts.org.tw OR site:news.cts.com.tw 2021..2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-wang-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-56418",
+      "query": "王安祥 site:ly.gov.tw OR site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:cy.gov.tw",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-wang-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-56418",
+      "query": "立委 遞補 政治獻金 司法 爭議 職場 服務處 王安祥",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-wang-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-56418",
+      "query": "王安祥 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-wang-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-56418",
+      "query": "王安祥 回應 後續 調查 結果 判決 公告",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 11,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-wang-succession"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-liu-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-77699"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "劉書彬遞補第11屆不分區立法委員",
+      "summary": "吳春城辭職後，中選會公告劉書彬遞補當選；劉於2025年3月14日宣誓就職。",
+      "occurredAt": "2025-03-14",
+      "officialId": "中選會遞補公告（劉書彬）",
+      "sourceIds": [
+        "src-cec-liu",
+        "src-cna-liu-office"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/59247",
+        "https://www.cna.com.tw/news/aipl/202503140161.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-77699",
+          "role": "遞補當選人及就職立法委員"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "就職時表示會以理直氣和方式問政。",
+      "processStatus": "中選會公告並完成宣誓就職",
+      "resultStatus": "遞補當選生效",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "cand-liu-workplace",
+      "track": "independent",
+      "memberIds": [
+        "ly11-77699"
+      ],
+      "provisionalCategory": "職場管理爭議",
+      "title": "前助理指控劉書彬職場霸凌及撤簽施壓",
+      "summary": "媒體報導助理指控遭要求撤回反對助理費修法連署，另有離職助理具名指控職場霸凌。劉否認施壓，對霸凌指控稱尊重其表述；後續僅有前助理轉述黨內報告稱未認定霸凌成立。",
+      "occurredAt": "2025-12-10",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-liu-pressure",
+        "src-cna-liu-bullying",
+        "src-cts-liu-followup"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202512100176.aspx",
+        "https://www.cna.com.tw/news/aipl/202512190162.aspx",
+        "https://news.cts.com.tw/cts/politics/202604/202604092570654.html"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-77699",
+          "role": "遭指控的辦公室主管；否認施壓並回應霸凌指控"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "黨內完整調查報告或勞動主管機關正式認定",
+        "可獨立核實的申訴程序文件"
+      ],
+      "personResponse": "否認逼迫撤簽，稱支持好事；對前助理霸凌指控不予置評並尊重表述。",
+      "processStatus": "媒體報導黨內調查已結案，但完整報告未公開核實",
+      "resultStatus": "前助理稱黨內未認定霸凌成立；無公權力最終認定",
+      "evidenceLevel": "multiple_independent_news_with_response",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "cand-hung-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56378"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "洪毓祥遞補第11屆不分區立法委員",
+      "summary": "中選會於2026年2月1日公告洪毓祥遞補當選。",
+      "occurredAt": "2026-02-01",
+      "officialId": "中選會115年2月1日遞補公告",
+      "sourceIds": [
+        "src-cec-six",
+        "src-cna-six"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+        "https://www.cna.com.tw/news/aipl/202602010144.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56378",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會依選罷法第73條公告",
+      "resultStatus": "遞補當選",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "cand-hung-renovation",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56378"
+      ],
+      "provisionalCategory": "公費與辦公室爭議",
+      "title": "洪毓祥就任時辦公室裝修引發公帑質疑",
+      "summary": "兩家媒體報導洪毓祥承接辦公室後裝修引發是否浪費公帑的質疑；洪稱因漏水、安全及無障礙需求調整，費用自行負擔。",
+      "occurredAt": "2026-02-03",
+      "officialId": null,
+      "sourceIds": [
+        "src-cts-hung-renovation",
+        "src-newtalk-hung-renovation"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.cts.com.tw/cts/politics/202602/202602032558503.html",
+        "https://newtalk.tw/news/view/2026-02-03/1018309"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56378",
+          "role": "辦公室使用人及回應者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "稱工程是處理漏水、開門安全與無障礙環境，沒有使用公帑而是自掏腰包。",
+      "processStatus": "媒體質疑與當事人回應；未見審計或司法程序",
+      "resultStatus": "無正式違法或浪費公帑認定",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish_with_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "cand-tsai-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56398"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "蔡春綢遞補第11屆不分區立法委員",
+      "summary": "中選會於2026年2月1日公告蔡春綢遞補當選。",
+      "occurredAt": "2026-02-01",
+      "officialId": "中選會115年2月1日遞補公告",
+      "sourceIds": [
+        "src-cec-six",
+        "src-cna-six"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+        "https://www.cna.com.tw/news/aipl/202602010144.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56398",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會依選罷法第73條公告",
+      "resultStatus": "遞補當選",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "cand-tsai-allegations",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56398"
+      ],
+      "provisionalCategory": "政治關係爭議",
+      "title": "蔡春綢遭指為地方家族「人頭立委」",
+      "summary": "時代力量於2023年提名期及2026年就任後，因蔡春綢與胞弟蔡咏鍀的親屬及服務處關係，指控其為黑金代理人或人頭立委。蔡否認涉黑金，稱共用空間為服務鄉親並要求提出證據。現無正式機關認定蔡本人涉不法。",
+      "occurredAt": "2026-05-19",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-tsai-2023",
+        "src-cna-tsai-2026",
+        "src-cts-tsai"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202311270113.aspx",
+        "https://www.cna.com.tw/news/aipl/202605190122.aspx",
+        "https://news.cts.com.tw/cts/politics/202605/202605193033400.html"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56398",
+          "role": "遭政治團體指控者；蔡咏鍀之胞姊"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "司法、監察或政治獻金主管機關對蔡春綢本人之正式調查或認定",
+        "指控所稱金流的原始文件"
+      ],
+      "personResponse": "否認涉黑金，反問「我黑了什麼」，稱共用辦公空間是為服務鄉親，並曾表示不排除提告。",
+      "processStatus": "政治團體公開指控；未見正式調查結果",
+      "resultStatus": "未有蔡春綢本人涉不法的確定結果",
+      "evidenceLevel": "multiple_independent_news_with_response",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    },
+    {
+      "id": "cand-wang-succession",
+      "track": "independent",
+      "memberIds": [
+        "ly11-56418"
+      ],
+      "provisionalCategory": "任職異動",
+      "title": "王安祥遞補第11屆不分區立法委員",
+      "summary": "中選會於2026年2月1日公告王安祥遞補當選。",
+      "occurredAt": "2026-02-01",
+      "officialId": "中選會115年2月1日遞補公告",
+      "sourceIds": [
+        "src-cec-six",
+        "src-cna-six"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+        "https://www.cna.com.tw/news/aipl/202602010144.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-56418",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會依選罷法第73條公告",
+      "resultStatus": "遞補當選",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-party-list-zero-1-20260928-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-cec-liu",
+      "title": "公告全國不分區及僑居國外國民選出之第11屆立法委員遞補當選人名單（劉書彬）",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/59247",
+      "sourceType": "official_database",
+      "publishedAt": "2025-03-07",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "公告頁及附件：劉書彬遞補當選，任期至第11屆任期屆滿"
+    },
+    {
+      "id": "src-cna-liu-office",
+      "title": "劉書彬就任立委 自述理直氣和不是誰的翻版",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202503140161.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-03-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "報導劉書彬宣誓就職及中選會已公告當選"
+    },
+    {
+      "id": "src-cna-liu-pressure",
+      "title": "傳施壓助理逼撤簽連署 劉書彬駁斥：好事絕對支持",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202512100176.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-12-10",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "記載逼撤簽指控及劉書彬否認、稱好事絕對支持"
+    },
+    {
+      "id": "src-cna-liu-bullying",
+      "title": "離職助理指控涉職場霸凌 劉書彬：不予置評",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202512190162.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-12-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "前助理具名指控與劉書彬不予置評、尊重表述"
+    },
+    {
+      "id": "src-cts-liu-followup",
+      "title": "劉書彬涉職場霸凌 前助理曝調查結果「上課4小時」",
+      "publisher": "華視新聞",
+      "url": "https://news.cts.com.tw/cts/politics/202604/202604092570654.html",
+      "sourceType": "news",
+      "publishedAt": "2026-04-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "前助理稱黨內結案報告未認定霸凌成立並提出處理建議；未附完整報告"
+    },
+    {
+      "id": "src-cec-six",
+      "title": "第11屆立法委員遞補當選人公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/65bf3101-da49-4c64-ba9c-761527dc07b3.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2026-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "公告列洪毓祥、蔡春綢、王安祥等遞補當選人"
+    },
+    {
+      "id": "src-cna-six",
+      "title": "中選會公告 李貞秀等6人遞補當選民眾黨不分區立委",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202602010144.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "報導中選會依選罷法第73條公告六人遞補"
+    },
+    {
+      "id": "src-cts-hung-renovation",
+      "title": "民眾黨立委裝潢辦公室+1！洪毓祥：安全考量、自掏腰包",
+      "publisher": "華視新聞",
+      "url": "https://news.cts.com.tw/cts/politics/202602/202602032558503.html",
+      "sourceType": "news",
+      "publishedAt": "2026-02-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "裝修質疑、鄰室說法及洪稱因漏水安全無障礙且自費"
+    },
+    {
+      "id": "src-newtalk-hung-renovation",
+      "title": "黃國昌才罵「裝什麼潢」劉書彬後再爆裝潢爭議 洪毓祥：自掏腰包",
+      "publisher": "Newtalk新聞",
+      "url": "https://newtalk.tw/news/view/2026-02-03/1018309",
+      "sourceType": "news",
+      "publishedAt": "2026-02-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "獨立報導裝修爭議及洪毓祥完整回應"
+    },
+    {
+      "id": "src-cna-tsai-2023",
+      "title": "時力質疑染黑 民眾黨不分區蔡春綢：不排除提告",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202311270113.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-11-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "候選期間黑金代理人指控及蔡春綢否認、不排除提告"
+    },
+    {
+      "id": "src-cna-tsai-2026",
+      "title": "時力質疑黑金家族入國會 蔡春綢：我黑了什麼",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202605190122.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "2026年人頭立委指控、共用地址說法及蔡春綢回應"
+    },
+    {
+      "id": "src-cts-tsai",
+      "title": "時力控立委服務處樓上藏賭場？蔡咏鍀辦主任澄清「是倉庫」",
+      "publisher": "華視新聞",
+      "url": "https://news.cts.com.tw/cts/politics/202605/202605193033400.html",
+      "sourceType": "news",
+      "publishedAt": "2026-05-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第二發布者記載指控、現場澄清及蔡春綢稱共用辦公室為服務鄉親、未涉黑金"
+    }
+  ]
+}

@@ -45,12 +45,12 @@ function ResearchEventCard({ event }: { event: EventRecord }) {
   </article>;
 }
 
-function EventSection({ title, events, reviewedAt }: { title: string; events: EventRecord[]; reviewedAt: string }) {
+function EventSection({ title, events, reviewedAt, isComplete }: { title: string; events: EventRecord[]; reviewedAt: string; isComplete: boolean }) {
   const [expanded, setExpanded] = useState(false);
   const ordered = [...events].sort((a, b) => b.occurredAt.localeCompare(a.occurredAt));
   const shown = expanded ? ordered : ordered.slice(0, 3);
   return <section className="research-section"><h3>{title}</h3>{shown.map(event => <ResearchEventCard key={`${event.id}-${event.roleType}`} event={event} />)}
-    {!ordered.length && <p className="empty-research">截至 {reviewedAt} 尚無已核實資料。</p>}
+    {!ordered.length && <p className="empty-research">{isComplete ? `截至 ${reviewedAt} 尚無已核實資料。` : '此分類仍在重新複核。'}</p>}
     {ordered.length > 3 && <button className="event-expand" onClick={() => setExpanded(value => !value)}>{expanded ? '收合' : `查看其餘 ${ordered.length - 3} 則`}</button>}
   </section>;
 }
@@ -75,10 +75,14 @@ function MemberEvents({ memberId }: { memberId: string }) {
   if (!research) return <p className="research-pending">此地區尚未完成事蹟資料查證。</p>;
   const publicEvents = research.events.filter(event => event.visibility === 'public' && event.type !== 'named_vote');
   const work = publicEvents.filter(event => event.category === 'contribution');
-  return <div className="profile-events"><p className="source-note">事蹟資料查閱日：{research.reviewedAt}。事件描述以所附來源可查證的內容為準。</p>
+  const complete = research.status === 'complete';
+  const statusText = complete
+    ? `雙軌查核完成${research.completedAt ? `：${research.completedAt}` : ''}。`
+    : research.status === 'stale' ? `研究資料待依新版流程複核；既有資料查閱日：${research.reviewedAt}。` : '資料複核中；候選內容在完成獨立驗證前不公開。';
+  return <div className="profile-events"><p className={`research-status ${complete ? 'is-complete' : 'is-reviewing'}`}>{statusText}</p><p className="source-note">事件描述以所附來源可查證的內容為準。</p>
     {(research.backgroundRecords?.length ?? 0) > 0 && <section className="research-section background-section"><h3>人物背景</h3>{research.backgroundRecords?.map(record => <article className="event-card" key={record.id}><h4>{record.title}</h4><p>{record.summary}</p><p><strong>角色：</strong>{record.role}</p><p className="event-source-list"><strong>來源：</strong>{sourcesForIds(record.sourceIds).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer">{source.publisher}・{source.title} ↗</a>)}</p></article>)}</section>}
-    <section className="research-group"><h2>{eventCategoryLabels.contribution}</h2><EventSection title="已有結果" events={work.filter(eventIsOutcome)} reviewedAt={research.reviewedAt} /><EventSection title="參與紀錄" events={work.filter(event => !eventIsOutcome(event))} reviewedAt={research.reviewedAt} /><NamedVotes memberId={memberId} /></section>
-    {(Object.keys(eventCategoryLabels) as EventCategory[]).filter(category => category !== 'contribution').map(category => <EventSection key={category} title={eventCategoryLabels[category]} events={publicEvents.filter(event => event.category === category)} reviewedAt={research.reviewedAt} />)}
+    <section className="research-group"><h2>{eventCategoryLabels.contribution}</h2><EventSection title="已有結果" events={work.filter(eventIsOutcome)} reviewedAt={research.reviewedAt} isComplete={complete} /><EventSection title="參與紀錄" events={work.filter(event => !eventIsOutcome(event))} reviewedAt={research.reviewedAt} isComplete={complete} /><NamedVotes memberId={memberId} /></section>
+    {(Object.keys(eventCategoryLabels) as EventCategory[]).filter(category => category !== 'contribution').map(category => <EventSection key={category} title={eventCategoryLabels[category]} events={publicEvents.filter(event => event.category === category)} reviewedAt={research.reviewedAt} isComplete={complete} />)}
   </div>;
 }
 

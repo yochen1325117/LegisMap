@@ -1,0 +1,776 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46828",
+  "versionId": "primary-research-20260928-46828-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:32:55.802Z",
+  "contentHash": "d8bef56873cea1ca629ae3ed373ae99d29ccce0b9dfc2771e8cfe63908f819b9",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46828-legislative",
+      "track": "primary",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-regenerative"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46828-government",
+      "track": "primary",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-regenerative"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46828-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46828-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-regenerative"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46828-statements",
+      "track": "primary",
+      "memberId": "ly11-46828",
+      "query": "黃秀芳 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46851-legislative",
+      "track": "primary",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsieh-assisted"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46851-government",
+      "track": "primary",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46851-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsieh-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46851-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsieh-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46851-statements",
+      "track": "primary",
+      "memberId": "ly11-46851",
+      "query": "謝衣鳯 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsieh-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46841-legislative",
+      "track": "primary",
+      "memberId": "ly11-46841",
+      "query": "劉建國 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-liu-funeral"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46841-government",
+      "track": "primary",
+      "memberId": "ly11-46841",
+      "query": "劉建國 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46841-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46841",
+      "query": "劉建國 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-liu-constitutional"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46841-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46841",
+      "query": "劉建國 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-liu-constitutional"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46841-statements",
+      "track": "primary",
+      "memberId": "ly11-46841",
+      "query": "劉建國 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46781-legislative",
+      "track": "primary",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-telecom",
+        "p-lin-youth"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46781-government",
+      "track": "primary",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46781-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-recall-fraud"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46781-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-telecom",
+        "p-lin-recall-fraud"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    },
+    {
+      "id": "primary-ly11-46781-statements",
+      "track": "primary",
+      "memberId": "ly11-46781",
+      "query": "林俊憲 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46828-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-huang-regenerative",
+      "memberIds": [
+        "ly11-46828"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出再生醫療製劑條例版本並納入併案三讀",
+      "summary": "立法院官方併案紀錄列黃秀芳等18人版本，2024年6月4日與行政院及其他委員版本併案三讀。最終條文為併案審查結果，不把全部內容歸為單一委員成果。",
+      "occurredAt": "2024-06-04",
+      "officialId": "203110047910000",
+      "sourceIds": [
+        "s-huang-regenerative-official",
+        "s-huang-regenerative-cna"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110047910000/details",
+        "https://www.cna.com.tw/news/aipl/202406040112.aspx"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-hsieh-assisted",
+      "memberIds": [
+        "ly11-46851"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜人工生殖法部分條文修正草案",
+      "summary": "立法院議案頁列謝衣鳯為領銜提案人，2024年2月交付社福衛環及司法法制委員會，後續持續進行委員會審查；未以所查來源確認三讀。",
+      "occurredAt": "2024-02-27",
+      "officialId": "202110006080000",
+      "sourceIds": [
+        "s-hsieh-assisted-official"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110006080000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-hsieh-recall",
+      "memberIds": [
+        "ly11-46851"
+      ],
+      "provisionalCategory": "concern",
+      "title": "謝衣鳯罷免案二階連署未送件",
+      "summary": "中選會公開第一階段提議人名冊查對統計，媒體報導二階連署未達門檻而未送件。罷免倡議的政治指控不視為事實認定，候選僅記錄程序結果。",
+      "occurredAt": "2025-05-13",
+      "officialId": null,
+      "sourceIds": [
+        "s-hsieh-recall-cec",
+        "s-hsieh-recall-mnews"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/5b1d533f-a9b0-4f52-811f-f7465a9c4c75.pdf",
+        "https://www.youtube.com/watch?v=6BuPfFOJRaA"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "謝衣鳯表示尊重罷免團體權利並感謝支持。",
+      "processStatus": "closed",
+      "resultStatus": "out_of_scope"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-liu-funeral",
+      "memberIds": [
+        "ly11-46841"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜殯葬管理條例修正版本並納入併案三讀",
+      "summary": "立法院併案紀錄列劉建國等16人版本，2025年5月9日與其他版本併案三讀。最終條文為併案結果，不把全部內容歸為其個人成果。",
+      "occurredAt": "2025-05-09",
+      "officialId": "203110110210000",
+      "sourceIds": [
+        "s-liu-funeral-official"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110110210000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-liu-constitutional",
+      "memberIds": [
+        "ly11-46841"
+      ],
+      "provisionalCategory": "concern",
+      "title": "名譽訴訟敗訴確定後聲請憲法審查遭不受理",
+      "summary": "中央社依憲法法庭裁定報導，劉建國就名譽訴訟敗訴確定後聲請憲法審查，憲法法庭於2024年裁定不受理。目前候選缺少裁定直接網址，先不進發布層。",
+      "occurredAt": "2024-06-14",
+      "officialId": null,
+      "sourceIds": [
+        "s-liu-constitutional-cna"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_constitutional_court_decision"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202406140119.aspx"
+      ],
+      "roleClaims": [
+        "applicant"
+      ],
+      "personResponse": "劉建國主張原確定裁定侵害其名譽權；憲法法庭認為聲請未具體敘明違憲而不受理。",
+      "processStatus": "closed",
+      "resultStatus": "resolved"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-lin-telecom",
+      "memberIds": [
+        "ly11-46781"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出電信管理法修正版本並納入併案三讀",
+      "summary": "立法院併案紀錄列林俊憲等23人版本，2026年7月21日與多個版本併案三讀，放寬衛星通訊業者部分國籍及外資限制。最終條文不能全歸於單一版本。",
+      "occurredAt": "2026-07-21",
+      "officialId": "203110226900000",
+      "sourceIds": [
+        "s-lin-telecom-official",
+        "s-lin-telecom-cna"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110226900000/details",
+        "https://www.cna.com.tw/news/aipl/202607210042.aspx"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-lin-youth",
+      "memberIds": [
+        "ly11-46781"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜青年基本法草案並列入院會議程",
+      "summary": "立法院會議頁列林俊憲等19人青年基本法草案於2025年3月25日列入院會議程；此處只記錄提案與程序，不推定已三讀。",
+      "occurredAt": "2025-03-25",
+      "officialId": null,
+      "sourceIds": [
+        "s-lin-youth-official"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025031951/details?meetingDate=114%2F03%2F25"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "proposed",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46828-r1",
+      "id": "p-lin-recall-fraud",
+      "memberIds": [
+        "ly11-46781"
+      ],
+      "provisionalCategory": "concern",
+      "title": "林俊憲罷免提議名冊不實案起訴11人",
+      "summary": "台南地檢署偵結針對林俊憲及王定宇罷免提議名冊不實案，起訴11人並緩起訴37人。林俊憲是罷免案被提議人，報導未指其參與名冊不實；是否適合放入人物責任紀錄仍待裁決。",
+      "occurredAt": "2025-05-08",
+      "officialId": null,
+      "sourceIds": [
+        "s-lin-recall-cna",
+        "s-lin-recall-pts"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "publication_scope_review"
+      ],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202505140086.aspx",
+        "https://news.pts.org.tw/article/750265"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-huang-regenerative-official",
+      "title": "再生醫療製劑條例草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110047910000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-06-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列黃秀芳等18人版本；113年6月4日三讀。"
+    },
+    {
+      "id": "s-huang-regenerative-cna",
+      "title": "立院三讀 非醫療機構執行再生醫療最重罰2000萬",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202406040112.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-06-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "再生醫療雙法三讀及主要規範。"
+    },
+    {
+      "id": "s-hsieh-assisted-official",
+      "title": "人工生殖法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110006080000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-02-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人謝衣鳯；交付兩委員會並持續審查。"
+    },
+    {
+      "id": "s-hsieh-recall-cec",
+      "title": "謝衣鳯罷免案提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/5b1d533f-a9b0-4f52-811f-f7465a9c4c75.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-03-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "彰化縣第3選區第一階段查對總計3324份、符合3206份。"
+    },
+    {
+      "id": "s-hsieh-recall-mnews",
+      "title": "罷免謝衣鳯二階連署未達標 罷團未送件",
+      "publisher": "鏡新聞",
+      "url": "https://www.youtube.com/watch?v=6BuPfFOJRaA",
+      "sourceType": "news",
+      "publishedAt": "2025-05-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二階收到約1.9萬份、未達門檻而未送件；謝衣鳯回應。"
+    },
+    {
+      "id": "s-liu-funeral-official",
+      "title": "殯葬管理條例第二十一條之一修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110110210000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-05-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列劉建國等16人版本；114年5月9日三讀。"
+    },
+    {
+      "id": "s-liu-constitutional-cna",
+      "title": "被指愛情騙子提告敗訴 劉建國聲請釋憲遭裁不受理",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202406140119.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-06-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "名譽訴訟、確定裁定與憲法法庭不受理理由。"
+    },
+    {
+      "id": "s-lin-telecom-official",
+      "title": "電信管理法修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110226900000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列林俊憲等23人版本；115年7月21日三讀。"
+    },
+    {
+      "id": "s-lin-telecom-cna",
+      "title": "星鏈有望登台 立院三讀電信管理法放寬外資持股限制",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202607210042.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "三讀內容及林俊憲提案理由。"
+    },
+    {
+      "id": "s-lin-youth-official",
+      "title": "第11屆第3會期第6次會議",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025031951/details?meetingDate=114%2F03%2F25",
+      "sourceType": "official",
+      "publishedAt": "2025-03-25",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "議程列林俊憲等19人青年基本法草案。"
+    },
+    {
+      "id": "s-lin-recall-cna",
+      "title": "罷免林俊憲王定宇案起訴 南檢：辦案不分顏色",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202505140086.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "南檢起訴11人，林俊憲為罷免案被提議人。"
+    },
+    {
+      "id": "s-lin-recall-pts",
+      "title": "罷免台南綠委不實連署案11人起訴",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/750265",
+      "sourceType": "news",
+      "publishedAt": "2025-05-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴11人及緩起訴37人的程序結果。"
+    }
+  ]
+}

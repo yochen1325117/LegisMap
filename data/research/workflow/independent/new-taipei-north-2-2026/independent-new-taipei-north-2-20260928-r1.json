@@ -1,0 +1,912 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "independent",
+  "batchId": "new-taipei-north-2-2026",
+  "versionId": "independent-new-taipei-north-2-20260928-r1",
+  "performedBy": "codex-independent-new-taipei-north-2-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T01:13:55.434Z",
+  "contentHash": "422f2b59e8e579058f34b739d673d4bce230a0f9225f03d1d2962eaa03966a56",
+  "searchRuns": [
+    {
+      "id": "sr-ntn2-001",
+      "track": "independent",
+      "memberId": "ly11-46787",
+      "query": "林德福 中央社 主要媒體 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ldf-recall",
+        "c-ldf-election-day-post"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-002",
+      "track": "independent",
+      "memberId": "ly11-46787",
+      "query": "林德福 立法院 司法院 監察院 中選會 新北選委會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ldf-recall",
+        "c-ldf-election-day-post"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-003",
+      "track": "independent",
+      "memberId": "ly11-46787",
+      "query": "林德福 罷免 投票日社群 選舉 政治獻金 法案",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ldf-recall",
+        "c-ldf-election-day-post"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-004",
+      "track": "independent",
+      "memberId": "ly11-46787",
+      "query": "林德福 林德福 LIN TE-FU 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ldf-recall",
+        "c-ldf-election-day-post"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-005",
+      "track": "independent",
+      "memberId": "ly11-46787",
+      "query": "林德福 本人答辯 開票更正 檢舉 後續結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ldf-recall",
+        "c-ldf-election-day-post"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-006",
+      "track": "independent",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 中央社 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hmk-telecom",
+        "c-hmk-recall-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-007",
+      "track": "independent",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hmk-telecom",
+        "c-hmk-recall-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-008",
+      "track": "independent",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 二五電信 協調會 罷免 走路工 政治獻金",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hmk-telecom",
+        "c-hmk-recall-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-009",
+      "track": "independent",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 洪孟楷 HUNG MENG-KAI 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hmk-telecom",
+        "c-hmk-recall-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-010",
+      "track": "independent",
+      "memberId": "ly11-46794",
+      "query": "洪孟楷 本人回應 告發 起訴 投票 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-hmk-telecom",
+        "c-hmk-recall-speech"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-011",
+      "track": "independent",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 中央社 主要媒體 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chl-recall",
+        "c-chl-scuffle"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-012",
+      "track": "independent",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chl-recall",
+        "c-chl-scuffle"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-013",
+      "track": "independent",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 罷免 不實連署 議事錄 選罷法 衝突",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chl-recall",
+        "c-chl-scuffle"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-014",
+      "track": "independent",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 張宏陸 CHANG HUNG-LU 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chl-recall",
+        "c-chl-scuffle"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-015",
+      "track": "independent",
+      "memberId": "ly11-46802",
+      "query": "張宏陸 本人回應 二階不送件 起訴 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chl-recall",
+        "c-chl-scuffle"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-016",
+      "track": "independent",
+      "memberId": "ly11-46804",
+      "query": "張智倫 中央社 聯合報 立法院公報",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ccl-bribery",
+        "c-ccl-property",
+        "c-ccl-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-017",
+      "track": "independent",
+      "memberId": "ly11-46804",
+      "query": "張智倫 立法院 司法院 新北地檢 監察院 中選會",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ccl-bribery",
+        "c-ccl-property",
+        "c-ccl-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-018",
+      "track": "independent",
+      "memberId": "ly11-46804",
+      "query": "張智倫 賄選 基金會 美國房產 財產申報 罷免",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ccl-bribery",
+        "c-ccl-property",
+        "c-ccl-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-019",
+      "track": "independent",
+      "memberId": "ly11-46804",
+      "query": "張智倫 張智倫 CHANG CHIH-LUN 2021 2022 2023 2024 2025 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ccl-bribery",
+        "c-ccl-property",
+        "c-ccl-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    },
+    {
+      "id": "sr-ntn2-020",
+      "track": "independent",
+      "memberId": "ly11-46804",
+      "query": "張智倫 本人回應 不起訴 查核 投票 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ccl-bribery",
+        "c-ccl-property",
+        "c-ccl-recall"
+      ],
+      "performedBy": "codex-independent-new-taipei-north-2-review",
+      "lockedAt": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-ldf-recall",
+      "memberIds": [
+        "ly11-46787"
+      ],
+      "provisionalCategory": "election",
+      "title": "林德福罷免案與開票更正",
+      "summary": "2025年林德福罷免案進入投票。開票後永和光復里投票所一度將同意、不同意票數顛倒填寫，新北選委會函報更正；此更正未改變罷免未通過結果。",
+      "occurredAt": "2025-07-29",
+      "sourceIds": [
+        "s-ldf-cna-recall",
+        "s-ldf-cna-count"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202507035012.aspx",
+        "https://www.cna.com.tw/news/aloc/202507290272.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人",
+        "提出開票紀錄疑義者"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "林德福質疑票數抄反；其答辯主張相關法案有政策依據。",
+      "processStatus": "vote_completed_and_count_corrected",
+      "resultStatus": "recall_failed",
+      "evidenceLevel": "election_documents_reported_by_wire_service",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-ldf-election-day-post",
+      "memberIds": [
+        "ly11-46787"
+      ],
+      "provisionalCategory": "election_law",
+      "title": "林德福投票日Facebook貼文未撤檢舉",
+      "summary": "新北選委會會議紀錄載有民眾檢舉林德福於罷免投票日未撤除Facebook內容，疑涉選罷法第56條；目前未取得最終裁處結果。",
+      "occurredAt": "2025-07-26",
+      "sourceIds": [
+        "s-ldf-cec-minutes"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/55d610f2-45fd-49f9-ae9d-aff0baf48ead.pdf"
+      ],
+      "roleClaims": [
+        "被檢舉人"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "選委會最終認定或裁處",
+        "林德福回應",
+        "涉案貼文完整內容與時間戳"
+      ],
+      "personResponse": null,
+      "processStatus": "administrative_complaint",
+      "resultStatus": "unknown",
+      "evidenceLevel": "single_official_meeting_record",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-hmk-telecom",
+      "memberIds": [
+        "ly11-46794"
+      ],
+      "provisionalCategory": "constituency_service",
+      "title": "洪孟楷替二五電信召開協調會爭議",
+      "summary": "洪孟楷曾替二五電信召開協調會，業者相關人士其後因其他案件遭起訴，引發是否替業者撐腰質疑。現有來源未指洪孟楷涉入詐騙或遭起訴。",
+      "occurredAt": "2024-04-24",
+      "sourceIds": [
+        "s-hmk-cna-telecom"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202404240101.aspx"
+      ],
+      "roleClaims": [
+        "召開協調會的立委；非相關刑案被告"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "協調會紀錄",
+        "相關刑事起訴書以確認案件範圍",
+        "是否有後續調查"
+      ],
+      "personResponse": "洪孟楷表示辦公室曾接獲業者陳情，但得知相關情況後不再提供協助。",
+      "processStatus": "public_allegation_no_member_charge_located",
+      "resultStatus": "no_member_prosecution_located",
+      "evidenceLevel": "single_independent_news_with_response",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-hmk-recall-speech",
+      "memberIds": [
+        "ly11-46794"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "洪孟楷罷免期間控買票走路工言論造謠並告發",
+      "summary": "洪孟楷指罷團散布其買票、發走路工及動員宮廟陣頭等內容，赴新北地檢署告發；罷團否認並稱其以訴訟壓制異議。尚未取得偵結結果。",
+      "occurredAt": "2025-07-15",
+      "sourceIds": [
+        "s-hmk-cna-lawsuit",
+        "s-hmk-cec-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202507150243.aspx?topic=4522",
+        "https://web.cec.gov.tw/api/file/5c2bc93c-f516-4910-b3b3-e06ae261f4b9.pdf"
+      ],
+      "roleClaims": [
+        "告發人",
+        "被罷免人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "新北地檢署偵結結果",
+        "原始爭議貼文或訊息"
+      ],
+      "personResponse": "洪孟楷否認買票與走路工指控並提告；罷團否認造謠。",
+      "processStatus": "complaint_filed",
+      "resultStatus": "unknown",
+      "evidenceLevel": "official_election_record_plus_single_news",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-chl-recall",
+      "memberIds": [
+        "ly11-46802"
+      ],
+      "provisionalCategory": "election",
+      "title": "張宏陸罷免案二階未送件",
+      "summary": "張宏陸罷免案通過第一階段後，罷團稱二階連署未達安全門檻，於2025年6月8日截止前決議不送件，程序未進入投票。",
+      "occurredAt": "2025-06-08",
+      "sourceIds": [
+        "s-chl-cec-check",
+        "s-chl-cna-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cec.gov.tw/api/file/eb27c644-7361-4377-8800-f9c96b4cba6a.pdf",
+        "https://www.cna.com.tw/news/aipl/202506080138.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "張宏陸感謝支持，表示會繼續為地方打拚並傾聽不同聲音。",
+      "processStatus": "second_stage_not_submitted",
+      "resultStatus": "recall_terminated_before_vote",
+      "evidenceLevel": "official_check_record_plus_wire_service",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-chl-scuffle",
+      "memberIds": [
+        "ly11-46802"
+      ],
+      "provisionalCategory": "legislative_conduct",
+      "title": "選罷法審查中搶議事錄衝突",
+      "summary": "2024年7月4日內政委員會審查提高罷免門檻草案時發生推擠；徐巧芯指張宏陸搶奪議事錄，張宏陸承認出手阻擋並稱是反對沒收罷免民意。",
+      "occurredAt": "2024-07-04",
+      "sourceIds": [
+        "s-chl-now-scuffle"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.nownews.com/news/6463753"
+      ],
+      "roleClaims": [
+        "議事衝突參與者"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "立法院完整會議影像或議事紀錄",
+        "第二獨立發布者"
+      ],
+      "personResponse": "張宏陸表示自己不是隨意出手，是因反對提高罷免門檻。",
+      "processStatus": "legislative_incident",
+      "resultStatus": "no_formal_sanction_located",
+      "evidenceLevel": "single_independent_news_with_response",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-ccl-bribery",
+      "memberIds": [
+        "ly11-46804"
+      ],
+      "provisionalCategory": "election_and_judicial",
+      "title": "張智倫遭控透過基金會贊助社區活動賄選獲不起訴",
+      "summary": "張智倫及父親張慶忠因基金會贊助社區2萬元活動遭告發賄選。新北地檢署認為不足證明捐助與投票權行使間有約定，作成不起訴處分。",
+      "occurredAt": "2024-06-02",
+      "sourceIds": [
+        "s-ccl-cna-allegation",
+        "s-ccl-cna-bribery"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202401040159.aspx",
+        "https://www.cna.com.tw/news/asoc/202406020135.aspx"
+      ],
+      "roleClaims": [
+        "被告發人",
+        "候選人"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "競總主張相關贊助是支持地方社團發展。",
+      "processStatus": "non_prosecution",
+      "resultStatus": "not_prosecuted",
+      "evidenceLevel": "two_wire_reports_including_prosecutorial_reason",
+      "publicationDecision": "publish"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-ccl-property",
+      "memberIds": [
+        "ly11-46804"
+      ],
+      "provisionalCategory": "asset_disclosure",
+      "title": "張智倫美國房產財產申報爭議",
+      "summary": "罷團赴監察院檢舉張智倫未申報妻子在美國加州房產；張智倫否認，稱相關房產均已依法申報。尚未取得監察院正式查核或裁處結果。",
+      "occurredAt": "2025-07-18",
+      "sourceIds": [
+        "s-ccl-cna-property"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202507180233.aspx"
+      ],
+      "roleClaims": [
+        "財產申報義務人",
+        "被檢舉人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "監察院正式查核結果",
+        "歷年財產申報表逐筆比對",
+        "行政裁處或結案資訊"
+      ],
+      "personResponse": "張智倫表示房產都有依法申報，財產資料可公開檢視。",
+      "processStatus": "administrative_complaint",
+      "resultStatus": "unknown",
+      "evidenceLevel": "single_independent_news_with_response",
+      "publicationDecision": "hold"
+    },
+    {
+      "track": "independent",
+      "officialId": null,
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-new-taipei-north-2-20260928-r1",
+      "id": "c-ccl-recall",
+      "memberIds": [
+        "ly11-46804"
+      ],
+      "provisionalCategory": "election",
+      "title": "張智倫罷免案進入投票",
+      "summary": "中選會公告新北市第8選區張智倫罷免案於2025年7月26日投票並公布理由與答辯；現有本批來源不足以獨立保存最終票數。",
+      "occurredAt": "2025-07-26",
+      "sourceIds": [
+        "s-ccl-cec-recall",
+        "s-ccl-cna-recall",
+        "s-ldf-cna-forum"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/60323",
+        "https://www.cna.com.tw/news/aipl/202507035011.aspx",
+        "https://www.cna.com.tw/news/aipl/202507160225.aspx"
+      ],
+      "roleClaims": [
+        "被罷免人"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "中選會最終開票結果或正式罷免結果公告"
+      ],
+      "personResponse": "張智倫稱會以問政實績說服選民，並在答辯書反對把罷免作為政治鬥爭工具。",
+      "processStatus": "vote_announced",
+      "resultStatus": "final_result_not_captured",
+      "evidenceLevel": "official_announcement_plus_wire_service",
+      "publicationDecision": "hold"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-ldf-cna-recall",
+      "title": "立委林德福罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035012.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中選會公布之罷免理由與答辯"
+    },
+    {
+      "id": "s-ldf-cna-count",
+      "title": "林德福控罷免開票數抄反 新北選會：已報更正",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202507290272.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "投票所票數更正及正確票數"
+    },
+    {
+      "id": "s-ldf-cec-minutes",
+      "title": "新北市選舉委員會第124次委員會議紀錄",
+      "publisher": "新北市選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/55d610f2-45fd-49f9-ae9d-aff0baf48ead.pdf",
+      "sourceType": "official",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "投票日Facebook未撤文檢舉案議程"
+    },
+    {
+      "id": "s-ldf-cna-forum",
+      "title": "未出席罷免電視說明會 林德福反罷團惡霸、張智倫盼用問政實績說服",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507160225.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "兩人未出席及本人回應"
+    },
+    {
+      "id": "s-hmk-cna-recall",
+      "title": "立委洪孟楷罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035009.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由與答辯全文"
+    },
+    {
+      "id": "s-hmk-cec-recall",
+      "title": "第11屆立法委員新北市第1選舉區洪孟楷罷免案公告內容",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/5c2bc93c-f516-4910-b3b3-e06ae261f4b9.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "投票公告、罷免理由與答辯"
+    },
+    {
+      "id": "s-hmk-cna-telecom",
+      "title": "綠質疑與詐騙業者開協調會 洪孟楷：不再提供協助",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202404240101.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-04-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "協調會事實、指控與本人回應"
+    },
+    {
+      "id": "s-hmk-cna-lawsuit",
+      "title": "洪孟楷控罷團造謠買票走路工 赴新北檢提告",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202507150243.aspx?topic=4522",
+      "sourceType": "news",
+      "publishedAt": "2025-07-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "告發內容及罷團回應"
+    },
+    {
+      "id": "s-chl-cna-recall",
+      "title": "罷團二階不送件 張宏陸：續為地方打拚",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506080138.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二階未達安全門檻、不送件與本人回應"
+    },
+    {
+      "id": "s-chl-cec-check",
+      "title": "第11屆立法委員新北市第6選舉區張宏陸罷免案提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://www.cec.gov.tw/api/file/eb27c644-7361-4377-8800-f9c96b4cba6a.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-03-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第一階段提議名冊查對"
+    },
+    {
+      "id": "s-chl-now-scuffle",
+      "title": "奪議事錄擋藍修選罷法 張宏陸：我不是隨意出手的人",
+      "publisher": "NOWnews",
+      "url": "https://www.nownews.com/news/6463753",
+      "sourceType": "news",
+      "publishedAt": "2024-07-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "議場推擠、徐巧芯指控與張宏陸回應"
+    },
+    {
+      "id": "s-ccl-cna-bribery",
+      "title": "基金會贊助社區辦活動遭控賄選 張智倫獲不起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202406020135.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-06-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "新北檢不起訴理由"
+    },
+    {
+      "id": "s-ccl-cna-allegation",
+      "title": "吳崢控發紅包涉賄選 張智倫競總：助地方社團發展",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202401040159.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "指控內容與競總回應"
+    },
+    {
+      "id": "s-ccl-cna-property",
+      "title": "罷團檢舉未申報美國房產 張智倫：已申報",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507180233.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "監察院檢舉及本人回應"
+    },
+    {
+      "id": "s-ccl-cec-recall",
+      "title": "公告第11屆立法委員新北市第8選舉區張智倫罷免案",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/60323",
+      "sourceType": "official",
+      "publishedAt": "2025-07-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "投票日期、理由書及答辯書"
+    },
+    {
+      "id": "s-ccl-cna-recall",
+      "title": "立委張智倫罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035011.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由與答辯全文"
+    }
+  ]
+}

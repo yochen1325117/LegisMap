@@ -1,0 +1,766 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46836",
+  "versionId": "primary-research-20260928-46836-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T06:23:51.364Z",
+  "contentHash": "a2e2d40590eeb95e8711c67ec4154bd6245f45bc9a5af76274da157a872052a0",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46836-legislative",
+      "track": "primary",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-wan-ai"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46836-government",
+      "track": "primary",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46836-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 法院、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-wan-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46836-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 中央社、公視及採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-wan-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46836-statements",
+      "track": "primary",
+      "memberId": "ly11-46836",
+      "query": "萬美玲 本人、政黨、公益組織及回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-wan-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46846-legislative",
+      "track": "primary",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-tax"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46846-government",
+      "track": "primary",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46846-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 法院、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46846-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 中央社、公視及採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46846-statements",
+      "track": "primary",
+      "memberId": "ly11-46846",
+      "query": "魯明哲 本人、政黨、公益組織及回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lu-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46797-legislative",
+      "track": "primary",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-engineer"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46797-government",
+      "track": "primary",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46797-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 法院、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46797-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 中央社、公視及採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46797-statements",
+      "track": "primary",
+      "memberId": "ly11-46797",
+      "query": "徐欣瑩 本人、政黨、公益組織及回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46764-legislative",
+      "track": "primary",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiang-visit"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46764-government",
+      "track": "primary",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46764-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 法院、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiang-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46764-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 中央社、公視及採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiang-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    },
+    {
+      "id": "primary-ly11-46764-statements",
+      "track": "primary",
+      "memberId": "ly11-46764",
+      "query": "江啟臣 本人、政黨、公益組織及回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiang-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46836-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "id": "p-wan-ai",
+      "memberIds": [
+        "ly11-46836"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜人工智慧基本法草案並進入聯席審查",
+      "summary": "立法院會議資料列萬美玲版本人工智慧基本法草案於2025年8月4日進入聯席審查。此處記錄領銜提案及程序，不宣稱當時已三讀。",
+      "occurredAt": "2025-08-04",
+      "officialId": null,
+      "sourceIds": [
+        "s-wan-ai"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025073103/details?meetingDate=114%2F08%2F04"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "id": "p-wan-recall",
+      "memberIds": [
+        "ly11-46836"
+      ],
+      "provisionalCategory": "concern",
+      "title": "萬美玲罷免案投票結果為否決",
+      "summary": "中選會審定及中央社報導確認萬美玲罷免案結果為否決；罷免理由與答辯是相對政治主張，否決不代表逐項事實認定。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-july",
+        "s-cna-wan"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507035017.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "萬美玲於答辯書反駁罷免理由並呼籲投下不同意票。",
+      "processStatus": "closed",
+      "resultStatus": "resolved"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "id": "p-lu-tax",
+      "memberIds": [
+        "ly11-46846"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出所得稅法修正草案",
+      "summary": "立法院議案頁列魯明哲為所得稅法修正草案領銜提案人；記錄提案及審議階段，不把後續共同審議歸為個人成果。",
+      "occurredAt": "2025-12-18",
+      "officialId": "203110155780000",
+      "sourceIds": [
+        "s-lu-tax"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110155780000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "under_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "id": "p-lu-recall",
+      "memberIds": [
+        "ly11-46846"
+      ],
+      "provisionalCategory": "concern",
+      "title": "魯明哲罷免案投票結果為否決",
+      "summary": "中選會審定結果列魯明哲罷免案為否決；官方公告所載罷免理由及答辯由各方負責。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-july",
+        "s-cna-lu"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+        "https://www.cna.com.tw/news/aipl/202507035016.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "魯明哲於答辯書逐項說明問政及反對罷免立場。",
+      "processStatus": "closed",
+      "resultStatus": "resolved"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "id": "p-hsu-engineer",
+      "memberIds": [
+        "ly11-46797"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出《技師法》修正草案",
+      "summary": "立法院議案頁列徐欣瑩為技師法修正草案領銜提案人；僅記錄其提案角色及審議結果。",
+      "occurredAt": "2025-12-26",
+      "officialId": "203110177990000",
+      "sourceIds": [
+        "s-hsu-engineer"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110177990000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "under_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "id": "p-hsu-recall",
+      "memberIds": [
+        "ly11-46797"
+      ],
+      "provisionalCategory": "concern",
+      "title": "徐欣瑩罷免案連署不足而不成立",
+      "summary": "中選會審查後認定徐欣瑩罷免案連署人數未達法定門檻，宣告不成立；中央社並記錄徐欣瑩表示會更謙卑傾聽民意。",
+      "occurredAt": "2025-05-16",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-hsu-recall",
+        "s-cna-hsu-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202505160318.aspx",
+        "https://www.cna.com.tw/news/aipl/202505110002.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "徐欣瑩表示會更謙卑傾聽民意並持續問政。",
+      "processStatus": "closed",
+      "resultStatus": "out_of_scope"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "id": "p-chiang-visit",
+      "memberIds": [
+        "ly11-46764"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "以立法院副院長身分參與跨黨派訪美",
+      "summary": "立法院官方紀錄顯示江啟臣以副院長身分參與跨黨派訪美與國會交流。此處記錄其官方代表角色，不推定具體外交成果。",
+      "occurredAt": "2025-05-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-chiang-visit"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=77734&pid=250330"
+      ],
+      "roleClaims": [
+        "delegation_member",
+        "deputy_speaker"
+      ],
+      "personResponse": null,
+      "processStatus": "completed",
+      "resultStatus": "completed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46836-r1",
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "id": "p-chiang-recall",
+      "memberIds": [
+        "ly11-46764"
+      ],
+      "provisionalCategory": "concern",
+      "title": "江啟臣罷免案投票結果為否決",
+      "summary": "中選會公告與中央社報導確認江啟臣罷免案進入投票並遭否決；罷免理由與答辯不視為官方事實認定。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-chiang-reasons",
+        "s-cna-aug-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202507315003.aspx",
+        "https://www.cna.com.tw/news/aipl/202508290199.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "江啟臣於答辯書說明問政與地方建設工作並反對罷免。",
+      "processStatus": "closed",
+      "resultStatus": "resolved"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-wan-ai",
+      "title": "立法院聯席會議：人工智慧基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025073103/details?meetingDate=114%2F08%2F04",
+      "sourceType": "official",
+      "publishedAt": "2025-08-04",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "萬美玲版本及聯席審查議程。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-july",
+      "title": "中選會公告25案罷免投票結果皆為否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "萬美玲、魯明哲罷免結果。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-wan",
+      "title": "立委萬美玲罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035017.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由及萬美玲答辯。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-lu-tax",
+      "title": "所得稅法修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110155780000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-18",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人及審議進度。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-lu",
+      "title": "立委魯明哲罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035016.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由及答辯。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-hsu-engineer",
+      "title": "技師法修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110177990000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-26",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "提案人及審議進度。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-hsu-recall",
+      "title": "徐欣瑩罷免案未成立",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202505160318.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-16",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "中選會審查結果。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-hsu-response",
+      "title": "罷團二階送件未達門檻 徐欣瑩回應",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202505110002.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-11",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "連署數及徐欣瑩回應。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-chiang-visit",
+      "title": "立法院跨黨派訪美團官方紀錄",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=77734&pid=250330",
+      "sourceType": "official",
+      "publishedAt": "2025-05-02",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "江啟臣副院長與代表團行程。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-chiang-reasons",
+      "title": "立委江啟臣罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507315003.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "罷免理由及江啟臣答辯。",
+      "lastVerifiedAt": "2026-09-28"
+    },
+    {
+      "id": "s-cna-aug-result",
+      "title": "中選會公告7立委罷免案均否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508290199.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-29",
+      "accessedAt": "2026-09-28",
+      "evidenceLocator": "江啟臣罷免案否決。",
+      "lastVerifiedAt": "2026-09-28"
+    }
+  ]
+}

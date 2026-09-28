@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46832",
+  "primaryVersionId": "primary-research-20260928-46832-r1",
+  "independentVersionId": "independent-research-20260928-46832-r1",
+  "decidedAt": "2026-09-28",
+  "additionalSources": [],
+  "records": [
+    {
+      "id": "adjudication-research-46832-1",
+      "comparisonIds": ["comparison-p-huang-whistleblower-20241227"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案、協商及三讀資料確認黃國昌的黨團協商角色與法案結果，不將共同立法成果歸為個人單獨完成。",
+      "finalEventId": "bill-202110025210000",
+      "finalSummary": "黃國昌代表民眾黨團參與《公益揭弊者保護法》協商；該法於2024年12月27日三讀，2025年1月22日公布。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-2",
+      "comparisonIds": ["comparison-p-huang-walk-20250902"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "中央社與公視兩個獨立發布者確認列案偵辦及本人回應；明示偵查不代表起訴或有罪。",
+      "finalEventId": "event-huang-walk-investigation-2025",
+      "finalSummary": "黃國昌號召的走讀活動與警方發生推擠後，檢方將其列為他字案被告偵辦；黃國昌批評是司法追殺。截至查閱日仍屬偵查階段，不推定有罪。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-3",
+      "comparisonIds": ["comparison-p-lu-vocational-202410"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案頁確認呂玉玲為提案人及審議狀態；不寫成已通過成果。",
+      "finalEventId": "bill-202110132100000",
+      "finalSummary": "呂玉玲等16人提出《技術及職業教育法》第17條修正草案；截至查閱日仍在審議程序。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-4",
+      "comparisonIds": ["comparison-p-lu-recall-20250726-c-lu-recall"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "中選會正式資料與新聞報導確認投票結果及本人回應；罷免結果不作為罷免理由逐項真偽認定。",
+      "finalEventId": "event-lu-recall-2025",
+      "finalSummary": "呂玉玲罷免案於2025年7月26日投票，結果為否決；她在結果後表示將繼續地方服務。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-5",
+      "comparisonIds": ["comparison-p-chiu-metro-202512"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案頁確認邱若華為提案人及併案審查狀態。",
+      "finalEventId": "bill-203110178910000",
+      "finalSummary": "邱若華等20人提出《大眾捷運法》第11條修正草案；截至查閱日進入併案審查。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-6",
+      "comparisonIds": ["comparison-p-chiu-recall-20250726-c-chiu-recall"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "中選會公告、公報及新聞確認投票結果與正式答辯；不把否決結果當作各項主張的事實認定。",
+      "finalEventId": "event-chiu-recall-2025",
+      "finalSummary": "邱若華罷免案於2025年7月26日投票，結果為否決；她在正式答辯中反駁罷免方主張。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-7",
+      "comparisonIds": ["comparison-p-tu-employment-insurance-202604"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "官方議案頁確認涂權吉為提案人及審議狀態。",
+      "finalEventId": "bill-202110205630000",
+      "finalSummary": "涂權吉等18人提出《就業保險法》第40條修正草案；截至查閱日仍在審議程序。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-8",
+      "comparisonIds": ["comparison-p-tu-health-points-202411"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "立法院附件可定位質詢及衛福部書面答復；只記錄監督和行政回應。",
+      "finalEventId": "event-tu-health-points-2024",
+      "finalSummary": "涂權吉質詢健保點值提升至0.95的期程並取得衛福部書面答復；資料未顯示目標已完成。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-9",
+      "comparisonIds": ["comparison-p-tu-recall-20250726-c-tu-recall"],
+      "additionalSourceIds": [],
+      "decision": "publish",
+      "reason": "中選會罷免公報、結果資料及新聞確認程序、答辯與投票結果。",
+      "finalEventId": "event-tu-recall-2025",
+      "finalSummary": "涂權吉罷免案於2025年7月26日投票，結果為否決；其正式答辯與選後回應均隨來源保存。",
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-10",
+      "comparisonIds": ["comparison-c-huang-mirror"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "目前只有單一新聞對二審判決的報導，尚缺裁判原文或第二個獨立發布者。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    },
+    {
+      "id": "adjudication-research-46832-11",
+      "comparisonIds": ["comparison-c-tu-defamation"],
+      "additionalSourceIds": [],
+      "decision": "reject",
+      "reason": "只有單一新聞記錄提出告訴，未查得檢察機關處分、法院結果或第二發布者，未達爭議公開門檻。",
+      "finalEventId": null,
+      "decidedBy": "adjudication-review",
+      "decidedAt": "2026-09-28"
+    }
+  ]
+}
