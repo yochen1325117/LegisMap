@@ -1,0 +1,737 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46784",
+  "versionId": "primary-research-20260928-46784-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:27:55.559Z",
+  "contentHash": "afaea0a344f853aec18c49346d66b946dbe41ac81360ef4848c23256e680c3f8",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46784-legislative",
+      "track": "primary",
+      "memberId": "ly11-46784",
+      "query": "林國成 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-nuclear"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46784-government",
+      "track": "primary",
+      "memberId": "ly11-46784",
+      "query": "林國成 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46784-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46784",
+      "query": "林國成 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-insult"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46784-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46784",
+      "query": "林國成 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-insult",
+        "p-bank"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46784-statements",
+      "track": "primary",
+      "memberId": "ly11-46784",
+      "query": "林國成 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-insult",
+        "p-bank"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46786-legislative",
+      "track": "primary",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-security",
+        "p-repro"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46786-government",
+      "track": "primary",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46786-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46786-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46786-statements",
+      "track": "primary",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46864-legislative",
+      "track": "primary",
+      "memberId": "ly11-46864",
+      "query": "林憶君 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-nuclear"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46864-government",
+      "track": "primary",
+      "memberId": "ly11-46864",
+      "query": "林憶君 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46864-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46864",
+      "query": "林憶君 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46864-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46864",
+      "query": "林憶君 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46864-statements",
+      "track": "primary",
+      "memberId": "ly11-46864",
+      "query": "林憶君 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46792-legislative",
+      "track": "primary",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-education",
+        "p-lunch"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46792-government",
+      "track": "primary",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46792-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46792-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    },
+    {
+      "id": "primary-ly11-46792-statements",
+      "track": "primary",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46784-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-nuclear",
+      "memberIds": [
+        "ly11-46784",
+        "ly11-46864"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出核三重啟公投案",
+      "summary": "立法院議案頁列林國成、林憶君為民眾黨團公投案提案人；2025年4月逕付二讀、交付協商，5月排入院會。此紀錄只表示具名提案參與。",
+      "occurredAt": "2025-04-18",
+      "officialId": "212110110800000",
+      "sourceIds": [
+        "s-nuclear"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/212110110800000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "plenary_discussion",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-insult",
+      "memberIds": [
+        "ly11-46784"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "公然侮辱總統案一審判拘役20日",
+      "summary": "中央社報導林國成因2025年集會言詞遭起訴，北院2026年5月一審判拘役20日。他不否認相關言詞但作無罪答辯；尚未查得確定判決。",
+      "occurredAt": "2026-05-05",
+      "officialId": null,
+      "sourceIds": [
+        "s-indict",
+        "s-judgment"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "判決書全文或上訴後最新狀態"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602120075.aspx",
+        "https://www.cna.com.tw/news/asoc/202605050199.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "不否認言詞，但主張後續台語內容並非辱罵，作無罪答辯。",
+      "processStatus": "first_instance_judgment",
+      "resultStatus": "appeal_status_unknown"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-bank",
+      "memberIds": [
+        "ly11-46784"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "遭指向公股行庫詢問俱樂部委託書",
+      "summary": "中央社轉述週刊指控林國成向公股行庫索取俱樂部改選委託書；他回應只是合理範圍詢問。未找到正式調查結果或第二獨立發布者。",
+      "occurredAt": "2025-07-22",
+      "officialId": null,
+      "sourceIds": [
+        "s-bank"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "正式紀錄或第二個獨立發布者"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202507220077.aspx"
+      ],
+      "roleClaims": [
+        "subject_of_allegation"
+      ],
+      "personResponse": "表示只是在合理範圍內詢問，否認施壓。",
+      "processStatus": "allegation",
+      "resultStatus": "unresolved"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-security",
+      "memberIds": [
+        "ly11-46786"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出國家安全法修正草案",
+      "summary": "立法院議案頁列林楚茵為共同提案人；交付內政委員會併案審查，未確認三讀。",
+      "occurredAt": "2024-11-01",
+      "officialId": "202110073810000",
+      "sourceIds": [
+        "s-security"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110073810000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-repro",
+      "memberIds": [
+        "ly11-46786"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜人工生殖法修正草案",
+      "summary": "立法院議案頁列林楚茵為提案人，案件在衛環委員會與其他版本併案審查，未確認三讀。",
+      "occurredAt": "2024-04-26",
+      "officialId": "202110012160000",
+      "sourceIds": [
+        "s-repro"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110012160000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-conflict",
+      "memberIds": [
+        "ly11-46786"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "議場肢體衝突案遭起訴",
+      "summary": "公視報導北檢就多場議場衝突起訴10名立委，包含林楚茵；目前為起訴階段，未經有罪判決。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-conflict"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "本人完整回應",
+        "起訴書或法院最新進度"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/795174"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "pending_trial"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-education",
+      "memberIds": [
+        "ly11-46792"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜高級中等教育法第二十條修正草案",
+      "summary": "立法院議案頁列柯志恩領銜版本並記錄委員會審查及2026年6月協商；未確認三讀。",
+      "occurredAt": "2026-03-20",
+      "officialId": "203110222200000",
+      "sourceIds": [
+        "s-education"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110222200000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "party_negotiation",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46784-r1",
+      "id": "p-lunch",
+      "memberIds": [
+        "ly11-46792"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜學校午餐及飲食教育條例草案",
+      "summary": "教文委員會議程列柯志恩等21人版本，2025年3月與多個版本併案詢答，未確認完成審查或三讀。",
+      "occurredAt": "2025-03-14",
+      "officialId": null,
+      "sourceIds": [
+        "s-lunch"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025031445/PPGB60500_2300_20922_1140314_0001.pdf"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_questioning",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-nuclear",
+      "title": "核三廠恢復運轉公投案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/212110110800000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-04-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人及進度。"
+    },
+    {
+      "id": "s-indict",
+      "title": "爆粗口辱罵賴總統 林國成被依公然侮辱罪起訴",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202602120075.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴與檢方說法。"
+    },
+    {
+      "id": "s-judgment",
+      "title": "前立委林國成罵總統認錯不認罪 北院判拘役20天",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202605050199.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "一審結果與答辯。"
+    },
+    {
+      "id": "s-bank",
+      "title": "遭指施壓公股行庫 林國成駁：合理範圍內詢問",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202507220077.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-22",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "指控與回應。"
+    },
+    {
+      "id": "s-security",
+      "title": "國家安全法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110073810000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-11-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "共同提案及進度。"
+    },
+    {
+      "id": "s-repro",
+      "title": "人工生殖法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110012160000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-04-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案與審查進度。"
+    },
+    {
+      "id": "s-conflict",
+      "title": "立委議場內肢體衝突互告 北檢依傷害等罪起訴10人",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/795174",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴名單與程序。"
+    },
+    {
+      "id": "s-education",
+      "title": "高級中等教育法第二十條修正草案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110222200000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-03-20",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "柯志恩版本與協商。"
+    },
+    {
+      "id": "s-lunch",
+      "title": "教文委員會議程（學校午餐法案）",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025031445/PPGB60500_2300_20922_1140314_0001.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-03-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第十二案及詢答註記。"
+    }
+  ]
+}

@@ -10,7 +10,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-li-seat-ended-20260413-c-li-expulsion",
@@ -26,7 +26,7 @@
         "publicationDecision",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chiu-rural-school-20260213",
@@ -34,7 +34,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-hsu-ai-copyright-202608",
@@ -42,7 +42,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-hsu-indictment-20260707-c-hsu-indictment",
@@ -58,7 +58,7 @@
         "publicationDecision",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chen-highschool-20260825",
@@ -66,7 +66,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chen-housing-20260812",
@@ -74,7 +74,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-li-succession",
@@ -82,7 +82,7 @@
       "independentCandidateId": "c-li-succession",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-li-nationality",
@@ -90,7 +90,7 @@
       "independentCandidateId": "c-li-nationality",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-chiu-succession",
@@ -98,7 +98,7 @@
       "independentCandidateId": "c-chiu-succession",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-hsu-succession",
@@ -106,7 +106,7 @@
       "independentCandidateId": "c-hsu-succession",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-chen-succession",
@@ -114,7 +114,7 @@
       "independentCandidateId": "c-chen-succession",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     }
   ]
 }

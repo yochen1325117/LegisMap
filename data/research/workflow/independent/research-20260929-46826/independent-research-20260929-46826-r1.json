@@ -1,0 +1,657 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46826",
+  "versionId": "independent-research-20260929-46826-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:00:32.429Z",
+  "contentHash": "c0c14ffa402f42c2392dd6b9f07c47ee307c851d32d7070327439caecc699cd6",
+  "searchRuns": [
+    {
+      "id": "sr-01",
+      "track": "independent",
+      "memberId": "ly11-46826",
+      "query": "游顥 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-02",
+      "track": "independent",
+      "memberId": "ly11-46826",
+      "query": "游顥 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-03",
+      "track": "independent",
+      "memberId": "ly11-46826",
+      "query": "游顥 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-04",
+      "track": "independent",
+      "memberId": "ly11-46826",
+      "query": "游顥 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-05",
+      "track": "independent",
+      "memberId": "ly11-46826",
+      "query": "游顥 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-06",
+      "track": "independent",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ding"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-07",
+      "track": "independent",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ding"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-08",
+      "track": "independent",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ding"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-09",
+      "track": "independent",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ding"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-10",
+      "track": "independent",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ding"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-11",
+      "track": "independent",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-12",
+      "track": "independent",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-13",
+      "track": "independent",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-14",
+      "track": "independent",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-15",
+      "track": "independent",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-16",
+      "track": "independent",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-17",
+      "track": "independent",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-18",
+      "track": "independent",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-19",
+      "track": "independent",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "sr-20",
+      "track": "independent",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-tsai"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-yu",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46826"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "游顥罷免案投票結果為否決",
+      "summary": "中選會資料顯示游顥罷免案同意33,853票、不同意61,443票，結果否決；其答辯書逐項回應罷免理由。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-yu",
+        "s-cna-yu"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/9de10f9e-0c01-4205-aec2-7e7bff545b1f.pdf",
+        "https://www.cna.com.tw/news/aipl/202507175004.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46826",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-yu"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "游顥在答辯書中否認違法失職，並逐項說明法案、預算與地方建設立場。",
+        "sourceIds": [
+          "s-cna-yu"
+        ]
+      },
+      "processStatus": "罷免投票完成",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "c-ding",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46752"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "丁學忠罷免案經中選會公告否決",
+      "summary": "中選會公告丁學忠罷免案同意57,331票、不同意77,164票，結果否決；丁學忠表示將持續監督政府與服務地方。",
+      "occurredAt": "2025-08-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-ding",
+        "s-cna-ding"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202507260181.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46752",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-ding"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "丁學忠稱將繼續監督政府、推動法案與地方建設。",
+        "sourceIds": [
+          "s-cna-ding"
+        ]
+      },
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "c-chen",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46817"
+      ],
+      "provisionalCategory": "選舉／罷免程序",
+      "title": "罷免陳冠廷提議書偽造案10人一審獲刑並緩刑",
+      "summary": "嘉義地檢署就罷免陳冠廷提議書偽造案起訴10人，嘉義地院一審判處10月至1年10月不等徒刑並均宣告緩刑，判決可上訴。陳冠廷是罷免案被提議人及受影響者，不是本案被告。",
+      "occurredAt": "2025-12-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-chen-indict",
+        "s-cna-chen-judgment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508050236.aspx",
+        "https://www.cna.com.tw/news/asoc/202512190054.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46817",
+          "role": "罷免案被提議人／偽造提議書事件受影響者",
+          "basisSourceIds": [
+            "s-cna-chen-indict",
+            "s-cna-chen-judgment"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "一審判決、可上訴",
+      "resultStatus": "10名被告一審有罪並均獲緩刑，尚未確定",
+      "evidenceLevel": "direct_prosecution_and_court_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    },
+    {
+      "id": "c-tsai",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46843"
+      ],
+      "provisionalCategory": "司法／民事名譽訴訟",
+      "title": "蔡易餘「2.4億元」言論遭求償案二審判免賠",
+      "summary": "翁重鈞家族因蔡易餘稱其相關企業24年獲利約2.4億元提起民事求償，高院認蔡易餘有相當理由相信所述為真，二審判免賠。本案需與另一件「軍糧獲利11億元」言論訴訟區分。",
+      "occurredAt": "2023-03-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-tsai",
+        "s-taisounds-tsai"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202303010304.aspx",
+        "https://dev.taisounds.news/news/content/96/28564"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46843",
+          "role": "民事名譽訴訟被告／被上訴人",
+          "basisSourceIds": [
+            "s-cna-tsai",
+            "s-taisounds-tsai"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "蔡易餘在判決後聲明主張相關獲利說法有依據。",
+        "sourceIds": [
+          "s-cna-tsai"
+        ]
+      },
+      "processStatus": "民事二審判決",
+      "resultStatus": "本件二審免賠；不與另一件更審案件混同",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish_with_case_distinction",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46826-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cec-yu",
+      "title": "第11屆立法委員罷免案罷免投票結果清冊總表（114年8月23日）",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/9de10f9e-0c01-4205-aec2-7e7bff545b1f.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "游顥同意33,853票、不同意61,443票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-yu",
+      "title": "立委游顥罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507175004.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-07-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "刊載中選會公告的罷免理由與游顥完整答辯。"
+    },
+    {
+      "id": "s-cec-ding",
+      "title": "中央選舉委員會公告：第11屆立法委員丁學忠罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "丁學忠同意57,331票、不同意77,164票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-ding",
+      "title": "丁學忠允續監督政府 罷團盼不忽視異聲",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260181.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄罷免否決後丁學忠稱將繼續監督政府與服務地方。"
+    },
+    {
+      "id": "s-cna-chen-indict",
+      "title": "涉偽造罷免立委陳冠廷提議書 國民黨嘉義縣黨部書記長10人遭起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508050236.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-08-05",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "嘉檢確認偽造2067份，起訴10人；陳冠廷為罷免案被提議人，並非被告。"
+    },
+    {
+      "id": "s-cna-chen-judgment",
+      "title": "涉偽造罷免立委陳冠廷提議書 國民黨嘉義縣黨部10人均緩刑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202512190054.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2025-12-19",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "嘉義地院一審判10人有罪並宣告緩刑，仍可上訴。"
+    },
+    {
+      "id": "s-cna-tsai",
+      "title": "蔡易餘指翁重鈞家族賺2.4億遭求償 二審判免賠",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202303010304.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2023-03-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "高院二審認蔡易餘所述有相當依據，判免賠；同時區分另一件軍糧言論訴訟仍在更審。"
+    },
+    {
+      "id": "s-taisounds-tsai",
+      "title": "指翁重鈞家族壟斷軍糧二度挨告 高院這次判蔡易餘免賠",
+      "publisher": "太報",
+      "url": "https://dev.taisounds.news/news/content/96/28564",
+      "sourceType": "news",
+      "publishedAt": "2023-03-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導二次言論訴訟之二審免賠判決與案件區別。"
+    }
+  ]
+}

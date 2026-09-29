@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-55030",
+  "versionId": "independent-research-20260928-55030-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:21:12.313Z",
+  "contentHash": "ae579809d6758187a9f1019fc215bdc9109442d8d19b829910fe225e3dc47db4",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-55030",
+      "query": "王正旭 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-55030",
+      "query": "王正旭 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-55030",
+      "query": "王正旭 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-55030",
+      "query": "王正旭 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-55030",
+      "query": "王正旭 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46759",
+      "query": "王育敏 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46759",
+      "query": "王育敏 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46759",
+      "query": "王育敏 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46759",
+      "query": "王育敏 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46759",
+      "query": "王育敏 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-55855",
+      "query": "王義川 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-55855",
+      "query": "王義川 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-55855",
+      "query": "王義川 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-55855",
+      "query": "王義川 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-55855",
+      "query": "王義川 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c1",
+      "track": "independent",
+      "memberIds": [
+        "ly11-55030"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "王正旭遞補第11屆立法委員",
+      "summary": "中選會於2024年2月7日公告王正旭遞補民進黨全國不分區立委；立法院資料記載其2月19日到職。",
+      "occurredAt": "2024-02-07",
+      "officialId": "中選務字第1133150093號",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/41583",
+        "https://www.ly.gov.tw/Pages/List.aspx?nodeid=55030"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-55030",
+          "role": "遞補當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會公告遞補並到職",
+      "resultStatus": "第11屆立法委員",
+      "evidenceLevel": "official_records",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "c2",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46759"
+      ],
+      "provisionalCategory": "利益衝突與公共治理",
+      "title": "王育敏因兒福聯盟董事身分遭質疑利益迴避後辭任",
+      "summary": "王育敏以衛環委員會召委安排兒虐案專案報告時，因兼任兒福聯盟董事遭質疑利益衝突；她宣布辭任董事，但仍主持3月18日會議並引發朝野衝突。",
+      "occurredAt": "2024-03-14",
+      "officialId": null,
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202403140308.aspx",
+        "https://www.cna.com.tw/news/aipl/202403180060.aspx",
+        "https://ppg.ly.gov.tw/ppg/PublicationBulletinDetail/download/communique1/final/pdf/114/44/LCIDC01_1144405_00003.pdf"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46759",
+          "role": "衛環委員會召委及時任兒福聯盟董事"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "表示原已有意辭去董事，為避免政治攻防使討論失焦，於3月15日正式辭任。",
+      "processStatus": "辭任董事後仍主持專案報告",
+      "resultStatus": "辭任兒福聯盟董事",
+      "evidenceLevel": "formal_record_plus_news",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "c3",
+      "track": "independent",
+      "memberIds": [
+        "ly11-55855"
+      ],
+      "provisionalCategory": "個資與通訊監理爭議",
+      "title": "王義川稱可用手機訊號分析集會群眾引發調查",
+      "summary": "王義川稱可由手機訊號分析立法院外群眾，引發個資與監控爭議。NCC調查三大電信均稱未提供資料，北檢另案偵辦；研究截止日未找到偵查終結正式文件。",
+      "occurredAt": "2024-05-27",
+      "officialId": null,
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202406030027.aspx",
+        "https://www.cna.com.tw/news/aipl/202405310040.aspx",
+        "https://news.pts.org.tw/article/698152"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-55855",
+          "role": "爭議言論發表者及偵查對象"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "北檢偵查終結處分或其他正式結案文件"
+      ],
+      "personResponse": "否認監控，表示所述為依資料自行推測。",
+      "processStatus": "NCC完成對三大電信初步調查；刑事部分未查得終結結果",
+      "resultStatus": "三大電信否認提供資料；刑事結果未確認",
+      "evidenceLevel": "multiple_independent_reports_pending_official_outcome",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    },
+    {
+      "id": "c4",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46767"
+      ],
+      "provisionalCategory": "公開言論爭議",
+      "title": "吳宗憲稱博弈非傷天害理後為用詞不妥道歉",
+      "summary": "吳宗憲在直播談球版與博弈時稱不認為博弈多傷天害理，引發反彈；隔日公開致歉並解釋原意是討論受規範的博弈產業。",
+      "occurredAt": "2024-11-29",
+      "officialId": null,
+      "sourceIds": [
+        "s9",
+        "s10"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.tvbs.com.tw/politics/2703820",
+        "https://news.ttv.com.tw/news/11312010005500N"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46767",
+          "role": "言論發表者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "承認用詞不妥並致歉，稱原意是參考國外受規範的博弈產業。",
+      "processStatus": "公開發言後致歉",
+      "resultStatus": "已公開致歉",
+      "evidenceLevel": "two_independent_publishers_with_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-55030-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "公告全國不分區及僑居國外國民選出之第11屆立法委員遞補當選人名單(王正旭)",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/41583",
+      "sourceType": "official_database",
+      "publishedAt": "2024-02-07",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "遞補公告及文號"
+    },
+    {
+      "id": "s2",
+      "title": "王正旭委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=55030",
+      "sourceType": "official_database",
+      "publishedAt": "2024-02-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第11屆、選區及到職日期"
+    },
+    {
+      "id": "s3",
+      "title": "王育敏遭質疑未利益迴避 15日辭兒福聯盟董事",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202403140308.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-03-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "質疑、辭任決定與本人回應"
+    },
+    {
+      "id": "s4",
+      "title": "王育敏甫辭兒盟董事任主席引不滿 虐童案立院報告藍綠爆衝突",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202403180060.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-03-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "主持專案報告及爭議後續"
+    },
+    {
+      "id": "s5",
+      "title": "立法院公報第114卷第44期院會紀錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationBulletinDetail/download/communique1/final/pdf/114/44/LCIDC01_1144405_00003.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-06-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "院會發言回溯3月18日利益迴避爭議"
+    },
+    {
+      "id": "s6",
+      "title": "王義川談手機監控惹議 民眾申訴三立違反事實查證",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202406030027.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-06-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "NCC調查結果與爭議內容"
+    },
+    {
+      "id": "s7",
+      "title": "王義川稱手機訊號定位遭告發 卓榮泰盼盡速釐清真相",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202405310040.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-05-31",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "刑事告發與偵查狀態"
+    },
+    {
+      "id": "s8",
+      "title": "王義川稱可手機定位分析個資 數發部：實務上相當困難",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/698152",
+      "sourceType": "news",
+      "publishedAt": "2024-06-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "NCC、數發部及電信業者說明"
+    },
+    {
+      "id": "s9",
+      "title": "反打假球 吳宗憲：不認為博弈傷天害理",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/politics/2703820",
+      "sourceType": "news",
+      "publishedAt": "2024-11-30",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "直播發言與外界反應"
+    },
+    {
+      "id": "s10",
+      "title": "合體館長談球版「博弈不傷天害理」 吳宗憲道歉：用詞不當",
+      "publisher": "台視新聞",
+      "url": "https://news.ttv.com.tw/news/11312010005500N",
+      "sourceType": "news",
+      "publishedAt": "2024-12-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "本人道歉與說明"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46775",
+  "primaryVersionId": "primary-research-20260928-46775-r1",
+  "independentVersionId": "independent-research-20260928-46775-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-shen-security",
+      "primaryCandidateId": "p-shen-security",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-shen-court",
+      "primaryCandidateId": "p-shen-court",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-shen-defamation-c1",
+      "primaryCandidateId": "p-shen-defamation",
+      "independentCandidateId": "c1",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-shenfh-civil",
+      "primaryCandidateId": "p-shenfh-civil",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-shenfh-vote",
+      "primaryCandidateId": "p-shenfh-vote",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lin-health",
+      "primaryCandidateId": "p-lin-health",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lin-youth",
+      "primaryCandidateId": "p-lin-youth",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lin-assault",
+      "primaryCandidateId": "p-lin-assault",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lin-case-response-c3",
+      "primaryCandidateId": "p-lin-case-response",
+      "independentCandidateId": "c3",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-linq-school",
+      "primaryCandidateId": "p-linq-school",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-linq-eia",
+      "primaryCandidateId": "p-linq-eia",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c2",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c2",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c4",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c4",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46833",
+  "versionId": "independent-research-20260928-46833-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:17:19.139Z",
+  "contentHash": "603b546c8c9baae14b0ffa248e54a11076a679423a72e18b41afef110f2d47fc",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46833",
+      "query": "黃捷 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46833",
+      "query": "黃捷 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46833",
+      "query": "黃捷 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46833",
+      "query": "黃捷 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46833",
+      "query": "黃捷 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46834",
+      "query": "楊曜 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46834",
+      "query": "楊曜 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46834",
+      "query": "楊曜 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46834",
+      "query": "楊曜 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46834",
+      "query": "楊曜 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c1",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46833"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "黃捷揭露托嬰中心不當對待遭告獲不起訴",
+      "summary": "托嬰中心業者控告黃捷妨害名譽；雄檢認其議會質詢有依據，處分不起訴。",
+      "occurredAt": "2022-04-19",
+      "officialId": null,
+      "sourceIds": [
+        "s1"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202204190165.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46833",
+          "role": "刑事被告及議會質詢者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "稱實踐正義的路上不孤單。",
+      "processStatus": "檢察官偵查終結",
+      "resultStatus": "不起訴",
+      "evidenceLevel": "direct_prosecution_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "c2",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46850"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "賴瑞隆就美濃盜採案關聯指控提告誹謗",
+      "summary": "賴瑞隆否認團隊與盜採砂石案有關並提告加重誹謗；對方否認曾點名。研究日未查得偵查結果。",
+      "occurredAt": "2025-10-08",
+      "officialId": null,
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202510080176.aspx",
+        "https://www.cna.com.tw/news/aipl/202510080168.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46850",
+          "role": "刑事告訴人及遭指摘者"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "檢察機關偵查終結處分或法院裁判"
+      ],
+      "personResponse": "稱指控子虛烏有並依法提告。",
+      "processStatus": "已提告，未查得偵查終結結果",
+      "resultStatus": "未確認",
+      "evidenceLevel": "two_news_with_both_sides",
+      "publicationDecision": "hold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "c3",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46798"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "徐富癸當選第11屆立法委員",
+      "summary": "2024年區域立委選舉後，官方名單確認徐富癸當選並就任。",
+      "occurredAt": "2024-01-13",
+      "officialId": null,
+      "sourceIds": [
+        "s4",
+        "s5"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202401135005.aspx",
+        "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46798",
+          "role": "候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "官方名單確認",
+      "resultStatus": "當選並就任第11屆立法委員",
+      "evidenceLevel": "official_statement",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    },
+    {
+      "id": "c4",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46834"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "楊曜當選第11屆立法委員",
+      "summary": "2024年區域立委選舉後，官方名單確認楊曜當選並就任。",
+      "occurredAt": "2024-01-13",
+      "officialId": null,
+      "sourceIds": [
+        "s4",
+        "s5"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202401135005.aspx",
+        "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46834",
+          "role": "候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "官方名單確認",
+      "resultStatus": "當選並就任第11屆立法委員",
+      "evidenceLevel": "official_statement",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46833-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "黃捷揭托嬰中心虐童挨告妨害名譽 雄檢處分不起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202204190165.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2022-04-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "雄檢不起訴及黃捷回應"
+    },
+    {
+      "id": "s2",
+      "title": "不滿團隊遭指與美濃大峽谷案有關 賴瑞隆提告誹謗",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202510080176.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "賴瑞隆提告、否認及對方回應"
+    },
+    {
+      "id": "s3",
+      "title": "遭指與盜採案有關賴瑞隆提告 柯志恩：浪費司法資源",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202510080168.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第二篇報導雙方公開說法"
+    },
+    {
+      "id": "s4",
+      "title": "2024選舉開票結果 區域立委當選完整名單",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202401135005.aspx",
+      "sourceType": "official_statement_reporting",
+      "publishedAt": "2024-01-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第11屆區域立委當選名單"
+    },
+    {
+      "id": "s5",
+      "title": "立法院第11屆立法委員名單",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
+      "sourceType": "official_database",
+      "publishedAt": "2024-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "徐富癸、楊曜現任立委資料"
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46801",
+  "versionId": "primary-research-20260929-46801-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:09:52.566Z",
+  "contentHash": "4d02f943e1168965488f533d7263bafeab4febf5177b3238722a3882267e38f0",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46801-legislative",
+      "track": "primary",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-kao-fire-act-20241112"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46801-government",
+      "track": "primary",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46801-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46801-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-kao-assistant-fee-20260213"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46801-statements",
+      "track": "primary",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46847-legislative",
+      "track": "primary",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lu-domestic-violence-20251128"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46847-government",
+      "track": "primary",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46847-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46847-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lu-vote-record-20240412"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46847-statements",
+      "track": "primary",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46778-legislative",
+      "track": "primary",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-urban-planning-20240510"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46778-government",
+      "track": "primary",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46778-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46778-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46778-statements",
+      "track": "primary",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46757-legislative",
+      "track": "primary",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-niu-administrative-division-20251017"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46757-government",
+      "track": "primary",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46757-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46757-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-niu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-ly11-46757-statements",
+      "track": "primary",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46801-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-kao-fire-act-20241112",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46801"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出消防法修正草案並完成三讀",
+      "summary": "高金素梅列名消防法部分條文修正草案提案人；立法院議案頁載明該案已完成三讀。",
+      "occurredAt": "2024-11-12",
+      "officialId": "202110062110000",
+      "sourceIds": [
+        "p46801-ly-fire-act"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110062110000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-kao-assistant-fee-20260213",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46801"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "助理費案遭搜索訊問後交保",
+      "summary": "中央社報導，高金素梅因涉嫌詐領助理費遭檢調搜索訊問，法院裁定100萬元交保；目前僅有單一新聞發布者，保留為待補證候選。",
+      "occurredAt": "2026-02-13",
+      "officialId": null,
+      "sourceIds": [
+        "p46801-cna-kao-bail"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602130246.aspx"
+      ],
+      "roleClaims": [
+        "investigated_person"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "檢調或法院正式紀錄",
+        "第二個獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "investigation",
+      "resultStatus": "under_investigation",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-lu-domestic-violence-20251128",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46847"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "連署家庭暴力防治法修正草案",
+      "summary": "盧縣一列名家庭暴力防治法部分條文修正草案連署人；議案已交付委員會審查。",
+      "occurredAt": "2025-11-28",
+      "officialId": "202110175130000",
+      "sourceIds": [
+        "p46801-ly-domestic-violence"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110175130000/details"
+      ],
+      "roleClaims": [
+        "cosigner"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-lu-vote-record-20240412",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46847"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "未到院會卻出現表決紀錄",
+      "summary": "中央社報導盧縣一未出席院會，但表決紀錄顯示其投票；盧縣一其後表示不知情且未授權他人代投。兩篇報導同屬同一發布者，仍待獨立來源補證。",
+      "occurredAt": "2024-04-12",
+      "officialId": null,
+      "sourceIds": [
+        "p46801-cna-lu-vote",
+        "p46801-cna-lu-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202404130045.aspx",
+        "https://www.cna.com.tw/news/aipl/202404150081.aspx"
+      ],
+      "roleClaims": [
+        "named_member"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "第二個獨立發布者或立法院正式紀錄"
+      ],
+      "personResponse": "盧縣一表示不知有人代投，且未授權任何人代投。",
+      "processStatus": "reported",
+      "resultStatus": "unresolved",
+      "evidenceLevel": "named_single_publisher",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-lin-urban-planning-20240510",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46778"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出都市計畫法部分條文修正草案",
+      "summary": "林沛祥領銜提出都市計畫法部分條文修正草案，立法院議案頁顯示已進入委員會審查。",
+      "occurredAt": "2024-05-10",
+      "officialId": "202110042210000",
+      "sourceIds": [
+        "p46801-ly-urban-planning"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110042210000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-lin-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46778"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "第11屆立委罷免案遭否決",
+      "summary": "中選會公告保存罷免理由與林沛祥答辯；2025年7月26日投票結果未達罷免門檻，罷免案否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "p46801-cec-recall-db",
+        "p46801-cec-lin-bulletin",
+        "p46801-cna-lin-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://db.cec.gov.tw/ElecTable/Recall",
+        "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/21%E5%9F%BA%E9%9A%86%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E7%AC%AC11%E5%B1%86%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%EF%BC%88%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%8D%80%EF%BC%89%E6%9E%97%E6%B2%9B%E7%A5%A5%E7%BD%B7%E5%85%8D%E6%A1%88%E7%BD%B7%E5%85%8D%E5%85%AC%E5%91%8A.pdf",
+        "https://www.cna.com.tw/news/aipl/202507260158.aspx"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "中選會公告所附答辯書載有林沛祥對罷免理由的逐項回應。",
+      "processStatus": "resolved",
+      "resultStatus": "rejected",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-niu-administrative-division-20251017",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46757"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出行政區劃法草案並完成三讀",
+      "summary": "牛煦庭列名行政區劃法草案提案人；立法院議案頁載明該案於2025年10月17日完成三讀。",
+      "occurredAt": "2025-10-17",
+      "officialId": "203110156690000",
+      "sourceIds": [
+        "p46801-ly-admin-division"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110156690000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    },
+    {
+      "id": "primary-niu-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46757"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "第11屆立委罷免案遭否決",
+      "summary": "中選會公告保存罷免理由與牛煦庭答辯；2025年7月26日投票結果未達罷免門檻，罷免案否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "p46801-cec-recall-db",
+        "p46801-cec-niu-bulletin",
+        "p46801-cna-niu-recall"
+      ],
+      "canonicalSourceUrls": [
+        "https://db.cec.gov.tw/ElecTable/Recall",
+        "https://web.cec.gov.tw/api/file/de131565-6390-47c8-9daa-ad95ce105aa1.pdf",
+        "https://www.cna.com.tw/news/aipl/202507260178.aspx"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "中選會公告所附答辯書載有牛煦庭對罷免理由的回應。",
+      "processStatus": "resolved",
+      "resultStatus": "rejected",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46801-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "p46801-ly-fire-act",
+      "title": "消防法部分條文修正草案議案進度",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110062110000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-11-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列牛煦庭、游顥、高金素梅、謝龍介、林沛祥為提案人，進度為三讀"
+    },
+    {
+      "id": "p46801-cna-kao-bail",
+      "title": "高金素梅涉詐領助理費案100萬元交保",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202602130246.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-13",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導檢調搜索、訊問及法院裁定交保情形"
+    },
+    {
+      "id": "p46801-ly-domestic-violence",
+      "title": "家庭暴力防治法部分條文修正草案議案進度",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110175130000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-11-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列盧縣一為連署人並載明交付委員會審查"
+    },
+    {
+      "id": "p46801-cna-lu-vote",
+      "title": "立院表決盧縣一未到場卻出現投票紀錄",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202404130045.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-04-13",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導院會表決紀錄及盧縣一當日未到場"
+    },
+    {
+      "id": "p46801-cna-lu-response",
+      "title": "盧縣一：不知有人代投且未授權",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202404150081.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-04-15",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "載明盧縣一回應未授權他人投票"
+    },
+    {
+      "id": "p46801-ly-urban-planning",
+      "title": "林沛祥擬具都市計畫法部分條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110042210000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-05-10",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列林沛祥為提案人及委員會審查進度"
+    },
+    {
+      "id": "p46801-cec-recall-db",
+      "title": "第11屆立法委員罷免案投票結果資料",
+      "publisher": "中央選舉委員會",
+      "url": "https://db.cec.gov.tw/ElecTable/Recall",
+      "sourceType": "official",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "2025年7月26日林沛祥、牛煦庭罷免案結果均為否決"
+    },
+    {
+      "id": "p46801-cec-lin-bulletin",
+      "title": "林沛祥罷免案罷免公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/06%E7%BD%B7%E5%85%8D%E6%A1%88/21%E5%9F%BA%E9%9A%86%E5%B8%82/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E7%AC%AC11%E5%B1%86%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%EF%BC%88%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%8D%80%EF%BC%89%E6%9E%97%E6%B2%9B%E7%A5%A5%E7%BD%B7%E5%85%8D%E6%A1%88%E7%BD%B7%E5%85%8D%E5%85%AC%E5%91%8A.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "公告載明罷免理由書、答辯書與投票日期"
+    },
+    {
+      "id": "p46801-cna-lin-recall",
+      "title": "林沛祥罷免案未通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260158.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導同意票未達門檻，罷免案否決"
+    },
+    {
+      "id": "p46801-ly-admin-division",
+      "title": "行政區劃法草案議案進度",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110156690000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列牛煦庭等17人為提案人，並載明三讀日期"
+    },
+    {
+      "id": "p46801-cec-niu-bulletin",
+      "title": "牛煦庭罷免案罷免公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/de131565-6390-47c8-9daa-ad95ce105aa1.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "公告載明罷免理由書與答辯書"
+    },
+    {
+      "id": "p46801-cna-niu-recall",
+      "title": "牛煦庭罷免案未通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260178.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導同意票未達門檻，罷免案否決"
+    }
+  ]
+}

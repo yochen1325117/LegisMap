@@ -10,7 +10,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-hsieh-assisted",
@@ -18,7 +18,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-hsieh-recall",
@@ -26,7 +26,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-liu-funeral",
@@ -34,7 +34,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-liu-constitutional-c-liu-constitutional",
@@ -50,7 +50,7 @@
         "publicationDecision",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lin-telecom",
@@ -58,7 +58,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lin-youth",
@@ -66,7 +66,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lin-recall-fraud",
@@ -74,7 +74,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-huang-election",
@@ -82,7 +82,7 @@
       "independentCandidateId": "c-huang-election",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-hsieh-recall",
@@ -90,7 +90,7 @@
       "independentCandidateId": "c-hsieh-recall",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-lin-recall-forgery",
@@ -98,7 +98,7 @@
       "independentCandidateId": "c-lin-recall-forgery",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     }
   ]
 }

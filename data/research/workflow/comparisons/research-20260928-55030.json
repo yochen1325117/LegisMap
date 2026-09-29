@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-55030",
+  "primaryVersionId": "primary-research-20260928-55030-r1",
+  "independentVersionId": "independent-research-20260928-55030-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-wangchenghsu-regenerative-20240604",
+      "primaryCandidateId": "primary-wangchenghsu-regenerative-20240604",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-wangyumin-child-bill-20250110",
+      "primaryCandidateId": "primary-wangyumin-child-bill-20250110",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-wangyumin-cwlf-conflict-20240314-c2",
+      "primaryCandidateId": "primary-wangyumin-cwlf-conflict-20240314",
+      "independentCandidateId": "c2",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-wangyichuan-prison-bill-20251128",
+      "primaryCandidateId": "primary-wangyichuan-prison-bill-20251128",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-wangyichuan-juvenile-question-20250618",
+      "primaryCandidateId": "primary-wangyichuan-juvenile-question-20250618",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-wutsung-hsien-whistleblower-20241227",
+      "primaryCandidateId": "primary-wutsung-hsien-whistleblower-20241227",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-wutsung-hsien-referendum-20250516",
+      "primaryCandidateId": "primary-wutsung-hsien-referendum-20250516",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c1",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c1",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c3",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c3",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c4",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c4",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

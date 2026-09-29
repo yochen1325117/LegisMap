@@ -10,7 +10,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-event-nt-hung-sports-2025-ly11-46794",
@@ -18,7 +18,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-event-nt-changh-gas-2025-ly11-46802",
@@ -26,7 +26,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-bill-202110126800000-ly11-46804",
@@ -34,7 +34,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-lin-recall-20250726",
@@ -42,7 +42,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-hung-recall-20250726",
@@ -50,7 +50,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-changhunglu-recall-20250608-c-chl-recall",
@@ -65,7 +65,7 @@
         "evidenceLevel",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-primary-changchihlun-recall-20250726",
@@ -73,7 +73,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-ldf-recall",
@@ -81,7 +81,7 @@
       "independentCandidateId": "c-ldf-recall",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-ldf-election-day-post",
@@ -89,7 +89,7 @@
       "independentCandidateId": "c-ldf-election-day-post",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-hmk-telecom",
@@ -97,7 +97,7 @@
       "independentCandidateId": "c-hmk-telecom",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-hmk-recall-speech",
@@ -105,7 +105,7 @@
       "independentCandidateId": "c-hmk-recall-speech",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-chl-scuffle",
@@ -113,7 +113,7 @@
       "independentCandidateId": "c-chl-scuffle",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-ccl-bribery",
@@ -121,7 +121,7 @@
       "independentCandidateId": "c-ccl-bribery",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-ccl-property",
@@ -129,7 +129,7 @@
       "independentCandidateId": "c-ccl-property",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-ccl-recall",
@@ -137,7 +137,7 @@
       "independentCandidateId": "c-ccl-recall",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     }
   ]
 }

@@ -1,0 +1,888 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46833",
+  "versionId": "primary-research-20260928-46833-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:17:02.519Z",
+  "contentHash": "f6d7929e25a2783f9fce197afd6c7aae4c20ddaeded316b854e47f68f4fbff6e",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46833-legislative",
+      "track": "primary",
+      "memberId": "ly11-46833",
+      "query": "黃捷 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-election",
+        "p-huang-data"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46833-government",
+      "track": "primary",
+      "memberId": "ly11-46833",
+      "query": "黃捷 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46833-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46833",
+      "query": "黃捷 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46833-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46833",
+      "query": "黃捷 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-huang-harassment"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46833-statements",
+      "track": "primary",
+      "memberId": "ly11-46833",
+      "query": "黃捷 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46850-legislative",
+      "track": "primary",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lai-fraud",
+        "p-lai-finance"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46850-government",
+      "track": "primary",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46850-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46850-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lai-scholarship"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46850-statements",
+      "track": "primary",
+      "memberId": "ly11-46850",
+      "query": "賴瑞隆 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lai-scholarship"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46798-legislative",
+      "track": "primary",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-local",
+        "p-hsu-space",
+        "p-hsu-tariff"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46798-government",
+      "track": "primary",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46798-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46798-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46798-statements",
+      "track": "primary",
+      "memberId": "ly11-46798",
+      "query": "徐富癸 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46834-legislative",
+      "track": "primary",
+      "memberId": "ly11-46834",
+      "query": "楊曜 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-yang-labor",
+        "p-yang-election"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46834-government",
+      "track": "primary",
+      "memberId": "ly11-46834",
+      "query": "楊曜 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46834-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46834",
+      "query": "楊曜 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46834-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46834",
+      "query": "楊曜 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-yang-retire"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    },
+    {
+      "id": "primary-ly11-46834-statements",
+      "track": "primary",
+      "memberId": "ly11-46834",
+      "query": "楊曜 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-yang-retire"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46833-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-huang-election",
+      "memberIds": [
+        "ly11-46833"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜總統副總統選舉罷免法修正草案",
+      "summary": "立法院議案頁列黃捷等20人版本，2026年4月列入院會程序；未確認三讀。",
+      "occurredAt": "2026-04-24",
+      "officialId": "202110209510000",
+      "sourceIds": [
+        "s-huang-election"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110209510000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "proposed",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-huang-data",
+      "memberIds": [
+        "ly11-46833"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜個人資料保護委員會組織法草案",
+      "summary": "立法院議案頁列黃捷為提案人，2024年3月交付司法法制及經濟委員會並進入審查；不據此宣稱完成立法。",
+      "occurredAt": "2024-03-05",
+      "officialId": "202110006920000",
+      "sourceIds": [
+        "s-huang-data"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110006920000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-huang-harassment",
+      "memberIds": [
+        "ly11-46833"
+      ],
+      "provisionalCategory": "concern",
+      "title": "網友私訊性暗示及辱罵案遭檢方起訴",
+      "summary": "媒體報導兩名網友因私訊黃捷性暗示及人身攻擊，遭檢方依跟騷法及妨害名譽起訴。黃捷是受訊息者，並非被指控者；需補直接檢方來源及評估是否具有公共人物資料價值。",
+      "occurredAt": "2026-04-08",
+      "officialId": null,
+      "sourceIds": [
+        "s-huang-harassment"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_prosecutor_release",
+        "publication_scope_review"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://news.tvbs.com.tw/local/3172462"
+      ],
+      "roleClaims": [
+        "complainant"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-lai-fraud",
+      "memberIds": [
+        "ly11-46850"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜詐欺犯罪危害防制條例版本並納入併案三讀",
+      "summary": "立法院官方紀錄列賴瑞隆等17人版本，2025年12月30日併案三讀；最終條文不全歸於單一版本。",
+      "occurredAt": "2025-12-30",
+      "officialId": "203110181950000",
+      "sourceIds": [
+        "s-lai-fraud"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110181950000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-lai-finance",
+      "memberIds": [
+        "ly11-46850"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜財政收支劃分法修正草案",
+      "summary": "立法院議案頁列賴瑞隆等5人為提案人，2025年11月交付財政委員會審查；未確認三讀。",
+      "occurredAt": "2025-11-11",
+      "officialId": "202110170430000",
+      "sourceIds": [
+        "s-lai-finance"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110170430000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-lai-scholarship",
+      "memberIds": [
+        "ly11-46850"
+      ],
+      "provisionalCategory": "good_deed",
+      "title": "將選舉補助款捐作學生獎助學金",
+      "summary": "中央社報導賴瑞隆將2024年立委選舉補助款360萬元捐作獎助學金等用途，2025年活動有418名學生獲獎；仍需受贈或基金管理方資料交叉確認金流。",
+      "occurredAt": "2025-06-29",
+      "officialId": null,
+      "sourceIds": [
+        "s-lai-scholarship"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "recipient_or_fund_confirmation"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aloc/202506290090.aspx"
+      ],
+      "roleClaims": [
+        "donor"
+      ],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "completed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-hsu-local",
+      "memberIds": [
+        "ly11-46798"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜地方制度法第三十三條修正草案並三讀",
+      "summary": "立法院議案頁列徐富癸等18人版本，2024年7月16日三讀。",
+      "occurredAt": "2024-07-16",
+      "officialId": "202110051530000",
+      "sourceIds": [
+        "s-hsu-local"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110051530000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-hsu-space",
+      "memberIds": [
+        "ly11-46798"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜太空發展法第三條修正草案",
+      "summary": "立法院議案頁列徐富癸等18人版本，2026年4月排入院會；未確認三讀。",
+      "occurredAt": "2026-04-10",
+      "officialId": "202110204830000",
+      "sourceIds": [
+        "s-hsu-space"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110204830000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "proposed",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-hsu-tariff",
+      "memberIds": [
+        "ly11-46798"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜兩件海關進口稅則版本並納入併案三讀",
+      "summary": "立法院併案紀錄列徐富癸兩件版本，2026年1月13日與其他版本併案三讀；最終條文是併案結果。",
+      "occurredAt": "2026-01-13",
+      "officialId": "203110185370000",
+      "sourceIds": [
+        "s-hsu-tariff"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110185370000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-yang-labor",
+      "memberIds": [
+        "ly11-46834"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜勞工保險條例版本並納入併案三讀",
+      "summary": "立法院官方紀錄列楊曜等25人版本，2025年12月30日併案三讀；最終條文不全歸於單一版本。",
+      "occurredAt": "2025-12-30",
+      "officialId": "203110181620000",
+      "sourceIds": [
+        "s-yang-labor"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110181620000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-yang-election",
+      "memberIds": [
+        "ly11-46834"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜選舉罷免法第六十七條及第六十九條修正草案",
+      "summary": "立法院官方紀錄列楊曜等17人版本，已完成委員會審查、交付協商並排入院會；截至查閱結果未確認三讀。",
+      "occurredAt": "2026-01-28",
+      "officialId": "203110083260000",
+      "sourceIds": [
+        "s-yang-election"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110083260000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "negotiation",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46833-r1",
+      "id": "p-yang-retire",
+      "memberIds": [
+        "ly11-46834"
+      ],
+      "provisionalCategory": "anecdote",
+      "title": "宣布本屆任滿後不再參選公職",
+      "summary": "楊曜於2025年9月公開表示本屆立委任滿後不再參選公職；這是未來參選計畫的公開宣告，不代表當時離職。",
+      "occurredAt": "2025-09-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-yang-retire"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202509020138.aspx"
+      ],
+      "roleClaims": [
+        "speaker"
+      ],
+      "personResponse": "楊曜表示長期睡眠障礙是決定因素之一。",
+      "processStatus": "reported",
+      "resultStatus": "recorded"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-huang-election",
+      "title": "總統副總統選舉罷免法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110209510000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃捷版本及院會進度。"
+    },
+    {
+      "id": "s-huang-data",
+      "title": "個人資料保護委員會組織法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110006920000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-03-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃捷提案與委員會審查。"
+    },
+    {
+      "id": "s-huang-harassment",
+      "title": "黃捷收開房間邀約 2網友遭起訴",
+      "publisher": "TVBS新聞網",
+      "url": "https://news.tvbs.com.tw/local/3172462",
+      "sourceType": "news",
+      "publishedAt": "2026-04-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "網友私訊內容、檢方起訴罪名。"
+    },
+    {
+      "id": "s-lai-fraud",
+      "title": "詐欺犯罪危害防制條例修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110181950000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-30",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "賴瑞隆版本及三讀。"
+    },
+    {
+      "id": "s-lai-finance",
+      "title": "財政收支劃分法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110170430000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-11-11",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "賴瑞隆等提案及審查進度。"
+    },
+    {
+      "id": "s-lai-scholarship",
+      "title": "賴瑞隆捐選舉補助款 頒發優秀學生獎學金",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202506290090.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "360萬元用途及418名獲獎學生。"
+    },
+    {
+      "id": "s-hsu-local",
+      "title": "地方制度法第三十三條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110051530000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-07-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "徐富癸提案及三讀。"
+    },
+    {
+      "id": "s-hsu-space",
+      "title": "太空發展法第三條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110204830000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-10",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "徐富癸提案及院會進度。"
+    },
+    {
+      "id": "s-hsu-tariff",
+      "title": "海關進口稅則修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110185370000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-01-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "徐富癸兩版本及三讀。"
+    },
+    {
+      "id": "s-yang-labor",
+      "title": "勞工保險條例修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110181620000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-30",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "楊曜版本及三讀。"
+    },
+    {
+      "id": "s-yang-election",
+      "title": "公職人員選舉罷免法修正草案審查報告",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110083260000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-01-28",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "楊曜版本、協商與院會進度。"
+    },
+    {
+      "id": "s-yang-retire",
+      "title": "飽受睡眠障礙之苦 楊曜宣布任滿不再參選",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202509020138.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-09-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "本人公開宣告與原因。"
+    }
+  ]
+}

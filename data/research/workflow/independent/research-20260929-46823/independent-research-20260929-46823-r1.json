@@ -1,0 +1,625 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46823",
+  "versionId": "independent-research-20260929-46823-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:07:44.633Z",
+  "contentHash": "c4a6e3175a15412a5bfb046403f6d7c33b9fe44563ef412ae184c5856b125726",
+  "searchRuns": [
+    {
+      "id": "sr-01",
+      "track": "independent",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46823-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-02",
+      "track": "independent",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 立法院、司法與選舉官方資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46823-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-03",
+      "track": "independent",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 司法、選舉、政策爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46823-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-04",
+      "track": "independent",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46823-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-05",
+      "track": "independent",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 當事人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46823-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-06",
+      "track": "independent",
+      "memberId": "ly11-46827",
+      "query": "黃仁 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46827-legislative-conflict-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-07",
+      "track": "independent",
+      "memberId": "ly11-46827",
+      "query": "黃仁 立法院、司法與選舉官方資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46827-legislative-conflict-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-08",
+      "track": "independent",
+      "memberId": "ly11-46827",
+      "query": "黃仁 司法、選舉、政策爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46827-legislative-conflict-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-09",
+      "track": "independent",
+      "memberId": "ly11-46827",
+      "query": "黃仁 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46827-legislative-conflict-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-10",
+      "track": "independent",
+      "memberId": "ly11-46827",
+      "query": "黃仁 當事人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46827-legislative-conflict-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-11",
+      "track": "independent",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46844-bribery-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-12",
+      "track": "independent",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 立法院、司法與選舉官方資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46844-bribery-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-13",
+      "track": "independent",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 司法、選舉、政策爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46844-bribery-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-14",
+      "track": "independent",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46844-bribery-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-15",
+      "track": "independent",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 當事人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46844-bribery-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-16",
+      "track": "independent",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46763-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-17",
+      "track": "independent",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 立法院、司法與選舉官方資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46763-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-18",
+      "track": "independent",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 司法、選舉、政策爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46763-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-19",
+      "track": "independent",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46763-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "sr-20",
+      "track": "independent",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 當事人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46763-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-46823-recall-forgery",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46823"
+      ],
+      "provisionalCategory": "選舉／罷免程序",
+      "title": "罷免陳瑩提議書疑涉偽造，檢方移送法院併辦",
+      "summary": "檢方偵辦罷免陳瑩提議書疑涉偽造與個資法案件，將相關被告移送屏東地院併案。陳瑩是罷免案被提議人及受影響者，並非本案被告。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-chenying-20260212"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602120121.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46823",
+          "role": "罷免案被提議人／疑似偽造提議書事件之受影響者",
+          "basisSourceIds": [
+            "src-cna-chenying-20260212"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "檢方移送法院併案審理",
+      "resultStatus": "相關被告案件尚在審理，未有確定判決",
+      "evidenceLevel": "direct_primary_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "cand-46827-legislative-conflict-indictment",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46827"
+      ],
+      "provisionalCategory": "司法／國會衝突",
+      "title": "立法院衝突案黃仁遭起訴並否認犯行",
+      "summary": "檢方就立法院衝突事件起訴黃仁。黃仁表示自己僅阻止他人登上主席台、沒有碰觸對方，並呼籲司法勿成政治工具。起訴不等於有罪，案件仍待法院審理。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "src-pts-huangjen-20260212",
+        "src-udn-huangjen-20260212"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/795064",
+        "https://udn.com/news/story/124680/9326702"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46827",
+          "role": "刑事案件被告（遭起訴）",
+          "basisSourceIds": [
+            "src-pts-huangjen-20260212"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "黃仁稱僅試圖阻止郭國文登上主席台，未碰觸對方，並表示相信司法仍有正義。",
+        "sourceIds": [
+          "src-udn-huangjen-20260212"
+        ]
+      },
+      "processStatus": "已起訴、法院審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish_with_process_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "cand-46844-bribery-indictment",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46844"
+      ],
+      "provisionalCategory": "司法／貪污指控",
+      "title": "鄭天財遭檢方依貪污罪起訴，否認部分起訴事實",
+      "summary": "台北地檢署起訴鄭天財，指控其收受業者約711萬元並求刑10年以上。鄭天財稱起訴所述部分事實不精確，相關會議與紀錄由他人製作，對起訴感到意外。案件尚未判決。",
+      "occurredAt": "2025-12-24",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-cheng-20251224",
+        "src-pts-cheng-20251224"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202512240046.aspx",
+        "https://news.pts.org.tw/article/787337"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46844",
+          "role": "刑事案件被告（遭貪污罪起訴）",
+          "basisSourceIds": [
+            "src-cna-cheng-20251224",
+            "src-pts-cheng-20251224"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "鄭天財稱部分起訴事實不精確，相關會議及紀錄由他人製作，並對遭起訴表示意外。",
+        "sourceIds": [
+          "src-pts-cheng-20251224"
+        ]
+      },
+      "processStatus": "已起訴、法院審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish_with_allegation_and_response_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    },
+    {
+      "id": "cand-46763-recall-forgery",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46763"
+      ],
+      "provisionalCategory": "選舉／罷免程序",
+      "title": "罷免伍麗華不實連署案開庭，部分被告認罪",
+      "summary": "罷免伍麗華提議書不實連署案有9人遭起訴，法院審理時其中3人認罪。伍麗華是罷免案被提議人及受影響者，並非本案被告。",
+      "occurredAt": "2026-02-02",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-wulihua-20260202"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602020133.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46763",
+          "role": "罷免案被提議人／不實連署事件之受影響者",
+          "basisSourceIds": [
+            "src-cna-wulihua-20260202"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "已起訴並進入法院審理，部分被告認罪",
+      "resultStatus": "全案尚未確定判決",
+      "evidenceLevel": "direct_court_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46823-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-cna-chenying-20260212",
+      "title": "涉偽造罷免陳瑩提議書 許宇甄7人移送屏院併辦",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202602120121.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導北檢就罷免陳瑩提議書涉偽造等案件移送屏東地院併案審理，並交代陳瑩是罷免案被提議人。"
+    },
+    {
+      "id": "src-pts-huangjen-20260212",
+      "title": "國會衝突案10立委遭起訴",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/795064",
+      "sourceType": "public_media",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導立法院衝突案件之起訴名單與檢方指控，包含黃仁；案件仍待法院審理。"
+    },
+    {
+      "id": "src-udn-huangjen-20260212",
+      "title": "國會大亂鬥被起訴…黃仁：司法別淪政治工具 相信司法仍有正義",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/124680/9326702",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄黃仁回應，稱僅試圖阻止郭國文登上主席台、未碰觸對方，並表示相信司法。"
+    },
+    {
+      "id": "src-cna-cheng-20251224",
+      "title": "立委鄭天財涉受業者供養收賄711萬 北檢貪污起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202512240046.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-12-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導台北地檢署依貪污罪起訴鄭天財，指控收受約711萬元並具體求刑；屬起訴指控，尚非判決。"
+    },
+    {
+      "id": "src-pts-cheng-20251224",
+      "title": "藍委鄭天財涉收賄出售特助頭銜 遭北檢起訴求刑10年以上",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/787337",
+      "sourceType": "public_media",
+      "publishedAt": "2025-12-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "交代起訴內容並記錄鄭天財回應，稱部分事實不精確、會議與紀錄由他人製作，對起訴感到意外。"
+    },
+    {
+      "id": "src-cna-wulihua-20260202",
+      "title": "涉罷免伍麗華不實連署案 國民黨組發會3人認罪",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202602020133.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-02-02",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導罷免伍麗華不實連署案開庭進度、9人遭起訴及其中3人認罪；伍麗華為罷免案被提議人，非被告。"
+    }
+  ]
+}

@@ -1,0 +1,872 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46810",
+  "versionId": "primary-research-20260928-46810-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-29T11:02:04.736Z",
+  "contentHash": "ae7d41e9b84dbcf6d0392a4dc1190f4331c9084547ca33243a1d6c82787056f5",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46810-legislative",
+      "track": "primary",
+      "memberId": "ly11-46810",
+      "query": "郭昱晴 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-privacy",
+        "p-child"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46810-government",
+      "track": "primary",
+      "memberId": "ly11-46810",
+      "query": "郭昱晴 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46810-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46810",
+      "query": "郭昱晴 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46810-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46810",
+      "query": "郭昱晴 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-livestream"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46810-statements",
+      "track": "primary",
+      "memberId": "ly11-46810",
+      "query": "郭昱晴 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-livestream"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46812-legislative",
+      "track": "primary",
+      "memberId": "ly11-46812",
+      "query": "陳永康 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-security"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46812-government",
+      "track": "primary",
+      "memberId": "ly11-46812",
+      "query": "陳永康 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46812-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46812",
+      "query": "陳永康 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46812-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46812",
+      "query": "陳永康 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-injury"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46812-statements",
+      "track": "primary",
+      "memberId": "ly11-46812",
+      "query": "陳永康 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46755-legislative",
+      "track": "primary",
+      "memberId": "ly11-46755",
+      "query": "陳昭姿 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-surrogacy"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46755-government",
+      "track": "primary",
+      "memberId": "ly11-46755",
+      "query": "陳昭姿 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46755-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46755",
+      "query": "陳昭姿 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46755-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46755",
+      "query": "陳昭姿 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-invalidvote",
+        "p-sexedu"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46755-statements",
+      "track": "primary",
+      "memberId": "ly11-46755",
+      "query": "陳昭姿 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-invalidvote",
+        "p-sexedu"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46819-legislative",
+      "track": "primary",
+      "memberId": "ly11-46819",
+      "query": "陳培瑜 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-gender",
+        "p-cyber"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46819-government",
+      "track": "primary",
+      "memberId": "ly11-46819",
+      "query": "陳培瑜 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46819-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46819",
+      "query": "陳培瑜 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46819-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46819",
+      "query": "陳培瑜 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    },
+    {
+      "id": "primary-ly11-46819-statements",
+      "track": "primary",
+      "memberId": "ly11-46819",
+      "query": "陳培瑜 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46810-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-privacy",
+      "memberIds": [
+        "ly11-46810"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出個資法修正版本並併案三讀",
+      "summary": "立法院列郭昱晴、賴瑞隆為提案人；其版本與行政院及其他版本併案後完成三讀。",
+      "occurredAt": "2025-08-22",
+      "officialId": "202110114400000",
+      "sourceIds": [
+        "s-privacy"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110114400000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-child",
+      "memberIds": [
+        "ly11-46810"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出兒少權法增訂條文草案",
+      "summary": "立法院列郭昱晴等4人為提案人，案件交付衛環委員會並於2026年3月審查，未確認三讀。",
+      "occurredAt": "2025-04-18",
+      "officialId": "202110107470000",
+      "sourceIds": [
+        "s-child"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110107470000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-livestream",
+      "memberIds": [
+        "ly11-46810"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "公園直播男子貼文引發公審爭議後道歉",
+      "summary": "中央社與公視報導郭昱晴發文稱直播男子行為鬼祟，引起公審質疑後刪文道歉。未發現司法程序。",
+      "occurredAt": "2025-06-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-live-cna",
+        "s-live-pts"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202506230088.aspx",
+        "https://news.pts.org.tw/article/757557"
+      ],
+      "roleClaims": [
+        "speaker"
+      ],
+      "personResponse": "刪除貼文並道歉。",
+      "processStatus": "public_response",
+      "resultStatus": "closed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-security",
+      "memberIds": [
+        "ly11-46812"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜國家安全戰略法草案",
+      "summary": "立法院列陳永康為提案人，2024年7月交付外交國防委員會，未確認完成審查或三讀。",
+      "occurredAt": "2024-07-12",
+      "officialId": "202110061310000",
+      "sourceIds": [
+        "s-security"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110061310000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-injury",
+      "memberIds": [
+        "ly11-46812"
+      ],
+      "provisionalCategory": "profile",
+      "title": "財劃法審查衝突中受傷",
+      "summary": "中央社報導陳永康在財劃法審查衝突中受傷；蔡易餘表示現場混亂且無攻擊意圖。此紀錄不推定任何人刑事責任。",
+      "occurredAt": "2024-11-08",
+      "officialId": null,
+      "sourceIds": [
+        "s-injury"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202411080292.aspx"
+      ],
+      "roleClaims": [
+        "injured_participant"
+      ],
+      "personResponse": "蔡易餘稱無攻擊意圖。",
+      "processStatus": "reported",
+      "resultStatus": "closed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-surrogacy",
+      "memberIds": [
+        "ly11-46755"
+      ],
+      "provisionalCategory": "participation",
+      "title": "以黨團提案人身分提出人工生殖法修正草案",
+      "summary": "立法院列民眾黨團及陳昭姿等人為提案人，案件歷經衛環與司法法制聯席委員會審查，尚未確認三讀。",
+      "occurredAt": "2024-04-09",
+      "officialId": "202110027790000",
+      "sourceIds": [
+        "s-surrogacy"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110027790000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-invalidvote",
+      "memberIds": [
+        "ly11-46755"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "立法院長選舉無效票遭黨內停權兩月",
+      "summary": "中央社與公視報導陳昭姿選票沾印泥成無效票，民眾黨中評會認定非故意違紀但未貫徹黨意，停止中央委員職權2個月；她稱為無心之過。",
+      "occurredAt": "2024-02-06",
+      "officialId": null,
+      "sourceIds": [
+        "s-vote-cna",
+        "s-vote-pts"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202402060070.aspx",
+        "https://news.pts.org.tw/article/679959"
+      ],
+      "roleClaims": [
+        "party_member"
+      ],
+      "personResponse": "稱是無心之過並先辭幹事長。",
+      "processStatus": "party_discipline",
+      "resultStatus": "completed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-sexedu",
+      "memberIds": [
+        "ly11-46755"
+      ],
+      "provisionalCategory": "participation",
+      "title": "以預算主決議追蹤醫師性平案件處理",
+      "summary": "中央社報導陳昭姿原擬凍結預算後改主決議，質疑教育部拖延；教育部回應已於溝通後次日發文台大要求送交調查結果。",
+      "occurredAt": "2025-01-24",
+      "officialId": null,
+      "sourceIds": [
+        "s-sexedu"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/ahel/202501240238.aspx"
+      ],
+      "roleClaims": [
+        "budget_proposer"
+      ],
+      "personResponse": "教育部說明已完成會商並發文。",
+      "processStatus": "government_response",
+      "resultStatus": "responded"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-gender",
+      "memberIds": [
+        "ly11-46819"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "性別平等教育法修正版本併案三讀",
+      "summary": "立法院列陳培瑜為提案人，其版本與行政院及其他版本併案後於2023年完成三讀。",
+      "occurredAt": "2023-07-26",
+      "officialId": "202103181700000",
+      "sourceIds": [
+        "s-gender"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202103181700000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-cyber",
+      "memberIds": [
+        "ly11-46819"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "資通安全管理法修正版本併案三讀",
+      "summary": "立法院列陳培瑜為提案人，其版本與行政院及其他版本併案，2025年三讀並咨請公布。",
+      "occurredAt": "2025-09-16",
+      "officialId": "202110129110000",
+      "sourceIds": [
+        "s-cyber"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110129110000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46810-r1",
+      "id": "p-conflict",
+      "memberIds": [
+        "ly11-46819"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "以告訴人身分參與議場衝突傷害案審理",
+      "summary": "中央社報導陳培瑜、林宜瑾控告陳玉珍等涉傷害，法院勘驗影片；此處記錄她為告訴人，不推定被告有罪。",
+      "occurredAt": "2026-01-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-conflict"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202601190286.aspx"
+      ],
+      "roleClaims": [
+        "complainant"
+      ],
+      "personResponse": "透過律師陳述影片與傷勢主張。",
+      "processStatus": "trial",
+      "resultStatus": "pending_trial"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-privacy",
+      "title": "個人資料保護法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110114400000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-22",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人及三讀。"
+    },
+    {
+      "id": "s-child",
+      "title": "兒少權法增訂第二十四條之一草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110107470000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-04-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案與審查。"
+    },
+    {
+      "id": "s-live-cna",
+      "title": "郭昱晴稱直播男鬼祟惹議",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202506230088.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "事件與道歉。"
+    },
+    {
+      "id": "s-live-pts",
+      "title": "郭昱晴質疑男子直播行為鬼祟",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/757557",
+      "sourceType": "news",
+      "publishedAt": "2025-06-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "當事人與各方說法。"
+    },
+    {
+      "id": "s-security",
+      "title": "國家安全戰略法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110061310000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-07-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人與進度。"
+    },
+    {
+      "id": "s-injury",
+      "title": "財劃法衝突陳永康受傷",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202411080292.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-11-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "受傷及回應。"
+    },
+    {
+      "id": "s-surrogacy",
+      "title": "人工生殖法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110027790000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-04-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黨團提案人及審查。"
+    },
+    {
+      "id": "s-vote-cna",
+      "title": "陳昭姿院長選舉投無效票 民眾黨停權",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202402060070.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-02-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黨紀決議。"
+    },
+    {
+      "id": "s-vote-pts",
+      "title": "陳昭姿投無效票惹議",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/679959",
+      "sourceType": "news",
+      "publishedAt": "2024-02-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "本人回應及處分。"
+    },
+    {
+      "id": "s-sexedu",
+      "title": "陳昭姿質疑性平案擺爛 教育部回應",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/ahel/202501240238.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-01-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "質疑與機關回應。"
+    },
+    {
+      "id": "s-gender",
+      "title": "性別平等教育法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202103181700000/details",
+      "sourceType": "official",
+      "publishedAt": "2023-07-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-cyber",
+      "title": "資通安全管理法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110129110000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-09-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-conflict",
+      "title": "立院衝突綠委控藍白傷害",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202601190286.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-01-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "審理與告訴人說法。"
+    }
+  ]
+}

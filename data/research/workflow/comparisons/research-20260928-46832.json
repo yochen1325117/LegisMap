@@ -10,7 +10,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-huang-walk-20250902",
@@ -18,7 +18,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lu-vocational-202410",
@@ -26,7 +26,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lu-recall-20250726-c-lu-recall",
@@ -41,7 +41,7 @@
         "evidenceLevel",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chiu-metro-202512",
@@ -49,7 +49,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chiu-recall-20250726-c-chiu-recall",
@@ -64,7 +64,7 @@
         "evidenceLevel",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-tu-employment-insurance-202604",
@@ -72,7 +72,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-tu-health-points-202411",
@@ -80,7 +80,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-tu-recall-20250726-c-tu-recall",
@@ -95,7 +95,7 @@
         "evidenceLevel",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-huang-mirror",
@@ -103,7 +103,7 @@
       "independentCandidateId": "c-huang-mirror",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-tu-defamation",
@@ -111,7 +111,7 @@
       "independentCandidateId": "c-tu-defamation",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     }
   ]
 }

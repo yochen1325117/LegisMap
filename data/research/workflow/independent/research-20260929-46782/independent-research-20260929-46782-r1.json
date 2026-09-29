@@ -1,0 +1,651 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46782",
+  "versionId": "independent-research-20260929-46782-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:12:06.359Z",
+  "contentHash": "143a3636f852f0e1246374ce52a7d2d507d24e7b45698feecb53c271928754a1",
+  "searchRuns": [
+    {
+      "id": "sr-01",
+      "track": "independent",
+      "memberId": "ly11-46782",
+      "query": "林思銘 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-lin-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-02",
+      "track": "independent",
+      "memberId": "ly11-46782",
+      "query": "林思銘 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-lin-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-03",
+      "track": "independent",
+      "memberId": "ly11-46782",
+      "query": "林思銘 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-lin-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-04",
+      "track": "independent",
+      "memberId": "ly11-46782",
+      "query": "林思銘 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-lin-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-05",
+      "track": "independent",
+      "memberId": "ly11-46782",
+      "query": "林思銘 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-lin-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-06",
+      "track": "independent",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-cheng-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-07",
+      "track": "independent",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-cheng-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-08",
+      "track": "independent",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-cheng-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-09",
+      "track": "independent",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-cheng-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-10",
+      "track": "independent",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-cheng-recall"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-11",
+      "track": "independent",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chen-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-12",
+      "track": "independent",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chen-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-13",
+      "track": "independent",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chen-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-14",
+      "track": "independent",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chen-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-15",
+      "track": "independent",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chen-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-16",
+      "track": "independent",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chiu-indict"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-17",
+      "track": "independent",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chiu-indict"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-18",
+      "track": "independent",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chiu-indict"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-19",
+      "track": "independent",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chiu-indict"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "sr-20",
+      "track": "independent",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-chiu-indict"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-lin-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46782"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "林思銘罷免案投票結果為否決",
+      "summary": "中選會資料顯示林思銘罷免案同意33,813票、不同意76,239票，結果否決；林思銘開票後自行宣布未通過。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-lin",
+        "s-cna-lin"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/9de10f9e-0c01-4205-aec2-7e7bff545b1f.pdf",
+        "https://www.cna.com.tw/news/aipl/202508230132.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46782",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-lin"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "林思銘在開票結果明朗後宣布罷免案不通過。",
+        "sourceIds": [
+          "s-cna-lin"
+        ]
+      },
+      "processStatus": "罷免投票完成",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "cand-cheng-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46845"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "鄭正鈐罷免案經中選會公告否決",
+      "summary": "中選會公告鄭正鈐罷免案同意89,970票、不同意119,305票，結果否決。",
+      "occurredAt": "2025-08-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-cheng",
+        "s-cna-cheng"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202508010192.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46845",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-cheng"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "cand-chen-forgery",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46816"
+      ],
+      "provisionalCategory": "選舉／罷免程序",
+      "title": "罷免陳俊宇提議書偽造案12人遭起訴",
+      "summary": "宜蘭地檢署偵辦罷免陳俊宇提議書疑似偽造案，起訴國民黨宜蘭縣黨部12人。陳俊宇是罷免案被提議人及受影響者，不是本案被告。",
+      "occurredAt": "2025-06-19",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-chen",
+        "s-ftv-chen"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202506190116.aspx",
+        "https://www.ftvnews.com.tw/news/detail/2025619P08M1"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46816",
+          "role": "罷免案被提議人／偽造提議書事件受影響者",
+          "basisSourceIds": [
+            "s-cna-chen",
+            "s-ftv-chen"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "相關人員已起訴、法院審理中",
+      "resultStatus": "尚未確定判決；陳俊宇非被告",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    },
+    {
+      "id": "cand-chiu-indict",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46790"
+      ],
+      "provisionalCategory": "司法／國會衝突",
+      "title": "邱鎮軍因立法院衝突遭傷害罪起訴並否認",
+      "summary": "北檢就立法院議事衝突依傷害罪起訴邱鎮軍等人。邱鎮軍批評案件是政治操弄並表示不會屈服。起訴不是有罪判決，案件仍待法院審理。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-chiu",
+        "s-udn-chiu"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202602120362.aspx",
+        "https://udn.com/news/story/124680/9327046"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46790",
+          "role": "刑事案件被告（遭起訴）",
+          "basisSourceIds": [
+            "s-cna-chiu"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "邱鎮軍否認不法，批評司法遭政治操弄並表示絕不屈服。",
+        "sourceIds": [
+          "s-udn-chiu"
+        ]
+      },
+      "processStatus": "已起訴、法院審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish_with_process_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46782-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cec-lin",
+      "title": "第11屆立法委員罷免案罷免投票結果清冊總表（114年8月23日）",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/9de10f9e-0c01-4205-aec2-7e7bff545b1f.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "林思銘同意33,813票、不同意76,239票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-lin",
+      "title": "罷免案開票 林思銘自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508230132.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄林思銘宣布罷免案未通過。"
+    },
+    {
+      "id": "s-cec-cheng",
+      "title": "中央選舉委員會公告：第11屆立法委員鄭正鈐罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "鄭正鈐同意89,970票、不同意119,305票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-cheng",
+      "title": "中選會公告 25案罷免投票結果皆為否決",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508010192.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導中選會審定並公告鄭正鈐等罷免案均否決。"
+    },
+    {
+      "id": "s-cna-chen",
+      "title": "涉偽造約4000份連署 檢起訴國民黨宜蘭縣黨部12人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202506190116.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-06-19",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "依宜蘭地檢署資訊報導罷免陳俊宇提議書案，12名黨部人員遭起訴；陳俊宇不是被告。"
+    },
+    {
+      "id": "s-ftv-chen",
+      "title": "罷免陳俊宇幽靈連署 宜檢起訴黨部主委等12人",
+      "publisher": "民視新聞網",
+      "url": "https://www.ftvnews.com.tw/news/detail/2025619P08M1",
+      "sourceType": "news",
+      "publishedAt": "2025-06-19",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導宜檢起訴12人及約4000份名冊指控。"
+    },
+    {
+      "id": "s-cna-chiu",
+      "title": "10立委衝突遭起訴 韓國瑜：堅持國會自律盼議事順暢",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202602120362.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導北檢依傷害等罪起訴邱鎮軍等立委；尚未判決。"
+    },
+    {
+      "id": "s-udn-chiu",
+      "title": "議事攻防爆肢體衝突吃官司 邱鎮軍：民進黨操弄司法 絕不屈服",
+      "publisher": "聯合報",
+      "url": "https://udn.com/news/story/124680/9327046",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄起訴與邱鎮軍否認、批評司法遭政治操弄的回應。"
+    }
+  ]
+}

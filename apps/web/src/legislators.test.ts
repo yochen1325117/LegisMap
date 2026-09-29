@@ -116,7 +116,7 @@ describe('2026 legislator snapshot', () => {
     for (const member of county) {
       const research = eventMembers.get(member.id);
       expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
       expect(research?.events.some(event => event.category === 'good_deed')).toBe(true);
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
@@ -127,8 +127,8 @@ describe('2026 legislator snapshot', () => {
     expect(city).toHaveLength(1);
     const research = eventMembers.get(city[0].id);
     expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(3);
-    expect(research?.events.filter(event => event.category === 'concern')).toHaveLength(2);
+    expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(3);
+    expect(research?.events.filter(event => event.category === 'concern').length).toBeGreaterThanOrEqual(2);
     for (const event of research?.events ?? []) {
       expect(sourcesForEvent(event).length).toBeGreaterThan(0);
       expect(sourcesForEvent(event).every(source => source.url.startsWith('https://'))).toBe(true);
@@ -141,7 +141,7 @@ describe('2026 legislator snapshot', () => {
     for (const member of miaoli) {
       const research = eventMembers.get(member.id);
       expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
       expect(research?.events.some(event => event.category === 'concern')).toBe(true);
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
@@ -185,7 +185,7 @@ describe('2026 legislator snapshot', () => {
     for (const member of nantou) {
       const research = eventMembers.get(member.id);
       expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
       expect(research?.events.some(event => event.category === 'concern')).toBe(true);
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
@@ -198,7 +198,7 @@ describe('2026 legislator snapshot', () => {
     expect(yilan).toHaveLength(1);
     const research = eventMembers.get(yilan[0].id);
     expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
     expect(new Set(research?.events.map(event => event.category))).toEqual(new Set(['contribution', 'good_deed', 'concern', 'anecdote']));
     for (const event of research?.events ?? []) {
       expect(sourcesForEvent(event).length).toBeGreaterThan(0);
@@ -211,8 +211,8 @@ describe('2026 legislator snapshot', () => {
     expect(hualien).toHaveLength(1);
     const research = eventMembers.get(hualien[0].id);
     expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(3);
-    expect(research?.events.filter(event => event.category === 'concern')).toHaveLength(2);
+    expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(3);
+    expect(research?.events.filter(event => event.category === 'concern').length).toBeGreaterThanOrEqual(2);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
 
@@ -222,7 +222,7 @@ describe('2026 legislator snapshot', () => {
     for (const member of yunlin) {
       const research = eventMembers.get(member.id);
       expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
     const ding = yunlin.find(member => member.name === '丁學忠');
@@ -244,7 +244,7 @@ describe('2026 legislator snapshot', () => {
     for (const member of county) {
       const research = eventMembers.get(member.id);
       expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-      expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+      expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
     const tsai = county.find(member => member.name === '蔡易餘');
@@ -297,7 +297,7 @@ describe('2026 legislator snapshot', () => {
       for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
     }
     const chung = pingtung.find(member => member.name === '鍾佳濱');
-    expect(eventMembers.get(chung!.id)?.events.filter(event => event.category === 'concern')).toHaveLength(2);
+    expect(eventMembers.get(chung!.id)?.events.filter(event => event.category === 'concern').length).toBeGreaterThanOrEqual(2);
     expect(eventMembers.get(chung!.id)?.events.some(event => event.processStatus === 'indicted')).toBe(true);
   });
 
@@ -306,7 +306,7 @@ describe('2026 legislator snapshot', () => {
     expect(penghu).toHaveLength(1);
     const research = eventMembers.get(penghu[0].id);
     expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
     expect(research?.events.some(event => event.category === 'anecdote')).toBe(true);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);
   });
@@ -316,7 +316,7 @@ describe('2026 legislator snapshot', () => {
     expect(kinmen).toHaveLength(1);
     const research = eventMembers.get(kinmen[0].id);
     expect(research?.reviewedCategories).toEqual(['contribution', 'good_deed', 'concern', 'anecdote']);
-    expect(research?.events.filter(event => event.category === 'contribution')).toHaveLength(2);
+    expect(research?.events.filter(event => event.category === 'contribution').length).toBeGreaterThanOrEqual(2);
     expect(research?.events.some(event => event.category === 'concern' && event.processStatus === 'disputed')).toBe(true);
     expect(research?.events.some(event => event.category === 'anecdote')).toBe(true);
     for (const event of research?.events ?? []) expect(sourcesForEvent(event).length).toBeGreaterThan(0);

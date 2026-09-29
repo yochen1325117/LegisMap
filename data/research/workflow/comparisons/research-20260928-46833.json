@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46833",
+  "primaryVersionId": "primary-research-20260928-46833-r1",
+  "independentVersionId": "independent-research-20260928-46833-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-huang-election",
+      "primaryCandidateId": "p-huang-election",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-huang-data",
+      "primaryCandidateId": "p-huang-data",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-huang-harassment",
+      "primaryCandidateId": "p-huang-harassment",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lai-fraud",
+      "primaryCandidateId": "p-lai-fraud",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lai-finance",
+      "primaryCandidateId": "p-lai-finance",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lai-scholarship",
+      "primaryCandidateId": "p-lai-scholarship",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hsu-local",
+      "primaryCandidateId": "p-hsu-local",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hsu-space",
+      "primaryCandidateId": "p-hsu-space",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hsu-tariff",
+      "primaryCandidateId": "p-hsu-tariff",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-yang-labor",
+      "primaryCandidateId": "p-yang-labor",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-yang-election",
+      "primaryCandidateId": "p-yang-election",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-yang-retire",
+      "primaryCandidateId": "p-yang-retire",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c1",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c1",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c2",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c2",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c3",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c3",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c4",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c4",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

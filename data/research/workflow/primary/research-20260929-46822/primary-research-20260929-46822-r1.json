@@ -1,0 +1,813 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46822",
+  "versionId": "primary-research-20260929-46822-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:04:26.254Z",
+  "contentHash": "76e50acf29b9ef86d3fed0a701b59fe2f5c8e04fa7d9b392545ed347550aa37a",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46822-legislative",
+      "track": "primary",
+      "memberId": "ly11-46822",
+      "query": "陳超明 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-agri"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46822-government",
+      "track": "primary",
+      "memberId": "ly11-46822",
+      "query": "陳超明 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46822-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46822",
+      "query": "陳超明 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-case"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46822-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46822",
+      "query": "陳超明 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-case"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46822-statements",
+      "track": "primary",
+      "memberId": "ly11-46822",
+      "query": "陳超明 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chen-case"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46831-legislative",
+      "track": "primary",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-military",
+        "p-electric"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46831-government",
+      "track": "primary",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46831-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46831-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46831-statements",
+      "track": "primary",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46835-legislative",
+      "track": "primary",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-whistle",
+        "p-state"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46835-government",
+      "track": "primary",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46835-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46835-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-yang"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46835-statements",
+      "track": "primary",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-yang"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46840-legislative",
+      "track": "primary",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-whistle",
+        "p-industry"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46840-government",
+      "track": "primary",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46840-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46840-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    },
+    {
+      "id": "primary-ly11-46840-statements",
+      "track": "primary",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46822-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-agri",
+      "memberIds": [
+        "ly11-46822"
+      ],
+      "provisionalCategory": "participation",
+      "title": "農業發展條例修正版本參與併案",
+      "summary": "立法院頁面列陳超明等16人版本為農業發展條例修法併案之一；目前頁面為院會後續程序，需再確認最終三讀狀態。",
+      "occurredAt": "2026-09-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-agri"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "最終三讀與公布狀態"
+      ],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110230050000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "plenary_discussion",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-chen-case",
+      "memberIds": [
+        "ly11-46822"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "涉貪案二審改判無罪、仍可上訴",
+      "summary": "中央社與公視報導高院認證據不足，2026年8月撤銷陳超明一審有罪判決並改判無罪；全案仍可上訴，非無罪確定。",
+      "occurredAt": "2026-08-21",
+      "officialId": null,
+      "sourceIds": [
+        "s-chen-cna",
+        "s-chen-pts"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202608210179.aspx",
+        "https://news.pts.org.tw/article/823593"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "陳超明稱公平審判還他清白。",
+      "processStatus": "second_instance_judgment",
+      "resultStatus": "acquitted_appealable"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-military",
+      "memberIds": [
+        "ly11-46831"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜兵役法第三條修正草案",
+      "summary": "立法院列黃健豪為提案人，2025年5月交付外交國防委員會，未確認三讀。",
+      "occurredAt": "2025-05-23",
+      "officialId": "202110129070000",
+      "sourceIds": [
+        "s-military"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110129070000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-electric",
+      "memberIds": [
+        "ly11-46831",
+        "ly11-46835"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出電業法第六條修正版本並併案三讀",
+      "summary": "立法院列楊瓊瓔、黃健豪為提案人，其版本與行政院及其他版本併案並完成三讀。",
+      "occurredAt": "2025-01-01",
+      "officialId": "202110061970000",
+      "sourceIds": [
+        "s-electric"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110061970000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-conflict",
+      "memberIds": [
+        "ly11-46831",
+        "ly11-46840"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "議場衝突傷害案遭起訴",
+      "summary": "中央社與公視報導北檢起訴黃健豪、廖偉翔等10名立委。案件尚未判決，兩人回應及法院最新進度仍待補。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-conflict-cna",
+        "s-conflict-pts"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "兩人完整回應及法院最新進度"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602120058.aspx",
+        "https://news.pts.org.tw/article/795174"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "pending_trial"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-whistle",
+      "memberIds": [
+        "ly11-46835",
+        "ly11-46840"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "揭弊者保護法提案版本參與併案三讀",
+      "summary": "立法院列廖偉翔、楊瓊瓔各自提出版本，與其他版本併案後於2024年12月三讀並咨請公布。",
+      "occurredAt": "2024-12-27",
+      "officialId": "203110078620000",
+      "sourceIds": [
+        "s-whistle"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110078620000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-state",
+      "memberIds": [
+        "ly11-46835"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "國營事業管理法增訂版本參與併案三讀",
+      "summary": "立法院列楊瓊瓔版本與行政院、民眾黨團及其他委員版本併案，2023年1月三讀並咨請公布。",
+      "occurredAt": "2023-01-06",
+      "officialId": "1111226070300400",
+      "sourceIds": [
+        "s-state"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/1111226070300400/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-recall-yang",
+      "memberIds": [
+        "ly11-46835"
+      ],
+      "provisionalCategory": "profile",
+      "title": "台中立委罷免案投票未通過",
+      "summary": "公視報導楊瓊瓔罷免案2025年8月23日投票未通過；中選會公告保存理由與答辯。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall-yang",
+        "s-recall-yang-cec"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/767084",
+        "https://web.cec.gov.tw/api/file/9a2d6263-c649-44fa-b1b5-2146788334b1.pdf"
+      ],
+      "roleClaims": [
+        "recall_target"
+      ],
+      "personResponse": "表示將更審慎監督政府。",
+      "processStatus": "recall_vote",
+      "resultStatus": "not_recalled"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46822-r1",
+      "id": "p-industry",
+      "memberIds": [
+        "ly11-46840"
+      ],
+      "provisionalCategory": "participation",
+      "title": "產業創新條例修正版本進入協商",
+      "summary": "立法院頁面列廖偉翔版本為併案之一，2026年7月交付協商並於8月協商，未確認三讀。",
+      "occurredAt": "2026-07-06",
+      "officialId": "203110225410000",
+      "sourceIds": [
+        "s-industry"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110225410000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "party_negotiation",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-agri",
+      "title": "農業發展條例修正案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110230050000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "陳超明版本及程序。"
+    },
+    {
+      "id": "s-chen-cna",
+      "title": "陳超明等涉貪案二審無罪",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202608210179.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "二審理由與可上訴。"
+    },
+    {
+      "id": "s-chen-pts",
+      "title": "跨黨派涉貪案陳超明二審無罪",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/823593",
+      "sourceType": "news",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導二審結果。"
+    },
+    {
+      "id": "s-military",
+      "title": "兵役法第三條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110129070000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-05-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與進度。"
+    },
+    {
+      "id": "s-electric",
+      "title": "電業法第六條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110061970000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-01-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "共同提案與三讀。"
+    },
+    {
+      "id": "s-conflict-cna",
+      "title": "立法院多次肢體衝突10立委遭訴",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202602120058.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴名單。"
+    },
+    {
+      "id": "s-conflict-pts",
+      "title": "立委議場內肢體衝突互告",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/795174",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "事件與起訴程序。"
+    },
+    {
+      "id": "s-whistle",
+      "title": "揭弊者保護法草案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110078620000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-12-27",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "兩人版本與三讀。"
+    },
+    {
+      "id": "s-state",
+      "title": "國營事業管理法增訂草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/1111226070300400/details",
+      "sourceType": "official",
+      "publishedAt": "2023-01-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "楊瓊瓔版本與三讀。"
+    },
+    {
+      "id": "s-recall-yang",
+      "title": "台中罷免案不通過",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/767084",
+      "sourceType": "news",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "結果與回應。"
+    },
+    {
+      "id": "s-recall-yang-cec",
+      "title": "楊瓊瓔罷免案公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/9a2d6263-c649-44fa-b1b5-2146788334b1.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "理由及答辯。"
+    },
+    {
+      "id": "s-industry",
+      "title": "產業創新條例修正案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110225410000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-07-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "廖偉翔版本與協商。"
+    }
+  ]
+}

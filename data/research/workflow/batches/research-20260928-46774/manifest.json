@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46774",
+  "memberIds": [
+    "ly11-46774",
+    "ly11-46788",
+    "ly11-46791",
+    "ly11-46809"
+  ],
+  "periodStart": "2021-09-28",
+  "periodEnd": "2026-09-28",
+  "baselineCommit": "330a37f",
+  "primaryVersionId": "primary-research-20260928-46774-r1",
+  "independentVersionId": "independent-research-20260928-46774-r1",
+  "status": "complete"
+}

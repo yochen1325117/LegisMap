@@ -1,0 +1,735 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46821",
+  "versionId": "primary-research-20260928-46821-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-29T11:03:41.362Z",
+  "contentHash": "56be2558f226fad4ff833f9312b970a2f854730452958c1a9fb8ae952416918f",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46821-legislative",
+      "track": "primary",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-family-law-20260327",
+        "primary-chen-procurement-20260701"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46821-government",
+      "track": "primary",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46821-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46821-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-family-law-20260327",
+        "primary-chen-procurement-20260701"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46821-statements",
+      "track": "primary",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46756-legislative",
+      "track": "primary",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-mai-new-resident-law-20240716"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46756-government",
+      "track": "primary",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46756-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46756-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-mai-new-resident-law-20240716"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46756-statements",
+      "track": "primary",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46830-legislative",
+      "track": "primary",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-huang-donation-accounting-20240820",
+        "primary-huang-finance-allocation-20241111"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46830-government",
+      "track": "primary",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46830-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46830-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-huang-donation-accounting-20240820",
+        "primary-huang-finance-allocation-20241111"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46830-statements",
+      "track": "primary",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46838-legislative",
+      "track": "primary",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ge-ai-law-20251223",
+        "primary-ge-deepfake-question-20240319"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46838-government",
+      "track": "primary",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46838-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46838-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ge-ai-law-20251223",
+        "primary-ge-deepfake-question-20240319"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ly11-46838-statements",
+      "track": "primary",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46821-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-chen-family-law-20260327",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46821"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出民法第1223條修正草案並進入委員會審查",
+      "summary": "立法院司法及法制委員會議程列入陳菁徽等17人提出的民法第1223條修正草案，確認已進入委員會審查程序。",
+      "occurredAt": "2026-03-27",
+      "officialId": null,
+      "sourceIds": [
+        "p46821-ly-chen-family"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026032668/PPGB60500_4300_21040_1150327_0001.pdf"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-chen-procurement-20260701",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46821"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "要求防堵有兒少性剝削前科者承攬政府標案",
+      "summary": "陳菁徽要求政府提出採購防堵方案並檢討政府採購法；勞動部回應現行無明文限制，將請益主管機關。",
+      "occurredAt": "2026-07-01",
+      "officialId": null,
+      "sourceIds": [
+        "p46821-cna-chen-procurement"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202607010120.aspx"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "立法院原始質詢或記者會完整紀錄"
+      ],
+      "personResponse": null,
+      "processStatus": "government_response_reported",
+      "resultStatus": "recorded",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-mai-new-resident-law-20240716",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46756"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "以民眾黨團代表參與新住民基本法審查並完成三讀",
+      "summary": "麥玉珍代表民眾黨團說明新住民基本法版本並在委員會質詢；該法於2024年7月16日三讀，規範就業、通譯及媒體近用等權益。",
+      "occurredAt": "2024-07-16",
+      "officialId": null,
+      "sourceIds": [
+        "p46821-ly-mai-newresident",
+        "p46821-cna-newresident"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024042975/PPGB60500_4000_20135_1130502_0005.pdf",
+        "https://www.cna.com.tw/news/aipl/202407170021.aspx"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "passed_third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-huang-donation-accounting-20240820",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46830"
+      ],
+      "provisionalCategory": "concern",
+      "title": "總統大選政治獻金帳務爭議遭黨內停權3年",
+      "summary": "黃珊珊身為柯文哲競選總幹事，因政治獻金申報爭議辭中央委員，民眾黨中評會其後決議停權3年；她說明短報漏報約1937萬元但均用於選務、未遭挪用。",
+      "occurredAt": "2024-08-20",
+      "officialId": null,
+      "sourceIds": [
+        "p46821-cna-huang-resign",
+        "p46821-cna-huang-discipline",
+        "p46821-cna-huang-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202408140157.aspx",
+        "https://www.cna.com.tw/news/aipl/202408200360.aspx",
+        "https://www.cna.com.tw/news/aipl/202408290326.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "黃珊珊承認帳務有短報、漏報，主張款項均用於選務且沒有挪用。",
+      "processStatus": "party_discipline",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-huang-finance-allocation-20241111",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46830"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "主張提出財劃法完整版本並進行併案協商",
+      "summary": "黃珊珊表示民眾黨將提出財劃法修正版本並爭取逕付二讀，呼籲各黨提出完整版本理性協商。",
+      "occurredAt": "2024-11-11",
+      "officialId": null,
+      "sourceIds": [
+        "p46821-cna-huang-finance"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202411110207.aspx"
+      ],
+      "roleClaims": [
+        "participant"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "立法院正式提案頁或黨團版本"
+      ],
+      "personResponse": null,
+      "processStatus": "proposal_announced",
+      "resultStatus": "proposed",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ge-ai-law-20251223",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46838"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出人工智慧基本法版本並經併案三讀",
+      "summary": "葛如鈞等37人提出人工智慧基本法版本，與行政院、其他委員及黨團版本併案審查，立法院於2025年12月23日三讀。",
+      "occurredAt": "2025-12-23",
+      "officialId": "203110155620000",
+      "sourceIds": [
+        "p46821-ly-ge-ai"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110155620000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "passed_third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    },
+    {
+      "id": "primary-ge-deepfake-question-20240319",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46838"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "以AI生成影片質詢深偽辨識與打詐",
+      "summary": "葛如鈞在院會質詢播放兩段AI生成影片請行政院長辨識，藉此追問深偽內容與詐騙防制。",
+      "occurredAt": "2024-03-19",
+      "officialId": null,
+      "sourceIds": [
+        "p46821-cna-ge-deepfake"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202403190288.aspx"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "立法院原始影音或公報定位"
+      ],
+      "personResponse": null,
+      "processStatus": "questioned",
+      "resultStatus": "recorded",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-46821-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "p46821-ly-chen-family",
+      "title": "司法及法制委員會議程：陳菁徽等17人擬具民法第1223條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026032668/PPGB60500_4300_21040_1150327_0001.pdf",
+      "sourceType": "official",
+      "publishedAt": "2026-03-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "議程第20案列陳菁徽等17人之民法第1223條修正草案"
+    },
+    {
+      "id": "p46821-cna-chen-procurement",
+      "title": "採購案得標商曾涉兒少性剝削 藍委籲政府提方案防堵",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202607010120.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "陳菁徽主張與勞動部回應段落"
+    },
+    {
+      "id": "p46821-ly-mai-newresident",
+      "title": "內政委員會新住民基本法草案審查議事錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2024042975/PPGB60500_4000_20135_1130502_0005.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-05-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "民眾黨團代表麥玉珍說明提案及質詢，決議請行政院彙報並續審"
+    },
+    {
+      "id": "p46821-cna-newresident",
+      "title": "新住民基本法三讀 內政部：積極落實推動各項工作",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202407170021.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-07-17",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "2024年7月16日三讀與法律保障事項"
+    },
+    {
+      "id": "p46821-cna-huang-resign",
+      "title": "黃珊珊辭民眾黨中央委員 連同李文宗端木正移送中評會",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202408140157.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-08-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃珊珊辭中央委員及移送中評會"
+    },
+    {
+      "id": "p46821-cna-huang-discipline",
+      "title": "黃珊珊遭民眾黨停權3年黨團副總召停職",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202408200360.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-08-20",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "中評會決議停權3年與理由"
+    },
+    {
+      "id": "p46821-cna-huang-response",
+      "title": "黃珊珊：柯文哲政治獻金支出短漏報逾1937萬 用於選務未挪用",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202408290326.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-08-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃珊珊說明短漏報金額與未挪用回應"
+    },
+    {
+      "id": "p46821-cna-huang-finance",
+      "title": "黃珊珊：藍綠應提財劃法修正草案 理性討論解決問題",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202411110207.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-11-11",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黃珊珊主張提出完整版本並併案協商"
+    },
+    {
+      "id": "p46821-ly-ge-ai",
+      "title": "人工智慧基本法草案併案審查及三讀",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110155620000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-01-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列葛如鈞等37人版本；114年12月23日三讀"
+    },
+    {
+      "id": "p46821-ly-ge-youth",
+      "title": "青年基本法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110075700000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列葛如鈞等5人；頁面標示審查完畢（三讀）"
+    },
+    {
+      "id": "p46821-cna-ge-deepfake",
+      "title": "立委拿AI生成影片質詢真偽 陳建仁：做圈套騙我",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202403190288.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-03-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "葛如鈞以兩段AI生成影片質詢打詐與辨識問題"
+    }
+  ]
+}

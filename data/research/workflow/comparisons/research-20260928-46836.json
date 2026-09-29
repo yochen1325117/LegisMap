@@ -10,7 +10,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-wan-recall-c-wan-recall",
@@ -25,7 +25,7 @@
         "evidenceLevel",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lu-tax",
@@ -33,7 +33,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-lu-recall-c-lu-recall",
@@ -48,7 +48,7 @@
         "evidenceLevel",
         "personResponse"
       ],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-hsu-engineer",
@@ -56,7 +56,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-hsu-recall",
@@ -64,7 +64,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chiang-visit",
@@ -72,7 +72,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-p-chiang-recall",
@@ -80,7 +80,7 @@
       "independentCandidateId": null,
       "matchStatus": "primary_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-wan-assets",
@@ -88,7 +88,7 @@
       "independentCandidateId": "c-wan-assets",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-hsu-nomination",
@@ -96,7 +96,7 @@
       "independentCandidateId": "c-hsu-nomination",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     },
     {
       "id": "comparison-c-chiang-election-case",
@@ -104,7 +104,7 @@
       "independentCandidateId": "c-chiang-election-case",
       "matchStatus": "independent_only",
       "differenceTypes": [],
-      "comparedAt": "2026-09-28"
+      "comparedAt": "2026-09-29"
     }
   ]
 }

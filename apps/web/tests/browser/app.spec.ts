@@ -43,15 +43,15 @@ test('special seats and former member are accessible on mobile', async ({ page }
   await expect(page).toHaveURL(/\/legislator\/ly11-46832$/);
   await expect(page.getByText('2026-02-01')).toBeVisible();
   await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
-  await expect(page.getByRole('link', { name: /立法院/ }).last()).toHaveAttribute('href', 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=46832');
+  await expect(page.locator('a[href="https://www.ly.gov.tw/Pages/List.aspx?nodeid=46832"]').first()).toBeVisible();
   await page.getByRole('button', { name: '關閉立法委員詳細資料' }).click();
   await page.getByRole('button', { name: '收合資料' }).click();
   await expect(page.getByRole('button', { name: '查看資料' })).toBeVisible();
   await page.goto('/legislator/ly11-46823');
-  await expect(page.getByRole('heading', { name: '陳瑩' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '陳瑩', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
   await page.goto('/legislator/ly11-46763');
-  await expect(page.getByRole('heading', { name: '伍麗華Saidhai‧Tahovecahe' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '伍麗華Saidhai‧Tahovecahe', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: '第11屆委員會參與' })).toBeVisible();
 });
 

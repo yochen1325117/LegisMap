@@ -1,0 +1,759 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46805",
+  "versionId": "primary-research-20260928-46805-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-29T10:59:56.114Z",
+  "contentHash": "6d89dce472117c059ecce03dfd507836607fe90c0c7e577be1a5cf97c58f35ac",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46805-legislative",
+      "track": "primary",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ai",
+        "p-wildlife"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46805-government",
+      "track": "primary",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46805-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46805-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-youthrail"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46805-statements",
+      "track": "primary",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46806-legislative",
+      "track": "primary",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-rural",
+        "p-religion"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46806-government",
+      "track": "primary",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46806-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46806-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46806-statements",
+      "track": "primary",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46807-legislative",
+      "track": "primary",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46807-government",
+      "track": "primary",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46807-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-gambling"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46807-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-gambling"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46807-statements",
+      "track": "primary",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-gambling"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46808-legislative",
+      "track": "primary",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-localgov",
+        "p-land"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46808-government",
+      "track": "primary",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46808-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46808-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    },
+    {
+      "id": "primary-ly11-46808-statements",
+      "track": "primary",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46805-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-ai",
+      "memberIds": [
+        "ly11-46805"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜人工智慧基本法草案並併案三讀",
+      "summary": "立法院頁面列張雅琳為提案人，其版本與行政院及多位委員版本併案後完成三讀；成果應表述為參與併案立法。",
+      "occurredAt": "2025-12-04",
+      "officialId": "202110133600000",
+      "sourceIds": [
+        "s-ai"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110133600000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-wildlife",
+      "memberIds": [
+        "ly11-46805"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜野生動物保育法修正案並併案三讀",
+      "summary": "立法院頁面列張雅琳領銜版本，與行政院及其他委員版本併案並完成三讀。",
+      "occurredAt": "2025-01-16",
+      "officialId": "202110022260000",
+      "sourceIds": [
+        "s-wildlife"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110022260000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-youthrail",
+      "memberIds": [
+        "ly11-46805"
+      ],
+      "provisionalCategory": "participation",
+      "title": "質詢青年高鐵票價優惠",
+      "summary": "媒體報導張雅琳質詢建議12至18歲青年搭高鐵享折扣，台灣高鐵董事長承諾3個月內提出初步研議意見；尚非已執行政策。",
+      "occurredAt": "2025-06-25",
+      "officialId": null,
+      "sourceIds": [
+        "s-youthrail"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://anntw.com/system/newspapers/print_copies/000/006/177/original/20250626.pdf?1750844001="
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "personResponse": "台灣高鐵董事長承諾研議。",
+      "processStatus": "government_response",
+      "resultStatus": "responded"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-rural",
+      "memberIds": [
+        "ly11-46806"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出農村再生條例修正草案",
+      "summary": "立法院頁面列張嘉郡、丁學忠為提案人，經濟委員會已完成審查，尚未確認三讀。",
+      "occurredAt": "2024-03-15",
+      "officialId": "202110012100000",
+      "sourceIds": [
+        "s-rural"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110012100000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_complete",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-religion",
+      "memberIds": [
+        "ly11-46806"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "宗教團體不動產暫行條例修正案併案三讀",
+      "summary": "立法院頁面列張嘉郡版本與其他委員版本併案，2024年7月15日三讀並咨請公布。",
+      "occurredAt": "2024-07-15",
+      "officialId": "203110056840000",
+      "sourceIds": [
+        "s-religion"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110056840000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-gambling",
+      "memberIds": [
+        "ly11-46807"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "遭控地下球版賭博案查無不法簽結",
+      "summary": "中央社報導莊瑞雄遭告發賭博、詐欺，北檢查無不法簽結；他表示僅曾請人購買合法運彩，未接觸地下球版。",
+      "occurredAt": "2025-08-30",
+      "officialId": null,
+      "sourceIds": [
+        "s-gambling"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508300036.aspx"
+      ],
+      "roleClaims": [
+        "reported_person"
+      ],
+      "personResponse": "表示僅買合法運彩，未接觸地下球版。",
+      "processStatus": "investigation_closed",
+      "resultStatus": "closed_no_illegal_finding"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-localgov",
+      "memberIds": [
+        "ly11-46808"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出地方制度法修正案並併案三讀",
+      "summary": "立法院頁面列許宇甄等4人為提案人，相關版本併案後於2025年11月21日三讀並咨請公布。",
+      "occurredAt": "2025-11-21",
+      "officialId": "202110133650000",
+      "sourceIds": [
+        "s-localgov"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110133650000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-land",
+      "memberIds": [
+        "ly11-46808"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出國土計畫法增訂條文草案",
+      "summary": "立法院頁面列張嘉郡、丁學忠、許宇甄、徐欣瑩為提案人；2024年12月逕付二讀並交付協商。",
+      "occurredAt": "2024-12-06",
+      "officialId": "202110081410000",
+      "sourceIds": [
+        "s-land"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110081410000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "party_negotiation",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46805-r1",
+      "id": "p-recall",
+      "memberIds": [
+        "ly11-46808"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "伍麗華罷免不實連署案遭起訴並進入審理",
+      "summary": "中央社報導屏檢起訴許宇甄，屏東地院2026年2月傳喚；她否認指示抄寫並作無罪答辯。案件尚未判決。",
+      "occurredAt": "2026-02-09",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "起訴書全文與後續判決"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602090121.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "否認指示抄寫，表示沒有犯罪故意。",
+      "processStatus": "trial",
+      "resultStatus": "pending_trial"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-ai",
+      "title": "人工智慧基本法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110133600000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人與三讀。"
+    },
+    {
+      "id": "s-wildlife",
+      "title": "野生動物保育法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110022260000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-01-16",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-youthrail",
+      "title": "青年高鐵優惠質詢報導",
+      "publisher": "臺灣醒報",
+      "url": "https://anntw.com/system/newspapers/print_copies/000/006/177/original/20250626.pdf?1750844001=",
+      "sourceType": "news",
+      "publishedAt": "2025-06-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "質詢及研議回應。"
+    },
+    {
+      "id": "s-rural",
+      "title": "農村再生條例第二條及第七條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110012100000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-03-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人及審查。"
+    },
+    {
+      "id": "s-religion",
+      "title": "宗教團體不動產暫行條例第五條修正案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110056840000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-07-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "併案與三讀。"
+    },
+    {
+      "id": "s-gambling",
+      "title": "莊瑞雄被控玩球版涉賭博罪 北檢查無不法簽結",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202508300036.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-30",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "簽結結果與回應。"
+    },
+    {
+      "id": "s-localgov",
+      "title": "地方制度法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110133650000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-11-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-land",
+      "title": "國土計畫法增訂第三十二條之一草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110081410000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-12-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "共同提案與協商。"
+    },
+    {
+      "id": "s-recall",
+      "title": "涉罷免伍麗華不實連署案 立委許宇甄稱未指示抄寫",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202602090121.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-02-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴、審理與答辯。"
+    }
+  ]
+}

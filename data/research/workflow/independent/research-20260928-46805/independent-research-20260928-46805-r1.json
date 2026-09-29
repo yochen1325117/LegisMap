@@ -1,0 +1,617 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46805",
+  "versionId": "independent-research-20260928-46805-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-29T10:59:56.482Z",
+  "contentHash": "68076ac6d88a45f4f08a6b5f0ab42de61b3b0e69d98a0717fda5f72cccf31ed0",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46805",
+      "query": "張雅琳 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46806",
+      "query": "張嘉郡 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46807",
+      "query": "莊瑞雄 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46808",
+      "query": "許宇甄 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c1",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46805"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "張雅琳當選第11屆不分區立法委員",
+      "summary": "中選會公告張雅琳為民進黨第11屆不分區立委當選人；其提名及公開說明聚焦兒童權益與遊戲權。",
+      "occurredAt": "2024-01-19",
+      "officialId": null,
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "canonicalSourceUrls": [
+        "https://2024.cec.gov.tw/article/content/?id=NEWS&target=%2Farticle%2FA0217",
+        "https://www.cna.com.tw/news/aipl/202311150236.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46805",
+          "role": "不分區候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "提名時表示將在國會持續關注兒童權益。",
+      "processStatus": "中選會公告當選",
+      "resultStatus": "當選第11屆立法委員",
+      "evidenceLevel": "official_election_record_plus_statement",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "c2",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46806"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "張嘉郡當選第11屆不分區立法委員",
+      "summary": "中選會公告張嘉郡為國民黨第11屆不分區立委當選人，立法院資料確認其任職。",
+      "occurredAt": "2024-01-19",
+      "officialId": null,
+      "sourceIds": [
+        "s1",
+        "s3"
+      ],
+      "canonicalSourceUrls": [
+        "https://2024.cec.gov.tw/article/content/?id=NEWS&target=%2Farticle%2FA0217",
+        "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46806"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46806",
+          "role": "不分區候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會公告並就任",
+      "resultStatus": "當選第11屆立法委員",
+      "evidenceLevel": "official_records",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "c3",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46807"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "莊瑞雄遭控地下球版賭博 北檢查無不法簽結",
+      "summary": "民眾黨團依莊瑞雄質詢發言告發其涉賭博；北檢調查後認其僅曾請辦公室人員購買合法運彩，查無參與地下球版，2025年簽結。",
+      "occurredAt": "2025-08-30",
+      "officialId": null,
+      "sourceIds": [
+        "s4"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508300036.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46807",
+          "role": "遭告發者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "表示只曾於2022年世界盃請辦公室人員協助購買合法運彩，未接觸地下球版，尊重告發者。",
+      "processStatus": "檢察機關調查終結",
+      "resultStatus": "查無不法簽結",
+      "evidenceLevel": "direct_prosecution_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    },
+    {
+      "id": "c4",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46808"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "許宇甄涉罷免伍麗華不實連署案遭起訴",
+      "summary": "屏東地檢署就罷免伍麗華提議名冊不實連署案起訴許宇甄等人；2026年法院準備程序中，許宇甄否認指示抄寫名冊。案件尚未判決。",
+      "occurredAt": "2025-10-30",
+      "officialId": null,
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202602090121.aspx",
+        "https://udn.com/news/story/7321/9318340",
+        "https://www.knews.com.tw/news/974D02C856F490284102AB08B9DD5032"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46808",
+          "role": "刑事被告及時任國民黨組發會主委"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "否認指示任何人抄寫，對部分證據能力與檢方證據力主張提出爭執。",
+      "processStatus": "已起訴，一審準備程序中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "indictment_reporting_with_defense",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46805-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "中選會審定公告第11屆立法委員選舉結果暨當選人名單",
+      "publisher": "中央選舉委員會",
+      "url": "https://2024.cec.gov.tw/article/content/?id=NEWS&target=%2Farticle%2FA0217",
+      "sourceType": "official_database",
+      "publishedAt": "2024-01-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "張雅琳、張嘉郡不分區當選名單"
+    },
+    {
+      "id": "s2",
+      "title": "列民進黨不分區 張雅琳矢言關注兒童權益",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202311150236.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-11-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提名與本人政策說明"
+    },
+    {
+      "id": "s3",
+      "title": "張嘉郡委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46806",
+      "sourceType": "official_database",
+      "publishedAt": "2024-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第11屆任職資料"
+    },
+    {
+      "id": "s4",
+      "title": "莊瑞雄被控玩球版涉賭博罪 北檢查無不法簽結",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508300036.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2025-08-30",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "告發、調查結果與本人回應"
+    },
+    {
+      "id": "s5",
+      "title": "涉罷免伍麗華不實連署案 立委許宇甄稱未指示抄寫",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202602090121.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-02-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴、準備程序與否認答辯"
+    },
+    {
+      "id": "s6",
+      "title": "罷免伍麗華涉偽造文書案 立委許宇甄稱沒指示任何人抄寫",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/story/7321/9318340",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-02-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "共同被告認罪情形及證據爭議"
+    },
+    {
+      "id": "s7",
+      "title": "國民黨中央黨部抄名冊罷免伍麗華 組發會主委許宇甄9人起訴",
+      "publisher": "知新聞",
+      "url": "https://www.knews.com.tw/news/974D02C856F490284102AB08B9DD5032",
+      "sourceType": "indictment_reporting",
+      "publishedAt": "2025-10-31",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴書指控摘要"
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46780",
+  "versionId": "primary-research-20260929-46780-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:03:31.281Z",
+  "contentHash": "c8630dfa69466a23d785bd8ca45039d2869d4b759f12c4e98915200ab81d1ade",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46780-legislative",
+      "track": "primary",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-fair-trade-20241206"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46780-government",
+      "track": "primary",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46780-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-assistant-indictment-20250623"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46780-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-lin-assistant-indictment-20250623"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46780-statements",
+      "track": "primary",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46853-legislative",
+      "track": "primary",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chung-energy-law-20250321"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46853-government",
+      "track": "primary",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46853-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chung-property-indictment-20260909"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46853-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chung-property-indictment-20260909"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46853-statements",
+      "track": "primary",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46813-legislative",
+      "track": "primary",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-pension-law-20251028"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46813-government",
+      "track": "primary",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46813-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-defamation-lawsuit-20250815"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46813-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-defamation-lawsuit-20250815"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46813-statements",
+      "track": "primary",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46820-legislative",
+      "track": "primary",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-finance-law-20251121"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46820-government",
+      "track": "primary",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46820-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-sexual-harassment-20230606"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46820-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-chen-sexual-harassment-20230606"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-ly11-46820-statements",
+      "track": "primary",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46780-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-lin-fair-trade-20241206",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46780"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出公平交易委員會組織法修正草案",
+      "summary": "林岱樺領銜提出公平交易委員會組織法第二條及第九條修正草案，案件已交付聯席委員會審查。",
+      "occurredAt": "2024-12-06",
+      "officialId": "202110081100000",
+      "sourceIds": [
+        "p46780-ly-lin-fair-trade"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110081100000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-lin-assistant-indictment-20250623",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46780"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "助理費等案遭檢方起訴並進入審理",
+      "summary": "高雄地檢署起訴林岱樺等10人，案件已進入法院審理；林岱樺否認貪污與不法。現有兩篇中央社報導屬同一發布者，待補檢方直接新聞稿。",
+      "occurredAt": "2025-06-23",
+      "officialId": null,
+      "sourceIds": [
+        "p46780-cna-lin-indictment",
+        "p46780-cna-lin-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202506230176.aspx",
+        "https://www.cna.com.tw/news/asoc/202510270141.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "高雄地檢署起訴新聞稿或第二獨立發布者"
+      ],
+      "personResponse": "林岱樺否認犯罪，主張相關人員有實際從事助理工作。",
+      "processStatus": "trial",
+      "resultStatus": "indicted",
+      "evidenceLevel": "named_single_publisher",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-chung-energy-law-20250321",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46853"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出能源管理法部分條文修正草案",
+      "summary": "鍾佳濱等20人提出能源管理法部分條文修正草案，院會將案件交經濟委員會審查。",
+      "occurredAt": "2025-03-21",
+      "officialId": null,
+      "sourceIds": [
+        "p46780-ly-chung-energy"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025031951/details?meetingDate=114%2F03%2F25"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_referral",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-chung-property-indictment-20260909",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46853"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "涉破壞護欄鋼索遭起訴",
+      "summary": "中央社報導北檢依毀損公務員職務上掌管物品罪嫌起訴鍾佳濱；鍾主張行為出於緊急避難及政治性意見表達。尚待補檢方直接來源。",
+      "occurredAt": "2026-09-09",
+      "officialId": null,
+      "sourceIds": [
+        "p46780-cna-chung-indictment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202609090069.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "臺北地檢署起訴新聞稿或第二獨立發布者"
+      ],
+      "personResponse": "鍾佳濱表示尊重司法，主張為使救護車進入而屬緊急避難。",
+      "processStatus": "indictment",
+      "resultStatus": "indicted",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-chen-pension-law-20251028",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46813"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出公務人員退休資遣撫卹法修正草案",
+      "summary": "陳玉珍領銜提出公務人員退休資遣撫卹法第七十八條修正草案，案件已交司法及法制委員會審查。",
+      "occurredAt": "2025-10-28",
+      "officialId": "202110166530000",
+      "sourceIds": [
+        "p46780-ly-chen-pension"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110166530000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-chen-defamation-lawsuit-20250815",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46813"
+      ],
+      "provisionalCategory": "profile",
+      "title": "就拉衣爭議提告求償獲一審判賠",
+      "summary": "陳玉珍就吳沛憶指稱其拉衣求碰瓷提起民事訴訟，北院一審判吳沛憶賠償5萬元；報導時仍可上訴，待補直接判決來源。",
+      "occurredAt": "2025-08-15",
+      "officialId": null,
+      "sourceIds": [
+        "p46780-cna-chen-lawsuit"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508150323.aspx"
+      ],
+      "roleClaims": [
+        "plaintiff"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "法院直接判決或第二獨立發布者"
+      ],
+      "personResponse": null,
+      "processStatus": "first_instance",
+      "resultStatus": "appeal_possible",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-chen-finance-law-20251121",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46820"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出離島財政分配修正草案並進入院會表決",
+      "summary": "陳雪生等人提出財政收支劃分法第十六條之一修正草案；立法院公報保存協商、修正動議及具名表決紀錄。",
+      "occurredAt": "2025-11-21",
+      "officialId": null,
+      "sourceIds": [
+        "p46780-ly-chen-finance"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/97/LCIDC01_1149701.pdf"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "plenary_vote",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46780-r1"
+    },
+    {
+      "id": "primary-chen-sexual-harassment-20230606",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46820"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "性騷擾侵權民事判決確定",
+      "summary": "臺北地方法院二審認定陳雪生行為符合性騷擾要件，駁回其上訴並維持賠償范雲8萬元，判決確定。事件發生於先前立委任期。",
+      "occurredAt": "2023-06-06",
+      "officialId": "TPDV-111-簡上-90",
+      "sourceIds": [
+        "p46780-judicial-chen-harassment",
+        "p46780-cna-chen-harassment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.judicial.gov.tw/tw/cp-1888-879892-2261a-1.html",
+        "https://www.cna.com.tw/news/asoc/202206280044.aspx"
+      ],
+      "roleClaims": [
+        "civil_defendant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "陳雪生在事件後公開道歉，訴訟中則提起上訴。",
+      "processStatus": "final_judgment",
+      "resultStatus": "final",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "prior_public_office",
+      "versionId": "primary-research-20260929-46780-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "p46780-ly-lin-fair-trade",
+      "title": "公平交易委員會組織法第二條及第九條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110081100000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-12-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列林岱樺為提案人並載明交付委員會審查"
+    },
+    {
+      "id": "p46780-cna-lin-indictment",
+      "title": "林岱樺涉詐助理費、背信與公益侵占案 雄檢起訴10人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202506230176.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導高雄地檢署起訴罪名、金額與林岱樺否認犯行"
+    },
+    {
+      "id": "p46780-cna-lin-response",
+      "title": "涉詐助理費出庭 林岱樺否認不法",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202510270141.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-27",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "載明案件審理進度與林岱樺答辯"
+    },
+    {
+      "id": "p46780-ly-chung-energy",
+      "title": "立法院第11屆第3會期第6次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025031951/details?meetingDate=114%2F03%2F25",
+      "sourceType": "official",
+      "publishedAt": "2025-03-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報告事項列鍾佳濱等20人能源管理法部分條文修正草案並交經濟委員會"
+    },
+    {
+      "id": "p46780-cna-chung-indictment",
+      "title": "鍾佳濱涉破壞護欄鋼索 北檢依毀損公物罪嫌起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202609090069.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導北檢起訴內容及鍾佳濱緊急避難、抵抗權答辯"
+    },
+    {
+      "id": "p46780-ly-chen-pension",
+      "title": "公務人員退休資遣撫卹法第七十八條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110166530000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列陳玉珍為提案人並載明交付司法及法制委員會"
+    },
+    {
+      "id": "p46780-cna-chen-lawsuit",
+      "title": "陳玉珍遭指拉衣求碰瓷 法院判吳沛憶賠5萬元",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508150323.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導北院一審判決及吳沛憶考慮上訴"
+    },
+    {
+      "id": "p46780-ly-chen-finance",
+      "title": "財政收支劃分法修正案院會公報",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/97/LCIDC01_1149701.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-11-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "公報載陳雪生等27人提案、協商與具名表決結果"
+    },
+    {
+      "id": "p46780-judicial-chen-harassment",
+      "title": "臺北地方法院111年度簡上字第90號侵權行為損害賠償事件新聞稿",
+      "publisher": "司法院",
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-879892-2261a-1.html",
+      "sourceType": "official",
+      "publishedAt": "2023-06-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "判決駁回陳雪生上訴，維持性騷擾侵權賠償8萬元之判決"
+    },
+    {
+      "id": "p46780-cna-chen-harassment",
+      "title": "法院判陳雪生性騷擾賠償8萬元確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202206280044.aspx",
+      "sourceType": "news",
+      "publishedAt": "2023-06-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "更新內容載民事二審判決確定及案件背景"
+    }
+  ]
+}

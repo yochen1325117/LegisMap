@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260929-46855",
+  "primaryVersionId": "primary-research-20260929-46855-r1",
+  "independentVersionId": "independent-research-20260929-46855-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-yen-gender-work-20250620",
+      "primaryCandidateId": "primary-yen-gender-work-20250620",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-yen-corruption-remand-20260528-c-yan",
+      "primaryCandidateId": "primary-yen-corruption-remand-20260528",
+      "independentCandidateId": "c-yan",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-luo-ai-law-20251223",
+      "primaryCandidateId": "primary-luo-ai-law-20251223",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-luo-recall-20250726",
+      "primaryCandidateId": "primary-luo-recall-20250726",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-fu-nationality-law-20251128",
+      "primaryCandidateId": "primary-fu-nationality-law-20251128",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-fu-recall-20250726",
+      "primaryCandidateId": "primary-fu-recall-20250726",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-ma-old-farmer-20240409",
+      "primaryCandidateId": "primary-ma-old-farmer-20240409",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-ma-recall-20250823-c-ma",
+      "primaryCandidateId": "primary-ma-recall-20250823",
+      "independentCandidateId": "c-ma",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-luo",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-luo",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-fu",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-fu",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

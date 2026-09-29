@@ -2,23 +2,23 @@
   "generatedAt": "2026-09-27",
   "memberCount": 120,
   "coverage": {
-    "bills": 59,
+    "bills": 70,
     "budgets": 1,
-    "questions": 12,
+    "questions": 13,
     "namedVotes": 111,
-    "newsSources": 70
+    "newsSources": 100
   },
   "workflow": {
-    "complete": 44,
-    "stale": 76,
+    "complete": 120,
+    "stale": 0,
     "inProgress": 0,
     "notStarted": 0,
-    "primaryCompletionRate": 0.36666666666666664,
-    "independentCompletionRate": 0.36666666666666664,
+    "primaryCompletionRate": 1,
+    "independentCompletionRate": 1,
     "candidateOverlapRate": 0,
-    "unilateralDiscoveryRate": 0.8843537414965986,
+    "unilateralDiscoveryRate": 0.9168831168831169,
     "adjudicationCompletionRate": 1,
-    "candidateCount": 164,
+    "candidateCount": 417,
     "staleSourceCount": 0,
     "confirmedStaleSourceCount": 0,
     "indeterminateSourceCount": 10
@@ -29,14 +29,14 @@
       "name": "丁學忠",
       "seatType": "district",
       "regionName": "雲林縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4,
+      "publicEvents": 6,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46757",
@@ -46,11 +46,11 @@
       "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 3,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46758",
@@ -71,14 +71,14 @@
       "name": "王育敏",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46760",
@@ -90,9 +90,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 2,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46761",
@@ -104,9 +104,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5,
+      "publicEvents": 8,
       "newsSources": 3,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46762",
@@ -130,11 +130,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46764",
@@ -186,11 +186,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 3,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46768",
@@ -269,12 +269,12 @@
       "regionName": "高雄市",
       "bills": 1,
       "budgets": 0,
-      "questions": 0,
+      "questions": 1,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46773",
@@ -298,25 +298,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 3,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 5,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46775",
       "name": "沈伯洋",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46776",
@@ -330,35 +330,35 @@
       "namedVotes": 1,
       "publicEvents": 2,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46777",
       "name": "林月琴",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46778",
       "name": "林沛祥",
       "seatType": "district",
       "regionName": "基隆市",
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 2,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46779",
@@ -368,25 +368,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3,
+      "publicEvents": 6,
       "newsSources": 2,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46780",
       "name": "林岱樺",
       "seatType": "district",
       "regionName": "高雄市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 3,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46781",
@@ -407,28 +407,28 @@
       "name": "林思銘",
       "seatType": "district",
       "regionName": "新竹縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5,
-      "newsSources": 3,
-      "researchStatus": "stale"
+      "publicEvents": 8,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46783",
       "name": "林倩綺",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46785",
@@ -454,9 +454,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 4,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46787",
@@ -477,14 +477,14 @@
       "name": "邱志偉",
       "seatType": "district",
       "regionName": "高雄市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46789",
@@ -505,28 +505,28 @@
       "name": "邱鎮軍",
       "seatType": "district",
       "regionName": "苗栗縣",
-      "bills": 2,
+      "bills": 4,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5,
-      "newsSources": 2,
-      "researchStatus": "stale"
+      "publicEvents": 8,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46791",
       "name": "邱議瑩",
       "seatType": "district",
       "regionName": "高雄市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46792",
@@ -538,9 +538,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46793",
@@ -552,9 +552,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46794",
@@ -575,14 +575,14 @@
       "name": "范雲",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46796",
@@ -617,14 +617,14 @@
       "name": "徐富癸",
       "seatType": "district",
       "regionName": "屏東縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3,
+      "publicEvents": 5,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46799",
@@ -648,39 +648,39 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46800",
       "name": "馬文君",
       "seatType": "district",
       "regionName": "南投縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5,
-      "newsSources": 4,
-      "researchStatus": "stale"
+      "publicEvents": 7,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46801",
       "name": "高金素梅",
       "seatType": "mountain_indigenous",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
+      "publicEvents": 2,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46802",
@@ -718,25 +718,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46806",
       "name": "張嘉郡",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 4,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46807",
@@ -748,9 +748,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46808",
@@ -760,25 +760,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46809",
       "name": "許智傑",
       "seatType": "district",
       "regionName": "高雄市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46810",
@@ -788,25 +788,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46811",
       "name": "郭國文",
       "seatType": "district",
       "regionName": "臺南市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 3,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46812",
@@ -818,23 +818,23 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46813",
       "name": "陳玉珍",
       "seatType": "district",
       "regionName": "金門縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 4,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 5,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46814",
@@ -858,11 +858,11 @@
       "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 1,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46816",
@@ -872,11 +872,11 @@
       "bills": 2,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 4,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 7,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46817",
@@ -886,11 +886,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 2,
+      "oversight": 3,
       "namedVotes": 1,
-      "publicEvents": 3,
+      "publicEvents": 7,
       "newsSources": 2,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46755",
@@ -902,9 +902,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46818",
@@ -928,39 +928,39 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46820",
       "name": "陳雪生",
       "seatType": "district",
       "regionName": "連江縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 6,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 7,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46821",
       "name": "陳菁徽",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46822",
@@ -972,9 +972,9 @@
       "questions": 0,
       "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 3,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46823",
@@ -984,39 +984,39 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46824",
       "name": "傅崐萁",
       "seatType": "district",
       "regionName": "花蓮縣",
-      "bills": 3,
+      "bills": 4,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 6,
-      "newsSources": 2,
-      "researchStatus": "stale"
+      "publicEvents": 8,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46826",
       "name": "游顥",
       "seatType": "district",
       "regionName": "南投縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 5,
+      "publicEvents": 7,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46827",
@@ -1028,9 +1028,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46828",
@@ -1056,9 +1056,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 1,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46831",
@@ -1068,39 +1068,39 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 1,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46833",
       "name": "黃捷",
       "seatType": "district",
       "regionName": "高雄市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 5,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46834",
       "name": "楊曜",
       "seatType": "district",
       "regionName": "澎湖縣",
-      "bills": 2,
+      "bills": 3,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 3,
+      "publicEvents": 5,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46835",
@@ -1110,11 +1110,11 @@
       "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 3,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 1,
-      "researchStatus": "stale"
+      "publicEvents": 7,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46836",
@@ -1152,11 +1152,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46839",
@@ -1177,14 +1177,14 @@
       "name": "廖偉翔",
       "seatType": "district",
       "regionName": "臺中市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 1,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46841",
@@ -1219,42 +1219,42 @@
       "name": "蔡易餘",
       "seatType": "district",
       "regionName": "嘉義縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 3,
-      "researchStatus": "stale"
+      "publicEvents": 8,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46844",
       "name": "鄭天財Sra Kacaw",
       "seatType": "plains_indigenous",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46845",
       "name": "鄭正鈐",
       "seatType": "district",
       "regionName": "新竹市",
-      "bills": 3,
+      "bills": 4,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 6,
-      "newsSources": 3,
-      "researchStatus": "stale"
+      "publicEvents": 8,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46846",
@@ -1275,14 +1275,14 @@
       "name": "盧縣一",
       "seatType": "mountain_indigenous",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46848",
@@ -1306,25 +1306,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 2,
-      "newsSources": 1,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46850",
       "name": "賴瑞隆",
       "seatType": "district",
       "regionName": "高雄市",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 3,
       "newsSources": 1,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46851",
@@ -1345,28 +1345,28 @@
       "name": "謝龍介",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 0,
+      "bills": 1,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46853",
       "name": "鍾佳濱",
       "seatType": "district",
       "regionName": "屏東縣",
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 4,
-      "newsSources": 8,
-      "researchStatus": "stale"
+      "publicEvents": 6,
+      "newsSources": 9,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46854",
@@ -1378,9 +1378,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46855",
@@ -1390,11 +1390,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3,
+      "publicEvents": 5,
       "newsSources": 3,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46856",
@@ -1404,11 +1404,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 1,
+      "oversight": 2,
       "namedVotes": 1,
-      "publicEvents": 3,
-      "newsSources": 2,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 4,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46857",
@@ -1432,11 +1432,11 @@
       "bills": 1,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46859",
@@ -1476,9 +1476,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 5,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-55030",
@@ -1488,25 +1488,25 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-55855",
       "name": "王義川",
       "seatType": "party_list",
       "regionName": null,
-      "bills": 1,
+      "bills": 2,
       "budgets": 0,
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 2,
+      "publicEvents": 3,
       "newsSources": 0,
-      "researchStatus": "stale"
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-77699",
@@ -1616,9 +1616,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46864",
@@ -1630,9 +1630,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 3,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46803",
@@ -1644,9 +1644,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 4,
+      "newsSources": 2,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46756",
@@ -1656,11 +1656,11 @@
       "bills": 0,
       "budgets": 0,
       "questions": 0,
-      "oversight": 0,
+      "oversight": 1,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 2,
+      "newsSources": 1,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46830",
@@ -1672,9 +1672,9 @@
       "questions": 0,
       "oversight": 0,
       "namedVotes": 1,
-      "publicEvents": 1,
-      "newsSources": 0,
-      "researchStatus": "stale"
+      "publicEvents": 2,
+      "newsSources": 3,
+      "researchStatus": "complete"
     },
     {
       "memberId": "ly11-46832",

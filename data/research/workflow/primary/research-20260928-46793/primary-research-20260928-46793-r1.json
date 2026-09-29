@@ -1,0 +1,857 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46793",
+  "versionId": "primary-research-20260928-46793-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:30:40.255Z",
+  "contentHash": "bca30c58e2d1bc72406d0d2dbe009b3e3c9b497a42bbcb6e93dc3aff1819c0bd",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46793-legislative",
+      "track": "primary",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ke-constitution"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46793-government",
+      "track": "primary",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46793-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ke-injury"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46793-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ke-injury"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46793-statements",
+      "track": "primary",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-ke-injury"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46795-legislative",
+      "track": "primary",
+      "memberId": "ly11-46795",
+      "query": "范雲 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-fan-archives",
+        "p-fan-eugenics"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46795-government",
+      "track": "primary",
+      "memberId": "ly11-46795",
+      "query": "范雲 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46795-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46795",
+      "query": "范雲 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-fan-rumor"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46795-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46795",
+      "query": "范雲 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-fan-rumor"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46795-statements",
+      "track": "primary",
+      "memberId": "ly11-46795",
+      "query": "范雲 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-fan-rumor"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46754-legislative",
+      "track": "primary",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-weng-broadcast",
+        "p-weng-juvenile"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46754-government",
+      "track": "primary",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46754-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-weng-cao"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46754-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-weng-cao"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46754-statements",
+      "track": "primary",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-weng-cao"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46803-legislative",
+      "track": "primary",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chang-budget"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46803-government",
+      "track": "primary",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chang-disaster"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46803-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chang-tape"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46803-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chang-disaster",
+        "p-chang-tape"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    },
+    {
+      "id": "primary-ly11-46803-statements",
+      "track": "primary",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chang-tape"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46793-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-ke-constitution",
+      "memberIds": [
+        "ly11-46793"
+      ],
+      "provisionalCategory": "participation",
+      "title": "參與憲法訴訟法修法暫時處分聲請",
+      "summary": "司法院公開的聲請書列柯建銘等51名立委就憲法訴訟法修正提出暫時處分聲請；此為憲政職權參與，不代表聲請結果。",
+      "occurredAt": "2025-01-15",
+      "officialId": null,
+      "sourceIds": [
+        "s-ke-constitution"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.judicial.gov.tw/tw/dl-235791-24cf5cbe1bf542798acfd1b6b4d341a6.html"
+      ],
+      "roleClaims": [
+        "constitutional_petitioner"
+      ],
+      "personResponse": null,
+      "processStatus": "constitutional_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-ke-injury",
+      "memberIds": [
+        "ly11-46793"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "議場拐杖擊中徐巧芯案遭起訴",
+      "summary": "中央社報導北檢起訴指柯建銘敲桌時拐杖前段飛出擊中徐巧芯；柯出庭稱是在捍衛憲政體制。案件仍在審理，未經有罪判決。",
+      "occurredAt": "2026-06-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-ke-injury"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "起訴書或法院最新結果"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://news.cts.com.tw/cna/society/202606/202606233047069.html"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "出庭表示行為是為捍衛憲政體制。",
+      "processStatus": "trial",
+      "resultStatus": "pending_trial"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-fan-archives",
+      "memberIds": [
+        "ly11-46795"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "政治檔案條例修正案併案三讀",
+      "summary": "立法院議案頁列范雲為提案人之一；其版本與行政院及其他委員版本併案，2023年完成三讀。只能表述為共同提案參與。",
+      "occurredAt": "2023-12-15",
+      "officialId": "1110519070204100",
+      "sourceIds": [
+        "s-fan-archives"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/1110519070204100/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-fan-eugenics",
+      "memberIds": [
+        "ly11-46795"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出優生保健法修正草案",
+      "summary": "立法院議案頁列范雲、林宜瑾為提案人，2024年11月交付衛環委員會，未確認三讀。",
+      "occurredAt": "2024-11-15",
+      "officialId": "202110077350000",
+      "sourceIds": [
+        "s-fan-eugenics"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110077350000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-fan-rumor",
+      "memberIds": [
+        "ly11-46795"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "散布謠言裁罰案法院裁定不罰",
+      "summary": "中央社報導范雲因社群貼文遭警方依社維法移送，北院認定她修正文字且無散布不實謠言故意，裁定不罰。",
+      "occurredAt": "2024-01-11",
+      "officialId": null,
+      "sourceIds": [
+        "s-fan-rumor"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202401110061.aspx"
+      ],
+      "roleClaims": [
+        "respondent"
+      ],
+      "personResponse": "辦公室重聽錄音後修正貼文。",
+      "processStatus": "closed",
+      "resultStatus": "closed_no_penalty"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-weng-broadcast",
+      "memberIds": [
+        "ly11-46754"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜廣播電視法修正案三讀",
+      "summary": "立法院議案頁列翁曉玲版本併案，2026年8月4日三讀並咨請公布；頁面註記不副署未公布，應與生效分開。",
+      "occurredAt": "2026-08-04",
+      "officialId": "203110228260000",
+      "sourceIds": [
+        "s-weng-broadcast"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110228260000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed_not_promulgated"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-weng-juvenile",
+      "memberIds": [
+        "ly11-46754"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜少年事件處理法修正草案",
+      "summary": "立法院議案頁列翁曉玲、羅廷瑋為提案人；2025年9月交付司法法制委員會審查。",
+      "occurredAt": "2025-09-30",
+      "officialId": "202110160200000",
+      "sourceIds": [
+        "s-weng-juvenile"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110160200000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-weng-cao",
+      "memberIds": [
+        "ly11-46754"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "曹興誠名譽求償案二審仍判翁曉玲勝訴",
+      "summary": "中央社報導曹興誠因翁曉玲對捐款與政治言論的評論求償，二審認為屬可受公評事項與合理評論，翁仍勝訴。",
+      "occurredAt": "2026-05-05",
+      "officialId": null,
+      "sourceIds": [
+        "s-weng-cao"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202605050112.aspx"
+      ],
+      "roleClaims": [
+        "civil_defendant"
+      ],
+      "personResponse": "翁曉玲主張相關評論涉及公共利益。",
+      "processStatus": "second_instance_judgment",
+      "resultStatus": "civil_claim_dismissed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-chang-budget",
+      "memberIds": [
+        "ly11-46803"
+      ],
+      "provisionalCategory": "participation",
+      "title": "提出國發會永續發展計畫預算凍結案",
+      "summary": "立法院公報記錄張啓楷提出凍結國發會永續發展計畫200萬元，待向經濟委員會報告後始得動支。",
+      "occurredAt": "2025-01-21",
+      "officialId": null,
+      "sourceIds": [
+        "s-chang-budget"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/PublicationBulletinDetail/download/communique1/final/pdf/114/19/LCIDC01_1141910.pdf"
+      ],
+      "roleClaims": [
+        "budget_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "budget_resolution",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-chang-disaster",
+      "memberIds": [
+        "ly11-46803"
+      ],
+      "provisionalCategory": "participation",
+      "title": "質詢丹娜絲風災前進指揮所設置時程",
+      "summary": "中央社報導張啓楷於院會質疑中央前進指揮所成立較晚及災防辦主任出國；行政院長回應主任是參加APEC會議。",
+      "occurredAt": "2025-08-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-chang-disaster"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508120128.aspx"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "personResponse": "行政院長回應出國為參加APEC會議。",
+      "processStatus": "government_response",
+      "resultStatus": "responded"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46793-r1",
+      "id": "p-chang-tape",
+      "memberIds": [
+        "ly11-46803"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "偵訊錄音爭議案以證人身分應訊",
+      "summary": "中央社報導北檢偵辦黃國昌播放疑似偵訊錄音案，傳喚張啓楷作證；張是證人，不得表述為被告或涉罪。",
+      "occurredAt": "2025-07-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-chang-tape"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202507020170.aspx"
+      ],
+      "roleClaims": [
+        "witness"
+      ],
+      "personResponse": null,
+      "processStatus": "investigation",
+      "resultStatus": "witness_questioned"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-ke-constitution",
+      "title": "立法委員柯建銘等51人暫時處分裁定聲請書",
+      "publisher": "司法院",
+      "url": "https://www.judicial.gov.tw/tw/dl-235791-24cf5cbe1bf542798acfd1b6b4d341a6.html",
+      "sourceType": "official",
+      "publishedAt": "2025-01-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "聲請人與理由。"
+    },
+    {
+      "id": "s-ke-injury",
+      "title": "柯建銘涉過失傷害徐巧芯案 出庭稱捍衛憲政體制",
+      "publisher": "中央社／華視",
+      "url": "https://news.cts.com.tw/cna/society/202606/202606233047069.html",
+      "sourceType": "news",
+      "publishedAt": "2026-06-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴內容及回應。"
+    },
+    {
+      "id": "s-fan-archives",
+      "title": "政治檔案條例部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/1110519070204100/details",
+      "sourceType": "official",
+      "publishedAt": "2023-12-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人及三讀進度。"
+    },
+    {
+      "id": "s-fan-eugenics",
+      "title": "優生保健法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110077350000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-11-15",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人及進度。"
+    },
+    {
+      "id": "s-fan-rumor",
+      "title": "被控散布謠言 法官裁范雲、陳建仁不罰",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202401110061.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-11",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "法院裁定理由。"
+    },
+    {
+      "id": "s-weng-broadcast",
+      "title": "廣播電視法修正草案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110228260000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-08-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "三讀及未公布註記。"
+    },
+    {
+      "id": "s-weng-juvenile",
+      "title": "少年事件處理法第三十一條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110160200000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-09-30",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人及審查進度。"
+    },
+    {
+      "id": "s-weng-cao",
+      "title": "翁曉玲指未兌現捐款 曹興誠求償二審仍敗訴",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202605050112.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二審結果與理由。"
+    },
+    {
+      "id": "s-chang-budget",
+      "title": "立法院公報第114卷第19期",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationBulletinDetail/download/communique1/final/pdf/114/19/LCIDC01_1141910.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-01-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "張啓楷預算提案段落。"
+    },
+    {
+      "id": "s-chang-disaster",
+      "title": "立委指災防辦主任救災時出國 卓榮泰：參加APEC會議",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202508120128.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "質詢與行政院回應。"
+    },
+    {
+      "id": "s-chang-tape",
+      "title": "黃國昌示範帶爭議 北檢傳喚張啓楷作證",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202507020170.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "證人身分與案情。"
+    }
+  ]
+}

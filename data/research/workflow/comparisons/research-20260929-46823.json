@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260929-46823",
+  "primaryVersionId": "primary-research-20260929-46823-r1",
+  "independentVersionId": "independent-research-20260929-46823-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-mining",
+      "primaryCandidateId": "p-mining",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-division-cosign",
+      "primaryCandidateId": "p-division-cosign",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-recall-chen",
+      "primaryCandidateId": "p-recall-chen",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-climate-coprop",
+      "primaryCandidateId": "p-climate-coprop",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-pingpu",
+      "primaryCandidateId": "p-pingpu",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-privacy",
+      "primaryCandidateId": "p-privacy",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-bribery-cand-46844-bribery-indictment",
+      "primaryCandidateId": "p-bribery",
+      "independentCandidateId": "cand-46844-bribery-indictment",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-division",
+      "primaryCandidateId": "p-division",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-gas",
+      "primaryCandidateId": "p-gas",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-recall-wu",
+      "primaryCandidateId": "p-recall-wu",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46823-recall-forgery",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46823-recall-forgery",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46827-legislative-conflict-indictment",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46827-legislative-conflict-indictment",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46763-recall-forgery",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46763-recall-forgery",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

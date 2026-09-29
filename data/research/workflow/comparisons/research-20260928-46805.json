@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46805",
+  "primaryVersionId": "primary-research-20260928-46805-r1",
+  "independentVersionId": "independent-research-20260928-46805-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-ai",
+      "primaryCandidateId": "p-ai",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-wildlife",
+      "primaryCandidateId": "p-wildlife",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-youthrail",
+      "primaryCandidateId": "p-youthrail",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-rural",
+      "primaryCandidateId": "p-rural",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-religion",
+      "primaryCandidateId": "p-religion",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-gambling-c3",
+      "primaryCandidateId": "p-gambling",
+      "independentCandidateId": "c3",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-localgov",
+      "primaryCandidateId": "p-localgov",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-land",
+      "primaryCandidateId": "p-land",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-recall",
+      "primaryCandidateId": "p-recall",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c1",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c1",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c2",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c2",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c4",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c4",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

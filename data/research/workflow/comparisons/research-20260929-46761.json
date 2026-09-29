@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260929-46761",
+  "primaryVersionId": "primary-research-20260929-46761-r1",
+  "independentVersionId": "independent-research-20260929-46761-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-a",
+      "primaryCandidateId": "p-a",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-b",
+      "primaryCandidateId": "p-b",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-c",
+      "primaryCandidateId": "p-c",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-d",
+      "primaryCandidateId": "p-d",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-e",
+      "primaryCandidateId": "p-e",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-f",
+      "primaryCandidateId": "p-f",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-g-c-lin-assistant-fees",
+      "primaryCandidateId": "p-g",
+      "independentCandidateId": "c-lin-assistant-fees",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-h",
+      "primaryCandidateId": "p-h",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-i",
+      "primaryCandidateId": "p-i",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-j",
+      "primaryCandidateId": "p-j",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-wang-meihui-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wang-meihui-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-wang-dingyu-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-wang-dingyu-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-huang-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-huang-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

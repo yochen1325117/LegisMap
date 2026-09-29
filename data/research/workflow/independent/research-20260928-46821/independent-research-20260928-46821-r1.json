@@ -1,0 +1,602 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46821",
+  "versionId": "independent-research-20260928-46821-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-29T11:03:41.724Z",
+  "contentHash": "67e302db12d6b952c55b7ccb03763bddf2a937e181f2dacd71b2a4de9b67702f",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46821",
+      "query": "陳菁徽 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46756",
+      "query": "麥玉珍 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46830",
+      "query": "黃珊珊 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46838",
+      "query": "葛如鈞 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c1",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46821"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "陳菁徽洩漏疫苗接種資料二審判刑5月緩刑2年",
+      "summary": "陳菁徽因將林秉樞疫苗接種紀錄外流遭依個資法起訴；二審維持5月徒刑，但因坦認犯行並與被害人和解，宣告緩刑2年。",
+      "occurredAt": "2025-08-21",
+      "officialId": null,
+      "sourceIds": [
+        "s1"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508210095.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46821",
+          "role": "刑事被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "二審坦認犯行並與林秉樞和解。",
+      "processStatus": "刑事二審判決",
+      "resultStatus": "有期徒刑5月、緩刑2年；未查得確定證明",
+      "evidenceLevel": "appellate_court_result_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "c2",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46756"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "麥玉珍當選第11屆不分區立法委員",
+      "summary": "中選會公告麥玉珍為台灣民眾黨第11屆不分區立委當選人。",
+      "occurredAt": "2024-01-19",
+      "officialId": null,
+      "sourceIds": [
+        "s2"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/41421"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46756",
+          "role": "不分區候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會公告當選",
+      "resultStatus": "當選第11屆立法委員",
+      "evidenceLevel": "official_election_record",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "c3",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46830"
+      ],
+      "provisionalCategory": "政治獻金與黨紀",
+      "title": "黃珊珊因柯文哲政治獻金申報爭議遭民眾黨停權3年",
+      "summary": "民眾黨中評會2024年就總統大選政治獻金申報爭議，認黃珊珊具選務及法律經驗仍使政黨陷入清廉疑雲，處以停權3年並停止黨團副總召職務；後續監察院裁罰時，她表示將提救濟。",
+      "occurredAt": "2024-08-20",
+      "officialId": null,
+      "sourceIds": [
+        "s3",
+        "s4"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202408200360.aspx",
+        "https://www.cna.com.tw/news/aipl/202503200087.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46830",
+          "role": "時任競選總幹事、善後小組召集人及受黨紀處分者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "向中評會說明事件經過；監察院裁罰後表示漏報錯報支出有憑證、將依法救濟。",
+      "processStatus": "政黨停權處分；監察院處分另行救濟",
+      "resultStatus": "黨權停止3年，立委資格不受影響",
+      "evidenceLevel": "party_decision_reporting_with_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    },
+    {
+      "id": "c4",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46838"
+      ],
+      "provisionalCategory": "社群與AI治理爭議",
+      "title": "葛如鈞以AI回覆社群留言引發透明與責任爭議",
+      "summary": "葛如鈞2025年以AI協助官方社群帳號回覆留言，被網友辨識後引發政治人物回覆真實性與資安討論；他承認是自費進行四週的平台API實驗，稱過程有揭露AI協助。",
+      "occurredAt": "2025-11-19",
+      "officialId": null,
+      "sourceIds": [
+        "s5",
+        "s6"
+      ],
+      "canonicalSourceUrls": [
+        "https://udn.com/news/story/6656/9150254",
+        "https://news.cts.com.tw/cts/general/202511/202511192535288.html"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46838",
+          "role": "官方帳號所有人及科技實驗主導者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "稱為自費、為期四週的科技實驗，測試過程有揭露AI協助，並將持續研究AI在民主政治的應用。",
+      "processStatus": "公共爭議與本人說明",
+      "resultStatus": "已公開承認並說明實驗安排",
+      "evidenceLevel": "two_independent_publishers_with_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46821-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "洩漏林秉樞打疫苗資料案和解 二審判陳菁徽緩刑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508210095.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2025-08-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "犯罪事實、二審刑度、認罪和解與緩刑"
+    },
+    {
+      "id": "s2",
+      "title": "中選會審定公告第11屆立法委員選舉結果暨當選人名單",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/41421",
+      "sourceType": "official_database",
+      "publishedAt": "2024-01-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "麥玉珍不分區當選名單"
+    },
+    {
+      "id": "s3",
+      "title": "黃珊珊遭民眾黨停權3年 黨團副總召停職",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202408200360.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-08-20",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "黨紀理由、期間與職務影響"
+    },
+    {
+      "id": "s4",
+      "title": "監院沒入柯文哲政治獻金並裁罰 黃珊珊將提救濟",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202503200087.aspx",
+      "sourceType": "official_action_reporting",
+      "publishedAt": "2025-03-20",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "監察院後續與黃珊珊回應"
+    },
+    {
+      "id": "s5",
+      "title": "遭指用AI回應網友提問 葛如鈞：自費與平台的科技實驗",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/story/6656/9150254",
+      "sourceType": "news",
+      "publishedAt": "2025-11-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "AI回覆爭議及本人完整說明"
+    },
+    {
+      "id": "s6",
+      "title": "葛如鈞社群回覆用AI 網友與學者討論責任",
+      "publisher": "華視新聞網",
+      "url": "https://news.cts.com.tw/cts/general/202511/202511192535288.html",
+      "sourceType": "news",
+      "publishedAt": "2025-11-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第二發布者與專家意見"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46855",
+  "versionId": "independent-research-20260929-46855-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:14:12.882Z",
+  "contentHash": "af8590aaf0e175516f8de2e615f7c22224fbc48e5b806cd84afcfe861872e272",
+  "searchRuns": [
+    {
+      "id": "sr-01",
+      "track": "independent",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yan"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-02",
+      "track": "independent",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yan"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-03",
+      "track": "independent",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yan"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-04",
+      "track": "independent",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yan"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-05",
+      "track": "independent",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yan"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-06",
+      "track": "independent",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-luo"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-07",
+      "track": "independent",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-luo"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-08",
+      "track": "independent",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-luo"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-09",
+      "track": "independent",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-luo"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-10",
+      "track": "independent",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-luo"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-11",
+      "track": "independent",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-fu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-12",
+      "track": "independent",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-fu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-13",
+      "track": "independent",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-fu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-14",
+      "track": "independent",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-fu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-15",
+      "track": "independent",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-fu"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-16",
+      "track": "independent",
+      "memberId": "ly11-46800",
+      "query": "馬文君 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ma"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-17",
+      "track": "independent",
+      "memberId": "ly11-46800",
+      "query": "馬文君 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ma"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-18",
+      "track": "independent",
+      "memberId": "ly11-46800",
+      "query": "馬文君 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ma"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-19",
+      "track": "independent",
+      "memberId": "ly11-46800",
+      "query": "馬文君 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ma"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "sr-20",
+      "track": "independent",
+      "memberId": "ly11-46800",
+      "query": "馬文君 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-ma"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-yan",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46855"
+      ],
+      "provisionalCategory": "司法／貪污案件",
+      "title": "顏寬恒涉貪案最高法院撤銷二審判決發回更審",
+      "summary": "顏寬恒涉詐領助理費案件一、二審貪污部分有罪，最高法院認為仍有疑點待查，撤銷二審判決並發回更審。這不是無罪判決，案件仍未確定；顏寬恒表示希望獲得公道。",
+      "occurredAt": "2026-05-28",
+      "officialId": "最高法院114年度台上字第6452號",
+      "sourceIds": [
+        "s-court-yan",
+        "s-cna-yan"
+      ],
+      "canonicalSourceUrls": [
+        "https://judgment.judicial.gov.tw/FJUD/printData.aspx?id=TPSM%2C114%2C%E5%8F%B0%E4%B8%8A%2C6452%2C20260528%2C1",
+        "https://www.cna.com.tw/news/aipl/202605280286.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46855",
+          "role": "刑事案件被告／上訴人",
+          "basisSourceIds": [
+            "s-court-yan"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "顏寬恒表示司法不應成為政治鬥爭工具，盼還他公道。",
+        "sourceIds": [
+          "s-cna-yan"
+        ]
+      },
+      "processStatus": "最高法院撤銷貪污部分二審有罪判決並發回更審",
+      "resultStatus": "貪污部分發回更審，尚未確定；不得推定有罪或無罪",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish_with_process_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "c-luo",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46856"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "羅廷瑋罷免案投票結果為否決",
+      "summary": "選委會資料顯示羅廷瑋罷免案同意74,012票、不同意86,422票，結果否決；其答辯書稱罷免為政治操作。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-luo",
+        "s-cna-luo"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/faab3547-c95b-4c48-804f-f25a0400a4f4.pdf",
+        "https://www.cna.com.tw/news/aipl/202507035022.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46856",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-luo"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "羅廷瑋在答辯書中稱罷免為政治操作並逐項說明問政表現。",
+        "sourceIds": [
+          "s-cna-luo"
+        ]
+      },
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "c-fu",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46824"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "傅崐萁罷免案經中選會公告否決",
+      "summary": "中選會公告傅崐萁罷免案同意48,969票、不同意65,300票，結果否決；傅崐萁於開票後宣布未通過。",
+      "occurredAt": "2025-08-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-fu",
+        "s-cna-fu"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202507260149.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46824",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-fu"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "傅崐萁宣布罷免案未通過並向花蓮選民謝票。",
+        "sourceIds": [
+          "s-cna-fu"
+        ]
+      },
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    },
+    {
+      "id": "c-ma",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46800"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "馬文君罷免案投票結果為否決",
+      "summary": "選委會資料顯示馬文君罷免案同意29,914票、不同意59,828票，結果否決。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-cec-ma",
+        "s-cna-ma"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/bcc763ef-1695-4b9f-93eb-6c5854f6ac3b.pdf",
+        "https://www.cna.com.tw/news/aipl/202508225019.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46800",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "s-cec-ma"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46855-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-court-yan",
+      "title": "最高法院114年度台上字第6452號刑事判決",
+      "publisher": "司法院裁判書系統",
+      "url": "https://judgment.judicial.gov.tw/FJUD/printData.aspx?id=TPSM%2C114%2C%E5%8F%B0%E4%B8%8A%2C6452%2C20260528%2C1",
+      "sourceType": "official_judgment",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "最高法院撤銷顏寬恒貪污部分二審判決並發回更審；判決列明仍有事項待調查。"
+    },
+    {
+      "id": "s-cna-yan",
+      "title": "涉貪最高法院撤銷發回更審 顏寬恒：還我公道",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202605280286.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄撤銷發回結果與顏寬恒回應。"
+    },
+    {
+      "id": "s-cec-luo",
+      "title": "第11屆立法委員羅廷瑋罷免案投票結果清冊",
+      "publisher": "臺中市選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/faab3547-c95b-4c48-804f-f25a0400a4f4.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "同意74,012票、不同意86,422票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-luo",
+      "title": "立委羅廷瑋罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035022.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "刊載中選會公告之罷免理由及羅廷瑋答辯，羅稱罷免是政治操作。"
+    },
+    {
+      "id": "s-cec-fu",
+      "title": "中央選舉委員會公告：第11屆立法委員傅崐萁罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "同意48,969票、不同意65,300票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-fu",
+      "title": "罷免案開票 傅崐萁自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260149.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄傅崐萁宣布罷免未通過及向選民謝票。"
+    },
+    {
+      "id": "s-cec-ma",
+      "title": "第11屆立法委員馬文君罷免案投票結果清冊",
+      "publisher": "南投縣選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/bcc763ef-1695-4b9f-93eb-6c5854f6ac3b.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "同意29,914票、不同意59,828票，罷免結果否決。"
+    },
+    {
+      "id": "s-cna-ma",
+      "title": "823立委罷免案開票結果一覽 7案全數不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508225019.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導馬文君等7案均未通過。"
+    }
+  ]
+}

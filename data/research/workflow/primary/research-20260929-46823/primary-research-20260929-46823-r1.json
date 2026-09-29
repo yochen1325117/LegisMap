@@ -1,0 +1,821 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46823",
+  "versionId": "primary-research-20260929-46823-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:07:44.237Z",
+  "contentHash": "331d7d2c3aa471e3ae0337a92f4759151b824ff9ae3eb67398bfd4cae71a661d",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46823-legislative",
+      "track": "primary",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-mining",
+        "p-division-cosign"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46823-government",
+      "track": "primary",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46823-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46823-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-chen"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46823-statements",
+      "track": "primary",
+      "memberId": "ly11-46823",
+      "query": "陳瑩 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-chen"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46827-legislative",
+      "track": "primary",
+      "memberId": "ly11-46827",
+      "query": "黃仁 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-climate-coprop"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46827-government",
+      "track": "primary",
+      "memberId": "ly11-46827",
+      "query": "黃仁 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46827-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46827",
+      "query": "黃仁 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46827-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46827",
+      "query": "黃仁 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46827-statements",
+      "track": "primary",
+      "memberId": "ly11-46827",
+      "query": "黃仁 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46844-legislative",
+      "track": "primary",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-pingpu",
+        "p-privacy"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46844-government",
+      "track": "primary",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46844-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-bribery"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46844-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-bribery"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46844-statements",
+      "track": "primary",
+      "memberId": "ly11-46844",
+      "query": "鄭天財Sra Kacaw 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-bribery"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46763-legislative",
+      "track": "primary",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-division",
+        "p-gas"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46763-government",
+      "track": "primary",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46763-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-wu"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46763-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-wu"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    },
+    {
+      "id": "primary-ly11-46763-statements",
+      "track": "primary",
+      "memberId": "ly11-46763",
+      "query": "伍麗華Saidhai‧Tahovecahe 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-wu"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46823-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-mining",
+      "memberIds": [
+        "ly11-46823"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "礦業法增訂條文版本參與併案三讀",
+      "summary": "立法院議案頁列陳瑩版本為礦業法修法併案之一，整體法案2023年完成三讀；只記錄其版本參與。",
+      "occurredAt": "2023-05-24",
+      "officialId": "1110602070200100",
+      "sourceIds": [
+        "s-mining"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/1110602070200100/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-division-cosign",
+      "memberIds": [
+        "ly11-46823"
+      ],
+      "provisionalCategory": "participation",
+      "title": "連署行政區劃程序法草案",
+      "summary": "立法院列陳瑩為伍麗華領銜草案連署人，2025年8月交付內政委員會；連署不得寫成主提案成果。",
+      "occurredAt": "2025-08-15",
+      "officialId": "202110155410000",
+      "sourceIds": [
+        "s-division"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110155410000/details"
+      ],
+      "roleClaims": [
+        "cosigner"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-recall-chen",
+      "memberIds": [
+        "ly11-46823"
+      ],
+      "provisionalCategory": "profile",
+      "title": "罷免案二階未送件而依法不予受理",
+      "summary": "中央社報導中選會表示陳瑩罷免案二階連署書未送件，依法不予受理；陳瑩發布聲明要求國民黨道歉。",
+      "occurredAt": "2025-05-31",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall-chen"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202505310202.aspx"
+      ],
+      "roleClaims": [
+        "recall_target"
+      ],
+      "personResponse": "聲明要求國民黨向原住民族人道歉。",
+      "processStatus": "recall_process",
+      "resultStatus": "not_accepted"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-climate-coprop",
+      "memberIds": [
+        "ly11-46827"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出氣候變遷因應法增訂條文草案",
+      "summary": "立法院列黃仁、蘇清泉、鄭正鈐為提案人，2026年8月交付六個委員會審查，尚未三讀。",
+      "occurredAt": "2026-08-07",
+      "officialId": "202110230430000",
+      "sourceIds": [
+        "s-climate"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110230430000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-pingpu",
+      "memberIds": [
+        "ly11-46844"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "平埔原住民族群身分法版本併案三讀",
+      "summary": "立法院列鄭天財版本與行政院及其他版本併案，2025年10月三讀並咨請公布。",
+      "occurredAt": "2025-10-17",
+      "officialId": "203110155530000",
+      "sourceIds": [
+        "s-pingpu"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110155530000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-privacy",
+      "memberIds": [
+        "ly11-46844"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜個資法修正草案並三讀",
+      "summary": "立法院列鄭天財為提案人，案件2025年10月三讀並咨請公布。",
+      "occurredAt": "2025-10-17",
+      "officialId": "202110137550000",
+      "sourceIds": [
+        "s-privacy"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110137550000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-bribery",
+      "memberIds": [
+        "ly11-46844"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "涉收賄及出售特助頭銜遭起訴",
+      "summary": "中央社與公視報導北檢2025年12月依貪污等罪起訴鄭天財並求刑10年以上。這是起訴階段，尚未有罪確定；仍需補本人完整回應及法院最新進度。",
+      "occurredAt": "2025-12-24",
+      "officialId": null,
+      "sourceIds": [
+        "s-bribery-cna",
+        "s-bribery-pts"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "本人完整回應與法院最新程序"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202512240046.aspx",
+        "https://www.youtube.com/watch?v=7mXVaXoS7tg"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "pending_trial"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-division",
+      "memberIds": [
+        "ly11-46763"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜行政區劃程序法草案",
+      "summary": "立法院列伍麗華為提案人，2025年8月交付內政委員會，尚未確認三讀。",
+      "occurredAt": "2025-08-15",
+      "officialId": "202110155410000",
+      "sourceIds": [
+        "s-division"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110155410000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-gas",
+      "memberIds": [
+        "ly11-46763"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "天然氣事業法修正版本參與併案三讀",
+      "summary": "立法院列伍麗華版本為併案之一，相關修法2025年12月三讀並咨請公布。",
+      "occurredAt": "2025-12-09",
+      "officialId": "203110174860000",
+      "sourceIds": [
+        "s-gas"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110174860000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46823-r1",
+      "id": "p-recall-wu",
+      "memberIds": [
+        "ly11-46763"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "告發罷免案不實連署並由檢調偵辦",
+      "summary": "中央社與公視報導伍麗華告發其罷免提議書涉死亡及冒名連署，檢調搜索約談；她表示相信領銜人可能無辜並尊重追查下令者。此紀錄將她標為告發人與罷免標的。",
+      "occurredAt": "2025-05-14",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall-wu-cna",
+        "s-recall-wu-pts"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202505150359.aspx",
+        "https://news.pts.org.tw/article/751243"
+      ],
+      "roleClaims": [
+        "complainant",
+        "recall_target"
+      ],
+      "personResponse": "表示相信領銜人無辜，尊重檢調追查。",
+      "processStatus": "investigation",
+      "resultStatus": "ongoing"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-mining",
+      "title": "礦業法修正草案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/1110602070200100/details",
+      "sourceType": "official",
+      "publishedAt": "2023-05-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "陳瑩版本與三讀。"
+    },
+    {
+      "id": "s-division",
+      "title": "行政區劃程序法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110155410000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案人、連署人與進度。"
+    },
+    {
+      "id": "s-recall-chen",
+      "title": "罷免二階未送件 陳瑩伍麗華感謝族人",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202505310202.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-31",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "不予受理及聲明。"
+    },
+    {
+      "id": "s-climate",
+      "title": "氣候變遷因應法增訂條文草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110230430000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "黃仁提案角色及進度。"
+    },
+    {
+      "id": "s-pingpu",
+      "title": "平埔原住民族群身分法草案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110155530000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "版本與三讀。"
+    },
+    {
+      "id": "s-privacy",
+      "title": "個資法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110137550000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-bribery-cna",
+      "title": "鄭天財涉受業者供養收賄711萬 北檢起訴",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202512240046.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-12-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴內容與程序。"
+    },
+    {
+      "id": "s-bribery-pts",
+      "title": "鄭天財涉收賄出售特助頭銜遭起訴",
+      "publisher": "公視新聞網",
+      "url": "https://www.youtube.com/watch?v=7mXVaXoS7tg",
+      "sourceType": "news",
+      "publishedAt": "2025-12-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導起訴。"
+    },
+    {
+      "id": "s-gas",
+      "title": "天然氣事業法修正案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110174860000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "伍麗華版本及三讀。"
+    },
+    {
+      "id": "s-recall-wu-cna",
+      "title": "伍麗華：相信罷案領銜人無辜",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202505150359.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-15",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "告發背景及回應。"
+    },
+    {
+      "id": "s-recall-wu-pts",
+      "title": "伍麗華提告罷免涉不實連署",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/751243",
+      "sourceType": "news",
+      "publishedAt": "2025-05-14",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "告發與搜索。"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46801",
+  "versionId": "independent-research-20260929-46801-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:09:52.924Z",
+  "contentHash": "2632557646f86f1c482afd68df35ad6b8caa16576389be80de737a0a92bb472b",
+  "searchRuns": [
+    {
+      "id": "sr-01",
+      "track": "independent",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46801-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-02",
+      "track": "independent",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46801-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-03",
+      "track": "independent",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46801-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-04",
+      "track": "independent",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46801-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-05",
+      "track": "independent",
+      "memberId": "ly11-46801",
+      "query": "高金素梅 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46801-indictment"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-06",
+      "track": "independent",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46847-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-07",
+      "track": "independent",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46847-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-08",
+      "track": "independent",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46847-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-09",
+      "track": "independent",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46847-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-10",
+      "track": "independent",
+      "memberId": "ly11-46847",
+      "query": "盧縣一 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46847-recall-forgery"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-11",
+      "track": "independent",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46778-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-12",
+      "track": "independent",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46778-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-13",
+      "track": "independent",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46778-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-14",
+      "track": "independent",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46778-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-15",
+      "track": "independent",
+      "memberId": "ly11-46778",
+      "query": "林沛祥 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46778-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-16",
+      "track": "independent",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46757-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-17",
+      "track": "independent",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 立法院、司法與中選會資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46757-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-18",
+      "track": "independent",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 司法、選舉與政策事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46757-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-19",
+      "track": "independent",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46757-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "sr-20",
+      "track": "independent",
+      "memberId": "ly11-46757",
+      "query": "牛煦庭 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "cand-46757-recall-result"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-46801-indictment",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46801"
+      ],
+      "provisionalCategory": "司法／貪污與醫療器材指控",
+      "title": "高金素梅遭北檢依貪污等罪起訴",
+      "summary": "台北地檢署起訴高金素梅等人，指控詐領助理費及非法輸入未經查驗快篩等，並建請從重量刑。協會補助款部分，檢方對高金素梅作不起訴處分。起訴不是有罪判決；目前公開來源未找到可直接歸屬她本人的完整回應。",
+      "occurredAt": "2026-06-08",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-kao-20260608",
+        "src-pts-kao-20260608"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202606080249.aspx",
+        "https://news.pts.org.tw/article/812015"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46801",
+          "role": "刑事案件被告（遭起訴）",
+          "basisSourceIds": [
+            "src-cna-kao-20260608",
+            "src-pts-kao-20260608"
+          ]
+        }
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "需補高金素梅本人對起訴內容的可直接核對回應"
+      ],
+      "personResponse": null,
+      "processStatus": "已起訴、法院審理中",
+      "resultStatus": "尚未判決，不推定有罪；另有部分獲不起訴",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "hold_for_response",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "cand-46847-recall-forgery",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46847"
+      ],
+      "provisionalCategory": "司法／選舉罷免",
+      "title": "盧縣一涉伍麗華罷免不實連署案遭起訴並否認犯行",
+      "summary": "屏東地檢署就伍麗華罷免提議不實連署案起訴盧縣一等9人。法院開庭時盧縣一不認罪，表示交由司法判決。案件仍在審理，不能據起訴推定有罪。",
+      "occurredAt": "2025-10-31",
+      "officialId": null,
+      "sourceIds": [
+        "src-cna-lu-indict-20251031",
+        "src-cna-lu-trial-20260119"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202510310118.aspx",
+        "https://www.cna.com.tw/news/asoc/202601190123.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46847",
+          "role": "刑事案件被告（遭起訴）",
+          "basisSourceIds": [
+            "src-cna-lu-indict-20251031"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "盧縣一在法院表示不認罪，庭後稱「反正就給司法判決」。",
+        "sourceIds": [
+          "src-cna-lu-trial-20260119"
+        ]
+      },
+      "processStatus": "已起訴、一審審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "direct_prosecution_and_court_reporting",
+      "publicationDecision": "publish_with_process_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "cand-46778-recall-result",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46778"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "林沛祥罷免案經中選會公告否決",
+      "summary": "中選會公告林沛祥罷免案同意65,143票、不同意96,294票，罷免結果為否決。林沛祥在開票後感謝基隆選民。",
+      "occurredAt": "2025-08-01",
+      "officialId": "中選務字第114000相關公告",
+      "sourceIds": [
+        "src-cec-lin-20250801",
+        "src-cna-lin-20250726"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/asoc/202507260194.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46778",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "src-cec-lin-20250801"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "林沛祥哽咽感謝基隆選民再次肯定。",
+        "sourceIds": [
+          "src-cna-lin-20250726"
+        ]
+      },
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    },
+    {
+      "id": "cand-46757-recall-result",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46757"
+      ],
+      "provisionalCategory": "選舉／罷免",
+      "title": "牛煦庭罷免案經中選會公告否決",
+      "summary": "中選會公告牛煦庭罷免案同意86,734票、不同意106,637票，罷免結果為否決。牛煦庭在開票後宣布罷免未通過。",
+      "occurredAt": "2025-08-01",
+      "officialId": "中選會114年8月1日公告",
+      "sourceIds": [
+        "src-cec-niu-20250801",
+        "src-cna-niu-20250726"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/3e4bed87-b440-4fb4-9b7f-3cf3cab59cae.pdf",
+        "https://www.cna.com.tw/news/aipl/202507260146.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46757",
+          "role": "罷免案被罷免人",
+          "basisSourceIds": [
+            "src-cec-niu-20250801"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "牛煦庭在開票後自行宣布罷免案未通過。",
+        "sourceIds": [
+          "src-cna-niu-20250726"
+        ]
+      },
+      "processStatus": "罷免投票完成並公告",
+      "resultStatus": "罷免否決",
+      "evidenceLevel": "official_record_plus_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46801-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-cna-kao-20260608",
+      "title": "高金素梅涉貪、輸入未經查驗快篩 北檢起訴24人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202606080249.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-06-08",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導北檢依貪污等罪起訴高金素梅等人及具體指控、求刑；案件尚未判決。"
+    },
+    {
+      "id": "src-pts-kao-20260608",
+      "title": "高金素梅涉詐領787萬元助理費起訴 檢方從重求刑12年6月",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/812015",
+      "sourceType": "public_media",
+      "publishedAt": "2026-06-08",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導起訴內容，並說明協會補助款部分對高金素梅不起訴；未見完整本人回應。"
+    },
+    {
+      "id": "src-cna-lu-indict-20251031",
+      "title": "罷免伍麗華涉不實連署 國民黨組發會主委許宇甄等9人被起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202510310118.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-10-31",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "依屏東地檢署新聞稿報導盧縣一等9人遭偽造文書、違反選罷法等罪起訴。"
+    },
+    {
+      "id": "src-cna-lu-trial-20260119",
+      "title": "涉罷免伍麗華不實連署案 盧縣一、領銜人均不認罪",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202601190123.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-01-19",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "屏東地院第二次開庭；盧縣一不認罪並表示交由司法判決。"
+    },
+    {
+      "id": "src-cec-lin-20250801",
+      "title": "中央選舉委員會公告：第11屆立法委員林沛祥罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "林沛祥罷免案同意65,143票、不同意96,294票，結果否決。"
+    },
+    {
+      "id": "src-cna-lin-20250726",
+      "title": "罷免案不通過 林沛祥哽咽感謝「惜情」基隆人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202507260194.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄林沛祥在罷免未通過後感謝基隆選民的回應。"
+    },
+    {
+      "id": "src-cec-niu-20250801",
+      "title": "中央選舉委員會公告：第11屆立法委員牛煦庭罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/3e4bed87-b440-4fb4-9b7f-3cf3cab59cae.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "牛煦庭罷免案同意86,734票、不同意106,637票，結果否決。"
+    },
+    {
+      "id": "src-cna-niu-20250726",
+      "title": "罷免案開票 牛煦庭自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260146.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "記錄牛煦庭在開票後宣布罷免未通過並回應結果。"
+    }
+  ]
+}

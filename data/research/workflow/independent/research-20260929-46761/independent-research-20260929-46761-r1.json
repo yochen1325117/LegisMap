@@ -1,0 +1,659 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46761",
+  "versionId": "independent-research-20260929-46761-r1",
+  "performedBy": "isolated-independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:02:39.179Z",
+  "contentHash": "32d9915e53a4504cf6d1ff58f524cbb3a991ed48a409735196d65e5dd5e4de28",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46761",
+      "query": "王美惠 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-meihui-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46761",
+      "query": "王美惠 site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-meihui-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46761",
+      "query": "王美惠 罷免 爭議 起訴 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-meihui-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46761",
+      "query": "王美惠 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-meihui-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46761",
+      "query": "王美惠 回應 後續 公告 判決 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-meihui-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46760",
+      "query": "王定宇 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-dingyu-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46760",
+      "query": "王定宇 site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-dingyu-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46760",
+      "query": "王定宇 罷免 爭議 起訴 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-dingyu-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46760",
+      "query": "王定宇 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-dingyu-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46760",
+      "query": "王定宇 回應 後續 公告 判決 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-wang-dingyu-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-lin-assistant-fees"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-lin-assistant-fees"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 罷免 爭議 起訴 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-lin-assistant-fees"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-lin-assistant-fees"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 回應 後續 公告 判決 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-lin-assistant-fees"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 site:cec.gov.tw OR site:judicial.gov.tw OR site:moj.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 罷免 爭議 起訴 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 回應 後續 公告 判決 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-wang-meihui-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46761"
+      ],
+      "provisionalCategory": "concern",
+      "title": "王美惠罷免提議查對涉及大量不實資料，罷免未成案",
+      "summary": "罷免王美惠提議名冊經查對及後續偵辦，被發現大量提議資料疑遭偽造；本候選只記錄王美惠是被提議罷免人，不把偽造行為歸責於她。",
+      "occurredAt": "2025-12-17",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-wmh-investigation",
+        "s-pts-recall-fraud"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202512170357.aspx",
+        "https://news.pts.org.tw/article/743161"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46761",
+          "role": "被提議罷免人；非連署偽造案被告"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "嘉義市選委會正式查對結果頁面",
+        "嘉義地檢署起訴書或正式新聞稿"
+      ],
+      "personResponse": null,
+      "processStatus": "罷免未成案；連署偽造案另案偵辦",
+      "resultStatus": "不得將第三人行為歸責王美惠",
+      "evidenceLevel": "two_independent_news",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "c-wang-dingyu-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46760"
+      ],
+      "provisionalCategory": "concern",
+      "title": "王定宇罷免提議未達連署門檻而未送件",
+      "summary": "王定宇罷免案第一階段查對有效提議數不足，後續第二階段連署亦未達標，發起方宣布不送件。",
+      "occurredAt": "2025-06-09",
+      "officialId": "第11屆立法委員臺南市第6選舉區王定宇罷免案提議",
+      "sourceIds": [
+        "s-cec-wdy-check",
+        "s-cna-wdy-end"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/85152e0e-cd97-4e5c-8abe-748d3b36a54c.pdf",
+        "https://www.cna.com.tw/news/aipl/202506090233.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46760",
+          "role": "被提議罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "表示感謝市民拒絕報復式罷免，並呼籲查辦偽造連署。",
+      "processStatus": "連署未達標，未送件投票",
+      "resultStatus": "罷免未成案",
+      "evidenceLevel": "official_primary_plus_news",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "c-lin-assistant-fees",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46779"
+      ],
+      "provisionalCategory": "concern",
+      "title": "林宜瑾涉詐領助理費一審判刑7年",
+      "summary": "林宜瑾被控長期以人頭詐領公費助理費1412萬餘元，2025年遭起訴；臺南地院2026年7月2日一審判刑7年、褫奪公權4年，全案可上訴。",
+      "occurredAt": "2026-07-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-lin-indictment",
+        "s-cna-lin-judgment",
+        "s-pts-lin-judgment"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202510090223.aspx",
+        "https://www.cna.com.tw/news/asoc/202607020244.aspx",
+        "https://news.pts.org.tw/article/815860"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46779",
+          "role": "刑事案件被告；一審有罪，尚未確定"
+        }
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "臺南地方法院一審正式新聞稿或判決書"
+      ],
+      "personResponse": "偵查中坦承犯行並繳回全部犯罪所得；判決仍可上訴。",
+      "processStatus": "一審判決，尚未確定",
+      "resultStatus": "判刑7年、褫奪公權4年，可上訴",
+      "evidenceLevel": "two_independent_news_plus_prosecution_reporting",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    },
+    {
+      "id": "c-huang-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46829"
+      ],
+      "provisionalCategory": "concern",
+      "title": "黃建賓罷免案投票結果為否決",
+      "summary": "臺東縣選舉區黃建賓罷免案於2025年7月26日投票，中選會公告結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員臺東縣選舉區罷免案",
+      "sourceIds": [
+        "s-cec-huang-bulletin",
+        "s-cec-0726-results",
+        "s-cna-huang-result"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/central/article/60295",
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202507260138.aspx?topic=4775"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46829",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "答辯書逐項回應罷免理由。",
+      "processStatus": "中選會完成投票並公告",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46761-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cna-wmh-investigation",
+      "title": "罷免綠委涉不實連署 國民黨嘉義市黨部書記長交保",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202512170357.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-12-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "王美惠罷免提議書疑偽造及偵辦進度"
+    },
+    {
+      "id": "s-pts-recall-fraud",
+      "title": "罷免連署涉偽造文書 國民黨南市黨部遭檢方搜索",
+      "publisher": "公共電視",
+      "url": "https://news.pts.org.tw/article/743161",
+      "sourceType": "news",
+      "publishedAt": "2025-03-20",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "多起罷免提議查對與偽造文書偵辦背景"
+    },
+    {
+      "id": "s-cec-wdy-check",
+      "title": "王定宇罷免案提議人名冊查對結果統計表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/85152e0e-cd97-4e5c-8abe-748d3b36a54c.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-03-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "3186份中1953份符合規定，1233份不符"
+    },
+    {
+      "id": "s-cna-wdy-end",
+      "title": "罷免林俊憲、王定宇連署未達標 謝龍介：不送件",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506090233.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "連署未達標與王定宇回應"
+    },
+    {
+      "id": "s-cna-lin-indictment",
+      "title": "林宜瑾涉詐助理費遭起訴 繳回1412萬餘元盼減刑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202510090223.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴罪名、期間、金額及繳回犯罪所得"
+    },
+    {
+      "id": "s-cna-lin-judgment",
+      "title": "立委林宜瑾涉詐助理費一審判7年 地院：非偶發行為",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202607020244.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "一審刑度與法院理由"
+    },
+    {
+      "id": "s-pts-lin-judgment",
+      "title": "綠委林宜瑾詐助理費1412萬 一審遭判刑7年、褫奪公權4年",
+      "publisher": "公共電視",
+      "url": "https://news.pts.org.tw/article/815860",
+      "sourceType": "news",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "一審判決、坦承繳回及可上訴"
+    },
+    {
+      "id": "s-cec-huang-bulletin",
+      "title": "公告黃建賓罷免案投票日期、理由書及答辯書",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/central/article/60295",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "罷免理由、答辯與投票事項"
+    },
+    {
+      "id": "s-cec-0726-results",
+      "title": "第11屆立法委員罷免案投票結果公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "黃建賓罷免票數及否決結果"
+    },
+    {
+      "id": "s-cna-huang-result",
+      "title": "黃建賓罷免案開票 罷團自行宣布不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260138.aspx?topic=4775",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "黃建賓罷免投開票結果"
+    }
+  ]
+}

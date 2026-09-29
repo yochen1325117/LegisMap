@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260929-46780",
+  "primaryVersionId": "primary-research-20260929-46780-r1",
+  "independentVersionId": "independent-research-20260929-46780-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-lin-fair-trade-20241206",
+      "primaryCandidateId": "primary-lin-fair-trade-20241206",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-lin-assistant-indictment-20250623",
+      "primaryCandidateId": "primary-lin-assistant-indictment-20250623",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-chung-energy-law-20250321",
+      "primaryCandidateId": "primary-chung-energy-law-20250321",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-chung-property-indictment-20260909-c-chung",
+      "primaryCandidateId": "primary-chung-property-indictment-20260909",
+      "independentCandidateId": "c-chung",
+      "matchStatus": "possible_match",
+      "differenceTypes": [
+        "provisionalCategory",
+        "roleClaims",
+        "processStatus",
+        "resultStatus",
+        "evidenceLevel",
+        "publicationDecision",
+        "personResponse"
+      ],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-chen-pension-law-20251028",
+      "primaryCandidateId": "primary-chen-pension-law-20251028",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-chen-defamation-lawsuit-20250815",
+      "primaryCandidateId": "primary-chen-defamation-lawsuit-20250815",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-chen-finance-law-20251121",
+      "primaryCandidateId": "primary-chen-finance-law-20251121",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-chen-sexual-harassment-20230606",
+      "primaryCandidateId": "primary-chen-sexual-harassment-20230606",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-lin",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-lin",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-yuchen",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-yuchen",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-snow",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-snow",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

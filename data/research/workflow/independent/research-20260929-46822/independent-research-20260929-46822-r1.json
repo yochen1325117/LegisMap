@@ -1,0 +1,671 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46822",
+  "versionId": "independent-research-20260929-46822-r1",
+  "performedBy": "isolated-independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:04:26.694Z",
+  "contentHash": "9ee480170522521c2739a083d5184631b9cba8e27d69ed5c9d753a4aa21bee50",
+  "searchRuns": [
+    {
+      "id": "sr-chen-1",
+      "track": "independent",
+      "memberId": "ly11-46822",
+      "query": "陳超明 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-chen-sogo"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-chen-2",
+      "track": "independent",
+      "memberId": "ly11-46822",
+      "query": "陳超明 site:judicial.gov.tw OR site:moj.gov.tw OR site:cec.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-chen-sogo"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-chen-3",
+      "track": "independent",
+      "memberId": "ly11-46822",
+      "query": "陳超明 判決 起訴 貪污 罷免 選舉 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-chen-sogo"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-chen-4",
+      "track": "independent",
+      "memberId": "ly11-46822",
+      "query": "陳超明 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-chen-sogo"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-chen-5",
+      "track": "independent",
+      "memberId": "ly11-46822",
+      "query": "陳超明 回應 後續 判決 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-chen-sogo"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-huang-1",
+      "track": "independent",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-huang-2",
+      "track": "independent",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 site:cec.gov.tw OR site:judicial.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-huang-3",
+      "track": "independent",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 罷免 選舉 爭議 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-huang-4",
+      "track": "independent",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-huang-5",
+      "track": "independent",
+      "memberId": "ly11-46831",
+      "query": "黃健豪 回應 後續 公告 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-huang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-yang-1",
+      "track": "independent",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-yang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-yang-2",
+      "track": "independent",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 site:cec.gov.tw OR site:judicial.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-yang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-yang-3",
+      "track": "independent",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 罷免 選舉 爭議 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-yang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-yang-4",
+      "track": "independent",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-yang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-yang-5",
+      "track": "independent",
+      "memberId": "ly11-46835",
+      "query": "楊瓊瓔 回應 後續 公告 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-yang-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-liao-1",
+      "track": "independent",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 site:cna.com.tw OR site:pts.org.tw 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-liao-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-liao-2",
+      "track": "independent",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 site:cec.gov.tw OR site:judicial.gov.tw OR site:ly.gov.tw 2021..2026",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-liao-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-liao-3",
+      "track": "independent",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 罷免 選舉 爭議 判決 政治獻金 2021..2026",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-liao-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-liao-4",
+      "track": "independent",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 2021 OR 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-liao-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "sr-liao-5",
+      "track": "independent",
+      "memberId": "ly11-46840",
+      "query": "廖偉翔 回應 後續 公告 結果 2021..2026",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 20,
+      "stopReason": "no_new_candidates",
+      "candidateIds": [
+        "c-liao-recall"
+      ],
+      "performedBy": "isolated-independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-chen-sogo",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46822"
+      ],
+      "provisionalCategory": "concern",
+      "title": "陳超明涉 SOGO 案二審改判無罪",
+      "summary": "陳超明被控就 SOGO 經營權爭議收賄，一審於 2022 年判刑 7 年 8 月；臺灣高等法院於 2026 年 8 月 21 日認定證據不足，改判無罪。判決仍可上訴，不能描述為確定無罪。",
+      "occurredAt": "2026-08-21",
+      "officialId": "臺灣臺北地方法院109年度原矚重訴字第1號；二審判決尚可上訴",
+      "sourceIds": [
+        "s-chen-district-court",
+        "s-chen-cna-appeal",
+        "s-chen-pts-appeal",
+        "s-chen-response"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.judicial.gov.tw/tw/cp-1888-671739-def84-1.html",
+        "https://www.cna.com.tw/news/asoc/202608210179.aspx",
+        "https://news.pts.org.tw/article/823474",
+        "https://www.cna.com.tw/news/aipl/202608210285.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46822",
+          "role": "刑事案件被告；二審獲改判無罪"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "陳超明表示二審公平審判還其清白。",
+      "processStatus": "二審改判無罪，尚可上訴",
+      "resultStatus": "非確定無罪",
+      "evidenceLevel": "official_court_record_plus_independent_news",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "c-huang-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46831"
+      ],
+      "provisionalCategory": "concern",
+      "title": "黃健豪罷免案投票結果為否決",
+      "summary": "臺中市第5選舉區黃健豪罷免案於 2025 年 7 月 26 日投票，中選會公告結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員臺中市第5選舉區罷免案",
+      "sourceIds": [
+        "s-cec-0726-results",
+        "s-cna-0726-results",
+        "s-cna-huang-reasons"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202507265011.aspx",
+        "https://www.cna.com.tw/news/aipl/202507035021.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46831",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "答辯書逐項回應罷免理由。",
+      "processStatus": "中選會完成投票並公告",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "c-yang-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46835"
+      ],
+      "provisionalCategory": "concern",
+      "title": "楊瓊瓔罷免案投票結果為否決",
+      "summary": "臺中市第3選舉區楊瓊瓔罷免案於 2025 年 8 月 23 日投票，中選會公告結果否決。",
+      "occurredAt": "2025-08-23",
+      "officialId": "第11屆立法委員臺中市第3選舉區罷免案",
+      "sourceIds": [
+        "s-cec-0823-results",
+        "s-cec-yang-bulletin",
+        "s-cna-yang-results"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/90c5af62-e67e-4691-ba2e-d4afb4090747.pdf",
+        "https://web.cec.gov.tw/api/file/2f649f96-9b08-4ca3-9b59-f6f9412b25d5.pdf",
+        "https://www.cna.com.tw/news/aipl/202508230184.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46835",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "答辯書逐項回應罷免理由。",
+      "processStatus": "中選會完成投票並公告",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    },
+    {
+      "id": "c-liao-recall",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46840"
+      ],
+      "provisionalCategory": "concern",
+      "title": "廖偉翔罷免案投票結果為否決",
+      "summary": "臺中市第4選舉區廖偉翔罷免案於 2025 年 7 月 26 日投票，中選會公告結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": "第11屆立法委員臺中市第4選舉區罷免案",
+      "sourceIds": [
+        "s-cec-0726-results",
+        "s-cna-0726-results",
+        "s-cna-liao-reasons"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+        "https://www.cna.com.tw/news/aipl/202507265011.aspx",
+        "https://www.cna.com.tw/news/aipl/202507035020.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46840",
+          "role": "被罷免人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "答辯書逐項回應罷免理由。",
+      "processStatus": "中選會完成投票並公告",
+      "resultStatus": "罷免否決，續任立委",
+      "evidenceLevel": "official_primary",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46822-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-chen-district-court",
+      "title": "臺灣臺北地方法院109年度原矚重訴字第1號蘇震清等貪污等案件新聞稿",
+      "publisher": "司法院／臺灣臺北地方法院",
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-671739-def84-1.html",
+      "sourceType": "official_court_record",
+      "publishedAt": "2022-07-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "陳超明一審罪名、事實認定及刑度"
+    },
+    {
+      "id": "s-chen-cna-appeal",
+      "title": "陳超明、徐永明等涉貪案無罪 高院認無證據證明行收賄",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202608210179.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "二審改判無罪理由及仍可上訴"
+    },
+    {
+      "id": "s-chen-pts-appeal",
+      "title": "立委集體收賄案二審宣判 陳超明、徐永明獲改判無罪",
+      "publisher": "公共電視",
+      "url": "https://news.pts.org.tw/article/823474",
+      "sourceType": "news",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "一審至二審程序與改判結果"
+    },
+    {
+      "id": "s-chen-response",
+      "title": "立委涉貪案改判無罪 陳超明：公平審判還清白",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202608210285.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "陳超明本人對二審結果的公開回應"
+    },
+    {
+      "id": "s-cec-0726-results",
+      "title": "第11屆立法委員罷免案投票結果公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/b35ac130-d35d-4a9e-a145-cee7b7c4b8d2.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "廖偉翔及黃健豪罷免票數與否決結果"
+    },
+    {
+      "id": "s-cna-0726-results",
+      "title": "2025立委罷免案開票結果一覽 7月26日24案全數不通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507265011.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "黃健豪、廖偉翔罷免案投開票結果"
+    },
+    {
+      "id": "s-cna-huang-reasons",
+      "title": "立委黃健豪罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035021.aspx",
+      "sourceType": "official_document_republication",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "罷免理由及黃健豪完整答辯"
+    },
+    {
+      "id": "s-cec-0823-results",
+      "title": "公告第11屆立法委員罷免投票結果",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/90c5af62-e67e-4691-ba2e-d4afb4090747.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-08-29",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "楊瓊瓔罷免票數及否決結果"
+    },
+    {
+      "id": "s-cec-yang-bulletin",
+      "title": "第11屆立法委員臺中市第3選舉區楊瓊瓔罷免公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/2f649f96-9b08-4ca3-9b59-f6f9412b25d5.pdf",
+      "sourceType": "official_record",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "罷免理由、答辯與投票事項"
+    },
+    {
+      "id": "s-cna-yang-results",
+      "title": "7藍委罷免案全否決 投票率近5成同意票皆未達門檻",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202508230184.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "楊瓊瓔等7案投票結果均否決"
+    },
+    {
+      "id": "s-cna-liao-reasons",
+      "title": "立委廖偉翔罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507035020.aspx",
+      "sourceType": "official_document_republication",
+      "publishedAt": "2025-07-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "罷免理由及廖偉翔完整答辯"
+    }
+  ]
+}

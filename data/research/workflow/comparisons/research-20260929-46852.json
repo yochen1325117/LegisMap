@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260929-46852",
+  "primaryVersionId": "primary-research-20260929-46852-r1",
+  "independentVersionId": "independent-research-20260929-46852-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-budget",
+      "primaryCandidateId": "p-budget",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-police",
+      "primaryCandidateId": "p-police",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-conflict",
+      "primaryCandidateId": "p-conflict",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-speaker",
+      "primaryCandidateId": "p-speaker",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-recall-speaker",
+      "primaryCandidateId": "p-recall-speaker",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-rally",
+      "primaryCandidateId": "p-rally",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-cyber",
+      "primaryCandidateId": "p-cyber",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-water",
+      "primaryCandidateId": "p-water",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-election",
+      "primaryCandidateId": "p-election",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-welfare",
+      "primaryCandidateId": "p-welfare",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hospital",
+      "primaryCandidateId": "p-hospital",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c1",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c1",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c2",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c2",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c3",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c3",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c4",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c4",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

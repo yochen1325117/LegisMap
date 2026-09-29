@@ -1,0 +1,767 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46855",
+  "versionId": "primary-research-20260929-46855-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:14:12.509Z",
+  "contentHash": "263338be37f6f8f8d5f7daf7b815a0155e491d935167392d38bf6f88a06423c2",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46855-legislative",
+      "track": "primary",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-yen-gender-work-20250620"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46855-government",
+      "track": "primary",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46855-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-yen-corruption-remand-20260528"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46855-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-yen-corruption-remand-20260528"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46855-statements",
+      "track": "primary",
+      "memberId": "ly11-46855",
+      "query": "顏寬恒 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46856-legislative",
+      "track": "primary",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-luo-ai-law-20251223"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46856-government",
+      "track": "primary",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46856-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-luo-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46856-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-luo-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46856-statements",
+      "track": "primary",
+      "memberId": "ly11-46856",
+      "query": "羅廷瑋 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46824-legislative",
+      "track": "primary",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-fu-nationality-law-20251128"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46824-government",
+      "track": "primary",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46824-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-fu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46824-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-fu-recall-20250726"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46824-statements",
+      "track": "primary",
+      "memberId": "ly11-46824",
+      "query": "傅崐萁 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46800-legislative",
+      "track": "primary",
+      "memberId": "ly11-46800",
+      "query": "馬文君 立法院提案、公報、議事錄與質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ma-old-farmer-20240409"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46800-government",
+      "track": "primary",
+      "memberId": "ly11-46800",
+      "query": "馬文君 行政機關年度公開資料與政策回應 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46800-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46800",
+      "query": "馬文君 法院、檢察、監察及監督紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ma-recall-20250823"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46800-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46800",
+      "query": "馬文君 中央社、公視與具採訪制度新聞 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-ma-recall-20250823"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ly11-46800-statements",
+      "track": "primary",
+      "memberId": "ly11-46800",
+      "query": "馬文君 政黨、本人與公益單位公開聲明 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46855-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-yen-gender-work-20250620",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46855"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出性別平等工作法增訂草案",
+      "summary": "顏寬恒與其他委員共同提出性別平等工作法增訂第二十三條之一草案，案件已交付委員會審查。",
+      "occurredAt": "2025-06-20",
+      "officialId": "202110134650000",
+      "sourceIds": [
+        "p46855-ly-yen-gender"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110134650000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-yen-corruption-remand-20260528",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46855"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "助理費案最高法院撤銷發回更審",
+      "summary": "顏寬恒助理費案一、二審相關有罪判決經最高法院認為仍有事實待釐清，於2026年5月28日撤銷發回；案件尚未確定。",
+      "occurredAt": "2026-05-28",
+      "officialId": "TPSM-114-台上-6452",
+      "sourceIds": [
+        "p46855-judicial-yen-remand",
+        "p46855-cna-yen-remand"
+      ],
+      "canonicalSourceUrls": [
+        "https://judgment.judicial.gov.tw/FJUD/printData.aspx?id=TPSM%2C114%2C%E5%8F%B0%E4%B8%8A%2C6452%2C20260528%2C1",
+        "https://www.cna.com.tw/news/asoc/202605280299.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "顏寬恒表示撤銷發回是還他公道，並持續否認犯罪。",
+      "processStatus": "remanded",
+      "resultStatus": "appeal_pending",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-luo-ai-law-20251223",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46856"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出人工智慧基本法草案並完成三讀",
+      "summary": "羅廷瑋等人提出的人工智慧基本法草案與其他版本併案審查，立法院於2025年12月23日完成三讀。",
+      "occurredAt": "2025-12-23",
+      "officialId": "202110104760000",
+      "sourceIds": [
+        "p46855-ly-luo-ai",
+        "p46855-cna-ai"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110104760000/details",
+        "https://www.cna.com.tw/news/aipl/202512230036.aspx"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-luo-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46856"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "第11屆立委罷免案遭否決",
+      "summary": "中選會資料顯示羅廷瑋罷免案於2025年7月26日投票；同意票雖達四分之一門檻，但少於不同意票，結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "p46855-cec-recall-db",
+        "p46855-cna-recall-726"
+      ],
+      "canonicalSourceUrls": [
+        "https://db.cec.gov.tw/ElecTable/Recall",
+        "https://www.cna.com.tw/news/aipl/202507260216.aspx"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "罷免公告所附答辯書保存羅廷瑋對罷免理由的回應。",
+      "processStatus": "resolved",
+      "resultStatus": "rejected",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-fu-nationality-law-20251128",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46824"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出國籍法第一條修正草案",
+      "summary": "傅崐萁領銜提出國籍法第一條修正草案，立法院議案頁載明已排入院會並進入復議程序。",
+      "occurredAt": "2025-11-28",
+      "officialId": "202110176000000",
+      "sourceIds": [
+        "p46855-ly-fu-nationality"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110176000000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "plenary_reconsideration",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-fu-recall-20250726",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46824"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "第11屆立委罷免案遭否決",
+      "summary": "中選會資料顯示傅崐萁罷免案於2025年7月26日投票；同意票雖達四分之一門檻，但少於不同意票，結果否決。",
+      "occurredAt": "2025-07-26",
+      "officialId": null,
+      "sourceIds": [
+        "p46855-cec-recall-db",
+        "p46855-cna-recall-726"
+      ],
+      "canonicalSourceUrls": [
+        "https://db.cec.gov.tw/ElecTable/Recall",
+        "https://www.cna.com.tw/news/aipl/202507260216.aspx"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "罷免公告所附答辯書保存傅崐萁對罷免理由的回應。",
+      "processStatus": "resolved",
+      "resultStatus": "rejected",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ma-old-farmer-20240409",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46800"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出老年農民福利津貼條例修正草案",
+      "summary": "馬文君等人提出老年農民福利津貼暫行條例第四條修正草案，案件已交付聯席委員會審查。",
+      "occurredAt": "2024-04-09",
+      "officialId": "202110027290000",
+      "sourceIds": [
+        "p46855-ly-ma-farmer"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110027290000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    },
+    {
+      "id": "primary-ma-recall-20250823",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46800"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "第11屆立委罷免案遭否決",
+      "summary": "中選會投票結果清冊顯示，馬文君罷免案於2025年8月23日投票，同意票未達法定門檻且少於不同意票，結果否決。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "p46855-cec-ma-result",
+        "p46855-cna-ma-reasons"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/bcc763ef-1695-4b9f-93eb-6c5854f6ac3b.pdf",
+        "https://www.cna.com.tw/news/aipl/202507175003.aspx"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "中選會公告所附答辯書保存馬文君對罷免理由的逐項回應。",
+      "processStatus": "resolved",
+      "resultStatus": "rejected",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260929-46855-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "p46855-ly-yen-gender",
+      "title": "性別平等工作法增訂第二十三條之一條文草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110134650000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-06-20",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列顏寬恒等人為提案人並載明委員會審查進度"
+    },
+    {
+      "id": "p46855-judicial-yen-remand",
+      "title": "最高法院114年度台上字第6452號刑事判決",
+      "publisher": "司法院",
+      "url": "https://judgment.judicial.gov.tw/FJUD/printData.aspx?id=TPSM%2C114%2C%E5%8F%B0%E4%B8%8A%2C6452%2C20260528%2C1",
+      "sourceType": "official",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "主文撤銷顏寬恒助理費案原判決相關部分並發回臺中高分院"
+    },
+    {
+      "id": "p46855-cna-yen-remand",
+      "title": "撤銷發回顏寬恒涉貪案 最高法院認仍需調查釐清",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202605280299.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導最高法院撤銷發回理由及案件目前程序"
+    },
+    {
+      "id": "p46855-ly-luo-ai",
+      "title": "人工智慧基本法草案議案進度",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110104760000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列羅廷瑋等人為提案人並載明三讀"
+    },
+    {
+      "id": "p46855-cna-ai",
+      "title": "立院三讀人工智慧基本法 國科會為主管機關",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202512230036.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-12-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導人工智慧基本法三讀程序及主要內容"
+    },
+    {
+      "id": "p46855-cec-recall-db",
+      "title": "第11屆立法委員罷免案投票結果資料",
+      "publisher": "中央選舉委員會",
+      "url": "https://db.cec.gov.tw/ElecTable/Recall",
+      "sourceType": "official",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "資料庫列羅廷瑋、傅崐萁與馬文君罷免投票結果為否決"
+    },
+    {
+      "id": "p46855-cna-recall-726",
+      "title": "726罷免25案全部未通過",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507260216.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "載明羅廷瑋及傅崐萁罷免案同意票少於不同意票而否決"
+    },
+    {
+      "id": "p46855-ly-fu-nationality",
+      "title": "國籍法第一條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110176000000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-11-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列傅崐萁為提案人及院會、復議進度"
+    },
+    {
+      "id": "p46855-ly-ma-farmer",
+      "title": "老年農民福利津貼暫行條例第四條修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110027290000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-04-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "議案頁列馬文君為提案人並載明交付聯席委員會審查"
+    },
+    {
+      "id": "p46855-cec-ma-result",
+      "title": "馬文君罷免案罷免投票結果清冊",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/bcc763ef-1695-4b9f-93eb-6c5854f6ac3b.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "清冊載投票率、同意與不同意票數及罷免結果否決"
+    },
+    {
+      "id": "p46855-cna-ma-reasons",
+      "title": "立委馬文君罷免案理由與答辯書全文",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202507175003.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "刊載中選會公告之罷免理由及馬文君答辯內容"
+    }
+  ]
+}

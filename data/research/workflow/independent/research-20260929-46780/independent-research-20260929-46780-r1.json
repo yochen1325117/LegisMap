@@ -1,0 +1,663 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260929-46780",
+  "versionId": "independent-research-20260929-46780-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:03:31.740Z",
+  "contentHash": "65acffaabe7c166b0a13b367a042e588ac0d9c2b2c99d6ebd1e724c5cd5a3fdc",
+  "searchRuns": [
+    {
+      "id": "sr-01",
+      "track": "independent",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-02",
+      "track": "independent",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 立法院與司法資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-03",
+      "track": "independent",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 司法、政策與爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-04",
+      "track": "independent",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-05",
+      "track": "independent",
+      "memberId": "ly11-46780",
+      "query": "林岱樺 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-lin"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-06",
+      "track": "independent",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chung"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-07",
+      "track": "independent",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 立法院與司法資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chung"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-08",
+      "track": "independent",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 司法、政策與爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chung"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-09",
+      "track": "independent",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chung"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-10",
+      "track": "independent",
+      "memberId": "ly11-46853",
+      "query": "鍾佳濱 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-chung"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-11",
+      "track": "independent",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yuchen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-12",
+      "track": "independent",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 立法院與司法資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yuchen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-13",
+      "track": "independent",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 司法、政策與爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yuchen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-14",
+      "track": "independent",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 17,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yuchen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-15",
+      "track": "independent",
+      "memberId": "ly11-46813",
+      "query": "陳玉珍 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-yuchen"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-16",
+      "track": "independent",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 主要媒體站內檔案 2021-09-29..2026-09-29",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 19,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-snow"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-17",
+      "track": "independent",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 立法院與司法資料庫 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-snow"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-18",
+      "track": "independent",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 司法、政策與爭議事件反查 2021-09-29..2026-09-29",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-snow"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-19",
+      "track": "independent",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 姓名異體與年度分段 2021-09-29..2026-09-29",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-snow"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "sr-20",
+      "track": "independent",
+      "memberId": "ly11-46820",
+      "query": "陳雪生 本人回應與後續結果 2021-09-29..2026-09-29",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c-snow"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c-lin",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46780"
+      ],
+      "provisionalCategory": "司法／貪污與政治獻金指控",
+      "title": "林岱樺涉助理費案起訴後再遭追加起訴政治獻金公益侵占",
+      "summary": "雄檢先就助理費等指控起訴林岱樺等人，2026年9月另就政治獻金約1379萬元疑遭挪用追加起訴。林岱樺否認原案犯行，並稱追加起訴內容與事實不符。案件仍在法院審理，起訴不等於有罪。",
+      "occurredAt": "2026-09-09",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-lin-original",
+        "s-cna-lin-add"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202506230176.aspx",
+        "https://www.cna.com.tw/news/asoc/202609090085.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46780",
+          "role": "刑事案件被告（起訴及追加起訴）",
+          "basisSourceIds": [
+            "s-cna-lin-original",
+            "s-cna-lin-add"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "林岱樺否認犯行，並表示追加起訴所述與事實不符。",
+        "sourceIds": [
+          "s-cna-lin-original",
+          "s-cna-lin-add"
+        ]
+      },
+      "processStatus": "已起訴並追加起訴、一審審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "direct_prosecution_reporting_with_response",
+      "publicationDecision": "publish_with_process_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "c-chung",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46853"
+      ],
+      "provisionalCategory": "司法／毀損公物指控",
+      "title": "鍾佳濱涉剪斷警方護欄鋼索遭起訴",
+      "summary": "北檢依毀損公務員職務上掌管物品罪起訴鍾佳濱。鍾佳濱主張當時為讓救護車進入救援，屬緊急避難；辯護人另主張欠缺毀損故意。案件尚未判決。",
+      "occurredAt": "2026-09-09",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-chung",
+        "s-ap-chung-context"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202609090069.aspx",
+        "https://apnews.com/article/a832d9cee2bc99e7f46ba70a3defe3e9"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46853",
+          "role": "刑事案件被告（遭起訴）",
+          "basisSourceIds": [
+            "s-cna-chung"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "鍾佳濱稱為使救護車入內救援而屬緊急避難，並表示尊重司法。",
+        "sourceIds": [
+          "s-cna-chung"
+        ]
+      },
+      "processStatus": "已起訴、法院審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "direct_prosecution_reporting_plus_context",
+      "publicationDecision": "publish_with_process_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "c-yuchen",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46813"
+      ],
+      "provisionalCategory": "司法／民事名譽訴訟",
+      "title": "陳玉珍就「洗頭佔公款」言論求償一審敗訴",
+      "summary": "陳玉珍不滿吳沛憶「洗頭要佔公款」貼文，提起150萬元民事求償。北院認該言論涉及公共事務且已有合理查證，駁回求償；判決當時仍可上訴。陳玉珍主張自己已否認欲用公款設置私人盥洗設備。",
+      "occurredAt": "2025-07-16",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-yuchen",
+        "s-mirror-yuchen"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202507160181.aspx",
+        "https://www.mirrormedia.mg/external/mnews_20250716nm009"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46813",
+          "role": "民事名譽訴訟原告",
+          "basisSourceIds": [
+            "s-cna-yuchen"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "陳玉珍主張報導後已公開否認，並稱相關貼文使民眾誤認她貪污。",
+        "sourceIds": [
+          "s-cna-yuchen"
+        ]
+      },
+      "processStatus": "民事一審判決、可上訴",
+      "resultStatus": "一審駁回陳玉珍求償",
+      "evidenceLevel": "two_independent_publishers",
+      "publicationDecision": "publish_with_appeal_context",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    },
+    {
+      "id": "c-snow",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46820"
+      ],
+      "provisionalCategory": "性別／民事性騷擾",
+      "title": "法院確定認定陳雪生構成性騷擾並判賠8萬元",
+      "summary": "台北地院二審認定陳雪生在立院衝突中以肚子碰觸范雲背部，結合後續言語構成性騷擾，駁回上訴，判賠8萬元確定。陳雪生仍稱沒有性騷擾，但表示將以謙虛態度學習性別議題。",
+      "occurredAt": "2023-06-06",
+      "officialId": null,
+      "sourceIds": [
+        "s-cna-snow",
+        "s-pts-snow"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202306065002.aspx",
+        "https://news.pts.org.tw/article/640201"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46820",
+          "role": "民事性騷擾損害賠償被告",
+          "basisSourceIds": [
+            "s-cna-snow",
+            "s-pts-snow"
+          ]
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": {
+        "summary": "陳雪生否認性騷擾，但稱會謙虛學習性別議題。",
+        "sourceIds": [
+          "s-cna-snow"
+        ]
+      },
+      "processStatus": "民事二審確定",
+      "resultStatus": "判賠8萬元確定，不得上訴",
+      "evidenceLevel": "final_court_result_two_publishers",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260929-46780-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-cna-lin-original",
+      "title": "林岱樺涉詐逾1400萬助理費、背信與公益侵占案 雄檢起訴10人",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202506230176.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2025-06-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導雄檢起訴內容並記載林岱樺偵查中否認犯行。"
+    },
+    {
+      "id": "s-cna-lin-add",
+      "title": "林岱樺涉貪案擴大 檢追加起訴指侵占1379萬政治獻金",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202609090085.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導追加起訴公益侵占指控及林岱樺稱與事實不符。"
+    },
+    {
+      "id": "s-cna-chung",
+      "title": "立委鍾佳濱涉破壞護欄鋼索 北檢依毀損公物罪嫌起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202609090069.aspx",
+      "sourceType": "news_wire",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "報導北檢起訴與鍾佳濱、辯護人緊急避難及欠缺故意之主張。"
+    },
+    {
+      "id": "s-ap-chung-context",
+      "title": "Taiwan lawmakers clash after one party breaks into legislature to occupy speaker chair",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/a832d9cee2bc99e7f46ba70a3defe3e9",
+      "sourceType": "news",
+      "publishedAt": "2024-12-20",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導2024年12月20日立法院內外衝突背景與抗議情境。"
+    },
+    {
+      "id": "s-cna-yuchen",
+      "title": "不滿吳沛憶指「洗頭要佔公款」 陳玉珍求償敗訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202507160181.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2025-07-16",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "北院一審駁回陳玉珍150萬元名譽求償，可上訴，並記載其否認與主張。"
+    },
+    {
+      "id": "s-mirror-yuchen",
+      "title": "不滿挨批洗頭佔公款 陳玉珍告吳沛憶求償150萬吞敗",
+      "publisher": "鏡週刊",
+      "url": "https://www.mirrormedia.mg/external/mnews_20250716nm009",
+      "sourceType": "news",
+      "publishedAt": "2025-07-16",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導北院認評論已有合理查證並駁回求償。"
+    },
+    {
+      "id": "s-cna-snow",
+      "title": "范雲控性騷擾求償 法院判陳雪生賠8萬元確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202306065002.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2023-06-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "北院二審認肢體與言語構成性騷擾，駁回上訴，判賠8萬元確定。"
+    },
+    {
+      "id": "s-pts-snow",
+      "title": "范雲控陳雪生性騷擾 台北地院判賠8萬確定",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/640201",
+      "sourceType": "public_media",
+      "publishedAt": "2023-06-06",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "獨立報導二審駁回上訴、民事判賠確定。"
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46784",
+  "versionId": "independent-research-20260928-46784-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:28:14.737Z",
+  "contentHash": "4f328474cc2550b1e9728a567c0c87c2e4f695b1ed745cb54f21e1e35ed33b08",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46784",
+      "query": "林國成 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46784",
+      "query": "林國成 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46784",
+      "query": "林國成 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46784",
+      "query": "林國成 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46784",
+      "query": "林國成 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46786",
+      "query": "林楚茵 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46864",
+      "query": "林憶君 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46864",
+      "query": "林憶君 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46864",
+      "query": "林憶君 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46864",
+      "query": "林憶君 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46864",
+      "query": "林憶君 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 publisher_archives 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 official_databases 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 year_segments 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46792",
+      "query": "柯志恩 response_and_followup 2021 2022 2023 2024 2025 2026 回應 後續",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c1",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46784"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "林國成公開辱罵總統遭判拘役20日並放棄上訴",
+      "summary": "林國成於2025年反罷免集會以粗話辱罵賴清德，北檢依公然侮辱罪起訴；北院2026年判拘役20日。林國成其後聲明放棄上訴並接受判決。",
+      "occurredAt": "2026-05-05",
+      "officialId": null,
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202605050199.aspx",
+        "https://news.cts.com.tw/cts/politics/202606/202606023038725.html"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46784",
+          "role": "刑事被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "庭審時作無罪答辯，後聲明承認公開場合失言影響不妥，放棄上訴並接受判決。",
+      "processStatus": "一審判決後放棄上訴",
+      "resultStatus": "拘役20日，判決確定",
+      "evidenceLevel": "court_result_and_finality_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "c2",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46786"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "林楚茵等人因凱旋苑相關言論獲不起訴",
+      "summary": "侯友宜針對2023年選舉期間凱旋苑記者會言論提出妨害名譽告訴；檢方認林楚茵等人的質疑有資料基礎，屬可受公評事項的意見表達，於2025年處分不起訴。",
+      "occurredAt": "2025-05-29",
+      "officialId": null,
+      "sourceIds": [
+        "s3"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202505290076.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46786",
+          "role": "刑事被告及記者會發言人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "其原始立場為凱旋苑租金、門牌及租約安排應受公共檢視。",
+      "processStatus": "檢察官偵查終結",
+      "resultStatus": "不起訴",
+      "evidenceLevel": "direct_prosecution_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "c3",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46864"
+      ],
+      "provisionalCategory": "服務處人員行為爭議",
+      "title": "林憶君服務處主任違停嗆警後辦公室致歉",
+      "summary": "林憶君花蓮服務處孟姓主任2025年4月違停遭開單時與員警爭執，表明身分並稱要聯絡局長。辦公室表示其一時情急，為不良示範向員警道歉。",
+      "occurredAt": "2025-04-04",
+      "officialId": null,
+      "sourceIds": [
+        "s4",
+        "s5"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.cts.com.tw/cts/general/202504/202504052456977.html",
+        "https://www.youtube.com/watch?v=gx6jR4R-8J4"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46864",
+          "role": "涉事服務處之立法委員"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "辦公室稱主任趕著掃墓而情急爭執，承認造成不良示範並向員警致歉。",
+      "processStatus": "交通違規開單及公開致歉",
+      "resultStatus": "辦公室致歉；未查得林憶君本人涉刑事責任",
+      "evidenceLevel": "two_reports_with_office_response",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    },
+    {
+      "id": "c4",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46792"
+      ],
+      "provisionalCategory": "選舉",
+      "title": "柯志恩參選2022年高雄市長落選",
+      "summary": "柯志恩代表國民黨參選2022年高雄市長，獲529,607票；陳其邁連任，柯志恩於開票日晚間承認敗選。",
+      "occurredAt": "2022-11-26",
+      "officialId": null,
+      "sourceIds": [
+        "s6",
+        "s7"
+      ],
+      "canonicalSourceUrls": [
+        "https://web.cec.gov.tw/api/file/943a264c-d910-4cee-9152-286d38394a7a.pdf",
+        "https://news.cts.com.tw/cts/politics/202211/202211262114815.html"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46792",
+          "role": "高雄市長候選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "開票日晚間自行宣布敗選。",
+      "processStatus": "中選會完成開票及公告",
+      "resultStatus": "得529,607票，未當選",
+      "evidenceLevel": "official_election_record_plus_response_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46784-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "前立委林國成罵總統認錯不認罪 北院判拘役20天",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202605050199.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-05-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "起訴、答辯及一審刑度"
+    },
+    {
+      "id": "s2",
+      "title": "罵賴清德三字經遭判拘役20天 前白委林國成不上訴",
+      "publisher": "華視新聞網",
+      "url": "https://news.cts.com.tw/cts/politics/202606/202606023038725.html",
+      "sourceType": "news",
+      "publishedAt": "2026-06-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "放棄上訴及接受判決聲明"
+    },
+    {
+      "id": "s3",
+      "title": "指侯友宜凱旋苑坑殺學生 民進黨8人獲不起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202505290076.aspx",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2025-05-29",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "檢方不起訴理由與林楚茵角色"
+    },
+    {
+      "id": "s4",
+      "title": "違停又嗆警 立委服務處主任不滿遭開單嗆打給局長",
+      "publisher": "華視新聞網",
+      "url": "https://news.cts.com.tw/cts/general/202504/202504052456977.html",
+      "sourceType": "news",
+      "publishedAt": "2025-04-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "事件經過及辦公室致歉"
+    },
+    {
+      "id": "s5",
+      "title": "不滿被開單 立委服務處主任嗆打給局長",
+      "publisher": "TVBS新聞",
+      "url": "https://www.youtube.com/watch?v=gx6jR4R-8J4",
+      "sourceType": "broadcast_news",
+      "publishedAt": "2025-04-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "密錄器畫面摘要與辦公室回應"
+    },
+    {
+      "id": "s6",
+      "title": "111年高雄市市長選舉候選人各得票數一覽表",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/943a264c-d910-4cee-9152-286d38394a7a.pdf",
+      "sourceType": "official_database",
+      "publishedAt": "2022-11-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "柯志恩得票數"
+    },
+    {
+      "id": "s7",
+      "title": "高雄市長選舉陳其邁連任 柯志恩自行宣布敗選",
+      "publisher": "華視新聞網",
+      "url": "https://news.cts.com.tw/cts/politics/202211/202211262114815.html",
+      "sourceType": "news",
+      "publishedAt": "2022-11-26",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "選舉結果及候選人回應"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260928-46774",
+  "primaryVersionId": "primary-research-20260928-46774-r1",
+  "independentVersionId": "independent-research-20260928-46774-r1",
+  "comparisons": [
+    {
+      "id": "comparison-p-lee-lawyer",
+      "primaryCandidateId": "p-lee-lawyer",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lee-tobacco",
+      "primaryCandidateId": "p-lee-tobacco",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lee-reprimand",
+      "primaryCandidateId": "p-lee-reprimand",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-lee-namesake",
+      "primaryCandidateId": "p-lee-namesake",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-chiu-appraisal",
+      "primaryCandidateId": "p-chiu-appraisal",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-chiu-industry",
+      "primaryCandidateId": "p-chiu-industry",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-chiuyi-electricity",
+      "primaryCandidateId": "p-chiuyi-electricity",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-chiuyi-finance",
+      "primaryCandidateId": "p-chiuyi-finance",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-chiuyi-fan",
+      "primaryCandidateId": "p-chiuyi-fan",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hsu-procurement",
+      "primaryCandidateId": "p-hsu-procurement",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hsu-pilotage",
+      "primaryCandidateId": "p-hsu-pilotage",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-p-hsu-recall-fraud",
+      "primaryCandidateId": "p-hsu-recall-fraud",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-li-election",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-li-election",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-chiu-chihwei-conflict",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-chiu-chihwei-conflict",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-chiu-yiying-assault",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-chiu-yiying-assault",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-c-hsu-recall",
+      "primaryCandidateId": null,
+      "independentCandidateId": "c-hsu-recall",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

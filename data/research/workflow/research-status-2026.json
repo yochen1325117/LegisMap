@@ -1,23 +1,23 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-09-29",
   "defaultStatus": "stale",
   "members": [
     {
       "memberId": "ly11-46752",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46757",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46758",
@@ -29,27 +29,27 @@
     },
     {
       "memberId": "ly11-46759",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46760",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46761",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46762",
@@ -61,11 +61,11 @@
     },
     {
       "memberId": "ly11-46763",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46764",
@@ -93,11 +93,11 @@
     },
     {
       "memberId": "ly11-46767",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46768",
@@ -141,11 +141,11 @@
     },
     {
       "memberId": "ly11-46772",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46773",
@@ -157,59 +157,59 @@
     },
     {
       "memberId": "ly11-46774",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46775",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46776",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46777",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46778",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46779",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46780",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46781",
@@ -221,19 +221,19 @@
     },
     {
       "memberId": "ly11-46782",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46783",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46785",
@@ -245,11 +245,11 @@
     },
     {
       "memberId": "ly11-46786",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46787",
@@ -261,11 +261,11 @@
     },
     {
       "memberId": "ly11-46788",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46789",
@@ -277,35 +277,35 @@
     },
     {
       "memberId": "ly11-46790",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46791",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46792",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46793",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46794",
@@ -317,11 +317,11 @@
     },
     {
       "memberId": "ly11-46795",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46796",
@@ -341,11 +341,11 @@
     },
     {
       "memberId": "ly11-46798",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46799",
@@ -357,27 +357,27 @@
     },
     {
       "memberId": "ly11-46754",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46800",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46801",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46802",
@@ -397,75 +397,75 @@
     },
     {
       "memberId": "ly11-46805",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46806",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46807",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46808",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46809",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46810",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46811",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46812",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46813",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-20",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46814",
@@ -477,35 +477,35 @@
     },
     {
       "memberId": "ly11-46815",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46816",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46817",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46755",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46818",
@@ -517,67 +517,67 @@
     },
     {
       "memberId": "ly11-46819",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46820",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-20",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46821",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46822",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46823",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46824",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46826",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46827",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46828",
@@ -589,43 +589,43 @@
     },
     {
       "memberId": "ly11-46829",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46831",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46833",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46834",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-20",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46835",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46836",
@@ -645,11 +645,11 @@
     },
     {
       "memberId": "ly11-46838",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46839",
@@ -661,11 +661,11 @@
     },
     {
       "memberId": "ly11-46840",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46841",
@@ -685,27 +685,27 @@
     },
     {
       "memberId": "ly11-46843",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46844",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46845",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46846",
@@ -717,11 +717,11 @@
     },
     {
       "memberId": "ly11-46847",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46848",
@@ -733,19 +733,19 @@
     },
     {
       "memberId": "ly11-46849",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46850",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46851",
@@ -757,43 +757,43 @@
     },
     {
       "memberId": "ly11-46852",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46853",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46854",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46855",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46856",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-19",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46857",
@@ -805,11 +805,11 @@
     },
     {
       "memberId": "ly11-46858",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46859",
@@ -829,27 +829,27 @@
     },
     {
       "memberId": "ly11-46861",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-29",
+      "independentReviewedAt": "2026-09-29",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-55030",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-55855",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-77699",
@@ -909,43 +909,43 @@
     },
     {
       "memberId": "ly11-46784",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46864",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46803",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-28"
     },
     {
       "memberId": "ly11-46756",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46830",
-      "status": "stale",
+      "status": "complete",
       "legacyReviewedAt": "2026-09-22",
-      "primaryReviewedAt": null,
-      "independentReviewedAt": null,
-      "completedAt": null
+      "primaryReviewedAt": "2026-09-28",
+      "independentReviewedAt": "2026-09-28",
+      "completedAt": "2026-09-29"
     },
     {
       "memberId": "ly11-46832",

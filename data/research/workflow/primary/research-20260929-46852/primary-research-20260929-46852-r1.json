@@ -1,0 +1,865 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46852",
+  "versionId": "primary-research-20260929-46852-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:05:20.417Z",
+  "contentHash": "09796a2ba8f2b2350a13dcfba2ace4a25b8e3fd4dc1867db8910a6f7dddc5721",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46852-legislative",
+      "track": "primary",
+      "memberId": "ly11-46852",
+      "query": "謝龍介 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-budget",
+        "p-police"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46852-government",
+      "track": "primary",
+      "memberId": "ly11-46852",
+      "query": "謝龍介 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46852-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46852",
+      "query": "謝龍介 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46852-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46852",
+      "query": "謝龍介 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46852-statements",
+      "track": "primary",
+      "memberId": "ly11-46852",
+      "query": "謝龍介 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46854-legislative",
+      "track": "primary",
+      "memberId": "ly11-46854",
+      "query": "韓國瑜 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-speaker"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46854-government",
+      "track": "primary",
+      "memberId": "ly11-46854",
+      "query": "韓國瑜 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46854-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46854",
+      "query": "韓國瑜 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46854-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46854",
+      "query": "韓國瑜 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-speaker",
+        "p-rally"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46854-statements",
+      "track": "primary",
+      "memberId": "ly11-46854",
+      "query": "韓國瑜 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-rally"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46858-legislative",
+      "track": "primary",
+      "memberId": "ly11-46858",
+      "query": "羅美玲 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-cyber",
+        "p-water"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46858-government",
+      "track": "primary",
+      "memberId": "ly11-46858",
+      "query": "羅美玲 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46858-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46858",
+      "query": "羅美玲 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46858-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46858",
+      "query": "羅美玲 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46858-statements",
+      "track": "primary",
+      "memberId": "ly11-46858",
+      "query": "羅美玲 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46861-legislative",
+      "track": "primary",
+      "memberId": "ly11-46861",
+      "query": "蘇清泉 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-election",
+        "p-welfare"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46861-government",
+      "track": "primary",
+      "memberId": "ly11-46861",
+      "query": "蘇清泉 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46861-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46861",
+      "query": "蘇清泉 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hospital"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46861-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46861",
+      "query": "蘇清泉 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hospital"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    },
+    {
+      "id": "primary-ly11-46861-statements",
+      "track": "primary",
+      "memberId": "ly11-46861",
+      "query": "蘇清泉 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hospital"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46852-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-budget",
+      "memberIds": [
+        "ly11-46852"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出預算法增訂條文草案",
+      "summary": "立法院列謝龍介、林沛祥、蘇清泉為提案人，2026年5月逕付二讀並交付協商，未確認三讀。",
+      "occurredAt": "2026-05-08",
+      "officialId": "202110213380000",
+      "sourceIds": [
+        "s-budget"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110213380000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "party_negotiation",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-police",
+      "memberIds": [
+        "ly11-46852"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "警察人員人事條例修正版本併案三讀",
+      "summary": "立法院頁面列謝龍介版本為併案之一，相關修法2025年3月三讀並咨請公布；只記錄其版本參與。",
+      "occurredAt": "2025-03-24",
+      "officialId": "203110057040000",
+      "sourceIds": [
+        "s-police"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110057040000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-conflict",
+      "memberIds": [
+        "ly11-46852"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "議場衝突傷害案遭起訴",
+      "summary": "公視報導北檢起訴10名立委，其中包含謝龍介；案件尚在審理，未經有罪判決。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-conflict"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "本人回應及法院最新進度"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/795064"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "pending_trial"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-speaker",
+      "memberIds": [
+        "ly11-46854"
+      ],
+      "provisionalCategory": "profile",
+      "title": "當選第11屆立法院長",
+      "summary": "中央社報導韓國瑜於2024年2月1日由立委互選當選立法院長。這是院內職務紀錄，不是立法成果。",
+      "occurredAt": "2024-02-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-speaker"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202402010152.aspx"
+      ],
+      "roleClaims": [
+        "speaker_elected"
+      ],
+      "personResponse": null,
+      "processStatus": "completed",
+      "resultStatus": "completed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-recall-speaker",
+      "memberIds": [
+        "ly11-46854"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "民進黨團提案改選立法院長未通過",
+      "summary": "中央社報導民進黨團質疑韓國瑜延後咨送法律等議事處理而提改選院長。此為政黨指控及議程提案，未等同違法認定。",
+      "occurredAt": "2025-01-03",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall-speaker"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202501030045.aspx"
+      ],
+      "roleClaims": [
+        "subject_of_parliamentary_motion"
+      ],
+      "personResponse": null,
+      "processStatus": "parliamentary_motion",
+      "resultStatus": "not_adopted"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-rally",
+      "memberIds": [
+        "ly11-46854"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "以立法院長身分參加政黨抗議活動引發中立質疑",
+      "summary": "公視報導韓國瑜表態參加2025年4月26日凱道遊行，民進黨批評院長應保持中立；韓則呼籲檢調勿成政治工具。屬政治爭議，無司法認定。",
+      "occurredAt": "2025-04-25",
+      "officialId": null,
+      "sourceIds": [
+        "s-rally"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "第二獨立發布者或正式院內紀錄"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.youtube.com/watch?v=ksYvEBVL2jc"
+      ],
+      "roleClaims": [
+        "speaker"
+      ],
+      "personResponse": "呼籲檢調保持獨立，並表態參加活動。",
+      "processStatus": "public_controversy",
+      "resultStatus": "unresolved"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-cyber",
+      "memberIds": [
+        "ly11-46858"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜資通安全管理法修正版本並併案三讀",
+      "summary": "立法院列羅美玲為提案人，其版本與行政院及多位委員版本併案後完成三讀。",
+      "occurredAt": "2025-08-15",
+      "officialId": "202110082760000",
+      "sourceIds": [
+        "s-cyber"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110082760000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-water",
+      "memberIds": [
+        "ly11-46858"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "自來水法修正版本參與併案",
+      "summary": "立法院公報列羅美玲等19人版本與行政院及其他版本併案審查；需再核對獨立議案頁與最終條文歸屬。",
+      "occurredAt": "2025-12-01",
+      "officialId": null,
+      "sourceIds": [
+        "s-water"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "獨立議案頁與最終程序日期"
+      ],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/100/LCIDC01_11410004.pdf"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_report",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-election",
+      "memberIds": [
+        "ly11-46861"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜選罷法重新計票門檻修正草案",
+      "summary": "立法院頁面記錄蘇清泉版本經委員會審查、協商並排入院會，尚未確認三讀。",
+      "occurredAt": "2024-12-17",
+      "officialId": "203110083270000",
+      "sourceIds": [
+        "s-election"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110083270000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "plenary_discussion",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-welfare",
+      "memberIds": [
+        "ly11-46861"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出社會救助法修正草案",
+      "summary": "立法院列蘇清泉等7人為提案人，2025年7月交付衛環委員會，未確認三讀。",
+      "occurredAt": "2025-07-11",
+      "officialId": "202110143430000",
+      "sourceIds": [
+        "s-welfare"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110143430000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46852-r1",
+      "id": "p-hospital",
+      "memberIds": [
+        "ly11-46861"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "安泰醫院火災案遭起訴",
+      "summary": "中央社與公視報導屏檢重啟偵辦2024年安泰醫院火災，2026年6月起訴蘇清泉等4人；報導稱被告偵查中坦承並與家屬和解。案件尚未判決。",
+      "occurredAt": "2026-06-03",
+      "officialId": null,
+      "sourceIds": [
+        "s-hospital-cna",
+        "s-hospital-pts"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202606030110.aspx",
+        "https://news.pts.org.tw/article/811421"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "報導稱偵查中坦承並與多名家屬和解、負擔部分賠償。",
+      "processStatus": "indicted",
+      "resultStatus": "pending_trial"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-budget",
+      "title": "預算法增訂第八十一條之一草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110213380000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-05-08",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與協商。"
+    },
+    {
+      "id": "s-police",
+      "title": "警察人員人事條例修正案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110057040000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-03-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "謝龍介版本及三讀。"
+    },
+    {
+      "id": "s-conflict",
+      "title": "議場內多次肢體衝突10名立委遭起訴",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/795064",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴名單與程序。"
+    },
+    {
+      "id": "s-speaker",
+      "title": "韓國瑜當選新任立法院長",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202402010152.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-02-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "院長選舉結果。"
+    },
+    {
+      "id": "s-recall-speaker",
+      "title": "民進黨團提案要求改選立法院長",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202501030045.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-01-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案理由與程序。"
+    },
+    {
+      "id": "s-rally",
+      "title": "韓國瑜表態參加426凱道遊行",
+      "publisher": "公視新聞網",
+      "url": "https://www.youtube.com/watch?v=ksYvEBVL2jc",
+      "sourceType": "news",
+      "publishedAt": "2025-04-25",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "表態與各方回應。"
+    },
+    {
+      "id": "s-cyber",
+      "title": "資通安全管理法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110082760000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-water",
+      "title": "立法院公報第114卷第100期",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/PublicationOfficialGazettes/download/communique1/final/pdf/114/100/LCIDC01_11410004.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-12-01",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "羅美玲自來水法版本併案。"
+    },
+    {
+      "id": "s-election",
+      "title": "選罷法第六十九條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110083270000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-12-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "審查協商進度。"
+    },
+    {
+      "id": "s-welfare",
+      "title": "社會救助法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110143430000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-07-11",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與進度。"
+    },
+    {
+      "id": "s-hospital-cna",
+      "title": "屏東安泰醫院大火9死案起訴蘇清泉等4人",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202606030110.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-06-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴事實與背景。"
+    },
+    {
+      "id": "s-hospital-pts",
+      "title": "檢重啟偵辦安泰醫院火警案",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/811421",
+      "sourceType": "news",
+      "publishedAt": "2026-06-03",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴及檢方說法。"
+    }
+  ]
+}

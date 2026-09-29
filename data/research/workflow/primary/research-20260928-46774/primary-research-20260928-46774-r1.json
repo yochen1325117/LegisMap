@@ -1,0 +1,910 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46774",
+  "versionId": "primary-research-20260928-46774-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:13:34.431Z",
+  "contentHash": "231d97996bb9f13e54360675a20a62dd4bc1017806422ba18d792c9b5548520e",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46774-legislative",
+      "track": "primary",
+      "memberId": "ly11-46774",
+      "query": "李柏毅 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lee-lawyer",
+        "p-lee-tobacco",
+        "p-lee-reprimand"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46774-government",
+      "track": "primary",
+      "memberId": "ly11-46774",
+      "query": "李柏毅 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46774-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46774",
+      "query": "李柏毅 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46774-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46774",
+      "query": "李柏毅 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lee-reprimand",
+        "p-lee-namesake"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46774-statements",
+      "track": "primary",
+      "memberId": "ly11-46774",
+      "query": "李柏毅 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lee-namesake"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46788-legislative",
+      "track": "primary",
+      "memberId": "ly11-46788",
+      "query": "邱志偉 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiu-appraisal",
+        "p-chiu-industry"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46788-government",
+      "track": "primary",
+      "memberId": "ly11-46788",
+      "query": "邱志偉 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46788-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46788",
+      "query": "邱志偉 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46788-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46788",
+      "query": "邱志偉 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46788-statements",
+      "track": "primary",
+      "memberId": "ly11-46788",
+      "query": "邱志偉 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46791-legislative",
+      "track": "primary",
+      "memberId": "ly11-46791",
+      "query": "邱議瑩 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiuyi-electricity",
+        "p-chiuyi-finance"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46791-government",
+      "track": "primary",
+      "memberId": "ly11-46791",
+      "query": "邱議瑩 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46791-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46791",
+      "query": "邱議瑩 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiuyi-fan"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46791-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46791",
+      "query": "邱議瑩 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiuyi-fan"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46791-statements",
+      "track": "primary",
+      "memberId": "ly11-46791",
+      "query": "邱議瑩 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-chiuyi-fan"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46809-legislative",
+      "track": "primary",
+      "memberId": "ly11-46809",
+      "query": "許智傑 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-procurement",
+        "p-hsu-pilotage"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46809-government",
+      "track": "primary",
+      "memberId": "ly11-46809",
+      "query": "許智傑 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46809-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46809",
+      "query": "許智傑 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-recall-fraud"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46809-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46809",
+      "query": "許智傑 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-hsu-recall-fraud"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    },
+    {
+      "id": "primary-ly11-46809-statements",
+      "track": "primary",
+      "memberId": "ly11-46809",
+      "query": "許智傑 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46774-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-lee-lawyer",
+      "memberIds": [
+        "ly11-46774"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜律師法增訂條文草案",
+      "summary": "立法院議案頁列李柏毅等人為提案人，草案於2026年4月交付審查並於6月進入委員會；未確認三讀。",
+      "occurredAt": "2026-04-10",
+      "officialId": "202110203030000",
+      "sourceIds": [
+        "s-lee-lawyer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110203030000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-lee-tobacco",
+      "memberIds": [
+        "ly11-46774"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜菸酒稅法版本並納入併案三讀",
+      "summary": "立法院官方紀錄列李柏毅等16人版本，與行政院及其他委員版本併案三讀；最終條文不全歸於單一版本。",
+      "occurredAt": "2025-01-23",
+      "officialId": "203110084830000",
+      "sourceIds": [
+        "s-lee-tobacco"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110084830000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-lee-reprimand",
+      "memberIds": [
+        "ly11-46774"
+      ],
+      "provisionalCategory": "concern",
+      "title": "民眾黨團對李柏毅提出譴責案並交付協商",
+      "summary": "中央社報導民眾黨團就內政委員會議事處理對李柏毅提出譴責案，院會決定逕付二讀交付協商。此為政黨提案，尚非事實或懲處認定。",
+      "occurredAt": "2026-03-20",
+      "officialId": null,
+      "sourceIds": [
+        "s-lee-reprimand"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "official_motion",
+        "final_disposition",
+        "person_response"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202603200105.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": null,
+      "processStatus": "under_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-lee-namesake",
+      "memberIds": [
+        "ly11-46774"
+      ],
+      "provisionalCategory": "anecdote",
+      "title": "因與臺北市議員同名而遭網友誤認",
+      "summary": "中央社報導高雄立委李柏毅因與臺北市議員同名而被誤認，並公開澄清兩人不是同一人。",
+      "occurredAt": "2026-09-08",
+      "officialId": null,
+      "sourceIds": [
+        "s-lee-namesake"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202609080089.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "李柏毅在社群澄清同名不同人。",
+      "processStatus": "reported",
+      "resultStatus": "recorded"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-chiu-appraisal",
+      "memberIds": [
+        "ly11-46788"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜公務人員考績法修正版本並納入併案三讀",
+      "summary": "立法院官方紀錄列邱志偉等21人版本，2025年10月28日併案三讀；最終條文為併案結果。",
+      "occurredAt": "2025-10-28",
+      "officialId": "203110158530000",
+      "sourceIds": [
+        "s-chiu-appraisal"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110158530000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-chiu-industry",
+      "memberIds": [
+        "ly11-46788"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出三件產業創新條例修正版本並進入協商",
+      "summary": "立法院併案頁列邱志偉領銜三件產業創新條例修正版本，2026年7月交付協商；尚未以所查來源確認三讀。",
+      "occurredAt": "2026-07-06",
+      "officialId": "203110225410000",
+      "sourceIds": [
+        "s-chiu-industry"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110225410000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "negotiation",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-chiuyi-electricity",
+      "memberIds": [
+        "ly11-46791"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜電業法修正版本並納入併案三讀",
+      "summary": "立法院官方紀錄列邱議瑩等16人版本，2025年5月併案三讀；最終條文不全歸於單一版本。",
+      "occurredAt": "2025-05-13",
+      "officialId": "203110105560000",
+      "sourceIds": [
+        "s-chiuyi-electricity"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110105560000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-chiuyi-finance",
+      "memberIds": [
+        "ly11-46791"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜財政收支劃分法第十六條之一修正草案",
+      "summary": "立法院議案頁列邱議瑩等6人為提案人，2025年10月交付財政委員會並進行審查；未確認三讀。",
+      "occurredAt": "2025-10-21",
+      "officialId": "202110164940000",
+      "sourceIds": [
+        "s-chiuyi-finance"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110164940000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-chiuyi-fan",
+      "memberIds": [
+        "ly11-46791"
+      ],
+      "provisionalCategory": "concern",
+      "title": "持紙扇打羅智強案遭聲請簡易判決處刑",
+      "summary": "中央社報導北檢認邱議瑩涉公然侮辱並聲請簡易判決處刑；恐嚇部分不起訴。邱議瑩承認動手並道歉，但尚未取得法院最終判決。",
+      "occurredAt": "2025-09-04",
+      "officialId": null,
+      "sourceIds": [
+        "s-chiuyi-fan"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_prosecutor_release",
+        "final_court_result"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202509040041.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "邱議瑩表示自己動手在先、向羅智強道歉並會虛心檢討。",
+      "processStatus": "charged",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-hsu-procurement",
+      "memberIds": [
+        "ly11-46809"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜政府採購法部分條文修正草案",
+      "summary": "立法院議案頁列許智傑為提案人，2026年4月交付交通委員會審查；尚未確認三讀。",
+      "occurredAt": "2026-04-14",
+      "officialId": "202110204700000",
+      "sourceIds": [
+        "s-hsu-procurement"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110204700000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-hsu-pilotage",
+      "memberIds": [
+        "ly11-46809"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜引水法第六條修正草案並排入院會",
+      "summary": "立法院官方紀錄列許智傑等22人版本，2026年7月委員會發文並排入院會討論；尚未確認三讀。",
+      "occurredAt": "2026-07-24",
+      "officialId": "203110226680000",
+      "sourceIds": [
+        "s-hsu-pilotage"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110226680000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "second_reading",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46774-r1",
+      "id": "p-hsu-recall-fraud",
+      "memberIds": [
+        "ly11-46809"
+      ],
+      "provisionalCategory": "concern",
+      "title": "許智傑罷免提議名冊不實案判決",
+      "summary": "中央社報導罷免許智傑團隊實質負責人因不實連署遭判刑緩刑，領銜人無罪。許智傑是罷免對象，報導未指其參與不實連署，是否納入人物頁仍待範圍裁決。",
+      "occurredAt": "2026-09-13",
+      "officialId": null,
+      "sourceIds": [
+        "s-hsu-recall-cna",
+        "s-hsu-recall-pts"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "publication_scope_review"
+      ],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202609130096.aspx",
+        "https://www.youtube.com/watch?v=wDFthCUMPoo"
+      ],
+      "roleClaims": [
+        "recall_subject"
+      ],
+      "personResponse": null,
+      "processStatus": "first_instance",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-lee-lawyer",
+      "title": "律師法增訂第三十五條之一及之二草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110203030000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-10",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人與審議進度。"
+    },
+    {
+      "id": "s-lee-tobacco",
+      "title": "菸酒稅法部分條文修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110084830000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-01-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列李柏毅等16人版本及三讀。"
+    },
+    {
+      "id": "s-lee-reprimand",
+      "title": "民眾黨團提李柏毅、劉世芳譴責案",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202603200105.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-03-20",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "譴責提案內容及交付協商。"
+    },
+    {
+      "id": "s-lee-namesake",
+      "title": "同名不同人遭誤認挨罵 綠委李柏毅澄清",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202609080089.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-09-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "同名誤認及本人回應。"
+    },
+    {
+      "id": "s-chiu-appraisal",
+      "title": "公務人員考績法第三條修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110158530000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-28",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "邱志偉版本及三讀。"
+    },
+    {
+      "id": "s-chiu-industry",
+      "title": "產業創新條例修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110225410000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-07-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "邱志偉三件版本與交付協商。"
+    },
+    {
+      "id": "s-chiuyi-electricity",
+      "title": "電業法部分條文修正草案併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110105560000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-05-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "邱議瑩版本及三讀。"
+    },
+    {
+      "id": "s-chiuyi-finance",
+      "title": "財政收支劃分法第十六條之一修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110164940000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-21",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人與委員會審查進度。"
+    },
+    {
+      "id": "s-chiuyi-fan",
+      "title": "邱議瑩涉持紙扇打羅智強臉 北檢聲請簡易判決處刑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202509040041.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-09-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "公然侮辱聲請簡判、恐嚇不起訴及回應。"
+    },
+    {
+      "id": "s-hsu-procurement",
+      "title": "政府採購法部分條文修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110204700000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-04-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "許智傑提案與交付審查。"
+    },
+    {
+      "id": "s-hsu-pilotage",
+      "title": "引水法第六條修正草案審查報告",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-second-reading/203110226680000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-07-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "許智傑版本排入院會。"
+    },
+    {
+      "id": "s-hsu-recall-cna",
+      "title": "雙罷劫不實連署案 徐尚賢判刑緩刑、朱磊無罪",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202609130096.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-09-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "許智傑罷免名冊案第一審結果。"
+    },
+    {
+      "id": "s-hsu-recall-pts",
+      "title": "許智傑、黃捷罷免案涉偽造文書",
+      "publisher": "公視新聞網",
+      "url": "https://www.youtube.com/watch?v=wDFthCUMPoo",
+      "sourceType": "news",
+      "publishedAt": "2025-05-22",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "偵查階段與涉案人身分。"
+    }
+  ]
+}

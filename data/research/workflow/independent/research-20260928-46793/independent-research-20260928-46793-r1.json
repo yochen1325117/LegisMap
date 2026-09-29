@@ -1,0 +1,615 @@
+{
+  "schemaVersion": "1.0",
+  "track": "independent",
+  "batchId": "research-20260928-46793",
+  "versionId": "independent-research-20260928-46793-r1",
+  "performedBy": "independent-web-review",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:31:10.188Z",
+  "contentHash": "6e1c54e7597ccf2cb140a80e8c34d9d4ab5a8f32bb891af23f7b35013166f46c",
+  "searchRuns": [
+    {
+      "id": "sr-1-1",
+      "track": "independent",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 publisher_archives 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-1-2",
+      "track": "independent",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 official_databases 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-1-3",
+      "track": "independent",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-1-4",
+      "track": "independent",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 year_segments 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-1-5",
+      "track": "independent",
+      "memberId": "ly11-46793",
+      "query": "柯建銘 response_and_followup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c1"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-2-1",
+      "track": "independent",
+      "memberId": "ly11-46795",
+      "query": "范雲 publisher_archives 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-2-2",
+      "track": "independent",
+      "memberId": "ly11-46795",
+      "query": "范雲 official_databases 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-2-3",
+      "track": "independent",
+      "memberId": "ly11-46795",
+      "query": "范雲 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-2-4",
+      "track": "independent",
+      "memberId": "ly11-46795",
+      "query": "范雲 year_segments 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-2-5",
+      "track": "independent",
+      "memberId": "ly11-46795",
+      "query": "范雲 response_and_followup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c2"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-3-1",
+      "track": "independent",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 publisher_archives 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-3-2",
+      "track": "independent",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 official_databases 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-3-3",
+      "track": "independent",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-3-4",
+      "track": "independent",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 year_segments 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-3-5",
+      "track": "independent",
+      "memberId": "ly11-46754",
+      "query": "翁曉玲 response_and_followup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c3"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-4-1",
+      "track": "independent",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 publisher_archives 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "publisher_archives",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-4-2",
+      "track": "independent",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 official_databases 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "source_led",
+      "sourceScope": "official_databases",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 13,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-4-3",
+      "track": "independent",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 issue_reverse_lookup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "event_led",
+      "sourceScope": "issue_reverse_lookup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-4-4",
+      "track": "independent",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 year_segments 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "identity_variants",
+      "sourceScope": "year_segments",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 15,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "sr-4-5",
+      "track": "independent",
+      "memberId": "ly11-46803",
+      "query": "張啓楷 response_and_followup 2021 2022 2023 2024 2025 2026 回應 結果",
+      "queryFamily": "response_and_outcome",
+      "sourceScope": "response_and_followup",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 16,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "c4"
+      ],
+      "performedBy": "independent-web-review",
+      "lockedAt": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c1",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46793"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "柯建銘因拐杖擊中徐巧芯遭起訴並作無罪答辯",
+      "summary": "2025年3月立法院審議公投案時，柯建銘以拐杖敲桌，拐杖斷裂飛出擊中徐巧芯；北檢2026年依過失傷害罪起訴，案件於北院審理中。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/795064",
+        "https://udn.com/news/story/7321/9583263"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46793",
+          "role": "刑事被告"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "柯建銘不否認拐杖斷裂擊中徐巧芯，但主張議場行為受言論免責權保障，作無罪答辯。",
+      "processStatus": "已起訴，一審審理中",
+      "resultStatus": "尚未判決，不推定有罪",
+      "evidenceLevel": "indictment_reporting_with_defense",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "c2",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46795"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "范雲控陳雪生性騷擾獲判賠8萬元確定",
+      "summary": "范雲就2020年立法院推擠衝突中的性別貶抑言行提起民事訴訟，最高法院2023年駁回陳雪生上訴，判賠8萬元確定。",
+      "occurredAt": "2023-06-06",
+      "officialId": null,
+      "sourceIds": [
+        "s3"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202306065002.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46795",
+          "role": "民事原告及性騷擾被害人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "范雲表示雖三案均勝訴仍不感到高興，盼社會理解性騷擾控訴。",
+      "processStatus": "民事判決確定",
+      "resultStatus": "陳雪生賠償8萬元",
+      "evidenceLevel": "final_court_result_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "c3",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46754"
+      ],
+      "provisionalCategory": "司法案件",
+      "title": "曹興誠控翁曉玲侵害名譽二審仍敗訴",
+      "summary": "曹興誠因翁曉玲談論清大捐款及以政治性詞語批評而求償；高院2026年認定屬有事實基礎的公共評論與政治言論，二審仍駁回請求，全案可上訴。",
+      "occurredAt": "2026-05-05",
+      "officialId": null,
+      "sourceIds": [
+        "s4",
+        "s5"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202605050112.aspx",
+        "https://www.cna.com.tw/news/asoc/202507230320.aspx"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46754",
+          "role": "民事被告及評論發表者"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "翁曉玲主張其評論係基於公開資料與可受公評事項。",
+      "processStatus": "民事二審判決，可上訴",
+      "resultStatus": "曹興誠求償遭駁回，尚未確認確定",
+      "evidenceLevel": "appellate_result_reporting",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    },
+    {
+      "id": "c4",
+      "track": "independent",
+      "memberIds": [
+        "ly11-46803"
+      ],
+      "provisionalCategory": "選舉與任職",
+      "title": "張啓楷當選第11屆不分區立法委員",
+      "summary": "中選會公告張啓楷為民眾黨第11屆不分區立委當選人；立法院資料確認其任職。",
+      "occurredAt": "2024-01-19",
+      "officialId": null,
+      "sourceIds": [
+        "s6",
+        "s7"
+      ],
+      "canonicalSourceUrls": [
+        "https://2024.cec.gov.tw/article/content/?id=NEWS&target=%2Farticle%2FA0217",
+        "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46803"
+      ],
+      "roleClaims": [
+        {
+          "memberId": "ly11-46803",
+          "role": "候選人及當選人"
+        }
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "中選會公告並就任",
+      "resultStatus": "當選第11屆立法委員",
+      "evidenceLevel": "official_records",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "independent-research-20260928-46793-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "議場內多次爆發肢體衝突 10名立委遭起訴",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/795064",
+      "sourceType": "prosecution_reporting",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "北檢起訴及案情整理"
+    },
+    {
+      "id": "s2",
+      "title": "拐杖擊傷徐巧芯 柯建銘採無罪答辯",
+      "publisher": "聯合新聞網",
+      "url": "https://udn.com/news/story/7321/9583263",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-06-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "一審程序及被告答辯"
+    },
+    {
+      "id": "s3",
+      "title": "范雲控性騷擾求償 法院判陳雪生賠8萬元確定",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202306065002.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2023-06-06",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "最高法院結果及范雲回應"
+    },
+    {
+      "id": "s4",
+      "title": "翁曉玲指未兌現捐款 曹興誠求償二審仍敗訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202605050112.aspx",
+      "sourceType": "court_reporting",
+      "publishedAt": "2026-05-05",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "二審結果、理由及可上訴狀態"
+    },
+    {
+      "id": "s5",
+      "title": "曹興誠遭指未兌現捐款告翁曉玲 清大已函覆北院",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202507230320.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-07-23",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "原始爭議、訴訟主張及清大函覆"
+    },
+    {
+      "id": "s6",
+      "title": "中選會審定公告第11屆立法委員選舉結果暨當選人名單",
+      "publisher": "中央選舉委員會",
+      "url": "https://2024.cec.gov.tw/article/content/?id=NEWS&target=%2Farticle%2FA0217",
+      "sourceType": "official_database",
+      "publishedAt": "2024-01-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "張啓楷不分區當選名單"
+    },
+    {
+      "id": "s7",
+      "title": "張啓楷委員",
+      "publisher": "立法院",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46803",
+      "sourceType": "official_database",
+      "publishedAt": "2024-02-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "第11屆任職資料"
+    }
+  ]
+}

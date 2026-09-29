@@ -1,0 +1,871 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-46775",
+  "versionId": "primary-research-20260928-46775-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:23:56.018Z",
+  "contentHash": "44d1bd7b1ab529c36e9098ca9c50b733769e375ec307581004d9d18f3e68a5bd",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46775-legislative",
+      "track": "primary",
+      "memberId": "ly11-46775",
+      "query": "沈伯洋 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shen-security",
+        "p-shen-court"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46775-government",
+      "track": "primary",
+      "memberId": "ly11-46775",
+      "query": "沈伯洋 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46775-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46775",
+      "query": "沈伯洋 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shen-defamation"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46775-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46775",
+      "query": "沈伯洋 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shen-defamation"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46775-statements",
+      "track": "primary",
+      "memberId": "ly11-46775",
+      "query": "沈伯洋 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shen-defamation"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46776-legislative",
+      "track": "primary",
+      "memberId": "ly11-46776",
+      "query": "沈發惠 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shenfh-civil"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46776-government",
+      "track": "primary",
+      "memberId": "ly11-46776",
+      "query": "沈發惠 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46776-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46776",
+      "query": "沈發惠 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shenfh-vote"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46776-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46776",
+      "query": "沈發惠 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-shenfh-vote"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46776-statements",
+      "track": "primary",
+      "memberId": "ly11-46776",
+      "query": "沈發惠 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46777-legislative",
+      "track": "primary",
+      "memberId": "ly11-46777",
+      "query": "林月琴 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-health",
+        "p-lin-youth"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46777-government",
+      "track": "primary",
+      "memberId": "ly11-46777",
+      "query": "林月琴 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46777-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46777",
+      "query": "林月琴 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-assault"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46777-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46777",
+      "query": "林月琴 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-assault",
+        "p-lin-case-response"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46777-statements",
+      "track": "primary",
+      "memberId": "ly11-46777",
+      "query": "林月琴 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-lin-case-response"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46783-legislative",
+      "track": "primary",
+      "memberId": "ly11-46783",
+      "query": "林倩綺 立法院提案、公報、議事錄及質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-linq-school",
+        "p-linq-eia"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46783-government",
+      "track": "primary",
+      "memberId": "ly11-46783",
+      "query": "林倩綺 行政機關公開資料與政策答復 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46783-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46783",
+      "query": "林倩綺 法院、檢察署、監察院、中選會及責任紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46783-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46783",
+      "query": "林倩綺 中央社、公視及其他採訪媒體 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    },
+    {
+      "id": "primary-ly11-46783-statements",
+      "track": "primary",
+      "memberId": "ly11-46783",
+      "query": "林倩綺 本人、政黨、公益組織及公開回應 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-46775-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-shen-security",
+      "memberIds": [
+        "ly11-46775"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜國家安全法修正草案",
+      "summary": "立法院議案頁列沈伯洋為提案人，2024年11月交付審查，後續列入內政委員會併案審查；未確認三讀。",
+      "occurredAt": "2024-11-01",
+      "officialId": "202110073810000",
+      "sourceIds": [
+        "s-shen-security"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110073810000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-shen-court",
+      "memberIds": [
+        "ly11-46775"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜法院組織法修正草案",
+      "summary": "立法院議案頁列沈伯洋為提案人，2026年6月院會程序為復議；此處僅記錄提案及程序。",
+      "occurredAt": "2026-06-02",
+      "officialId": "202110216690000",
+      "sourceIds": [
+        "s-shen-court"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110216690000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "reconsideration",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-shen-defamation",
+      "memberIds": [
+        "ly11-46775"
+      ],
+      "provisionalCategory": "concern",
+      "title": "控告傅崐萁侵害名譽一審敗訴",
+      "summary": "中央社報導沈伯洋就傅崐萁指其收外國資金等言論提起民事求償，一審遭駁回，案件仍可上訴；民事判決不等同認定沈伯洋犯罪。",
+      "occurredAt": "2026-07-09",
+      "officialId": null,
+      "sourceIds": [
+        "s-shen-defamation",
+        "s-shen-defamation-response"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_judgment",
+        "appeal_status"
+      ],
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202607090297.aspx",
+        "https://www.cna.com.tw/news/aipl/202506240199.aspx"
+      ],
+      "roleClaims": [
+        "plaintiff"
+      ],
+      "personResponse": "沈伯洋否認相關指控並提起民事訴訟；傅崐萁表示歡迎法院釐清。",
+      "processStatus": "first_instance",
+      "resultStatus": "under_appeal"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-shenfh-civil",
+      "memberIds": [
+        "ly11-46776"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜公務人員保障法部分條文修正草案",
+      "summary": "立法院議案頁列沈發惠為提案人，2025年6月交付司法及法制委員會；未確認三讀。",
+      "occurredAt": "2025-06-13",
+      "officialId": "202110132360000",
+      "sourceIds": [
+        "s-shenfh-civil"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110132360000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-shenfh-vote",
+      "memberIds": [
+        "ly11-46776"
+      ],
+      "provisionalCategory": "concern",
+      "title": "遭告發代按其他委員表決器",
+      "summary": "中央社報導民眾黨參選人告發沈發惠涉嫌為請假委員代按表決器；目前僅有告發，未查得檢方偵查結果，不能寫成犯罪成立。",
+      "occurredAt": "2026-08-03",
+      "officialId": null,
+      "sourceIds": [
+        "s-shenfh-vote"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "official_case_status",
+        "person_response"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202608030291.aspx"
+      ],
+      "roleClaims": [
+        "reported_person"
+      ],
+      "personResponse": null,
+      "processStatus": "reported",
+      "resultStatus": "under_investigation"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-lin-health",
+      "memberIds": [
+        "ly11-46777"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出全民健康保險資料管理條例版本並納入併案三讀",
+      "summary": "立法院併案紀錄列林月琴等21人版本，2025年12月2日與行政院及其他版本併案三讀；最終條文不全歸於單一版本。",
+      "occurredAt": "2025-12-02",
+      "officialId": "203110144650000",
+      "sourceIds": [
+        "s-lin-health"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110144650000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "passed",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-lin-youth",
+      "memberIds": [
+        "ly11-46777"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同領銜少年事件處理法修正草案",
+      "summary": "立法院議案頁列林月琴、郭昱晴為提案人，2025年進入司法法制委員會審查；未確認三讀。",
+      "occurredAt": "2025-08-19",
+      "officialId": "202110155220000",
+      "sourceIds": [
+        "s-lin-youth"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110155220000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-lin-assault",
+      "memberIds": [
+        "ly11-46777"
+      ],
+      "provisionalCategory": "concern",
+      "title": "就議場衝突控告陳玉珍傷害",
+      "summary": "中央社報導林月琴指控在議場衝突中遭陳玉珍攻擊並赴北檢提告；目前僅確認提出告訴，尚未取得最終處分。",
+      "occurredAt": "2024-12-09",
+      "officialId": null,
+      "sourceIds": [
+        "s-lin-assault"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "latest_case_disposition",
+        "other_party_response"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aloc/202412090193.aspx"
+      ],
+      "roleClaims": [
+        "complainant"
+      ],
+      "personResponse": "林月琴表示提告是為反對國會暴力。",
+      "processStatus": "reported",
+      "resultStatus": "under_investigation"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-lin-case-response",
+      "memberIds": [
+        "ly11-46777"
+      ],
+      "provisionalCategory": "concern",
+      "title": "回應剴剴案外聘督導失職指控",
+      "summary": "中央社報導媒體指控林月琴曾任外聘督導且疑有失職；林月琴回應其角色為督導制度與專業諮詢，並公布2023年參與會議日期。核心指控仍需主管機關或調查文件核對。",
+      "occurredAt": "2025-05-08",
+      "officialId": null,
+      "sourceIds": [
+        "s-lin-case-response"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "official_duty_scope",
+        "independent_investigation_result"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": null,
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202505080377.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "personResponse": "林月琴否認失職並說明外聘督導職責及會議參與。",
+      "processStatus": "alleged",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-linq-school",
+      "memberIds": [
+        "ly11-46783"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜原住民族學校法草案",
+      "summary": "立法院議案頁列林倩綺為提案人，2026年5月交付教育文化及內政委員會；未確認三讀。",
+      "occurredAt": "2026-05-12",
+      "officialId": "202110211740000",
+      "sourceIds": [
+        "s-linq-school"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110211740000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260928-46775-r1",
+      "id": "p-linq-eia",
+      "memberIds": [
+        "ly11-46783"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜環境影響評估法第三條修正草案",
+      "summary": "立法院議案頁列林倩綺為提案人，2025年10月交付社福衛環委員會；未確認三讀。",
+      "occurredAt": "2025-10-28",
+      "officialId": "202110167560000",
+      "sourceIds": [
+        "s-linq-eia"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110167560000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-shen-security",
+      "title": "國家安全法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110073810000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-11-01",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "沈伯洋提案與審議進度。"
+    },
+    {
+      "id": "s-shen-court",
+      "title": "法院組織法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110216690000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-06-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "沈伯洋提案及復議程序。"
+    },
+    {
+      "id": "s-shen-defamation",
+      "title": "傅崐萁指收外國資金 沈伯洋提告一審敗訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202607090297.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "一審理由及可上訴狀態。"
+    },
+    {
+      "id": "s-shen-defamation-response",
+      "title": "沈伯洋控造謠將提告 傅崐萁回應",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202506240199.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-24",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "雙方提告前主張與回應。"
+    },
+    {
+      "id": "s-shenfh-civil",
+      "title": "公務人員保障法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110132360000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-06-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "沈發惠提案及審議進度。"
+    },
+    {
+      "id": "s-shenfh-vote",
+      "title": "民眾黨參選人控沈發惠代按表決器",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202608030291.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-08-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "告發內容與當時程序。"
+    },
+    {
+      "id": "s-lin-health",
+      "title": "全民健康保險資料管理條例併案審查",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110144650000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-02",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "林月琴版本及三讀。"
+    },
+    {
+      "id": "s-lin-youth",
+      "title": "少年事件處理法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110155220000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-19",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "林月琴、郭昱晴提案及審查。"
+    },
+    {
+      "id": "s-lin-assault",
+      "title": "指遭陳玉珍暴力攻擊 林月琴提告傷害",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aloc/202412090193.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-12-09",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "林月琴提出告訴及說法。"
+    },
+    {
+      "id": "s-lin-case-response",
+      "title": "剴剴案遭控失職 林月琴回應",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202505080377.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-05-08",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "媒體指控與林月琴職責說明。"
+    },
+    {
+      "id": "s-linq-school",
+      "title": "原住民族學校法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110211740000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-05-12",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "林倩綺提案及交付審查。"
+    },
+    {
+      "id": "s-linq-eia",
+      "title": "環境影響評估法第三條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110167560000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-10-28",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "林倩綺提案及交付審查。"
+    }
+  ]
+}

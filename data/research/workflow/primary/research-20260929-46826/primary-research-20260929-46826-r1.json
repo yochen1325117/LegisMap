@@ -1,0 +1,622 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46826",
+  "versionId": "primary-research-20260929-46826-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:00:31.974Z",
+  "contentHash": "a08c2dd032b2a3d4474c9f909ce911e90c03fc47fef81e736f741b54dd84529c",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46826-legislative",
+      "track": "primary",
+      "memberId": "ly11-46826",
+      "query": "游顥 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-a"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46826-government",
+      "track": "primary",
+      "memberId": "ly11-46826",
+      "query": "游顥 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46826-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46826",
+      "query": "游顥 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46826-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46826",
+      "query": "游顥 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46826-statements",
+      "track": "primary",
+      "memberId": "ly11-46826",
+      "query": "游顥 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46752-legislative",
+      "track": "primary",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-a"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46752-government",
+      "track": "primary",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46752-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46752-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46752-statements",
+      "track": "primary",
+      "memberId": "ly11-46752",
+      "query": "丁學忠 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46817-legislative",
+      "track": "primary",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-b",
+        "p-c",
+        "p-d"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46817-government",
+      "track": "primary",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46817-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46817-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46817-statements",
+      "track": "primary",
+      "memberId": "ly11-46817",
+      "query": "陳冠廷 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46843-legislative",
+      "track": "primary",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-d",
+        "p-e",
+        "p-g"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46843-government",
+      "track": "primary",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46843-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46843-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    },
+    {
+      "id": "primary-ly11-46843-statements",
+      "track": "primary",
+      "memberId": "ly11-46843",
+      "query": "蔡易餘 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46826-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46826-r1",
+      "id": "p-a",
+      "memberIds": [
+        "ly11-46826",
+        "ly11-46752"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "警察人員人事條例修正版本參與併案三讀",
+      "summary": "立法院議案頁確認相關委員角色與程序；結果狀態為三讀，不把程序參與擴寫為個人成果。",
+      "occurredAt": "2025-01-07",
+      "officialId": "203110057040000",
+      "sourceIds": [
+        "s-a"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110046550000/details"
+      ],
+      "roleClaims": [
+        "lead_or_co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46826-r1",
+      "id": "p-b",
+      "memberIds": [
+        "ly11-46817"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜選罷法第五十二條修正草案",
+      "summary": "立法院議案頁確認相關委員角色與程序；結果狀態為審議中，不把程序參與擴寫為個人成果。",
+      "occurredAt": "2024-12-17",
+      "officialId": "202110042230000",
+      "sourceIds": [
+        "s-b"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110042230000/details"
+      ],
+      "roleClaims": [
+        "lead_or_co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46826-r1",
+      "id": "p-c",
+      "memberIds": [
+        "ly11-46817"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜安樂死法草案",
+      "summary": "立法院議案頁確認相關委員角色與程序；結果狀態為審議中，不把程序參與擴寫為個人成果。",
+      "occurredAt": "2025-08-15",
+      "officialId": "202110155060000",
+      "sourceIds": [
+        "s-c"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110155060000/details"
+      ],
+      "roleClaims": [
+        "lead_or_co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46826-r1",
+      "id": "p-d",
+      "memberIds": [
+        "ly11-46817",
+        "ly11-46843"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "共同提出土地法修正版本並併案三讀",
+      "summary": "立法院議案頁確認相關委員角色與程序；結果狀態為三讀，不把程序參與擴寫為個人成果。",
+      "occurredAt": "2024-05-29",
+      "officialId": "202110013080000",
+      "sourceIds": [
+        "s-d"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110013080000/details"
+      ],
+      "roleClaims": [
+        "lead_or_co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46826-r1",
+      "id": "p-e",
+      "memberIds": [
+        "ly11-46843"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "農民退休儲金條例版本參與併案三讀",
+      "summary": "立法院議案頁確認相關委員角色與程序；結果狀態為三讀，不把程序參與擴寫為個人成果。",
+      "occurredAt": "2026-01-27",
+      "officialId": "203110182100000",
+      "sourceIds": [
+        "s-e"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110182100000/details"
+      ],
+      "roleClaims": [
+        "lead_or_co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46826-r1",
+      "id": "p-g",
+      "memberIds": [
+        "ly11-46843"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜不義遺址保存條例草案",
+      "summary": "立法院議案頁確認相關委員角色與程序；結果狀態為審議中，不把程序參與擴寫為個人成果。",
+      "occurredAt": "2024-10-18",
+      "officialId": "202110070810000",
+      "sourceIds": [
+        "s-g"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110070810000/details"
+      ],
+      "roleClaims": [
+        "lead_or_co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-a",
+      "title": "警察人員人事條例修正版本參與併案三讀",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110046550000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-01-07",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案角色與審議進度。"
+    },
+    {
+      "id": "s-b",
+      "title": "領銜選罷法第五十二條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110042230000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-12-17",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案角色與審議進度。"
+    },
+    {
+      "id": "s-c",
+      "title": "領銜安樂死法草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110155060000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-15",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案角色與審議進度。"
+    },
+    {
+      "id": "s-d",
+      "title": "共同提出土地法修正版本並併案三讀",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110013080000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-05-29",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案角色與審議進度。"
+    },
+    {
+      "id": "s-e",
+      "title": "農民退休儲金條例版本參與併案三讀",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110182100000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-01-27",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案角色與審議進度。"
+    },
+    {
+      "id": "s-g",
+      "title": "領銜不義遺址保存條例草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110070810000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-10-18",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案角色與審議進度。"
+    }
+  ]
+}

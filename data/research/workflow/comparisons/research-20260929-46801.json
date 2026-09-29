@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "1.0.0",
+  "batchId": "research-20260929-46801",
+  "primaryVersionId": "primary-research-20260929-46801-r1",
+  "independentVersionId": "independent-research-20260929-46801-r1",
+  "comparisons": [
+    {
+      "id": "comparison-primary-kao-fire-act-20241112",
+      "primaryCandidateId": "primary-kao-fire-act-20241112",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-kao-assistant-fee-20260213",
+      "primaryCandidateId": "primary-kao-assistant-fee-20260213",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-lu-domestic-violence-20251128",
+      "primaryCandidateId": "primary-lu-domestic-violence-20251128",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-lu-vote-record-20240412",
+      "primaryCandidateId": "primary-lu-vote-record-20240412",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-lin-urban-planning-20240510",
+      "primaryCandidateId": "primary-lin-urban-planning-20240510",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-lin-recall-20250726",
+      "primaryCandidateId": "primary-lin-recall-20250726",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-niu-administrative-division-20251017",
+      "primaryCandidateId": "primary-niu-administrative-division-20251017",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-primary-niu-recall-20250726",
+      "primaryCandidateId": "primary-niu-recall-20250726",
+      "independentCandidateId": null,
+      "matchStatus": "primary_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46801-indictment",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46801-indictment",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46847-recall-forgery",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46847-recall-forgery",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46778-recall-result",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46778-recall-result",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    },
+    {
+      "id": "comparison-cand-46757-recall-result",
+      "primaryCandidateId": null,
+      "independentCandidateId": "cand-46757-recall-result",
+      "matchStatus": "independent_only",
+      "differenceTypes": [],
+      "comparedAt": "2026-09-29"
+    }
+  ]
+}

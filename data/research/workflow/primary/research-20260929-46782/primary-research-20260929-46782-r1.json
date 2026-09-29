@@ -1,0 +1,810 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46782",
+  "versionId": "primary-research-20260929-46782-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T11:12:05.982Z",
+  "contentHash": "c67bb8d66a654224e0794008037906fcc49d24b495ce1af17d1f0afae9f49a5e",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46782-legislative",
+      "track": "primary",
+      "memberId": "ly11-46782",
+      "query": "林思銘 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-climate",
+        "p-medical"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46782-government",
+      "track": "primary",
+      "memberId": "ly11-46782",
+      "query": "林思銘 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46782-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46782",
+      "query": "林思銘 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46782-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46782",
+      "query": "林思銘 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-lin"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46782-statements",
+      "track": "primary",
+      "memberId": "ly11-46782",
+      "query": "林思銘 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-lin"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46845-legislative",
+      "track": "primary",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-climate"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46845-government",
+      "track": "primary",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46845-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-china-allegation"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46845-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-china-allegation"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46845-statements",
+      "track": "primary",
+      "memberId": "ly11-46845",
+      "query": "鄭正鈐 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-china-allegation"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46816-legislative",
+      "track": "primary",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-license"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46816-government",
+      "track": "primary",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46816-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-chen"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46816-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-chen"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46816-statements",
+      "track": "primary",
+      "memberId": "ly11-46816",
+      "query": "陳俊宇 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-recall-chen"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46790-legislative",
+      "track": "primary",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-tax",
+        "p-healthdata"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46790-government",
+      "track": "primary",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46790-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46790-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 10,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    },
+    {
+      "id": "primary-ly11-46790-statements",
+      "track": "primary",
+      "memberId": "ly11-46790",
+      "query": "邱鎮軍 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-conflict"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46782-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-climate",
+      "memberIds": [
+        "ly11-46782",
+        "ly11-46845"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出氣候變遷因應法第五條修正草案",
+      "summary": "立法院列林思銘、鄭正鈐、黃健豪為提案人，2025年4月交付六委員會審查，未確認三讀。",
+      "occurredAt": "2025-04-18",
+      "officialId": "202110105130000",
+      "sourceIds": [
+        "s-climate"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110105130000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-medical",
+      "memberIds": [
+        "ly11-46782"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出醫療法修正草案",
+      "summary": "立法院列林思銘等4人為提案人，案件於2026年在衛環委員會審查，未確認三讀。",
+      "occurredAt": "2025-12-05",
+      "officialId": "202110177000000",
+      "sourceIds": [
+        "s-medical"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110177000000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-recall-lin",
+      "memberIds": [
+        "ly11-46782"
+      ],
+      "provisionalCategory": "profile",
+      "title": "新竹縣立委罷免案投票未通過",
+      "summary": "中央社報導林思銘罷免案於2025年8月23日投開票並未通過；中選會公告保存罷免理由及其答辯。",
+      "occurredAt": "2025-08-23",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall-lin-cna",
+        "s-recall-lin-cec"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202508230132.aspx",
+        "https://web.cec.gov.tw/api/file/99c1cc7d-6fd0-4b1a-8737-a5e9f78ff206.pdf"
+      ],
+      "roleClaims": [
+        "recall_target"
+      ],
+      "personResponse": "透過答辯書回應罷免理由。",
+      "processStatus": "recall_vote",
+      "resultStatus": "not_recalled"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-china-allegation",
+      "memberIds": [
+        "ly11-46845"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "遭告發涉接受中資及洩漏資訊",
+      "summary": "中央社報導罷團告發鄭正鈐涉國安、貪污等罪，檢方列他字案；鄭否認並反控指控者。僅為偵查與指控，未確認起訴或犯罪。",
+      "occurredAt": "2025-06-20",
+      "officialId": null,
+      "sourceIds": [
+        "s-china-case",
+        "s-china-response"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "檢方最新偵查結果"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202506200145.aspx",
+        "https://www.cna.com.tw/news/aipl/202506250182.aspx"
+      ],
+      "roleClaims": [
+        "investigation_subject"
+      ],
+      "personResponse": "稱指控子虛烏有並提告。",
+      "processStatus": "investigation",
+      "resultStatus": "ongoing"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-license",
+      "memberIds": [
+        "ly11-46816"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "使用牌照稅法修正版本參與併案三讀",
+      "summary": "立法院頁面列陳俊宇等20人版本為併案之一，修法於2025年12月23日三讀並咨請公布。",
+      "occurredAt": "2025-12-23",
+      "officialId": "203110179220000",
+      "sourceIds": [
+        "s-license"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110179220000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-recall-chen",
+      "memberIds": [
+        "ly11-46816"
+      ],
+      "provisionalCategory": "accountability",
+      "title": "罷免案不實連署疑案由檢調偵辦",
+      "summary": "中央社與公視報導陳俊宇罷免案提議名冊疑涉偽造，領銜人交保、檢調後續搜索約談。陳俊宇是罷免標的，不是案件被告。",
+      "occurredAt": "2025-04-24",
+      "officialId": null,
+      "sourceIds": [
+        "s-recall-chen-cna",
+        "s-recall-chen-pts"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202504240397.aspx",
+        "https://news.pts.org.tw/article/752335"
+      ],
+      "roleClaims": [
+        "recall_target"
+      ],
+      "personResponse": null,
+      "processStatus": "investigation",
+      "resultStatus": "ongoing"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-tax",
+      "memberIds": [
+        "ly11-46790"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜貨物稅條例修正案並三讀",
+      "summary": "立法院頁面列邱鎮軍等16人版本，2025年8月29日三讀並咨請公布。",
+      "occurredAt": "2025-08-29",
+      "officialId": "203110153830000",
+      "sourceIds": [
+        "s-tax"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110153830000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-healthdata",
+      "memberIds": [
+        "ly11-46790"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "全民健保資料管理條例版本參與併案三讀",
+      "summary": "立法院頁面列邱鎮軍版本與行政院及其他委員版本併案，2025年12月2日三讀並咨請公布。",
+      "occurredAt": "2025-12-02",
+      "officialId": "203110144650000",
+      "sourceIds": [
+        "s-healthdata"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110144650000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "third_reading",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46782-r1",
+      "id": "p-conflict",
+      "memberIds": [
+        "ly11-46790"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "議場衝突傷害案遭起訴",
+      "summary": "公視報導北檢起訴邱鎮軍等10名立委，涉及多次議場衝突。案件尚未判決，需補本人回應與法院最新進度。",
+      "occurredAt": "2026-02-12",
+      "officialId": null,
+      "sourceIds": [
+        "s-conflict"
+      ],
+      "status": "needs_response",
+      "missingEvidence": [
+        "本人回應及法院最新程序"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://news.pts.org.tw/article/795150"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": null,
+      "processStatus": "indicted",
+      "resultStatus": "pending_trial"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-climate",
+      "title": "氣候變遷因應法第五條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110105130000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-04-18",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "共同提案與進度。"
+    },
+    {
+      "id": "s-medical",
+      "title": "醫療法第二十四條及第一百零六條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110177000000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-05",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與審查。"
+    },
+    {
+      "id": "s-recall-lin-cna",
+      "title": "罷免案開票 林思銘宣布不通過",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202508230132.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "投票結果。"
+    },
+    {
+      "id": "s-recall-lin-cec",
+      "title": "林思銘罷免案公告",
+      "publisher": "中央選舉委員會",
+      "url": "https://web.cec.gov.tw/api/file/99c1cc7d-6fd0-4b1a-8737-a5e9f78ff206.pdf",
+      "sourceType": "official",
+      "publishedAt": "2025-07-31",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "理由與答辯。"
+    },
+    {
+      "id": "s-china-case",
+      "title": "罷團告發鄭正鈐涉接受中資選舉",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202506200145.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-20",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "告發與偵查身分。"
+    },
+    {
+      "id": "s-china-response",
+      "title": "鄭正鈐提告斥子虛烏有",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/aipl/202506250182.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-25",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "本人回應。"
+    },
+    {
+      "id": "s-license",
+      "title": "使用牌照稅法第五條修正案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110179220000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "陳俊宇版本及三讀。"
+    },
+    {
+      "id": "s-recall-chen-cna",
+      "title": "陳俊宇罷免案疑涉偽造文書",
+      "publisher": "中央社",
+      "url": "https://www.cna.com.tw/news/asoc/202504240397.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-04-24",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "領銜人交保。"
+    },
+    {
+      "id": "s-recall-chen-pts",
+      "title": "檢調追查不實連署案",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/752335",
+      "sourceType": "news",
+      "publishedAt": "2025-05-21",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "搜索與約談。"
+    },
+    {
+      "id": "s-tax",
+      "title": "貨物稅條例第十二條之五修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110153830000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-29",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案與三讀。"
+    },
+    {
+      "id": "s-healthdata",
+      "title": "全民健康保險資料管理條例草案併案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110144650000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-12-02",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "邱鎮軍版本與三讀。"
+    },
+    {
+      "id": "s-conflict",
+      "title": "立法院朝野議事衝突起訴7藍3綠",
+      "publisher": "公視新聞網",
+      "url": "https://news.pts.org.tw/article/795150",
+      "sourceType": "news",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "起訴名單與程序。"
+    }
+  ]
+}

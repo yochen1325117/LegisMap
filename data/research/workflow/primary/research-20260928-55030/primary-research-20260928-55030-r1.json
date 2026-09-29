@@ -1,0 +1,733 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260928-55030",
+  "versionId": "primary-research-20260928-55030-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-28",
+  "lockedAt": "2026-09-28T13:20:41.960Z",
+  "contentHash": "b3a8bcdc881cb6e18a435829f9b9c1fc267bf660ee640749ea806b5bf51c491f",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-55030-legislative",
+      "track": "primary",
+      "memberId": "ly11-55030",
+      "query": "王正旭 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wangchenghsu-regenerative-20240604"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55030-government",
+      "track": "primary",
+      "memberId": "ly11-55030",
+      "query": "王正旭 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55030-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-55030",
+      "query": "王正旭 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55030-independent_news",
+      "track": "primary",
+      "memberId": "ly11-55030",
+      "query": "王正旭 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wangchenghsu-regenerative-20240604"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55030-statements",
+      "track": "primary",
+      "memberId": "ly11-55030",
+      "query": "王正旭 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46759-legislative",
+      "track": "primary",
+      "memberId": "ly11-46759",
+      "query": "王育敏 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wangyumin-child-bill-20250110",
+        "primary-wangyumin-cwlf-conflict-20240314"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46759-government",
+      "track": "primary",
+      "memberId": "ly11-46759",
+      "query": "王育敏 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46759-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46759",
+      "query": "王育敏 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46759-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46759",
+      "query": "王育敏 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wangyumin-child-bill-20250110",
+        "primary-wangyumin-cwlf-conflict-20240314"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46759-statements",
+      "track": "primary",
+      "memberId": "ly11-46759",
+      "query": "王育敏 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55855-legislative",
+      "track": "primary",
+      "memberId": "ly11-55855",
+      "query": "王義川 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wangyichuan-prison-bill-20251128",
+        "primary-wangyichuan-juvenile-question-20250618"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55855-government",
+      "track": "primary",
+      "memberId": "ly11-55855",
+      "query": "王義川 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55855-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-55855",
+      "query": "王義川 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55855-independent_news",
+      "track": "primary",
+      "memberId": "ly11-55855",
+      "query": "王義川 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wangyichuan-prison-bill-20251128",
+        "primary-wangyichuan-juvenile-question-20250618"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-55855-statements",
+      "track": "primary",
+      "memberId": "ly11-55855",
+      "query": "王義川 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46767-legislative",
+      "track": "primary",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 立法院提案、公報、議事錄與質詢 2021-09-28..2026-09-28",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wutsung-hsien-whistleblower-20241227",
+        "primary-wutsung-hsien-referendum-20250516"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46767-government",
+      "track": "primary",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 行政機關年度公開資料與政策回應 2021-09-28..2026-09-28",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 8,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46767-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 法院、檢察、監察及監督紀錄 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 7,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46767-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 中央社、公視與具採訪制度新聞 2021-09-28..2026-09-28",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "primary-wutsung-hsien-whistleblower-20241227",
+        "primary-wutsung-hsien-referendum-20250516"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-ly11-46767-statements",
+      "track": "primary",
+      "memberId": "ly11-46767",
+      "query": "吳宗憲 政黨、本人與公益單位公開聲明 2021-09-28..2026-09-28",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-28",
+      "periodEnd": "2026-09-28",
+      "searchedAt": "2026-09-28",
+      "resultCountReviewed": 6,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260928-55030-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "primary-wangchenghsu-regenerative-20240604",
+      "track": "primary",
+      "memberIds": [
+        "ly11-55030"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "參與提出再生醫療法草案並經併案三讀",
+      "summary": "王正旭與莊瑞雄提出再生醫療法版本，後與行政院及其他委員版本併案審查，立法院於2024年6月4日三讀。",
+      "occurredAt": "2024-06-04",
+      "officialId": "202110031820000",
+      "sourceIds": [
+        "p55030-ly-regenerative",
+        "p55030-cna-regenerative"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110031820000/details",
+        "https://www.cna.com.tw/news/aipl/202406040049.aspx"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "passed_third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-wangyumin-child-bill-20250110",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46759"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出兒童及少年福利與權益保障法修正草案",
+      "summary": "王育敏等19人提出兒少福利法第7、9及13條修正草案；院會紀錄顯示2025年1月10日相關議事決定退回程序委員會。",
+      "occurredAt": "2025-01-10",
+      "officialId": null,
+      "sourceIds": [
+        "p55030-ly-wangyumin-child"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/sittings/2025010807/details?meetingDate=114%2F01%2F10"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "returned_to_procedure_committee",
+      "resultStatus": "proposed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-wangyumin-cwlf-conflict-20240314",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46759"
+      ],
+      "provisionalCategory": "concern",
+      "title": "主持兒虐專案報告前遭質疑利益迴避並辭兒盟董事",
+      "summary": "王育敏兼任兒盟董事及衛環委員會召委，安排兒虐案專案報告後遭質疑利益衝突；她回應原已有辭任規劃並於3月15日辭去董事，3月18日仍主持專案報告。",
+      "occurredAt": "2024-03-14",
+      "officialId": null,
+      "sourceIds": [
+        "p55030-cna-wangyumin-response",
+        "p55030-cna-wangyumin-hearing"
+      ],
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/aipl/202403140308.aspx",
+        "https://www.cna.com.tw/news/aipl/202403180060.aspx"
+      ],
+      "roleClaims": [
+        "subject"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": "王育敏表示本就有意辭任，為避免政治攻防使討論失焦，於3月15日辭去兒盟董事。",
+      "processStatus": "resolved_by_resignation",
+      "resultStatus": "resolved",
+      "evidenceLevel": "independently_corroborated",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-wangyichuan-prison-bill-20251128",
+      "track": "primary",
+      "memberIds": [
+        "ly11-55855"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "提出監獄行刑法第148條及第156條修正草案",
+      "summary": "王義川領銜提出監獄行刑法修正草案，於2025年11月底排入院會並交司法及法制委員會審查。",
+      "occurredAt": "2025-11-28",
+      "officialId": "202110174100000",
+      "sourceIds": [
+        "p55030-ly-wangyichuan-prison"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110174100000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-wangyichuan-juvenile-question-20250618",
+      "track": "primary",
+      "memberIds": [
+        "ly11-55855"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "質詢青少年刑案與質詢播放個案影片規範",
+      "summary": "王義川於司法及法制委員會質詢青少年刑案及少年輔導矯正效能，並要求法務部研議質詢播放來源不明個案影片可能影響司法獨立的規範。",
+      "occurredAt": "2025-06-18",
+      "officialId": null,
+      "sourceIds": [
+        "p55030-reporter-wangyichuan-juvenile"
+      ],
+      "canonicalSourceUrls": [
+        "https://lawmaker.twreporter.org/congress/a/162554"
+      ],
+      "roleClaims": [
+        "questioner"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "立法院原始影音或公報定位"
+      ],
+      "personResponse": null,
+      "processStatus": "questioned",
+      "resultStatus": "recorded",
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "withhold",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-wutsung-hsien-whistleblower-20241227",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46767"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "參與提出公益揭弊者保護法版本並經併案三讀",
+      "summary": "吳宗憲等19人提出公益揭弊者保護法版本，與其他委員及黨團版本併案審查；立法院於2024年12月27日三讀通過。",
+      "occurredAt": "2024-12-27",
+      "officialId": "1130704598",
+      "sourceIds": [
+        "p55030-ly-whistleblower",
+        "p55030-cna-whistleblower"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-pass-third-readings/1130704598/process",
+        "https://www.cna.com.tw/news/aipl/202412270281.aspx"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "passed_third_reading",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    },
+    {
+      "id": "primary-wutsung-hsien-referendum-20250516",
+      "track": "primary",
+      "memberIds": [
+        "ly11-46767"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "領銜提出死刑合議庭不須一致決公投案",
+      "summary": "吳宗憲等52人提出死刑判決不須合議庭一致決的公投案，院會紀錄顯示2025年5月16日通過。",
+      "occurredAt": "2025-05-16",
+      "officialId": "212110101360000",
+      "sourceIds": [
+        "p55030-ly-referendum",
+        "p55030-ly-referendum-gazette"
+      ],
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/212110101360000/details",
+        "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/114/48/01/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "personResponse": null,
+      "processStatus": "passed_by_yuan",
+      "resultStatus": "passed",
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "mandateRelation": "current_term",
+      "versionId": "primary-research-20260928-55030-r1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "p55030-ly-regenerative",
+      "title": "再生醫療法草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110031820000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列王正旭、莊瑞雄；頁面標示審查完畢（三讀）"
+    },
+    {
+      "id": "p55030-cna-regenerative",
+      "title": "再生醫療法三讀 禁胎兒提供細胞、恩慈治療有條件免完成人體試驗",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202406040049.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-06-04",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "三讀日期與主要規範"
+    },
+    {
+      "id": "p55030-ly-wangyumin-child",
+      "title": "立法院第11屆第2會期第17次會議",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/sittings/2025010807/details?meetingDate=114%2F01%2F10",
+      "sourceType": "official",
+      "publishedAt": "2025-01-10",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "報告事項第25案及議事決定列王育敏等19人兒少福利法修正草案"
+    },
+    {
+      "id": "p55030-cna-wangyumin-response",
+      "title": "王育敏遭質疑未利益迴避 15日辭兒福聯盟董事",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202403140308.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-03-14",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "利益迴避質疑、王育敏回應與辭任日期"
+    },
+    {
+      "id": "p55030-cna-wangyumin-hearing",
+      "title": "王育敏甫辭兒盟董事任主席引不滿 虐童案立院報告藍綠爆衝突",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202403180060.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-03-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "專案報告主席爭議及會議後續"
+    },
+    {
+      "id": "p55030-ly-wangyichuan-prison",
+      "title": "監獄行刑法第一百四十八條及第一百五十六條條文修正草案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110174100000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列王義川；114年11月28日排入院會後交付審查"
+    },
+    {
+      "id": "p55030-reporter-wangyichuan-juvenile",
+      "title": "王義川：青少年刑案與少年輔導矯正效能質詢逐字稿",
+      "publisher": "報導者觀測站",
+      "url": "https://lawmaker.twreporter.org/congress/a/162554",
+      "sourceType": "news",
+      "publishedAt": "2025-06-18",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "王義川質詢法務部研議避免個案影片影響司法公正"
+    },
+    {
+      "id": "p55030-ly-whistleblower",
+      "title": "制定公益揭弊者保護法，咨請公布",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-pass-third-readings/1130704598/process",
+      "sourceType": "official",
+      "publishedAt": "2025-01-13",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "關聯議案列吳宗憲等19人版本；頁面列三讀通過條文"
+    },
+    {
+      "id": "p55030-cna-whistleblower",
+      "title": "揭弊者保護法三讀 公務員洩揭弊者身分最重關5年、檢舉不法有賞",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/aipl/202412270281.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-12-27",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "三讀日期與通過內容"
+    },
+    {
+      "id": "p55030-ly-referendum",
+      "title": "死刑合議庭不須一致決公投提案",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/212110101360000/details",
+      "sourceType": "official",
+      "publishedAt": null,
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "提案人列吳宗憲等52人"
+    },
+    {
+      "id": "p55030-ly-referendum-gazette",
+      "title": "立法院第114卷第48期院會紀錄",
+      "publisher": "立法院",
+      "url": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/114/48/01/details",
+      "sourceType": "official",
+      "publishedAt": "2025-06-03",
+      "accessedAt": "2026-09-28",
+      "lastVerifiedAt": "2026-09-28",
+      "evidenceLocator": "114年5月16日院會記錄該公投案通過"
+    }
+  ]
+}

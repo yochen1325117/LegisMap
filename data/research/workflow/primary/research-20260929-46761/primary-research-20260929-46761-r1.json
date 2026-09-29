@@ -1,0 +1,827 @@
+{
+  "schemaVersion": "1.0.0",
+  "track": "primary",
+  "batchId": "research-20260929-46761",
+  "versionId": "primary-research-20260929-46761-r1",
+  "performedBy": "primary-research",
+  "researchedAt": "2026-09-29",
+  "lockedAt": "2026-09-29T13:02:38.738Z",
+  "contentHash": "7afdffb04b108ca33ec51525264b88fce63b6b2786a45a8036ce346b9a33aada",
+  "searchRuns": [
+    {
+      "id": "primary-ly11-46761-legislative",
+      "track": "primary",
+      "memberId": "ly11-46761",
+      "query": "王美惠 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-a",
+        "p-c",
+        "p-e"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46761-government",
+      "track": "primary",
+      "memberId": "ly11-46761",
+      "query": "王美惠 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46761-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46761",
+      "query": "王美惠 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-j"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46761-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46761",
+      "query": "王美惠 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-j"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46761-statements",
+      "track": "primary",
+      "memberId": "ly11-46761",
+      "query": "王美惠 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46760-legislative",
+      "track": "primary",
+      "memberId": "ly11-46760",
+      "query": "王定宇 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-b"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46760-government",
+      "track": "primary",
+      "memberId": "ly11-46760",
+      "query": "王定宇 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46760-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46760",
+      "query": "王定宇 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-h"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46760-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46760",
+      "query": "王定宇 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-h"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46760-statements",
+      "track": "primary",
+      "memberId": "ly11-46760",
+      "query": "王定宇 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46779-legislative",
+      "track": "primary",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-c",
+        "p-d",
+        "p-e"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46779-government",
+      "track": "primary",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46779-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-g"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46779-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-g"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46779-statements",
+      "track": "primary",
+      "memberId": "ly11-46779",
+      "query": "林宜瑾 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46829-legislative",
+      "track": "primary",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 立法院提案、公報、議事錄及質詢 2021-09-29..2026-09-29",
+      "queryFamily": "legislative_work",
+      "sourceScope": "legislative",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 18,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-f"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46829-government",
+      "track": "primary",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 行政機關公開資料與政策答復 2021-09-29..2026-09-29",
+      "queryFamily": "identity_and_year",
+      "sourceScope": "government",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46829-oversight_and_judicial",
+      "track": "primary",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 法院、檢察署、監察院、中選會及責任紀錄 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "oversight_and_judicial",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 12,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-i"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46829-independent_news",
+      "track": "primary",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 中央社、公視及其他採訪媒體 2021-09-29..2026-09-29",
+      "queryFamily": "accountability",
+      "sourceScope": "independent_news",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 14,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [
+        "p-i"
+      ],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    },
+    {
+      "id": "primary-ly11-46829-statements",
+      "track": "primary",
+      "memberId": "ly11-46829",
+      "query": "黃建賓 本人、政黨、公益組織及公開回應 2021-09-29..2026-09-29",
+      "queryFamily": "public_service",
+      "sourceScope": "statements",
+      "periodStart": "2021-09-29",
+      "periodEnd": "2026-09-29",
+      "searchedAt": "2026-09-29",
+      "resultCountReviewed": 9,
+      "stopReason": "fewer_results_available",
+      "candidateIds": [],
+      "performedBy": "primary-research",
+      "lockedAt": null,
+      "versionId": "primary-research-20260929-46761-r1"
+    }
+  ],
+  "candidates": [
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-a",
+      "memberIds": [
+        "ly11-46761"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜總統副總統選舉罷免法第十一條修正草案",
+      "summary": "王美惠與黃捷提出修法版本，已抽出逕付二讀並交付協商；只記錄程序參與。",
+      "occurredAt": "2026-05-29",
+      "officialId": "202110212890000",
+      "sourceIds": [
+        "s-a"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/deliver-and-negotiation/202110212890000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "second_reading",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-b",
+      "memberIds": [
+        "ly11-46760"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜公職人員選舉罷免法第五十二條及第一百十條修正草案",
+      "summary": "立法院議案頁確認王定宇為提案人，案件交付委員會審查。",
+      "occurredAt": "2024-04-02",
+      "officialId": "202110021150000",
+      "sourceIds": [
+        "s-b"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110021150000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-c",
+      "memberIds": [
+        "ly11-46779",
+        "ly11-46761"
+      ],
+      "provisionalCategory": "participation",
+      "title": "總統副總統選舉罷免法修正草案",
+      "summary": "林宜瑾領銜、王美惠連署；已交付內政委員會審查，兩人角色分開記錄。",
+      "occurredAt": "2025-08-26",
+      "officialId": "202110155810000",
+      "sourceIds": [
+        "s-c"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/202110155810000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer",
+        "co_signer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-d",
+      "memberIds": [
+        "ly11-46779"
+      ],
+      "provisionalCategory": "contribution",
+      "title": "公職人員選舉罷免法第二十六條版本併案三讀公布",
+      "summary": "林宜瑾版本納入併案審查，立法院紀錄顯示完成三讀並咨請公布。",
+      "occurredAt": "2026-06-23",
+      "officialId": "203110213110000",
+      "sourceIds": [
+        "s-d"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/203110213110000/details"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "promulgated",
+      "resultStatus": "passed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-e",
+      "memberIds": [
+        "ly11-46779",
+        "ly11-46761"
+      ],
+      "provisionalCategory": "participation",
+      "title": "共同提出立法委員行為法第七條修正草案",
+      "summary": "林宜瑾與王美惠列共同提案人，案件交付司法及法制委員會。",
+      "occurredAt": "2025-07-08",
+      "officialId": "202110139870000",
+      "sourceIds": [
+        "s-e"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110139870000/details"
+      ],
+      "roleClaims": [
+        "co_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "committee_review",
+      "resultStatus": "under_review"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-f",
+      "memberIds": [
+        "ly11-46829"
+      ],
+      "provisionalCategory": "participation",
+      "title": "領銜國土計畫法第四十五條修正草案",
+      "summary": "黃建賓領銜提出展延功能分區公告條件與期程的修法版本；僅記錄提案。",
+      "occurredAt": "2024-10-18",
+      "officialId": null,
+      "sourceIds": [
+        "s-f"
+      ],
+      "status": "verified",
+      "missingEvidence": [],
+      "evidenceLevel": "official_confirmed",
+      "publicationDecision": "publish",
+      "canonicalSourceUrls": [
+        "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/02/06/LCEWA01_110206_00228.pdf"
+      ],
+      "roleClaims": [
+        "lead_proposer"
+      ],
+      "personResponse": null,
+      "processStatus": "introduced",
+      "resultStatus": "proposed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-g",
+      "memberIds": [
+        "ly11-46779"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "助理費案遭起訴後一審判刑七年",
+      "summary": "南檢2025年起訴；台南地院2026年一審判刑七年。此為尚未確定的一審判決，資料同時保存其繳回款項與致歉資訊。",
+      "occurredAt": "2026-07-02",
+      "officialId": null,
+      "sourceIds": [
+        "s-g",
+        "s-h"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_official_record_or_second_independent_publisher"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202510090223.aspx",
+        "https://www.cna.com.tw/news/asoc/202607020244.aspx"
+      ],
+      "roleClaims": [
+        "defendant"
+      ],
+      "personResponse": "已繳回檢方認定款項並公開致歉；是否構成犯罪仍以確定判決為準。",
+      "processStatus": "trial",
+      "resultStatus": "appeal_pending"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-h",
+      "memberIds": [
+        "ly11-46760"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "公布國外考察行程遭告發洩密獲不起訴",
+      "summary": "北檢調查後認定考察議程未核定機密等級等理由，對王定宇作不起訴處分。",
+      "occurredAt": "2025-08-28",
+      "officialId": null,
+      "sourceIds": [
+        "s-i"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "direct_official_record_or_second_independent_publisher"
+      ],
+      "evidenceLevel": "independently_corrobated",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202508280055.aspx"
+      ],
+      "roleClaims": [
+        "reported_person"
+      ],
+      "personResponse": null,
+      "processStatus": "closed",
+      "resultStatus": "closed"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": null,
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-i",
+      "memberIds": [
+        "ly11-46829"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "罷免期間餐會遭告發違反選罷法",
+      "summary": "吳崢按鈴告發黃建賓涉以餐會影響罷免投票；黃建賓否認並稱地方團體自費。僅能確認告發及回應，尚缺正式後續結果。",
+      "occurredAt": "2025-06-25",
+      "officialId": null,
+      "sourceIds": [
+        "s-j"
+      ],
+      "status": "needs_sources",
+      "missingEvidence": [
+        "official_case_status",
+        "second_independent_source"
+      ],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "needs_more_evidence",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202506250080.aspx"
+      ],
+      "roleClaims": [
+        "reported_person"
+      ],
+      "personResponse": "否認指控，稱活動由地方團體自費，並表示將提告。",
+      "processStatus": "complaint",
+      "resultStatus": "investigation_pending"
+    },
+    {
+      "track": "primary",
+      "possibleDuplicateOf": null,
+      "rejectionReason": "核心指控未獲正式紀錄或第二獨立來源支持。",
+      "versionId": "primary-research-20260929-46761-r1",
+      "id": "p-j",
+      "memberIds": [
+        "ly11-46761"
+      ],
+      "provisionalCategory": "controversy",
+      "title": "嘉義議員遭毆事件中被影射並否認",
+      "summary": "報導僅能確認王美惠遭影射及其否認、擬提告；未能核實其參與毆打事件，故不宜發布為成立的責任紀錄。",
+      "occurredAt": "2024-01-28",
+      "officialId": null,
+      "sourceIds": [
+        "s-k"
+      ],
+      "status": "rejected",
+      "missingEvidence": [],
+      "evidenceLevel": "named_single_source",
+      "publicationDecision": "reject",
+      "canonicalSourceUrls": [
+        "https://www.cna.com.tw/news/asoc/202401280106.aspx"
+      ],
+      "roleClaims": [
+        "mentioned_person"
+      ],
+      "personResponse": "否認影射並表示將提告。",
+      "processStatus": "allegation",
+      "resultStatus": "closed"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-a",
+      "title": "王美惠等17人總統副總統選舉罷免法第十一條修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/deliver-and-negotiation/202110212890000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-05-29",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案人及交付協商紀錄。"
+    },
+    {
+      "id": "s-b",
+      "title": "王定宇等17人公職人員選舉罷免法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110021150000/details",
+      "sourceType": "official",
+      "publishedAt": "2024-04-02",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案人及交付審查紀錄。"
+    },
+    {
+      "id": "s-c",
+      "title": "林宜瑾等20人總統副總統選舉罷免法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110155810000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-08-26",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "提案人及交付審查紀錄。"
+    },
+    {
+      "id": "s-d",
+      "title": "公職人員選舉罷免法第二十六條併案審查案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/203110213110000/details",
+      "sourceType": "official",
+      "publishedAt": "2026-06-23",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "林宜瑾版本、三讀及咨請公布紀錄。"
+    },
+    {
+      "id": "s-e",
+      "title": "林宜瑾等19人立法委員行為法修正草案",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/latest-yuan-announcements/202110139870000/details",
+      "sourceType": "official",
+      "publishedAt": "2025-07-08",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "共同提案人及交付審查紀錄。"
+    },
+    {
+      "id": "s-f",
+      "title": "黃建賓等16人國土計畫法修正草案關係文書",
+      "publisher": "立法院議事暨公報資訊網",
+      "url": "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/02/06/LCEWA01_110206_00228.pdf",
+      "sourceType": "official",
+      "publishedAt": "2024-10-18",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "案由及提案人名單。"
+    },
+    {
+      "id": "s-g",
+      "title": "林宜瑾涉詐助理費遭起訴 繳回1412萬餘元盼減刑",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202510090223.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-10-09",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "台南地檢署起訴內容、金額及林宜瑾致歉回應。"
+    },
+    {
+      "id": "s-h",
+      "title": "立委林宜瑾涉詐助理費一審判7年 地院：非偶發行為",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202607020244.aspx",
+      "sourceType": "news",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "台南地院一審判決、罪名、刑度及尚非確定判決。"
+    },
+    {
+      "id": "s-i",
+      "title": "臉書公布考察行程被控洩密 王定宇獲不起訴",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202508280055.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-08-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "台北地檢署不起訴處分及調查理由。"
+    },
+    {
+      "id": "s-j",
+      "title": "吳崢告發黃建賓涉違選罷法 黃建賓反控抹黑將提告",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202506250080.aspx",
+      "sourceType": "news",
+      "publishedAt": "2025-06-25",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "告發內容與黃建賓回應；僅為告發階段。"
+    },
+    {
+      "id": "s-k",
+      "title": "林煒軒稱因選舉糾紛遭毆打 王美惠被影射將提告",
+      "publisher": "中央通訊社",
+      "url": "https://www.cna.com.tw/news/asoc/202401280106.aspx",
+      "sourceType": "news",
+      "publishedAt": "2024-01-28",
+      "accessedAt": "2026-09-29",
+      "lastVerifiedAt": "2026-09-29",
+      "evidenceLocator": "遭影射內容及王美惠否認、擬提告回應。"
+    }
+  ]
+}
